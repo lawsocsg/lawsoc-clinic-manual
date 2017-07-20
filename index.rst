@@ -899,7 +899,7 @@ S$10,000 may be granted legal aid.
    intercourse with any girl below the age of 16 years except by way of
    marriage]
 
-*Centre for Forensic Medicine (CFM) *
+*Centre for Forensic Medicine (CFM)*
 -------------------------------------
 
 Health Sciences Authority
@@ -1566,7 +1566,7 @@ over 2 years) involving certain categories, such as claims not exceeding
 $10,000 (or up to $20,000 where both parties consent in writing) may be
 brought to a Small Claims Tribunal.
 
-Conducting a Civil Case in Person 
+Conducting a Civil Case in Person
 ----------------------------------
 
 **Basic Information **
@@ -1954,7 +1954,7 @@ of appeal within 14 days from the pronouncement of the judgment. Before
 filing and appeal, the party should check and apply for leave to appeal
 if required.
 
-Other FORUMS 
+Other FORUMS
 -------------
 
 ***Small Claims Tribunals***
@@ -2131,7 +2131,7 @@ are:
 
 | If person does not intiate their legal action within the prescribed
   time limits their action will be time barred, meaning that their legal
-  rights are extinguished. 
+  rights are extinguished.
 | Personal Injuries Claims
 
 **What is a personal injury?**
@@ -2268,7 +2268,7 @@ these procedures in case of an accident. The MCF will also assist
 vehicle owners to obtain ‘speedy and professional repairs’. Vehicle
 owners will not incur any fees or charges in the reporting process.
 
-What to do at the accident site 
+What to do at the accident site
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 You should take down the following particulars:
@@ -2355,7 +2355,7 @@ should occur first.
 
 (6) names and particulars of witnesses.
 
-Making a claim 
+Making a claim
 ^^^^^^^^^^^^^^^
 
 **Claim against your own insurance company**
@@ -2566,7 +2566,7 @@ from the insurers or Third Parties you must still lodge a report with
 your insurers. With this new policy, all insurers will operate a 24-hour
 hotline.
 
-The Motor Insurers’ Bureau of Singapore 
+The Motor Insurers’ Bureau of Singapore
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 [The information in this section is taken from the General Insurance
@@ -4231,7 +4231,7 @@ More details would be required to find out what cause of action would
 arise out of the action of “leaking a story”. Potential causes of action
 could include breach of confidentiality [12]_.
 
-Harassment 
+Harassment
 ^^^^^^^^^^^
 
 The common law tort of harassment has now been abolished and substituted
@@ -4369,7 +4369,7 @@ clamped [14]_.
 FAMILY LAW
 ==========
 
-Family Court 
+Family Court
 -------------
 
 The Family Court is now a unified family court, dealing with all family
@@ -4840,7 +4840,7 @@ proceed to apply for the *Certificate of Making Interim Judgment Final*.
 
 This will confirm your divorce, and conclude all Court proceedings.
 
-Muslim Marriages 
+Muslim Marriages
 ~~~~~~~~~~~~~~~~~
 
 **Can the Family Court grant a divorce to a Muslim couple, or to a
@@ -5366,7 +5366,7 @@ You will need to pay the appropriate filing
 `fees <http://app.subcourts.gov.sg/family/page.aspx?pageid=3759>`__ for
 all documents filed in Court.
 
-Service 
+Service
 ^^^^^^^^
 
 If your documents are in order, the Family Registry will accept your
@@ -5807,7 +5807,7 @@ Maintenance is financial support.
 |                                                                                                                                                                                         | ORDER OF COURT                                                                                                                                                                                                                                         |
 +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Starting proceedings 
+Starting proceedings
 ^^^^^^^^^^^^^^^^^^^^^
 
 You must come **personally** to the Family Court to complete the
@@ -5847,7 +5847,7 @@ summons on the Respondent.  The Respondent will be sent a letter at the
 address you have provided, to inform him or her that he or she has to
 attend at the Family Court for the service of the summons.
 
-Service appointment 
+Service appointment
 ^^^^^^^^^^^^^^^^^^^^
 
 If both you and the Respondent are present, personal service of the
@@ -5877,7 +5877,7 @@ Complaint, and pay the fee again.
 If you are the Respondent, your failure to turn up will result in the
 issuance of a Warrant of Arrest against you.
 
-Your first Court date 
+Your first Court date
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Your first Court date will be a mention of your case in Family Court 1
@@ -5946,7 +5946,7 @@ on behalf of each party.
 The Magistrate or District Judge will then make the necessary orders. 
 This concludes your case.
 
-Appeals 
+Appeals
 ^^^^^^^^
 
 If you are not satisfied with the order, you may appeal to a Judge of
@@ -5966,7 +5966,7 @@ your appeal papers.  **
 *
 *
 
-Respondents residing outside Singapore 
+Respondents residing outside Singapore
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 If you want to file a Magistrate’s Complaint against a respondent who
@@ -7191,7 +7191,7 @@ member’s CPF Account. The court can then order the transfer of the
 refunded CPF monies from the member’s CPF Account to the ex-spouse’s CPF
 Account if it so wishes.
 
-Commonly Asked Questions: 
+Commonly Asked Questions:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Distribution of CPF Investment Scheme (Cpfis) Investments In Matrimonial Proceedings
@@ -14385,7 +14385,7 @@ purchaser. The order does not prejudice the lessee's right to any
 compensation from the unit owner. Unit owners or their lessees can apply
 to the Board to determine the amount of compensation payable.
 
-| 
+|
 | Commonly Asked Questions on En-Bloc Sale
 
 **Can the majority owners apply to the board to appoint a third party to
@@ -14690,7 +14690,7 @@ strategic direction, budget and activities are determined by its Member
 States, who meet in the Assemblies, Committees and other decision-making
 bodies.
 
-Definitions of the various forms of intellectual property 
+Definitions of the various forms of intellectual property
 ----------------------------------------------------------
 
 Intellectual Property (IP) refers to creations by individuals for which
@@ -15023,7 +15023,7 @@ on behalf of their members:
 For more details, please refer to the IPOS website at
 http://www.ipos.gov.sg.
 
-Copyright Tribunals 
+Copyright Tribunals
 ~~~~~~~~~~~~~~~~~~~~
 
 The Copyright Tribunal is a forum for resolving certain disputes between
@@ -15681,7 +15681,7 @@ Generally, forwarding an email which contains copyright material without
 the consent of the copyright owner is an infringement because copying is
 involved.
 
-Liability of Network Service Providers (NSPs) 
+Liability of Network Service Providers (NSPs)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 NSPs provide Internet access services and facilities for communication
@@ -18571,10 +18571,10 @@ too in the first place (eg. property in someone else’s name, etc)?**
   on the documents conferring the title of immovable property on the
   owners, like the Certificate of Title.
 
-Administration of Small Estates by The Public Trustee [243]_ 
+Administration of Small Estates by The Public Trustee [243]_
 -------------------------------------------------------------
 
-Overview Of Services Provided By The Public Trustee 
+Overview Of Services Provided By The Public Trustee
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Administration of Estates of Deceased Persons **
@@ -18660,7 +18660,7 @@ It is an offence to furnish false information to a public servant.
 The Public Trustee will not administer the estate if he discovers that
 any information given is incorrect or untrue.
 
-Situations Where The Public Trustee Is Unable To Help 
+Situations Where The Public Trustee Is Unable To Help
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The situations where the Public Trustee is unable to assist include the
@@ -18693,7 +18693,7 @@ for the Letters of Administration. If not, you will have to engage the
 services of a lawyer.
 
 ***
-***\ Administration Of CPF Funds Of Deceased Persons 
+***\ Administration Of CPF Funds Of Deceased Persons
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The CPF Board will forward a Deceased’s CPF monies to the Public
@@ -19122,7 +19122,7 @@ directions contained in his Will.
 It is a Court Order authorising the person(s) named in it, to administer
 the estate of the deceased person in accordance with the law.
 
-Who Can Apply For Probate Or Letters Of Administration? 
+Who Can Apply For Probate Or Letters Of Administration?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Probate**
@@ -20704,7 +20704,7 @@ order:
 
 -  Payment of a fine, damages or costs
 
--  
+-
 
 **(h) Approved School order**
 
@@ -20845,7 +20845,7 @@ the offender, the Court is satisfied that it would be in the best
 interests of the offender that he/she be dealt with by a juvenile case
 conference. [275]_
 
-Participants 
+Participants
 ~~~~~~~~~~~~~
 
 The parties convened by the Magistrate will vary according to the needs
