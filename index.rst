@@ -8,6 +8,7 @@ Community Legal Clinic Manual
    :maxdepth: 3
 
    sections/clinic-management
+   sections/civil-claims
    sections/everything-else
 
 **Acknowledgements**
