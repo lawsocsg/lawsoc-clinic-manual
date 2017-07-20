@@ -7,6 +7,7 @@ Community Legal Clinic Manual
 .. toctree::
    :maxdepth: 3
 
+   sections/clinic-management
    sections/everything-else
 
 **Acknowledgements**
