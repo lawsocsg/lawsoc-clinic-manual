@@ -1,8 +1,8 @@
 
 |image0|
 
-The Law Society of Singapore - Law Clinic Manual
-================================================
+Community Legal Clinic Manual
+=============================
 
 .. toctree::
    :maxdepth: 3
@@ -18,6 +18,7 @@ Compiled by
 | 50 Market Street
 | #10-04 Golden Shoe Car Park
 | Singapore 048490
+|
 
 Email: ProBonoServices@lawsoc.org.sg
 
