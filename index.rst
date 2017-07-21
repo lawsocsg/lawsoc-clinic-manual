@@ -18,6 +18,7 @@ Community Legal Clinic Manual
    sections/data-protection-law
    sections/advance-medical-directive
    sections/juvenile-issues
+   sections/military-law
    sections/everything-else
 
 **Acknowledgements**
