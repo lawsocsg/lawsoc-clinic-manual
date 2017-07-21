@@ -14,6 +14,7 @@ Community Legal Clinic Manual
    sections/criminal-law-and-procedure
    sections/property
    sections/intellectual-property
+   sections/wills-intestacy-probate-and-administration
    sections/everything-else
 
 **Acknowledgements**
