@@ -13,6 +13,7 @@ Community Legal Clinic Manual
    sections/bankruptcy-and-insolvency
    sections/criminal-law-and-procedure
    sections/property
+   sections/intellectual-property
    sections/everything-else
 
 **Acknowledgements**
