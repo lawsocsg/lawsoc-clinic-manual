@@ -324,7 +324,7 @@ self-regulatory body of the advertising industry.
    Decision shall be final.
 
 *Consumers Association of Singapore (CASE)*
-------------------------------------------
+-------------------------------------------
 
 | 170 Ghim Moh Road #05-01
 | Ulu Pandan Community Building
@@ -497,7 +497,7 @@ non-capital charges. Only persons with a disposable income of not more
 than S$10,000 per year and a disposable capital of not more than
 S$10,000 may be granted legal aid.
 
-**The laws that CLAS covers include: **
+**The laws that CLAS covers include:**
 
 -  Arms & Explosives Act (Cap. 13)
 
@@ -598,8 +598,7 @@ Tuesdays, Thursdays: 9am – 7.30pm
 
 **The Jurisdiction of FIDReC**
 
-**
-**\ The jurisdiction of FIDReC in adjudicating disputes between
+The jurisdiction of FIDReC in adjudicating disputes between
 consumers and financial institutions is as follows:
 
 (1) Claims between the insured and insurance companies up to S$100,000
@@ -976,7 +975,7 @@ Telephone: +65 6223 1264
 SMA is a national medical organisation representing the majority of
 medical practitioners in both the public and private sector.
 
-**Procedure For Submission of A Complaint **
+**Procedure For Submission of A Complaint**
 
 1) Forward an original, signed letter, giving full details of the
        matter, to:
