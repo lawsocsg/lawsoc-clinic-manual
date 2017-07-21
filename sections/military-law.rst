@@ -398,6 +398,7 @@ The following sub-chapter outlines peacetime offences in the SAF Act
 corresponding sentences for each offence.
 
 General Conduct Offences
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Disobedience of general orders** (s 21): This is a catch-all provision
 regarding the contravention or failure to comply with a lawful general
@@ -452,6 +453,7 @@ summons/order to attend as a witness at the Military Court of Appeal (s
 
 
 Absence Without Leave
+~~~~~~~~~~~~~~~~~~~~~
 
 **Absence without leave** (s 22):
 
@@ -474,6 +476,7 @@ has failed to report to his place of duty (s 23(2)(b)).
 **•** Maximum sentence: **10 years** imprisonment
 
 Abuse & Excess of Authority
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Abuse of authority** (s 29): A serviceman/woman is liable under this
 section if he/she knowingly exceeds his/her authority over a
@@ -496,6 +499,7 @@ holding him/herself out to have authority to do so, is liable under s
 • Maximum sentence: **2 years** imprisonment
 
 Offences Against Persons & Property
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Endangering life or property** (s 41): Any serviceman/woman who does
 an act that endangers life or property, and which causes or is likely to
@@ -555,6 +559,7 @@ property is liable under this section.
 **•** Maximum sentence: **2 years** imprisonment
 
 Abetments & Attempts
+~~~~~~~~~~~~~~~~~~~~
 
 **Abetments and attempts** (s 58):
 
@@ -565,6 +570,7 @@ offence is punishable by death, the maximum sentence for an abetment or
 attempt shall be imprisonment.
 
 Defences
+~~~~~~~~
 
 **Justification, excuse and defence** (s 59):
 
@@ -573,6 +579,7 @@ established in the civil courts are also applicable to any charge under
 the SAF Act.
 
 Commonly Asked Questions on Military Law
+----------------------------------------
 
 **Will I be charged in a civil court after being charged in a military
 court?**
@@ -581,8 +588,7 @@ If you have been charged in a military court, you cannot be charged in a
 civil court for the same offence or for an offence arising from the same
 facts.
 
-**Can I choose to stand trial in a civil court instead of a military
-court?**
+**Can I choose to stand trial in a civil court instead of a military court?**
 
 As a military charge is not a civil charge, once you have been charged
 in a military court you cannot request to be charged in a civil court.
