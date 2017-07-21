@@ -11,6 +11,7 @@ Community Legal Clinic Manual
    sections/civil-claims
    sections/family-law
    sections/bankruptcy-and-insolvency
+   sections/criminal-law-and-procedure
    sections/everything-else
 
 **Acknowledgements**
