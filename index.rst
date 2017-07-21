@@ -19,7 +19,8 @@ Community Legal Clinic Manual
    sections/advance-medical-directive
    sections/juvenile-issues
    sections/military-law
-   sections/everything-else
+   sections/alternative-dispute-resolution
+   sections/the-traffic-court
 
 **Acknowledgements**
 
