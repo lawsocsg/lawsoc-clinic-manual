@@ -54,7 +54,7 @@ District Courts).
 For the detailed legal framework, rules, regulations and powers of the
 Court in the civil litigation process, litigants may wish to refer to
 the following resources which can be found on the website of the State
-Courts (*https://www.statecourts.gov.sg/Pages/default.aspx*).
+Courts (https://www.statecourts.gov.sg/Pages/default.aspx).
 
 **Service Bureaux**
 
@@ -71,7 +71,7 @@ venues:.
 | Singapore 178879
 |
 
-Tel: 6337 9164
+Tel: `6337 9164 <tel:+6563379164>`__
 
 *Chinatown Point*
 
@@ -80,7 +80,7 @@ Tel: 6337 9164
 | Singapore 059413
 |
 
-Tel: 6538 9507
+Tel: `6538 9507 <tel:+6565389507>`__
 
 The operating hours for the electronic filing of court documents are:
 
@@ -97,7 +97,7 @@ The operating hours for the electronic filing of court documents are:
 +-------------------------------+-------------------------+
 
 For further information please visit the following website:
-www.elitigation.sg/getready/filingdocuments.html
+https://www.elitigation.sg/getready/filingdocuments.html
 
 **Commencing a Civil Action**
 
