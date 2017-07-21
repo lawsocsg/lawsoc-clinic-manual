@@ -16,6 +16,7 @@ Community Legal Clinic Manual
    sections/intellectual-property
    sections/wills-intestacy-probate-and-administration
    sections/data-protection-law
+   sections/advance-medical-directive
    sections/everything-else
 
 **Acknowledgements**
