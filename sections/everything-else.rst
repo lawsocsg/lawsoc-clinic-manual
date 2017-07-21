@@ -1,11 +1,6 @@
 Everything Else
 ===============
 
-`DATA PROTECTION LAW 349 <#data-protection-law>`__
-
-`Personal Data Protection Act 2012 (‘PDPA’)
-349 <#personal-data-protection-act-2012-pdpa>`__
-
 `ADVANCE MEDICAL DIRECTIVES 355 <#_Toc398041283>`__
 
 `JUVENILE ISSUES 357 <#juvenile-issues>`__
@@ -56,392 +51,6 @@ Everything Else
 
 `Minor traffic offences with an offer of composition
 403 <#minor-traffic-offences-with-an-offer-of-composition>`__
-
-DATA PROTECTION LAW
-===================
-
-Personal Data Protection Act 2012 (‘PDPA’)
-------------------------------------------
-
-The Personal Data Protection Act (PDPA) fully came into force on 2 July
-2014, which –
-
-1. Establishes protection over the collection, use, disclosure, access
-   and correction, and care of personal data belonging to individuals;
-
-2. Provides for the establishment of the Do-Not-Call Registry (“DNC
-   Registry”), at which individuals register their Singapore phone
-   number to prevent marketers from sending them unsolicited mobile text
-   messages, calls or faxes.
-
-"Personal data" is data, whether true or not, about an individual.
-Therefore, even false information can be considered “personal data”, if
-it can be used to identify an individual.
-
-The personal data must have "identifiability", in that an individual is
-likely to be identified from that personal data, by a determined person
-with a particular purpose to want to identify the individual.
-
-The personal data should be significant in some sense; it should have
-some value – monetary or otherwise.
-
-What’s Excluded
-
-1. Personal data in a record that has existed for at least one hundred
-   (100) years;
-
-2. Personal data about a deceased individual (except if the individual
-   has been deceased for 10 years or less);
-
-3. Business contact information, unless otherwise specifically
-   mentioned. This is defined as as information which has not been
-   provided by the individual solely for his personal purpose. Such
-   information include an individual’s name, position name or title,
-   business telephone number, business address, business electronic mail
-   address or business fax number and any other similar information
-   about the individual.
-
-Limitation of Applicability
-
-The following persons are not subject to compliance with the PDPA, and
-will instead continue to be governed by existing common law -
-
-1. Individuals acting in a domestic or personal capacity, by using
-   personal data for purposes to do with personal, family or household
-   affairs;
-
-2. Public agency, or an entity acting on behalf of a public agency.
-
-Data intermediaries are subject only to safeguarding and retention
-provisions of the PDPA. Data intermediaries are defined as organisations
-that processes personal data on behalf of another organisation but does
-not include an employee of that other organisation.
-
-"Processing" includes the following activities with respect to personal
-data -
-
-• recording
-
-• holding
-
-• organisation
-
-• adaptation or alteration
-
-• retrieval
-
-• combination
-
-• transmission
-
-• erasure
-
-• destruction
-
-Obligations under the Law
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-The PDPA recognises both (i) the right of the individual to protect
-their personal data and (ii) the right of organizations to collect, use
-or disclose personal data.
-
-The latter right however, is qualified to the extent that the personal
-data must be used for purposes deemed appropriate by a reasonable
-person.
-
-The following obligations are imposed on organizations which fall within
-the ambit of the PDPA –
-
-1. **Consent Obligation**
-
-An individual must give consent for personal data to be collected, used
-or disclosed. An individual must be allowed to withdraw consent, with
-reasonable notice, and should be informed of the likely consequences of
-such withdrawal.
-
-Upon withdrawal of consent by the individual, their personal data can no
-longer be collected, used or disclosed.
-
-However, an individual can be *deemed* to provide his/her consent where
-–
-
--  He voluntarily provided such personal data, and it is reasonable for
-   him to do so;
-
--  He consents to the disclosure of his data from one company to another
-   – he is deemed to have consented to the collection of his personal
-   data by the second company.
-
-The PDPA also provides for exceptions to receiving consent from the
-individual, which include –
-
--  Where necessary to respond to an emergency threatening the life,
-   health or safety of an individual;
-
--  To recover, or to pay a debt owed;
-
--  To manage or terminate an employment relationship;
-
--  Necessary in the national interest;
-
--  If inconsistent with other written laws, e.g. under the Banking Act
-   banks do not need to obtain the consent of an individual prior to
-   disclosing customer information for the purpose of an application for
-   a grant of probate.
-
-1. **Purpose Limitation Obligation**
-
-The organization can only collect use or disclose personal data for the
-purpose that the individual has given consent for.
-
-The organisation cannot, as a condition of providing a service, require
-the individual to give consent for use beyond what is reasonably needed
-for providing such service.
-
-1. **Notification Obligation**
-
-Individuals must be notified of the purpose for which the organisation
-is collecting using or disclosing their personal data, before the
-organization proceeds to collect, use or disclose the individual’s
-personal data.
-
-1. **Access and Correction Obligation**
-
-If so requested, an organisation must provide to an individual, his/her
-personal data and the ways in which it has been used or disclosed in the
-past year. The organization can levy a reasonable charge for an access
-request.
-
-Furthermore, an organisation should correct any errors or omission in
-personal data upon the individual’s request. The organization cannot
-charge the individual for a correction request.
-
-However, organisations are prevented from providing access if the
-provision of the data may:
-
--  Cause immediate or grave harm to the safety or physical or mental
-   health of the individual;
-
--  Threaten the safety or physical or mental health of another
-   individual;
-
--  Reveal personal data about another individual
-
--  Reveal the identity of the person who has provided the personal data
-   about the individual , and the person has not consented to the
-   disclosure of his or her identity;
-
--  Is contrary to national interest.
-
-1. **Accuracy Obligation**
-
-Personal data collected by the organisation must be reasonably accurate
-and complete.
-
-1. **Protection Obligation**
-
-The organisation must implement security measures to protect, and
-control or prevent unauthorised use of personal data.
-
-1. **Retention Limitation Obligation**
-
-Personal data and the means by which it can be associated with the
-individual, should no longer be retained if it is no longer necessary
-for any business or legal purposes.
-
-There is no specific retention period, but an individual can tell an
-organisation to stop collecting, using or disclosing their personal data
-at any time. However, the organisation is not required to delete or
-destroy personal data and may retain it for as long as there are
-business or legal needs. 
-
-1. **Transfer Limitation Obligation**
-
-An organisation must ensure that personal data is protected by measures
-comparable to those provided under the PDPA when transferring personal
-data outside of Singapore.
-
-1. **Openness Obligation**
-
-The organization must, upon request, make available information about
-data protection policies, practices and complaints process.
-
-A data protection officer must be designated to implement personal data
-protection policies within the organisation. The business contact
-information of the data protection officer should be made available to
-the public; however the responsibility of complying with the PDPA
-remains the organisation’s responsibility.
-
-Penalties
-~~~~~~~~~
-
-If found to be in non-compliance, organizations may face financial
-penalties of up to S$1 million and additional liabilities in terms of
-private rights of action against organisations in breach.
-
-Do-Not-Call Registry (DNC Registry)
------------------------------------
-
-Organizations are required to check whether a Singapore telephone number is registered with the DNC Registry prior to sending telemarketing messages, calls, or faxes.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Marketing messages are those which, among others –
-
--  Offer, advertise or promote goods or services, or the supplier of
-   such goods or services;
-
--  Offer, advertise or promote land or an interest in land, or the
-   supplier of such land or an interest in land;
-
--  Offer, advertise or promote a business or investment opportunity, or
-   the supplier of such business or investment opportunity.
-
-Types of messages which are excluded from provisions under the PDPA
-relating to the DNC Registry include –
-
--  Non-commercial nature, such as service calls or reminders;
-
--  Market survey or research calls;
-
--  Promotion of charitable or religious purpose;
-
--  Business-to-business telemarketing calls.
-
-There are 3 DNC Registers –
-
-1. No Voice Call Register
-
-2. No Text Message Register
-
-3. No Fax Message Register
-
-Results from the DNC Registry are valid only for 30 days, after which
-the organisation must re-apply to check if a telephone number is
-registered.
-
-It must be noted that an organisation can continue sending marketing
-messages to an individual where there is an "ongoing relationship". An
-ongoing relationship is the conduct of a business or activity
-(commercial or otherwise) by the organization for the individual, such
-as a subscription, membership, account or loan . A series of one-off
-transactions or a past relationship is not sufficient to constitute an
-ongoing relationship. However, the organisation must allow the
-individual to opt out of receiving marketing messages, if he/she so
-wishes.
-
-Limitations of the DNC Registry
--------------------------------
-
-Only Singapore telephone numbers can be registered with the DNC
-Registry. An organization cannot therefore contact the individual using
-smartphone applications which use telephone numbers as an identifier,
-such as Whatsapp.
-
-However, smartphone applications which use an identifier other than a
-telephone number, are not covered by the PDPA e.g. iMessage uses an
-email address as an identifier, hence marketing messages can be sent by
-iMessage, as the email address cannot be registered with the DNC
-Registry.
-
-Similarly, email is not included within the scope of the DNC Registry.
-However, individuals can use email filters to manage their junk or spam
-email.
-
-Breach of the PDPA
-------------------
-
-A complaint can be lodged with the PDPC for investigations by providing
-the following information:
-
-1. Your particulars (name, NRIC, contact number, etc)
-
-2. The date and approximate time of the call/text/fax you received
-
-3. The Singapore telephone number on which you received the
-   call/text/fax
-
-4. If available, the name and telephone number of the person that made
-   or sent the call/text/fax
-
-5. If available, the name of the organisation on whose behalf the
-   call/text/fax was made or sent (for example, the caller/sender may be
-   employed by one company but made the call/text/fax on behalf of
-   another company)
-
-6. If available, the contact details (such as a website or telephone or
-   fax number) of the organisation involved
-
-7. Contents of the call/text/fax (where applicable, to attach a copy of
-   the message received)
-
-8. Whether you have any ongoing relationship (e.g. membership,
-   subscription) with the organisation
-
-9. Whether you recall having withdrawn consent from that organisation to
-   contact you
-
-The above information should be sent to the PDPC through any of the
-following channels:
-
-1. Email: info@pdpc.gov.sg, with the subject title as [Enforcement]
-
-2. Telephone: 6377 3131
-
-3. Post: 
-
-    Attn: Officer-in-charge, Enforcement,
-
-    Personal Data Protection Commission
-
-    460 Alexandra Road 
-
-    #10-02 PSA Building 
-
-    Singapore 119963
-
-1. Fax: 6274 7370
-
-Supporting information such as the below should be provided when making
-the complaint -
-
-1. Screenshots of the message (including the message date and time of
-   the message)
-
-2. Call logs of the telephone number that made the telemarketing call
-
-3. The original fax message received
-
-4. Documents showing that you have withdrawn consent from receiving
-   telemarketing messages/calls from the organisation concerned
-
-However, a complaint can be made even if documentary evidence is not
-available provided there is sufficient evidence for the PDPC to
-investigate further.
-
-The individual may be expected to make a police statement and/or attend
-Court, if necessary.
-
-*Offer of Moneylending Services*
-
-Under the Moneylenders Act, licensed moneylenders are not allowed to
-advertise their moneylending services via SMS or voice calls. Therefore,
-any SMSes or calls soliciting for loans are either sent by a licensed
-moneylender in contravention of advertising restrictions, or by an
-unlicensed moneylender.
-
-The SMS (with a screen capture of the SMS you received) should be
-reported at:
-
-(a) the `Electronic Police Centre <http://www.spf.gov.sg/epc/>`__;
-
-(b) the National Crime Prevention Council's 'X Ah Long' Hotline at
-1800-924-5664 (1800-X-AH-LONG);
-
-(c) the \ `Crimestopper
-Portal <https://app.spf.gov.sg/CrimeStopper/CrimeStopper.aspx>`__; or   
-
-(d) the Insolvency and Public Trustee's Office
-at \ ipto_enquiry@ipto.gov.sg
 
 ADVANCE MEDICAL DIRECTIVE
 =========================
@@ -741,8 +350,8 @@ Report and that it is in the best interest of the child to do so:
 -  Order the child to be sent to an Approved Home for a minimum of 2
    years and a maximum of 3 years.
 
-**
-**\ Commonly Asked Questions On Going Beyond Parental Control
+
+Commonly Asked Questions On Going Beyond Parental Control
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Will the Juvenile Court be monitoring the child?**
@@ -790,7 +399,7 @@ Commonly Asked Questions on Pre-Sentence Report
 **GENERAL QUESTIONS**
 ~~~~~~~~~~~~~~~~~~~~~
 
-**What is a Pre-Sentence Report? **
+**What is a Pre-Sentence Report?**
 
 A Pre-Sentence Report is a report that gives information to the Court
 about the juvenile and whether he/she can benefit from being placed on
@@ -798,7 +407,7 @@ probation under the supervision of a Probation Officer. The Report is
 put up when the Court calls for it after a juvenile has been convicted
 of an offence, and before the sentence or order is imposed.
 
-**Why does the Court order a Pre-Sentence Report? **
+**Why does the Court order a Pre-Sentence Report?**
 
 The Pre-Sentence Report will help the Court understand the needs of the
 juvenile and determine whether probation is in his/her best interest to
@@ -808,7 +417,7 @@ for probation, it is ultimately the Court that decides on the sentence
 or order. Besides calling for a Pre-Sentence Report, the Court can also
 call for other reports such as medical or psychological reports.
 
-**Who prepares the Pre-Sentence Report? **
+**Who prepares the Pre-Sentence Report?**
 
 The Pre-Sentence Report is prepared by trained Probation Officers from
 MSF or volunteers who have been qualified as Gazetted Volunteer
@@ -819,7 +428,7 @@ Offenders Act.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **What does the offender have to do if told that a Pre-Sentence Report
-will be prepared? **
+will be prepared?**
 
 Once the Court calls for a Pre-Sentence Report, the offender will have
 to proceed to the Probation Intake Office on the 5th floor of the
@@ -834,7 +443,7 @@ then, he may call the info-line at 1800-258-7963 to make enquiries. The
 offender will be required to provide his I/C number to help the
 Probation officer trace his case file.
 
-**What will the Probation Officer ask? **
+**What will the Probation Officer ask?**
 
 The Probation Officer will speak to the offender about his lifestyle,
 family background, education and/or employment history, hobbies,
@@ -1165,8 +774,8 @@ However, it is also open to the Court in the appropriate case to give
 the young person a stern warning with respect to his behaviour and
 direct him to continue his present detention.
 
-**
-**\ Family Conferencing
+
+Family Conferencing
 -----------------------
 
 Under Section 45(1) of the Children and Young Persons Act, the Juvenile
@@ -1262,11 +871,11 @@ options available to the Court are:
    (certain conditions will have to be met before such an order is made
    if your child is above 14 years old and below 16 years old)
 
-**
-**\ Commonly Asked Questions on Court Orders & Family Conferencing
+
+Commonly Asked Questions on Court Orders & Family Conferencing
 ------------------------------------------------------------------
 
-**How does the offender appeal a court order? **
+**How does the offender appeal a court order?**
 
 Any child/ young person or his parent/guardian who is dissatisfied with
 any judgment or order of a Juvenile Court may appeal to the High
@@ -1279,7 +888,7 @@ Registry of the State Courts within 14 days from the time the judgment,
 sentence or order is made. [279]_
 
 **How can a parent help the child remain on the right track after the
-Court Order? **
+Court Order?**
 
 The real test on the child's sincerity for change comes after the Court
 has made an order for his/her case. The child needs to have the
@@ -1293,7 +902,7 @@ Ministry of Social and Family Development. Counselling for the parent
 and child at various family service centres will also assist in the
 child's rehabilitative needs.
 
-**What happens at the Juvenile Case Conference? **
+**What happens at the Juvenile Case Conference?**
 
 Knowing that the child has committed an offence can be a difficult or
 embarrassing thing to accept for many parents. Sometimes the juveniles
@@ -1337,8 +946,8 @@ with one another. Parents also indicated that Family Conferencing helped
 them realise the needs of the juveniles. With the aid of the
 facilitators they were able to identify areas to work on.
 
-**
-**\ Restorative Programmes
+
+Restorative Programmes
 --------------------------
 
 Counselling And Psychological Services (CAPS)
@@ -2005,14 +1614,14 @@ regarding the contravention or failure to comply with a lawful general
 order which the serviceman/woman might have or ought to have known
 about.
 
-***•*** Maximum sentence\ **:** **2 years** imprisonment
+**•** Maximum sentence\ **:** **2 years** imprisonment
 
 **Conduct to prejudice of good order or discipline** (s 25): This is
 another catch-all provision regarding a serviceman whose conduct or
 omission is considered to be to the prejudice of good order or
 discipline.
 
-***•*** Maximum sentence\ **:** **12 months** imprisonment
+**•** Maximum sentence\ **:** **12 months** imprisonment
 
 **Malingering** (s 32): There are three forms of malingering:
 
@@ -2030,7 +1639,7 @@ discipline.
 **Intoxication** (s 33): This offence is applicable whether the
 serviceman/woman was on duty or not when found to be intoxicated.
 
-***•*** Maximum sentence\ **: 6 months** imprisonment
+**•** Maximum sentence\ **: 6 months** imprisonment
 
 **Possession, etc., of drugs** (s 34): Any person who possesses, smokes
 or consumes any controlled drug is liable under this section. What is
@@ -2039,7 +1648,7 @@ the misuse or control of drugs, such as the Misuse of Drugs Act (Cap.
 185). A possible defence is that the serviceman/woman was authorised to
 do so.
 
-***•*** Maximum sentence: **5 years** imprisonment
+**•** Maximum sentence: **5 years** imprisonment
 
 **Contempt** (s 48): This offence is applicable mainly to disobedience
 of lawful judicial procedural orders, such as failing to comply with a
@@ -2047,7 +1656,7 @@ summons/order to attend as a witness at the Military Court of Appeal (s
 48(1)(a)), or refusing to take an oath when required to do so (s
 48(1)(b)).
 
-    ***•*** Maximum sentence: **2 years imprisonment**, but if the court
+    **•** Maximum sentence: **2 years imprisonment**, but if the court
     requires the offender to be tried summarily instead of at trial,
     then the maximum sentence is **21 days** imprisonment or a $50 fine
 
@@ -2062,7 +1671,7 @@ lawfully required to be present is liable under this section. It is a
 defence that the serviceman/woman was absent due to a result of
 circumstances over which he/she had no control (s 22(2)).
 
-***•*** Maximum sentence: **2 years** imprisonment
+**•** Maximum sentence: **2 years** imprisonment
 
 **Desertion** (s 23):
 
@@ -2072,7 +1681,7 @@ required to be present, but is also found to have intended to remain
 permanently absent from duty without lawful authority when/after he/she
 has failed to report to his place of duty (s 23(2)(b)).
 
-***•*** Maximum sentence: **10 years** imprisonment
+**•** Maximum sentence: **10 years** imprisonment
 
 Abuse & Excess of Authority
 
@@ -2102,7 +1711,7 @@ Offences Against Persons & Property
 an act that endangers life or property, and which causes or is likely to
 cause injury to the person or property, is liable under this section.
 
-    ***•*** Maximum sentence: **5 years** imprisonment for wilful acts
+    **•** Maximum sentence: **5 years** imprisonment for wilful acts
     (s 41(a)) and 3 years imprisonment for negligent acts (s 41(b))
 
 **Damage to, and loss of, SAF property, etc.** (s 42):
@@ -2112,14 +1721,14 @@ concerned in the wilful damage or loss of any SAF property or any
 property belonging to a person subject to military law is liable under s
 42(1). This includes acts of wilful neglect.
 
-***•*** Maximum sentence: **3 years** imprisonment
+**•** Maximum sentence: **3 years** imprisonment
 
 Any serviceman/woman who causes through a negligent act or omission any
 damage to, or loss of, SAF property, or has committed a wilful or
 negligent act or omission which is likely to cause damage to, or loss
 of, SAF property, is liable under s 42(2).
 
-***•*** Maximum sentence: **2 years** imprisonment, or **3 years**
+**•** Maximum sentence: **2 years** imprisonment, or **3 years**
 imprisonment if the property concerned consists of arms, or is an
 aircraft, a vessel or a vehicle
 
@@ -2129,7 +1738,7 @@ Any serviceman/woman who either unlawfully holds a person in custody, or
 does not comply with the regulations governing the placing of a person
 in custody, is liable under this section.
 
-***•*** Maximum sentence: **2 years** imprisonment
+**•** Maximum sentence: **2 years** imprisonment
 
 Misappropriation & Misapplication of Property
 
@@ -2144,7 +1753,7 @@ misappropriates any SAF property, or:
 military law while knowing that it was stolen or dishonestly
 misappropriated (s 43(b))
 
-    ***•*** Maximum sentence: **3 years** imprisonment, or **7 years**
+    **•** Maximum sentence: **3 years** imprisonment, or **7 years**
     imprisonment if the property in question consisted of an aircraft, a
     vessel, or arms.
 
@@ -2153,7 +1762,7 @@ misappropriated (s 43(b))
 Any serviceman/woman who misapplies or wastefully expends any SAF
 property is liable under this section.
 
-***•*** Maximum sentence: **2 years** imprisonment
+**•** Maximum sentence: **2 years** imprisonment
 
 Abetments & Attempts
 
@@ -2183,7 +1792,7 @@ civil court for the same offence or for an offence arising from the same
 facts.
 
 **Can I choose to stand trial in a civil court instead of a military
-court? **
+court?**
 
 As a military charge is not a civil charge, once you have been charged
 in a military court you cannot request to be charged in a civil court.
@@ -2203,14 +1812,14 @@ You may be detained in the detention barracks while waiting for the
 court martial. The wait in detention may be counted as part of your
 subsequent sentence.
 
-**Will a military charge affect my employment or education prospects? **
+**Will a military charge affect my employment or education prospects?**
 
 In general, any military offence may be reflected in your ORD transcript
 and will be viewed by potential employers and educational institutions.
 Certain universities and employers may also include a request for any
 conviction by a court of law including a military court.
 
-**What happens if I can’t pay a fine imposed on me? **
+**What happens if I can’t pay a fine imposed on me?**
 
 If you default on a fine, you may be detained in the Detention Barracks
 for a period of 10 days for a fine of $100 and below, a period of 20
@@ -2223,7 +1832,7 @@ NSFs can apply to their Commanding Officer for permission to work
 outside of military duties provided there are pressing personal
 circumstances and that such work does not conflict with military duties.
 
-**Can my items be confiscated during a search? **
+**Can my items be confiscated during a search?**
 
 Confiscation of items can only take place when you are under arrest.
 Only a military policeman who is making an arrest can confiscate your
@@ -2635,13 +2244,11 @@ Key functions of SG Enable include:
    employment. Schemes for financial assistance and other assistance may
    also be available.
 
-   ***Address:*** 141 Redhill Road, Singapore 158828
-
-   ***Tel:*** 6593 6437
-
-   ***Fax:*** 6270 7024
-
-   ***Website:*** https://www.sgenable.sg
+   | **Address:** 141 Redhill Road, Singapore 158828
+   | **Tel:** `6593 6437 <tel:+6565936437>`__
+   | **Fax:** 6270 7024
+   | **Website:** https://www.sgenable.sg
+   |
 
    **Consumers Association of Singapore (CASE) Mediation Centre**
 
@@ -2719,12 +2326,12 @@ Development, Youth and Sports (MCYS)**
 Mediation is also used to resolve disputes in the Tribunal of
 Maintenance of Parents (TMP) and the Syariah Court under MCYS.
 
-The ***TMP*** provides a legal avenue for elderly parents to apply for a
+The **TMP** provides a legal avenue for elderly parents to apply for a
 maintenance order against their children. When a case is brought to the
 TMP, the Tribunal first refers parties to a conciliation officer for
 mediation, to try to help them arrive at a settlement.
 
-In the ***Syariah Court***, mediation is also used to help married
+In the **Syariah Court**, mediation is also used to help married
 couples of the Muslim faith in filing for divorce issues such as the
 custody of children, division of matrimonial property and other divorce
 and ancillary issues. This helps the couple to maintain ties and
@@ -2775,7 +2382,7 @@ traffic tickets at their convenience and there is no need to go to
 court.
 
 ATOMS is run on the AXS Stations which are located island-wide. You can
-call the AXS Hotline at 6560 2727 or visit their website at
+call the AXS Hotline at `6560 2727 <tel:+6565602727>` or visit their website at
 http://www.axs.com.sg to find the AXS Station nearest to you.
 
 Please note that the operating hours for the AXS Hotline are:
@@ -2784,11 +2391,11 @@ Please note that the operating hours for the AXS Hotline are:
 
 (including Sundays and public holidays)
 
-**
-**\ Commonly Asked Questions on the Traffic Court
+
+Commonly Asked Questions on the Traffic Court
 -------------------------------------------------
 
-**Can I claim legal aid for a traffice offence?**
+**Can I claim legal aid for a traffic offence?**
 
 Yes, it is possible but not guaranteed, as there are rules on
 eligibility for free legal aid, depending on the individual lawyer/ law
