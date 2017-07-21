@@ -729,8 +729,7 @@ marriage at the point when it was formed.
 
 **What are the grounds for annulling a marriage?**
 
-*Applicable to a marriage which takes place after **1\ :sup:`st` June
-1981** *
+*Applicable to a marriage which takes place after* **1st June 1981**
 
 -  The marriage has not been consummated owing to the incapacity of
    either party to consummate it.
