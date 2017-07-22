@@ -1632,9 +1632,6 @@ Judge’s order.  You may wish to refer to Order 55D of the Rules of Court
 for further details. **Please note that court staff cannot help you with
 your appeal papers.  **
 
-*
-*
-
 Respondents residing outside Singapore
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
