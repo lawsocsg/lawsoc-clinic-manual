@@ -158,7 +158,8 @@ offences under the Road Traffic (DIPS) Rules.
 +---------+-----------------------------------------------------------------------------------+--------------------+
 | 8       | Parking within a pedestrian crossing                                              | 3                  |
 +---------+-----------------------------------------------------------------------------------+--------------------+
-| 9       | Stopping in a zebra controlled (or more commonly known as zebra crossing) area    | 3                  |
+| 9       | | Stopping in a zebra controlled (or more commonly known as                       |                    |
+|         | | zebra crossing) area                                                            | 3                  |
 +---------+-----------------------------------------------------------------------------------+--------------------+
 | 10      | Driver failing to ensure that every passenger wears a seat belt                   | 3                  |
 +---------+-----------------------------------------------------------------------------------+--------------------+
@@ -274,8 +275,9 @@ offences under the Road Traffic (DIPS) Rules.
 +---------+-----------------------------------------------------------------------------------+--------------------+
 | 47      | Use of mobile telephone while driving                                             | 12                 |
 +---------+-----------------------------------------------------------------------------------+--------------------+
-|         | | **1st offence: Fine not exceeding $1000 or jail up to 6 months or both**                             |
-|         | | **2nd and subsequent offence: Fine not exceeding $2000 or jail up to 12 months or both**             |
+|         | | **1st offence: Fine not exceeding $1000 or jail up to 6 months or both**        |                    |
+|         | | **2nd and subsequent offence: Fine not exceeding $2000 or jail up to**          |                    |
+|         | | **12 months or both**                                                           |                    |
 +---------+-----------------------------------------------------------------------------------+--------------------+
 |         |                                                                                   |                    |
 +---------+-----------------------------------------------------------------------------------+--------------------+

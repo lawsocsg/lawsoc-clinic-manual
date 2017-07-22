@@ -979,15 +979,15 @@ How your case may progress through the Family Court:
 | **Your next most likely Court date:**                                                                                                              |
 +------------------------------------------------+--------------------------------------------------+------------------------------------------------+
 | | **COUNSELLING**                              | | **RESOLUTION CONFERENCE**                      | | **JOINT CONFERENCE**                         |
-| | with a professional Court counsellor to help | | with a Family Court Judge to help both parties | | with a Family Court Judge and a professional |
-| | both parties resolve their differences over  | | resolve their differences over the legal       | | Court counsellor to help with both the       |
-| | the emotional aspects of the divorce         | | aspects of the divorce                         | | emotional and legal aspects of the dispute   |
+| | with a professional Court counsellor to help | | with a Family Court Judge to help both         | | with a Family Court Judge and a professional |
+| | both parties resolve their differences over  | | parties resolve their differences over         | | Court counsellor to help with both the       |
+| | the emotional aspects of the divorce         | | the legal aspects of the divorce               | | emotional and legal aspects of the dispute   |
 +------------------------------------------------+----------------------+---------------------------+------------------------------------------------+
 | If there is no settlement:                                            | If there is a settlement:                                                  |
 +-----------------------------------------------------------------------+----------------------------------------------------------------------------+
-| **PRE-TRIAL CONFERENCE IN CHAMBERS**                                  | **CONSENT ORIGINATING SUMMONS HEARING BEFORE A DISTRICT JUDGE IN CHAMBERS**|
-|                                                                       |                                                                            |
-| **HEARING OF ORIGINATING SUMMONS BEFORE A DISTRICT JUDGE IN CHAMBERS**|                                                                            |
+| | **PRE-TRIAL CONFERENCE IN CHAMBERS**                                | | **CONSENT ORIGINATING SUMMONS HEARING**                                  |
+| | **HEARING OF ORIGINATING SUMMONS BEFORE**                           | | **BEFORE A DISTRICT JUDGE IN CHAMBERS**                                  |
+| | **A DISTRICT JUDGE IN CHAMBERS**                                    |                                                                            |
 +-----------------------------------------------------------------------+----------------------------------------------------------------------------+
 
 Starting proceedings
@@ -1453,13 +1453,13 @@ How your case may progress through the Family Court:
 | | at the Family Court.  If both of you are agreeable, your  | | server to the respondent’s house for service  |
 | | case will be referred for mediation with a court mediator.| | of the summons.                               |
 +-------------------------------------------------------------+-------------------------------------------------+
-| | IF THERE IS AN AGREEMENT BETWEEN THE PARTIES,             | MENTIONS IN FAMILY COURT 1                      |
-| | CONSENT ORDER RECORDED BEFORE MAGISTRATE                  +-------------------------------------------------+
-| | OR DISTRICT JUDGE                                         | | On your next Court date, your case will be    |
-|                                                             | | mentioned in Family Court 1 before a          |
+| IF THERE IS AN AGREEMENT BETWEEN THE PARTIES,               | MENTIONS IN FAMILY COURT 1                      |
+|                                                             +-------------------------------------------------+
+|                                                             | | On your next Court date, your case will be    |
+| CONSENT ORDER RECORDED BEFORE MAGISTRATE                    | | mentioned in Family Court 1 before a          |
 |                                                             | | District Judge. The District Judge will order |
 |                                                             | | both parties to disclose financial documents  |
-|                                                             | | and salary slips, and fix trial dates if the  |
+| OR DISTRICT JUDGE                                           | | and salary slips, and fix trial dates if the  |
 |                                                             | | case is ready for hearing.                    |
 |                                                             |                                                 |
 |                                                             +-------------------------------------------------+

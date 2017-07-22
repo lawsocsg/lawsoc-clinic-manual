@@ -102,6 +102,9 @@ html_title = 'The Law Society of Singapore - Community Legal Clinic Manual'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+# Override the default css settings in the given theme
+html_style = 'css/overrides.css'
+
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
