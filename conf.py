@@ -85,15 +85,14 @@ todo_include_todos = False
 #
 html_theme = 'sphinx_rtd_theme'
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-html_theme_options = {
-    'logo_only': True,
-}
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+html_theme_options = {
+    'logo_only': True,
+}
 
 html_title = 'The Law Society of Singapore - Community Legal Clinic Manual'
 
@@ -135,7 +134,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'lawsoc-clinic-manual.tex', 'lawsoc-clinic-manual Documentation',
+    (master_doc, 'lawsoc-clinic-manual.tex', 'Law Society of Singapore - Legal Clinic Manual',
      'Law Society of Singapore', 'manual'),
 ]
 
@@ -156,7 +155,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'lawsoc-clinic-manual', 'lawsoc-clinic-manual Documentation',
-     author, 'lawsoc-clinic-manual', 'One line description of project.',
+    (master_doc, 'lawsoc-clinic-manual', 'Law Society of Singapore - Legal Clinic Manual',
+     author, 'lawsoc-clinic-manual', 'A manual to run pro bono legal clinics for The Law Society',
      'Miscellaneous'),
 ]
