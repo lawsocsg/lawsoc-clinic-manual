@@ -63,7 +63,7 @@ the creator of the AMD. The witnesses must not -
 A relative to the creator of the AMD can be a witness, as long as he
 does not have any vested interests as listed above.
 
-How an AMD works
+How AMD works
 ----------------
 
 The AMD is confidential and will not be disclosed to anyone, except if
