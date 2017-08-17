@@ -8,19 +8,6 @@ Community Legal Clinic Manual
    :maxdepth: 3
 
    sections/clinic-management
-   sections/civil-claims
-   sections/family-law
-   sections/bankruptcy-and-insolvency
-   sections/criminal-law-and-procedure
-   sections/property
-   sections/intellectual-property
-   sections/wills-intestacy-probate-and-administration
-   sections/data-protection-law
-   sections/advance-medical-directive
-   sections/juvenile-issues
-   sections/military-law
-   sections/alternative-dispute-resolution
-   sections/the-traffic-court
 
 **Acknowledgements**
 
