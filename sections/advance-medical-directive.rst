@@ -34,7 +34,7 @@ An AMD can be created at any time by any person, who is -
 
 To be valid, the AMD must be in the prescribed form, which can be
 obtained from clinics, polyclinics, hospitals or the Ministry of Health
-website) -
+website -
 
 1. In writing;
 
