@@ -1,4 +1,3 @@
-
 INTELLECTUAL PROPERTY
 =====================
 
@@ -10,10 +9,10 @@ Introduction
 The WIPO was established in 1967. It was tasked to promote the
 protection of intellectual property throughout the world through
 co-operation among the Governments of Contracting States of the Paris
-Convention 1883 and the Berne Convention 1886. WIPO’s mission is to
-lead the development of a balanced and effective international
-intellectual property system* that enables innovation and creativity for
-the benefit of all.
+Convention 1883 and the Berne Convention 1886. WIPO’s mission is to lead
+the development of a balanced and effective international intellectual
+property system\* that enables innovation and creativity for the benefit
+of all.
 
 There are 187 current Member States, including Singapore. WIPO's
 strategic direction, budget and activities are determined by its Member
@@ -21,7 +20,7 @@ States, who meet in the Assemblies, Committees and other decision-making
 bodies.
 
 Definitions of the various forms of intellectual property
-----------------------------------------------------------
+---------------------------------------------------------
 
 Intellectual Property (IP) refers to creations by individuals for which
 exclusive rights are given. A creative musical, artistic or dramatic
@@ -105,15 +104,13 @@ grant of protection are fully met, can be:
 
 (a) Defined by the expression of the chacteristics resulting from a
     given genotype or a combination of genotypes
-
 (b) Distinguished from any other plant grouping by the expression of at
     least one of those characteristics
-
 (c) Considered as a unit with regard to its suitability for being
     propagated unchanged
 
 Copyright
-------------
+---------
 
 Copyright is a form of personal or moveable property. It can be licensed
 or transferred, either as an *entire bundle* (all of the distinct rights
@@ -126,8 +123,7 @@ Originality simply means that there is a degree of independent effort in
 the creation of the work. It is not a question of whether the work has
 creative merit.
 
-Works Protected By Copyright
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Works Protected By Copyright
 
 Copyright protects literary, dramatic, musical and artistic works. Other
 subject matter like films, sound recordings, broadcasts, cable
@@ -138,45 +134,56 @@ Copyright protects the expression of ideas (e.g. in words and
 illustrations.) Ideas alone are not protected. The following may be
 protected under copyright law:
 
-+----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Literary works** such as                                                 | Written works/books, articles in journals or newspapers, lyrics in songs, source codes of computer programs                                                                    |
-+============================================================================+================================================================================================================================================================================+
-| **Dramatic works** such as                                                 | Scripts for films & drama (as applied), choreographic scripts for shows or dance routines                                                                                      |
-+----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Musical works**                                                          | Music (i.e melody)                                                                                                                                                             |
-+----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Artistic works** such as                                                 | Paintings , drawings, sculptures, engravings, photographs, buildings or models of buildings, works of artistic craftsmanship. eg designer furniture that is not mass produced  |
-+----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Published editions of literary, dramatic, musical or artistic works**    | Typographical arrangements of a published work                                                                                                                                 |
-+----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Sound recordings**                                                       | An aggregate of sounds recorded on tapes, CDs, etc                                                                                                                             |
-+----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Films**                                                                  | An aggregate of visual images and sounds recorded on tapes, video compact discs, digital versatile discs, etc                                                                  |
-+----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Television and radio broadcasts**                                        | Broadcasts by way of television or radio                                                                                                                                       |
-+----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Cable programmes**                                                       | Programmes (visual images and sound) included in a cable programme service sent by means of a telecommunication system                                                         |
-+----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Performances**                                                           | By performer such as musicians, singers and comedians                                                                                                                          |
-+----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+  ------------------------------------------------------------------------
+  **Literary works**    Written works/books, articles in journals or
+  such as               newspapers, lyrics in songs, source codes of
+                        computer programs
+  --------------------- --------------------------------------------------
+  **Dramatic works**    Scripts for films & drama (as applied),
+  such as               choreographic scripts for shows or dance routines
 
-What Is Not Protected By Copyright?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  **Musical works**     Music (i.e melody)
+
+  **Artistic works**    Paintings , drawings, sculptures, engravings,
+  such as               photographs, buildings or models of buildings,
+                        works of artistic craftsmanship. eg designer
+                        furniture that is not mass produced
+
+  **Published editions  Typographical arrangements of a published work
+  of literary,          
+  dramatic, musical or  
+  artistic works**      
+
+  **Sound recordings**  An aggregate of sounds recorded on tapes, CDs, etc
+
+  **Films**             An aggregate of visual images and sounds recorded
+                        on tapes, video compact discs, digital versatile
+                        discs, etc
+
+  **Television and      Broadcasts by way of television or radio
+  radio broadcasts**    
+
+  **Cable programmes**  Programmes (visual images and sound) included in a
+                        cable programme service sent by means of a
+                        telecommunication system
+
+  **Performances**      By performer such as musicians, singers and
+                        comedians
+  ------------------------------------------------------------------------
+
+### What Is Not Protected By Copyright?
 
 Subject matter not protected by copyright includes:
 
--  Ideas (e.g. a new business idea that have not been documented)
-
--  Concepts (e.g. an idea for a new game show that has not been written
-   down)
-
--  Procedures (e.g. the steps involved when applying for a travel visa)
-
--  Methods (e.g. the unique solution to a mathematical problem), **and**
-
--  Subject matter that has not been made in a tangible form in a
-   recording or writing (e.g. a speech or a dance that has not been
-   written down or recorded)
+-   Ideas (e.g. a new business idea that have not been documented)
+-   Concepts (e.g. an idea for a new game show that has not been written
+    down)
+-   Procedures (e.g. the steps involved when applying for a travel visa)
+-   Methods (e.g. the unique solution to a mathematical problem),
+    **and**
+-   Subject matter that has not been made in a tangible form in a
+    recording or writing (e.g. a speech or a dance that has not been
+    written down or recorded)
 
 **Automatic Protection**
 
@@ -184,8 +191,7 @@ In Singapore, an author automatically enjoys copyright protection as
 soon as he creates and expresses his work in a tangible form. There is
 no need to file for registration to secure copyright protection.
 
-Overseas Protection For Copyright Works Created In Singapore
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Overseas Protection For Copyright Works Created In Singapore
 
 A copyright work created by a Singapore citizen or resident is protected
 in many countries overseas by virtue of international agreements.
@@ -195,21 +201,19 @@ the work was made there. Some countries such as Canada and the U.S.
 provide for registration to facilitate proof of copyright infringement
 proceedings.
 
--  The Berne Convention for the Protection of Literary and Artistic
-   Works is a convention on copyright protection of literary and
-   artistic works including films. It is administered by the WIPO. A
-   list of countries party to the Berne Convention may be found at the
-   WIPO website [219]_.
+-   The Berne Convention for the Protection of Literary and Artistic
+    Works is a convention on copyright protection of literary and
+    artistic works including films. It is administered by the WIPO. A
+    list of countries party to the Berne Convention may be found at the
+    WIPO website[^1].
+-   The Agreement on Trade-Related Aspects of Intellectual Property
+    Rights (TRIPS Agreement) (1994) is an international agreement on
+    intellectual property rights including copyright, patents, and trade
+    marks. Ratification of TRIPS is a mandatory requirement for
+    membership of the World Trade Organization (WTO). A list of member
+    countries of the WTO may be found at the WTO website[^2].
 
--  The Agreement on Trade-Related Aspects of Intellectual Property
-   Rights (TRIPS Agreement) (1994) is an international agreement on
-   intellectual property rights including copyright, patents, and trade
-   marks. Ratification of TRIPS is a mandatory requirement for
-   membership of the World Trade Organization (WTO). A list of member
-   countries of the WTO may be found at the WTO website [220]_.
-
-The Symbol *©*
-~~~~~~~~~~~~~~
+### The Symbol *©*
 
 The use of the symbol is simply a notice of a claim by the copyright
 owner that copyright exists. It does not give the copyright owner any
@@ -230,21 +234,19 @@ the © symbol, there may be a statement indicating the terms of permitted
 use, e.g. “for Private Use Only”. Where the owner does not allow use,
 the term “All Rights Reserved” may be found after the © symbol.
 
-Proof Of Originality
-~~~~~~~~~~~~~~~~~~~~
+### Proof Of Originality
 
 In practice, authors have resorted to a number of means to preserve
 their interests. They may have:
 
--  Deposited a copy of their work with their solicitors or a depository.
-
--  Sent a copy of their work to themselves by post leaving the envelope
-   unopened on its return so that the date stamp and the unopened work
-   could establish the date of existence and the work as it existed at
-   the relevant time, **or**
-
--  Made a declaration stating the facts of ownership and the date of
-   creation before a Commissioner of Oaths.
+-   Deposited a copy of their work with their solicitors or a
+    depository.
+-   Sent a copy of their work to themselves by post leaving the envelope
+    unopened on its return so that the date stamp and the unopened work
+    could establish the date of existence and the work as it existed at
+    the relevant time, **or**
+-   Made a declaration stating the facts of ownership and the date of
+    creation before a Commissioner of Oaths.
 
 These are however no foolproof methods of proving authorship as none
 prove that the work is original or created by the author. In a dispute,
@@ -259,8 +261,7 @@ the copyright owner, the plaintiff will have to file an affidavit with
 assertions of relevant facts to show that copyright subsists and that he
 is the copyright owner.
 
-Ownership And Rights
-~~~~~~~~~~~~~~~~~~~~
+### Ownership And Rights
 
 Generally, the person who created the work (i.e. the author) owns the
 copyright in the work. However, there are exceptions to this general
@@ -295,8 +296,7 @@ commissioned party.
 As mentioned in the introduction, the copyright owner may transfer his
 rights to another party or entity either partially or wholly.
 
-Seeking Permission From Copyright Owners
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Seeking Permission From Copyright Owners
 
 Consent is needed to do anything that only the copyright owner has the
 exclusive right to do (e.g. reproduce the work). Sometimes, consent is
@@ -306,29 +306,22 @@ one uses the work is insufficient.
 
 To obtain consent from copyright owners, one may:
 
--  Contact the copyright owners directly and negotiate for a licence to
-   use the copyright work, **or**
-
--  Obtain a licence through a collecting society.
+-   Contact the copyright owners directly and negotiate for a licence to
+    use the copyright work, **or**
+-   Obtain a licence through a collecting society.
 
 A collecting society is an organisation that administers the rights of a
 group of copyright owners. It can grant consent for use of the works of
 its members under specific conditions. The following are collecting
 societies in Singapore:
 
--  Composers and Authors Society of Singapore
-
--  Copyright Licensing and Administration Society of Singapore Ltd
-
--  Music Publishers (Singapore) Ltd
-
--  Recording Industry Performance Singapore Pte Ltd
-
--  InnoForm Entertainment Pte Ltd
-
--  Motion Picture licensing Company (Singapore) Pte Ltd
-
--  Horizon Music Entertainment Pte Ltd
+-   Composers and Authors Society of Singapore
+-   Copyright Licensing and Administration Society of Singapore Ltd
+-   Music Publishers (Singapore) Ltd
+-   Recording Industry Performance Singapore Pte Ltd
+-   InnoForm Entertainment Pte Ltd
+-   Motion Picture licensing Company (Singapore) Pte Ltd
+-   Horizon Music Entertainment Pte Ltd
 
 Not all IP Associations are collecting societies that administer
 licences. The following are IP Associations that represent the interests
@@ -336,21 +329,16 @@ of copyright owners. Generally they are non-profit, non-government
 bodies engaging in promotional, educational and trade-related activities
 on behalf of their members:
 
--  Business Software Alliance
-
--  International Confederation of Societies of Authors and Composers
-
--  International Federation of the Phonographic Industry
-
--  Recording Industry Association (Singapore)
-
--  The Motion Picture Association
+-   Business Software Alliance
+-   International Confederation of Societies of Authors and Composers
+-   International Federation of the Phonographic Industry
+-   Recording Industry Association (Singapore)
+-   The Motion Picture Association
 
 For more details, please refer to the IPOS website at
-http://www.ipos.gov.sg.
+<http://www.ipos.gov.sg>.
 
-Copyright Tribunals
-~~~~~~~~~~~~~~~~~~~~
+### Copyright Tribunals
 
 The Copyright Tribunal is a forum for resolving certain disputes between
 copyright owners and users of copyright works. The Tribunal’s
@@ -358,21 +346,21 @@ jurisdiction is set out in Part VII of the Copyright Act (Cap. 63).
 
 The Tribunal is empowered to:
 
--  Resolve disputes relating to licences and licence schemes in relation
-       to a work or other subject matter.
+-   
 
--  Ascertain the royalty payable for the recording of musical works and,
-   where applicable, apportion the royalty in respect of a record.
+    Resolve disputes relating to licences and licence schemes in relation
 
--  Determine what constitutes "equitable remuneration " for the making
-   available to the public of a sound recording through a
-   non-interactive digital audio transmission.
+    :   to a work or other subject matter.
 
--  Determine what constitutes "equitable remuneration" for the making of
-   a recording or film of a work.
-
--  Determine what constitutes "equitable remuneration" for the making of
-   a copy of a sound recording.
+-   Ascertain the royalty payable for the recording of musical works
+    and, where applicable, apportion the royalty in respect of a record.
+-   Determine what constitutes "equitable remuneration " for the making
+    available to the public of a sound recording through a
+    non-interactive digital audio transmission.
+-   Determine what constitutes "equitable remuneration" for the making
+    of a recording or film of a work.
+-   Determine what constitutes "equitable remuneration" for the making
+    of a copy of a sound recording.
 
 The Copyright Tribunal has the power to refer to the High Court any
 matter that comes before it for determination on a point of law. This
@@ -385,26 +373,24 @@ copyright material.
 
 The procedure for applications to be made to the Tribunal is set out in
 the Copyright Tribunal (Procedure) Regulations 1988. The forms are
-available from the IPOS website [221]_.
+available from the IPOS website[^3].
 
 For more information, please contact:
 
 | **Secretary to the Copyright Tribunals**
 | Intellectual Property Office of Singapore
-| 51 Bras Basah Road, #04-01 Manulife Centre
+| 51 Bras Basah Road, \#04-01 Manulife Centre
 | Singapore 189554
-|
+| 
 
-Tel: `(65) 6339 8616 <tel:+6563398616>`__ / Fax: (65) 6339 0252
+Tel: [(65) 6339 8616](tel:+6563398616) / Fax: (65) 6339 0252
 
-Copyright Infringement
-~~~~~~~~~~~~~~~~~~~~~~
+### Copyright Infringement
 
 Under the Copyright Act, there are two broad categories of things that
 are protected by copyright. These are:
 
 (a) “Works”, including, a literary, dramatic, musical or artistic work
-
 (b) Subject matter other than works including; sound recordings,
     cinematograph films, television broadcasts and sound broadcasts,
     cable programs and published editions of a literary, dramatic,
@@ -418,7 +404,6 @@ infringement of the copyright in any work. These include:
 (a) Where a person, without the licence of the owner of the copyright,
     does in Singapore, or authorises the doing in Singapore of, any act
     comprised in the copyright.
-
 (b) Where a person, without the licence of the owner of the copyright,
     imports an article into Singapore and sells, lets for hire, or by
     way of trade offering or exposing for sale or hire, the article, or
@@ -428,7 +413,6 @@ infringement of the copyright in any work. These include:
     where he knows, or ought reasonably to know, that the making of the
     article was carried out without the consent of the owner of the
     copyright
-
 (c) Where a person who, in Singapore, and without the licence of the
     owner of the copyright, distributes an article and sells, lets for
     hire, or by way of trade offers or exposes for sale or hire the
@@ -450,20 +434,16 @@ of a copyright work is permissible as long as it is a 'fair dealing'.
 Factors that will be taken into account in deciding whether such copying
 is a fair dealing include the following:
 
--  The purpose and character of the dealing, including whether such
-   dealing is of a commercial nature or is for non-profit educational
-   purposes.
-
--  The nature of the work or adaptation.
-
--  The amount and substantiality of the part copied taken in relation to
-   the whole work or adaptation.
-
--  The effect of the dealing upon the potential market for, or value of,
-   the work or adaptation.
-
--  The possibility of obtaining the work or adaptation within a
-   reasonable time at an ordinary commercial price.
+-   The purpose and character of the dealing, including whether such
+    dealing is of a commercial nature or is for non-profit educational
+    purposes.
+-   The nature of the work or adaptation.
+-   The amount and substantiality of the part copied taken in relation
+    to the whole work or adaptation.
+-   The effect of the dealing upon the potential market for, or value
+    of, the work or adaptation.
+-   The possibility of obtaining the work or adaptation within a
+    reasonable time at an ordinary commercial price.
 
 Where the copying is for the specific purposes of research or study, it
 shall be taken to be a fair dealing as long as the copying limits are
@@ -481,30 +461,27 @@ of the work is required.
 
 It is further not an infringement to a work if a person:
 
--  Does anything which is the copyright owner's exclusive right to do if
-   it is done for the purposes of judicial proceeding or of a report of
-   a judicial proceeding, or seeking professional advice from an
-   advocate and solicitor, or the giving of professional advice by an
-   advocate and solicitor..
-
--  Makes a reproduction of a work, or of a computer program being an
-   adaptation of the work, that he owns, which the reproduction is made
-   by him, or on his behalf, for the purpose of using that duplicate
-   copy in lieu of the original copy in the event that the original copy
-   is lost, destroyed or rendered unusable
-
--  Decompiles a computer programme expressed in a low level language
-   where it is necessary to achieve the objective of obtaining the
-   information necessary to create an independent computer program which
-   can be operated with the computer program decompiled or with another
-   computer program and the information so obtained is not used for any
-   other purpose.
-
--  Observes, studies or tests the functioning of a computer programme in
-   order to determine the ideas and principles which underlie any
-   element of the computer program, if he does so while performing any
-   of the acts of loading, displaying, running, transmitting or storing
-   the computer program which he is entitled to do.
+-   Does anything which is the copyright owner's exclusive right to do
+    if it is done for the purposes of judicial proceeding or of a report
+    of a judicial proceeding, or seeking professional advice from an
+    advocate and solicitor, or the giving of professional advice by an
+    advocate and solicitor..
+-   Makes a reproduction of a work, or of a computer program being an
+    adaptation of the work, that he owns, which the reproduction is made
+    by him, or on his behalf, for the purpose of using that duplicate
+    copy in lieu of the original copy in the event that the original
+    copy is lost, destroyed or rendered unusable
+-   Decompiles a computer programme expressed in a low level language
+    where it is necessary to achieve the objective of obtaining the
+    information necessary to create an independent computer program
+    which can be operated with the computer program decompiled or with
+    another computer program and the information so obtained is not used
+    for any other purpose.
+-   Observes, studies or tests the functioning of a computer programme
+    in order to determine the ideas and principles which underlie any
+    element of the computer program, if he does so while performing any
+    of the acts of loading, displaying, running, transmitting or storing
+    the computer program which he is entitled to do.
 
 **Infringement of subject matter other than works**
 
@@ -516,7 +493,6 @@ These include:
     the licence of the owner of the copyright, does in Singapore, or
     authorises the doing in Singapore of, any act comprised in the
     copyright
-
 (b) Where a person, without the licence of the owner of the copyright,
     imports an article into Singapore and sells, lets for hire, or by
     way of trade offers or exposes for sale or hire, the article, or
@@ -526,7 +502,6 @@ These include:
     where he knows, or ought reasonably to know, that the making of the
     article was carried out without the consent of the owner of the
     copyright
-
 (c) Where a person who, in Singapore, and without the licence of the
     owner of the copyright, distributes an article and sells, lets for
     hire, or by way of trade offers or exposes for sale or hire the
@@ -548,20 +523,16 @@ In determining whether a fair dealing with a subject matter other than
 works is established, a court would look into the following factors,
 namely:
 
--  The purpose and character of the dealing, including whether such
-   dealing is of a commercial nature or is for non-profit educational
-   purposes
-
--  The nature of the audio-visual item
-
--  The amount and substantiality of the part copied taken in relation to
-   the whole audio-visual item
-
--  The effect of the dealing upon the potential market for, or value of,
-   the audio-visual item
-
--  The possibility of obtaining the audio-visual item within a
-   reasonable time at an ordinary commercial price
+-   The purpose and character of the dealing, including whether such
+    dealing is of a commercial nature or is for non-profit educational
+    purposes
+-   The nature of the audio-visual item
+-   The amount and substantiality of the part copied taken in relation
+    to the whole audio-visual item
+-   The effect of the dealing upon the potential market for, or value
+    of, the audio-visual item
+-   The possibility of obtaining the audio-visual item within a
+    reasonable time at an ordinary commercial price
 
 An example of when a fair dealing may be done with a subject matter
 other than a work, would be where the purpose is for research and study.
@@ -577,31 +548,27 @@ acknowledgment of the first-mentioned audio-visual item is required.
 It is further not an infringement to a subject matter other than a work
 if:
 
--  Where **50 years** or more has lapsed since the making of a sound
-   recording or cinematograph film, and such sound recording or
-   cinematograph film has never been published and is kept in the
-   collection of a library or archives where it is, subject to any
-   regulations governing that collection, accessible to the public, then
-   a person may make a copy or make a communication of the sound
-   recording for the purpose of research or study or with a view to
-   publication.
+-   Where **50 years** or more has lapsed since the making of a sound
+    recording or cinematograph film, and such sound recording or
+    cinematograph film has never been published and is kept in the
+    collection of a library or archives where it is, subject to any
+    regulations governing that collection, accessible to the public,
+    then a person may make a copy or make a communication of the sound
+    recording for the purpose of research or study or with a view to
+    publication.
+-   Where for the purposes of preservation/replacement of the sound
+    recording or cinematograph film that forms, or formed, part of the
+    collection of a library or archives, making a copy is necessary to
+    preserve against loss or deterioration or for the purpose of
+    research or is necessary to replace because of damage,deterioration
+    or has been lost or stolen.
+-   Where a filming or recording is made of broadcasts or programmes for
+    private and domestic use
+-   Where a record is made of a sound broadcast or a cinematograph film
+    of a television broadcast or of a cable programme for educational
+    purposes.
 
--  Where for the purposes of preservation/replacement of the sound
-   recording or cinematograph film that forms, or formed, part of the
-   collection of a library or archives, making a copy is necessary to
-   preserve against loss or deterioration or for the purpose of research
-   or is necessary to replace because of damage,deterioration or has
-   been lost or stolen.
-
--  Where a filming or recording is made of broadcasts or programmes for
-   private and domestic use
-
--  Where a record is made of a sound broadcast or a cinematograph film
-   of a television broadcast or of a cable programme for educational
-   purposes.
-
-Remedies Available To Copyright Owners
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Remedies Available To Copyright Owners
 
 Where there has been an infringement of the copyright of the owner, that
 person (or an authorised person in whom the copyright priviliges have
@@ -609,51 +576,39 @@ been assigned) may take legal action in a court to obtain the following
 remedies:
 
 (a) An injunction
-
 (b) Damages
-
 (c) An account of profits
-
 (d) Where the plaintiff has elected for an award of statutory damages in
     lieu of damages or an account of profits, statutory damages of:
-
-(i) Not more than $10,000 for each work or subject-matter in respect of
+(e) Not more than \$10,000 for each work or subject-matter in respect of
     which
 
     the copyright has been infringed
 
-(i) Not more than $200,000 in the aggregate, unless the plaintiff proves
-    that
+(f) Not more than \$200,000 in the aggregate, unless the plaintiff
+    proves that
 
-    his actual loss from such infringement exceeds $200,000
+    his actual loss from such infringement exceeds \$200,000
 
 **Factors in Determining Statutory Damages**
 
 In determining the amount of statutory damages, the court is to consider
 these factors:
 
--  The nature and purpose of the infringing act, including whether the
-   infringing act was of a commercial nature or otherwise
-
--  The flagrancy of the infringement
-
--  Whether the defendant acted in bad faith
-
--  Any loss that the plaintiff has suffered or is likely to suffer by
-   reason of the infringement
-
--  Any benefit shown to have accrued to the defendant by reason of the
-   infringement
-
--  Conduct of both parties before and during proceedings
-
--  The need to deter other similar infringements
-
--  Any other relevant matters
-
+-   The nature and purpose of the infringing act, including whether the
+    infringing act was of a commercial nature or otherwise
+-   The flagrancy of the infringement
+-   Whether the defendant acted in bad faith
+-   Any loss that the plaintiff has suffered or is likely to suffer by
+    reason of the infringement
+-   Any benefit shown to have accrued to the defendant by reason of the
+    infringement
+-   Conduct of both parties before and during proceedings
+-   The need to deter other similar infringements
+-   Any other relevant matters
 
 Criminal Offences under Copyright Law
-----------------------------------------
+-------------------------------------
 
 In Singapore, criminal offences under copyright law include the
 following:
@@ -662,7 +617,6 @@ following:
     way of trade offers or exposes for sale or hire, or by way of trade
     exhibits in public, any infringing copy of a work protected by
     copyright.
-
 (b) Where a person imports into Singapore an article which is an
     infringing copy of a work protected by copyright for the purpose of
     selling, letting for hire, or by way of trade offering or exposing
@@ -670,16 +624,13 @@ following:
     purpose of trade or for any other purpose to an extent that will
     affect prejudicially the owner of the copyright in the work, or by
     way of trade exhibiting the article in public
-
 (c) Where a person, at a time when copyright subsists in a work
     distributes such a work for the purposes of trade or for other
     purposes but to such an extent as to affect prejudicially the owner
     of the copyright
-
 (d) Where a person, at a time when copyright subsists in a work, makes
     or has in his possession an article specifically designed or adapted
     for making copies of the work
-
 (e) Where a person for his private profit causes a literary, dramatic or
     musical work to be performed in public, or causes a cinematograph
     film to be seen or heard or seen and heard in public, other than by
@@ -692,30 +643,26 @@ copies.
 The penalties imposed for an offence committed under either parts (a) or
 (b) above is:
 
--  A fine not exceeding $10,000 for the article or for each article in
-   respect of which the offence was committed or $100,000, whichever is
-   the lower; and/or
-
--  Imprisonment for a term not exceeding 5 years
+-   A fine not exceeding \$10,000 for the article or for each article in
+    respect of which the offence was committed or \$100,000, whichever
+    is the lower; and/or
+-   Imprisonment for a term not exceeding 5 years
 
 The penalties imposed for an offence committed under part (c) above is:
 
--  A fine not exceeding $50,000; and/or
-
--  Imprisonment for a term not exceeding 3 years
+-   A fine not exceeding \$50,000; and/or
+-   Imprisonment for a term not exceeding 3 years
 
 The penalties imposed for an offence committed under part (d) above is:
 
--  A fine not exceeding $20,000 for each such article in respect of
-   which the offence is committed; and/or
-
--  Imprisonment for a term not exceeding 2 years
+-   A fine not exceeding \$20,000 for each such article in respect of
+    which the offence is committed; and/or
+-   Imprisonment for a term not exceeding 2 years
 
 The penalties imposed for an offence committed under part (e) above is:
 
--  A fine not exceeding $20,000; and/or
-
--  Imprisonment for a term not exceeding 2 years
+-   A fine not exceeding \$20,000; and/or
+-   Imprisonment for a term not exceeding 2 years
 
 The law provides that where any person has in his possession five or
 more infringing copies of any work or other subject-matter, unless
@@ -723,8 +670,7 @@ otherwise proven, is presumed that the possession of the infringing
 copies was not for private and domestic use or that such possession was
 for the purpose of sale.
 
-Criminal liability for wilful infringement
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Criminal liability for wilful infringement
 
 It is also a criminal offence if a person wilfully infringes copyright
 for the purpose of obtaining a commercial advantage and/or to the extent
@@ -740,21 +686,18 @@ relevant matters.
 
 The penalties for such wilful copyright infringement are:
 
--  1st offence, a fine not exceeding $20,000 and/or imprisonment for a
-   term not exceeding 6 months, **or**
-
--  2nd or subsequent offence, a fine not exceeding $50,000 and/or
-   imprisonment for a term not exceeding 3 years.
+-   1st offence, a fine not exceeding \$20,000 and/or imprisonment for a
+    term not exceeding 6 months, **or**
+-   2nd or subsequent offence, a fine not exceeding \$50,000 and/or
+    imprisonment for a term not exceeding 3 years.
 
 **Other acts that have civil and criminal liabilities include:**
 
--  Circumventing a technological measure; and
+-   Circumventing a technological measure; and
+-   Removing or altering the rights management information
+    electronically attached to a work.
 
--  Removing or altering the rights management information electronically
-   attached to a work.
-
-Circumvention of technological measures
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Circumvention of technological measures
 
 Copyright owners employ certain technological measures to prevent or
 restrict unauthorized access to their digital copyright works. Given the
@@ -765,30 +708,43 @@ copyright.
 
 The owner of a copyright work may take action against a person who:
 
-a) Knowingly circumvents a technological access control measure put in place.
+a)  Knowingly circumvents a technological access control measure put in
+    place.
+b)  Manufactures, imports, distributes, offers to the public, provides
+    or otherwise traffics in any device, product or component which:
 
-b) Manufactures, imports, distributes, offers to the public, provides or
-   otherwise traffics in any device, product or component which:
+<!-- -->
 
-i.   Is promoted, advertised or marketed for the purpose of
-     circumventing the technological measure
-
-ii.  Has limited commercial significance other than to circumvent the
-     technological measure, or
-
+i.  Is promoted, advertised or marketed for the purpose of circumventing
+    the technological measure
+ii. Has limited commercial significance other than to circumvent the
+    technological measure, or
 iii. Is designed or made primarily for the purpose of circumventing the
-     technological measure
+    technological measure
 
-a) Offers to the public or provides any service which:
+<!-- -->
 
-i.   Is promoted, advertised or marketed for the purpose of
-         circumventing the technological measure
+a)  Offers to the public or provides any service which:
 
-ii.  Has limited commercial significance other than to circumvent the
-         technological measure, or
+<!-- -->
 
-iii. Is performed primarily for the purpose of circumventing the
-         technological measure
+i.  
+
+    Is promoted, advertised or marketed for the purpose of
+
+    :   circumventing the technological measure
+
+ii. 
+
+    Has limited commercial significance other than to circumvent the
+
+    :   technological measure, or
+
+iii. 
+
+    Is performed primarily for the purpose of circumventing the
+
+    :   technological measure
 
 Circumvent means to avoid, bypass, remove, deactivate, descramble (where
 the copy is scrambled), decrypt (where the copy is encrypted) or
@@ -798,11 +754,11 @@ otherwise impair.
 
 Where a person contravenes part (a) above wilfully and for the purpose
 of obtaining any commercial advantage or private financial gain, if
-convicted, he shall be liable to a fine not exceeding $20,000.
+convicted, he shall be liable to a fine not exceeding \$20,000.
 
 Where a person contravenes part (b) or (c) above wilfully and for the
 purpose of obtaining any commercial advantage or private financial gain,
-if convicted, he shall be liable to a fine not exceeding $20,000 and/or
+if convicted, he shall be liable to a fine not exceeding \$20,000 and/or
 imprisonment for a term not exceeding 2 years.
 
 For the purposes of (b)(i) and (c)(i) above, the contravention is not
@@ -826,57 +782,49 @@ of it, primarily for the purpose of circumventing the technological
 measure.
 
 Civil Remedies under Copyright Law
---------------------------------------
+----------------------------------
 
 The owner of the copyright may commence a civil action against a person
 who contravenes any of the sections above.
 
 Civil remedies available include:
 
--  Injunction
+-   Injunction
+-   Either:
 
--  Either:
+    > a.  Damages; **or**
+    > b.  Statutory damages in lieu of damages of not more than \$20,000
 
-    a. Damages; **or**
-
-    b. Statutory damages in lieu of damages of not more than $20,000
-
--  Order for delivery up of any articles used to carry out the
-   prohibited act to the copyright owner, **or**
-
--  Order for destruction.
+-   Order for delivery up of any articles used to carry out the
+    prohibited act to the copyright owner, **or**
+-   Order for destruction.
 
 *Please see also the considerations by the Court in awarding statutory
 damages on the IPOS website.*
 
-Exceptions to Prohibition on Circumvention of Technological Access Control Measures
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Exceptions to Prohibition on Circumvention of Technological Access Control Measures
 
 The Copyright Act provides for exceptions where the circumvention of a
 technological measure which effectively controls access to a work is not
 a contravention. These include acts done:
 
--  To enable a non-profit library, any non-profit archives, an
-   educational institution, an institution assisting
-   handicapped/intellectually handicapped readers to have access to a
-   copyright work which is not otherwise available to the library,
-   archives or institution, for the sole purpose of making acquisition
-   decisions.
-
--  For undertaking research on encryption technology.
-
--  For the sole purpose of achieving inter-operability of an
-   independently created computer program with another computer program.
-
--  For the sole purpose of testing, investigating or correcting a
-   security flaw or vulnerability of a computer, computer system or
-   network.
-
--  For the sole purpose of preventing access by minors to any material
-   on the Internet, **or**
-
--  For the purpose of law enforcement, intelligence, national defence,
-   essential security or other similar purpose.
+-   To enable a non-profit library, any non-profit archives, an
+    educational institution, an institution assisting
+    handicapped/intellectually handicapped readers to have access to a
+    copyright work which is not otherwise available to the library,
+    archives or institution, for the sole purpose of making acquisition
+    decisions.
+-   For undertaking research on encryption technology.
+-   For the sole purpose of achieving inter-operability of an
+    independently created computer program with another computer
+    program.
+-   For the sole purpose of testing, investigating or correcting a
+    security flaw or vulnerability of a computer, computer system or
+    network.
+-   For the sole purpose of preventing access by minors to any material
+    on the Internet, **or**
+-   For the purpose of law enforcement, intelligence, national defence,
+    essential security or other similar purpose.
 
 Right Management Information (RMI)
 ----------------------------------
@@ -887,39 +835,42 @@ including the terms and conditions relating to its use.
 
 Where RMI in electronic form:
 
--  Is attached to or embodied in a copy of a work or other
-   subject-matter in which copyright subsists or a recording of a
-   performance, **or**
-
--  Appears in connection with the communication or making available to
-   the public of a copy of a work or other subject-matter or a recording
-   of a performance
+-   Is attached to or embodied in a copy of a work or other
+    subject-matter in which copyright subsists or a recording of a
+    performance, **or**
+-   Appears in connection with the communication or making available to
+    the public of a copy of a work or other subject-matter or a
+    recording of a performance
 
 An action may be brought by the owner or exclusive licensee of the
 copyright or the performer against a person who does any of the
 following acts:
 
-a) Knowingly removes or alters the RMI relating to any work or other
-   subject-matter or recording of a performance.
+a)  Knowingly removes or alters the RMI relating to any work or other
+    subject-matter or recording of a performance.
+b)  Distributes or imports for distribution the rights management
+    information relating to any work or other subject-matter or any
+    recording of a performance, being rights management information
+    which has been altered without the consent of:
 
-b) Distributes or imports for distribution the rights management
-   information relating to any work or other subject-matter or any
-   recording of a performance, being rights management information which
-   has been altered without the consent of:
+<!-- -->
 
-(i)  The owner or exclusive licensee of the copyright in the work or
-     subject-matter, **or**
-
+(i) The owner or exclusive licensee of the copyright in the work or
+    subject-matter, **or**
 (ii) The performer of the performance; **or**
 
-a) Distributes, imports for distribution, communicates or makes
-   available to the public copies of a work or other subject-matter or a
-   recording of a performance in respect of which the rights management
-   information has been removed or altered without the consent of:
+<!-- -->
 
-(i)  The owner or exclusive licensee of the copyright in the work or
-     subject matter; **or**
+a)  Distributes, imports for distribution, communicates or makes
+    available to the public copies of a work or other subject-matter or
+    a recording of a performance in respect of which the rights
+    management information has been removed or altered without the
+    consent of:
 
+<!-- -->
+
+(i) The owner or exclusive licensee of the copyright in the work or
+    subject matter; **or**
 (ii) The performer of the performance
 
 and the person performing any of the above acts knows or ought
@@ -930,8 +881,7 @@ or an unauthorised use of the performance.
 Copyright and the Internet
 --------------------------
 
-Copyright Materials on the Internet
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Copyright Materials on the Internet
 
 All copyright materials are entitled to the same protection, regardless
 of whether they are sent over the Internet or stored on web servers. The
@@ -947,8 +897,7 @@ evidence will facilitate proof of copyright should there be a need to
 enforce the copyright against a third party. *Please refer to the symbol
 © and proving originality of work.*
 
-Webpages
-~~~~~~~~
+### Webpages
 
 Generally, a webpage is considered subject matter that is entitled to
 copyright protection. Individual works (e.g. original music, original
@@ -959,15 +908,13 @@ If you wish to hyperlink to a website, it is good practice to check the
 terms and conditions of use of the website and the terms and conditions
 of use of the works.
 
-Downloading Materials from the Internet
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Downloading Materials from the Internet
 
 Downloading materials from the Internet may constitute a copyright
 infringement because copying is involved. However, the mentioned
 exceptions may apply.
 
-Browsing
-~~~~~~~~
+### Browsing
 
 When users browse (view, listen or utilize) copyright works made
 available over the Internet, a transient and incidental electronic copy
@@ -983,29 +930,25 @@ transient reproduction of the work.
 
 The exception applies only if:
 
--  The reproduction is made incidentally as part of the technical
-   process of making or receiving a communication, **and**
-
--  The act of making the communication itself does not constitute an
-   infringement.
+-   The reproduction is made incidentally as part of the technical
+    process of making or receiving a communication, **and**
+-   The act of making the communication itself does not constitute an
+    infringement.
 
 This exception shall NOT apply if the reproduction of the copyright work
 that is communicated is:
 
--  An infringing copy of the work, **or**
+-   An infringing copy of the work, **or**
+-   A reproduction that, if it had been made in Singapore, would have
+    been an infringing copy of the copyright work.
 
--  A reproduction that, if it had been made in Singapore, would have
-   been an infringing copy of the copyright work.
-
-Email Forwarding
-~~~~~~~~~~~~~~~~
+### Email Forwarding
 
 Generally, forwarding an email which contains copyright material without
 the consent of the copyright owner is an infringement because copying is
 involved.
 
-Liability of Network Service Providers (NSPs)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Liability of Network Service Providers (NSPs)
 
 NSPs provide Internet access services and facilities for communication
 across networks, as well as for storage of data. As such, they are the
@@ -1021,14 +964,13 @@ NSPs should complete the relevant form on the IPOS website to notify
 IPOS of all designated representatives together with prescribed
 information thereof, to be listed in the Directory of NSPs administered
 and maintained by IPOS. The completed form can be submitted by hand,
-mailed, faxed or emailed to IPOS. An administrative fee of $32 will
+mailed, faxed or emailed to IPOS. An administrative fee of \$32 will
 apply.
 
-Commonly Asked Questions on Copyright [222]_
---------------------------------------------
+Commonly Asked Questions on Copyright[^4]
+-----------------------------------------
 
-**COPYRIGHT ISSUES AT THE WORKPLACE**\  [223]_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **COPYRIGHT ISSUES AT THE WORKPLACE**[^5]
 
 **Can I forward emails and file attachments from external parties to my
 colleagues?**
@@ -1062,11 +1004,10 @@ the scope of permitted use.
 
 **I am writing a proposal for my company. Can I:**
 
--  **Insert images from websites or clipart from legally purchased
-   software in my proposal?**
-
--  **Annex copies of newspaper/magazine/journal articles to my
-   proposal?**
+-   **Insert images from websites or clipart from legally purchased
+    software in my proposal?**
+-   **Annex copies of newspaper/magazine/journal articles to my
+    proposal?**
 
 Copyright in images and clipart includes the right to make copies.
 Making copies without the copyright owner’s permission by using them in
@@ -1082,10 +1023,9 @@ dealing". Alternatively, you can annex the actual articles, as clipped
 from the newspaper/magazine/journal, to your proposal without making
 copies.
 
-
-*\ During my presentation at the department meeting, can I screen the
+*During my presentation at the department meeting, can I screen the
 opening scene from an original movie DVD to grab my colleagues'
-attention? The scene takes only 1 minute.**
+attention? The scene takes only 1 minute.*\*
 
 Owning an original movie DVD allows you to enjoy the movie privately in
 a domestic setting. However, only the copyright owner of a movie has the
@@ -1125,11 +1065,10 @@ invitation cards and publicity material.
 **My company engaged a vendor to give us training. Since we paid for the
 training, can we:**
 
--  **Make copies of the materials and distribute them to staff who did
-   not attend the training?**
-
--  **Make a video-recording of the training sessions to show the staff
-   who did not attend the training?**
+-   **Make copies of the materials and distribute them to staff who did
+    not attend the training?**
+-   **Make a video-recording of the training sessions to show the staff
+    who did not attend the training?**
 
 As original training materials are protected by copyright, they can only
 be reproduced with the permission of the copyright owner or if it is a
@@ -1204,7 +1143,6 @@ own the copyright in the photos but that your clients can use the photos
 for certain purposes; or that your clients own the copyright but you
 have the license to reproduce the photos in your website and brochures.
 
-
 **I own a music CD retail shop. To promote the latest music CDs, I often
 play them in my shop. I was told recently that I may be infringing
 copyright. Is this true? If so, what should I do?**
@@ -1244,7 +1182,7 @@ and find it more cost- and time-effective to negotiate a private
 settlement out of court. Parties may also wish to engage a mediator in
 their talks. Mediation services are provided by the Singapore Mediation
 Centre. For more information, please visit the Singapore Mediation
-Centre website (http://www.mediation.com.sg/).
+Centre website (<http://www.mediation.com.sg/>).
 
 **If my employee infringes copyright, e.g. while at work, he illegally
 uploads music to the Internet, as the employer, am I also responsible
@@ -1264,7 +1202,6 @@ Practically, an employer should foster a working environment that
 respects intellectual property rights to minimize the risk (please refer
 to the next FAQ).
 
-
 **As an employer, what can I do to ensure that my employees do not
 infringe copyright?**
 
@@ -1282,7 +1219,7 @@ benefits everybody.
 
 For more ideas, you can visit the Business Software Alliance's homepage
 or its dedicated Software Asset Management (SAM) site
-(http://ww2.bsa.org/country.aspx?sc\_lang=en-US-SG).
+([http://ww2.bsa.org/country.aspx?sc\\\_lang=en-US-SG](http://ww2.bsa.org/country.aspx?sc\_lang=en-US-SG)).
 
 **I own a graphics design firm. I am told that I can exploit the
 copyright in my works by licensing it to other companies. How should I
@@ -1295,8 +1232,7 @@ mileage from your copyright (another way is to sell it outright).
 As copyright is a private right, it is up to you and your potential
 licensees to negotiate the terms of the licence.
 
-**COPYRIGHT ISSUES AT HOME**\  [224]_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **COPYRIGHT ISSUES AT HOME**[^6]
 
 **We are throwing a housewarming party at our new home. Can we copy the
 map showing the location of our home and print it on our invitation
@@ -1312,11 +1248,11 @@ for you to draw your own map to use in the invitation cards.
 
 **(b) Show it during a party?**
 
-(a) Yes, you can do so for your own private and domestic use. This is an
+\(a) Yes, you can do so for your own private and domestic use. This is an
 exception recognised under our copyright law (s114 of the Copyright
 Act).
 
-(b) You may do so if the viewing of the programme at a party or other
+\(b) You may do so if the viewing of the programme at a party or other
 gathering is regarded as your private and domestic use.
 
 What is private and domestic use often depends on the facts. For
@@ -1337,11 +1273,11 @@ As an alternative, you may instead choose to watch the actual television
 broadcast or cablecast during the party. This is allowed under our
 copyright law if the audience is non-paying.
 
-**Can I invite my friends and relatives to my house to watch a movie if:**
+**Can I invite my friends and relatives to my house to watch a movie
+if:**
 
--  **I have bought the original movie DVD?**
-
--  **I rented the DVD from a rental store?**
+-   **I have bought the original movie DVD?**
+-   **I rented the DVD from a rental store?**
 
 In general, our copyright law recognises that the copyright owner, not
 the consumer, has the exclusive right to cause the movie to be seen in
@@ -1362,12 +1298,12 @@ allows you to enjoy the movie privately in a domestic setting.
 event is open only to the residents and their guests (max. 2 per
 resident), and is free.**
 
-    **(a) Before the talk, can I play some tracks from original music
-    CDs to set the mood?**
+> **(a) Before the talk, can I play some tracks from original music CDs
+> to set the mood?**
 
 **(b) During the talk, can I screen excerpts from original DVDs I own?**
 
-(a) Generally, you are free to play original music CDs in a private and
+\(a) Generally, you are free to play original music CDs in a private and
 domestic setting. However, you cannot do so in a public setting without
 a license from the relevant copyright owners, because only the copyright
 owners of the sheet music and lyrics of the tracks in the CDs have the
@@ -1399,7 +1335,7 @@ Alternatively, you can choose to simply connect the PA system to a local
 radio station playing music appropriate for your event instead of
 playing CDs. Doing so is allowed under our copyright law.
 
-(b) Similar to part (a). If you are uncertain whether a screening is
+\(b) Similar to part (a). If you are uncertain whether a screening is
 public, it is advisable to check that the copyright owner agrees .
 
 The above issue is a concern even though you only plan to screen movie
@@ -1447,8 +1383,8 @@ destroyed or unusable. This exception applies even if the copyright
 owner states otherwise in the terms and conditions of use (s39 of the
 Copyright Act).
 
-
-* Can music, songs, videos and movies from my original CDs/VCDs/DVDs:**
+-   Can music, songs, videos and movies from my original
+    CDs/VCDs/DVDs:\*\*
 
 **(a) Be copied into other storage media?**
 
@@ -1567,19 +1503,15 @@ legitimate. If you do not receive a clear and satisfactory response from
 the people responsible for putting up the content, it is best to avoid
 watching it.
 
-**COPYRIGHT AND THE INTERNET**\  [225]_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **COPYRIGHT AND THE INTERNET**[^7]
 
 **I like surfing the Internet and visiting personal websites and blogs.
 I found something interesting on someone else's personal website/blog.**
 
 (a) **Can I quote it on my personal website?**
-
 (b) **Can I link to the other person’s personal website/blog?**
-
 (c) **Can I take screen shots of the website/blog and place it on my
     personal website?**
-
 (d) **Can I forward part of the text by email to other people?**
 
 Original website/blog content is protected by copyright. You generally
@@ -1616,13 +1548,13 @@ using the link on your website/blog (s31 of the Copyright Act).
 **I am an avid blogger who blogs on many subjects. I have a comments
 section so that readers may post their thoughts.**
 
-    **(a) I would like to let other people use the content on my blog.
-    Can I license it?**
+> **(a) I would like to let other people use the content on my blog. Can
+> I license it?**
+>
+> **(b) If a reader comments on my blog, does it mean she has licensed
+> the rights to me?**
 
-    **(b) If a reader comments on my blog, does it mean she has licensed
-    the rights to me?**
-
-(a) You can certainly control how your copyright material is used. There
+\(a) You can certainly control how your copyright material is used. There
 are many ways to exercise this control as a copyright owner, so you
 should give it some thought and then communicate your policy clearly on
 your blog.
@@ -1636,9 +1568,9 @@ Under what circumstances?
 There is no fixed format for a license. For some ideas, Creative Commons
 (CC), a non-profit organisation, offers a range of flexible copyright
 licenses for creative works. You may consider adopting one of CC’s
-licences if it suits your needs (see http://creativecommons.org).
+licences if it suits your needs (see <http://creativecommons.org>).
 
-(b) It depends on the policy you adopt for your blog. If a reader leaves
+\(b) It depends on the policy you adopt for your blog. If a reader leaves
 a comment, there is at least an implied licence that she allows her
 comment to be viewed on your blog. If you intend to use your readers’
 comments beyond this, you should state so clearly on your blog. After
@@ -1698,8 +1630,8 @@ to decide whether on the evidence you have genuinely uploaded relevant
 parts of the material for the purpose of criticism or review such that
 the exception applies.
 
-
-* Can music, songs, videos and movies from my original CDs/VCDs/DVDs:**
+-   Can music, songs, videos and movies from my original
+    CDs/VCDs/DVDs:\*\*
 
 **(a) Be uploaded onto my personal website/blog?**
 
@@ -1855,16 +1787,14 @@ not your friend, unless their contract states otherwise. In the latter
 case, your friend will have no right to “agree” to you uploading the
 photograph onto your website/blog.
 
-**COPYRIGHT FOR EDUCATORS**\  [226]_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **COPYRIGHT FOR EDUCATORS**[^8]
 
 Copyright impacts educators significantly. This is because educators
 often use copyright works for purposes of teaching. IPOS has prepared a
 special Copyright Infosheet just for educators which is accessible at
-this link [227]_.
+this link[^9].
 
-**OTHERS**\  [228]_
-~~~~~~~~~~~~~~~~~~~
+### **OTHERS**[^10]
 
 **If I use copyright work, can I acknowledge the source of the work
 (i.e. with a footnote or in a bibliography) instead of seeking the
@@ -1883,7 +1813,7 @@ will not infringe copyright if you express in your own words the
 information or ideas presented in the article.
 
 Trade Marks
---------------
+-----------
 
 A trade mark is a sign that you can use to distinguish your business’
 goods or services from those of other traders.
@@ -1891,13 +1821,11 @@ goods or services from those of other traders.
 **The conditions are:**
 
 (a) The sign that can be represented graphically, **and**
-
 (b) The sign must be capable of distinguishing the goods or services
     dealt with or provided in the course of trade by a person from goods
     or services so dealt with or provided by any other person
 
-Benefits Of Registering A Trade Mark
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Benefits Of Registering A Trade Mark
 
 In Singapore, it is not compulsory to register a trade mark. However
 through a registered trade markyou can protect your brand (or “mark”) by
@@ -1918,8 +1846,7 @@ franchisee, or be sold sell outright for a specified value. You can also
 use a trade mark to help raise equity for the development of your
 business.
 
-Classification Of Trade Marks
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Classification Of Trade Marks
 
 Singapore uses the International Classification of Goods and Services,
 under the Nice Agreement, to classify trade mark registrations. This
@@ -1930,47 +1857,34 @@ The following can be registered as a trade mark but a mark must be
 distinctive and capable of distinguishing your goods or services from
 similar ones of other traders:
 
--  Letters
-
--  Words
-
--  Names
-
--  Signatures
-
--  Labels
-
--  Devices
-
--  Tickets
-
--  Shapes
-
--  Colours
+-   Letters
+-   Words
+-   Names
+-   Signatures
+-   Labels
+-   Devices
+-   Tickets
+-   Shapes
+-   Colours
 
 or any combination of these elements.
 
-Trade Marks That Cannot Be Registered
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Trade Marks That Cannot Be Registered
 
 The following shall not be registered:
 
 (a) Signs which do not satisfy the definition of a trade mark.
-
 (b) Trade marks which are devoid of any distinctive character.
-
 (c) Trade marks which consist exclusively of signs or indications which
     may serve, in trade, to designate the kind, quality, quantity,
     intended purpose, value, geographical origin, the time of production
     of goods or of rendering of services, or other characteristics of
     goods or services, **and**
-
 (d) Trade marks which consist exclusively of signs or indications which
     have become customary in the current language or in the bona fide
     and established practices of the trade.
 
-Trade Mark Symbols
-~~~~~~~~~~~~~~~~~~
+### Trade Mark Symbols
 
 If you successfully register a trade mark, you are permitted to use the
 ® symbol next to your mark. Another common symbol associated with trade
@@ -1981,8 +1895,7 @@ protected under the trade mark law.
 Applying to Register a Trade Mark in Singapore
 ----------------------------------------------
 
-Before applying
-~~~~~~~~~~~~~~~
+### Before applying
 
 Before you apply, you should conduct a thorough search of existing trade
 marks in the records maintained by the Registry of Trade Marks. It is
@@ -2017,50 +1930,41 @@ Paris Convention country or a World Trade Organisation member country
 (other than Singapore). The Singapore application must be filed within
 six months from the date of the first filing.
 
-Application
-~~~~~~~~~~~
+### Application
 
 In order to obtain an official filing date, the application shall:
 
--  Contain a request for the registration of a trade mark
+-   Contain a request for the registration of a trade mark
+-   State the name and address of the applicant
+-   Contain a clear representation of the trade mark
+-   List the goods or services in relation to which the applicant seeks
+    to register the trade mark **and**
+-   State:
 
--  State the name and address of the applicant
-
--  Contain a clear representation of the trade mark
-
--  List the goods or services in relation to which the applicant seeks
-   to register the trade mark **and**
-
--  State:
-
-(i)  That the trade mark is being used in the course of trade, by the
-     applicant or with his consent, in relation to those goods or
-     services, **or**
-
+(i) That the trade mark is being used in the course of trade, by the
+    applicant or with his consent, in relation to those goods or
+    services, **or**
 (ii) That the applicant has a bona fide intention that the trade mark
-     should be so used
+    should be so used
 
 Your application can be submitted as follows:
 
--  Apply and pay the appropriate fee via the IPOS eTrademarks online
-   facility; or
-
--  Download your forms at the IPOS website and send or take your
-   completed application to:
+-   Apply and pay the appropriate fee via the IPOS eTrademarks online
+    facility; or
+-   Download your forms at the IPOS website and send or take your
+    completed application to:
 
 **Registrar of Trade Marks, Registry of Trade Marks**
 
-    Intellectual Property Office of Singapore
+> Intellectual Property Office of Singapore
 
-51 Bras Basah Road, #01-01 Manulife Centre
+51 Bras Basah Road, \#01-01 Manulife Centre
 
 Singapore 189554
 
-Applying through IPOS to register a trade mark outside Singapore
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Applying through IPOS to register a trade mark outside Singapore
 
-**Before applying**
-~~~~~~~~~~~~~~~~~~~
+### **Before applying**
 
 If you wish to register a trade mark in countries outside of Singapore,
 you will have to make a separate application in accordance with the
@@ -2081,8 +1985,7 @@ international registration remains totally dependent on the validity of
 the mark that has been registered or applied for in the country of
 origin.
 
-**Filing an international application in Singapore**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **Filing an international application in Singapore**
 
 You must be a resident or national of Singapore (or have a real and
 effective industrial or commercial establishment in Singapore) if you
@@ -2114,34 +2017,32 @@ the proprietor of the trade mark, he uses in the course of trade a sign
 which is identical with the trade mark in relation to goods or services
 which are identical with those for which it is registered; or
 
--  Without the consent of the proprietor of the trade mark he uses in
-   the course of trade a sign where:
+-   Without the consent of the proprietor of the trade mark he uses in
+    the course of trade a sign where:
 
-    (a) The sign is identical with the trade mark and is used in
-    relation to goods or services similar to those for which the trade
-    mark is registered; or
+    > \(a) The sign is identical with the trade mark and is used in relation to
+    > goods or services similar to those for which the trade mark is
+    > registered; or
+    >
+    > \(b) The sign is similar to the trade mark and is used in relation to
+    > goods or services identical with or similar to those for which the trade
+    > mark is registered,
+    >
+    > there exists a likelihood of confusion on the part of the public;
+    > or
 
-    (b) The sign is similar to the trade mark and is used in relation to
-    goods or services identical with or similar to those for which the
-    trade mark is registered,
-
-    there exists a likelihood of confusion on the part of the public; or
-
--  A person infringes a registered trade mark which is well known in
-   Singapore if:
+-   A person infringes a registered trade mark which is well known in
+    Singapore if:
 
 (a) Without the consent of the proprietor of the trade mark, he uses in
     the course of trade a sign which is identical with or similar to the
     trade mark in relation to goods or services which are not similar to
     those for which the trade mark is registered;
-
 (b) The use of the trade mark in relation to those goods or services
     would indicate a connection between those goods or services and the
     proprietor;
-
 (c) There exists a likelihood of confusion on the part of the public
     because of such use; and
-
 (d) The interests of the proprietor are likely to be damaged by such
     use.
 
@@ -2149,12 +2050,12 @@ which are identical with those for which it is registered; or
 
 (a) Any registered trade mark that is well known in Singapore; or
 
-(b) Any unregistered trade mark that is well known in Singapore and that
+\(b) Any unregistered trade mark that is well known in Singapore and that
 belongs to a person who:
 
 (i) Is a national of a Convention country; **or**
 
-(ii) Is domiciled in, or has a real and effective industrial or
+\(ii) Is domiciled in, or has a real and effective industrial or
 commercial establishment
 
 in, a Convention country,
@@ -2170,11 +2071,8 @@ seek the following:**
 
 (a) An injunction (subject to such terms, if any, as the Court thinks
     fit)
-
 (b) Damages
-
 (c) An account of profits **and**
-
 (d) Statutory damages (where the infringement involves the use of a
     counterfeit trade mark in relation to goods or services).
 
@@ -2188,14 +2086,11 @@ Revocation and Invalidation of Trade Marks
     course of trade in Singapore, by the proprietor or with his consent,
     in relation to the goods or services for which it is registered, and
     there are no proper reasons for non-use.
-
 (b) Such use has been suspended for an uninterrupted period of 5 years,
     and there are no proper reasons for non-use.
-
 (c) In consequence of acts or inactivity of the proprietor, it has
     become the common name in the trade for the product or service for
     which it is registered.
-
 (d) In consequence of the use made of it by the proprietor or with his
     consent in relation to the goods or services for which it is
     registered, it is liable to mislead the public, particularly as to
@@ -2205,65 +2100,69 @@ Revocation and Invalidation of Trade Marks
 **B. A trade mark can become invalid if:**
 
 (a) There is an earlier trade mark in relation which:
+(b) Is identical and which the goods or services for which the trade
+    mark is to be registered is identical; **or**
 
-(i)   Is identical and which the goods or services for which the trade
-      mark is to be registered is identical; **or**
+<!-- -->
 
-(ii)  Is identical and which the goods or services for which the trade
-      mark is to be registered is similar and there exists a likelihood
-      of confusion on the part of the public; **or**
-
+(ii) Is identical and which the goods or services for which the trade
+    mark is to be registered is similar and there exists a likelihood of
+    confusion on the part of the public; **or**
 (iii) Is similar and which the goods or services for which the trade
-      mark is to be registered is identical and there exists a
-      likelihood of confusion on the part of the public; **or**
+    mark is to be registered is identical and there exists a likelihood
+    of confusion on the part of the public; **or**
+(iv) Before 1^st^ July 2004, is identical or similar and is to be
+    registered for goods or services which are not similar and that:
 
-(iv)  Before 1\ :sup:`st` July 2004, is identical or similar and is to
-      be registered for goods or services which are not similar and
-      that:
+<!-- -->
 
-i.   The earlier trade mark is well known in Singapore;
-
-ii.  Use of the later trade mark in relation to the goods or services
-     for which the later trade mark is sought to be registered would
-     indicate a connection between those goods or services and the
-     proprietor of the earlier trade mark;
-
+i.  The earlier trade mark is well known in Singapore;
+ii. Use of the later trade mark in relation to the goods or services for
+    which the later trade mark is sought to be registered would indicate
+    a connection between those goods or services and the proprietor of
+    the earlier trade mark;
 iii. There exists a likelihood of confusion on the part of the public
-     because of such use; and
+    because of such use; and
+iv. The interests of the proprietor of the earlier trade mark are likely
+    to be damaged by such use; or
 
-iv.  The interests of the proprietor of the earlier trade mark are
-     likely to be damaged by such use; or
+<!-- -->
 
 (i) On or after 1st July 2014, the whole or an essential part is
     identical with or similar and if:
 
-i.  The earlier trade mark is well known in Singapore; and
+<!-- -->
 
+i.  The earlier trade mark is well known in Singapore; and
 ii. Use of the later trade mark in relation to the goods or services for
     which the later trade mark is sought to be registered:
 
-a. Would indicate a connection between those goods or services and the
-   proprietor of the earlier trade mark, and is likely to damage the
-   interests of the proprietor of the earlier trade mark; or
+<!-- -->
 
-b. If the earlier trade mark is well known to the public at large in
-   Singapore:
+a.  Would indicate a connection between those goods or services and the
+    proprietor of the earlier trade mark, and is likely to damage the
+    interests of the proprietor of the earlier trade mark; or
+b.  If the earlier trade mark is well known to the public at large in
+    Singapore:
 
-A. Would cause dilution in an unfair manner of the distinctive character
-   of the earlier trade mark; or
+<!-- -->
 
-B. Would take unfair advantage of the distinctive character of the
-   earlier trade mark; or
+A.  Would cause dilution in an unfair manner of the distinctive
+    character of the earlier trade mark; or
+B.  Would take unfair advantage of the distinctive character of the
+    earlier trade mark; or
+
+<!-- -->
 
 (a) There is an earlier right in relation to which the following
     conditions are satisfied:
+(b) Its use in Singapore is liable to be prevented:
 
-(i) Its use in Singapore is liable to be prevented:
+<!-- -->
 
 i.  By virtue of any rule of law (in particular, the law of passing off)
     protecting an unregistered trade mark or other sign used in the
     course of trade; or
-
 ii. By virtue of an earlier right other than those referred to in (a)(i)
     to (iv) or (b)(i)i above, in particular by virtue of the law of
     copyright or any law with regard to the protection of designs.
@@ -2271,23 +2170,20 @@ ii. By virtue of an earlier right other than those referred to in (a)(i)
     unless the proprietor of that earlier trade mark or other earlier
     right has consented to the registration.
 
-
 Passing Off
---------------
+-----------
 
 The law of passing off aims to provide relief to traders in cases of
-deceptive business practices. Since the 19\ :sup:`th` century, the
-action of passing off has gradually expanded to cover several forms of
-deceptive misappropriation by a trader of another’s business reputation.
+deceptive business practices. Since the 19^th^ century, the action of
+passing off has gradually expanded to cover several forms of deceptive
+misappropriation by a trader of another’s business reputation.
 
 **Some examples are:**
 
--  Misrepresentation as to the quality of goods
-
--  Misrepresentation as to a connection or association between the
-   trader and his competitor, **and**
-
--  Misrepresentation as to endorsement and merchandising of the goods
+-   Misrepresentation as to the quality of goods
+-   Misrepresentation as to a connection or association between the
+    trader and his competitor, **and**
+-   Misrepresentation as to endorsement and merchandising of the goods
 
 However, courts have refused to recognise the right of a trader under
 passing off as a fully-fledged property right in the mark or sign,
@@ -2297,8 +2193,7 @@ to the sole purview of the registered trade mark regime.
 In an action of passing off, the protection extended to the goodwill
 enjoyed by the trader in his business.
 
-Passing off and trade mark
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Passing off and trade mark
 
 In Singapore, the law of passing of is expressly preserved by the Trade
 Marks Act. The 2 systems of protection co-exist. Both passing off and
@@ -2319,12 +2214,11 @@ representation or because they are devoid of any distinctive character,
 are exclusively descriptive or customary in the current language and
 would hence be refused registration.
 
-Elements
-~~~~~~~~
+### Elements
 
 The Singapore Court of Appeal has endorsed and approved the 3 elements
 of passing off as set out in the UK case of **Reckitt & Colman Products
-Ltd v Borden Inc** [1990] 1 WLR 491.
+Ltd v Borden Inc** \[1990\] 1 WLR 491.
 
 **The 3 elements are:**
 
@@ -2337,7 +2231,6 @@ Ltd v Borden Inc** [1990] 1 WLR 491.
     reputation. The former cannot subsist independently of the business
     to which it is attached while the latter may and often does exist
     without any supporting business.
-
 (b) **Misrepresentation:** There must be a misrepresentation made by the
     defendant to the public causing confusion as to the origins of the
     goods or services of the plaintiff. It does not matter even if the
@@ -2347,7 +2240,6 @@ Ltd v Borden Inc** [1990] 1 WLR 491.
     goods or services. It may also be made as to the quality of the
     goods or services or even to a business connection or association
     between the plaintiff and the defendant.
-
 (c) **Likelihood of damage:** The plaintiff must establish that he
     suffers or is likely to suffer damage by reason of the deception by
     the defendant’s misrepresentation, whether it is as to the source,
@@ -2356,44 +2248,35 @@ Ltd v Borden Inc** [1990] 1 WLR 491.
     damage of the plaintiff’s goodwill established as a matter of
     probability and not mere possibility.
 
-Remedies
-~~~~~~~~
+### Remedies
 
 The plaintiff has the following remedies:
 
 (a) Injunctions
-
 (b) Order for delivery up
-
 (c) Damages, **or**
-
 (d) Account of profits
 
-Defences
-~~~~~~~~
+### Defences
 
 When a defendant is being sued for passing off, he could rely on the
 following defences:
 
 (a) He is merely selling the plaintiff’s own goods
-
 (b) He has an independent or concurrent right to use the mark or get-up
     concerned, **or**
-
 (c) The plaintiff is prevented from suing him by estoppel, laches or
     acquiescence.
 
-
 Registered Designs
----------------------
+------------------
 
 Registered Designs are used primarily to protect designs for industrial
 use. A design refers to the features of a shape, configuration, pattern
 or ornament applied to an article by any industrial process. Registering
 a design will protect the external appearance of the article.
 
-Registration of designs
-~~~~~~~~~~~~~~~~~~~~~~~
+### Registration of designs
 
 By registering a design, you obtain a right to ownership and the right
 to prevent others from using the design without your permission. You can
@@ -2403,34 +2286,34 @@ for commercial returns or sell the design for a sum of money.
 
 To qualify for registration, a design must satisfy:
 
-(a) a “\ **design**\ ” within the meaning of the Registered Designs Act
-
-(b) the design is “\ **new**\ ”
-
-(c) the applicant is the “\ **owner of the design**\ ”, and
-
-(d) the design is to be applied to an “\ **article**\ ”
-
-(a) **A “design” within the meaning of the Registered Designs Act:**
+(a) a “**design**” within the meaning of the Registered Designs Act
+(b) the design is “**new**”
+(c) the applicant is the “**owner of the design**”, and
+(d) the design is to be applied to an “**article**”
+(e) **A “design” within the meaning of the Registered Designs Act:**
     Features of shape, configuration, pattern or ornament applied to an
     article by any industrial process, but does not include:
 
-a) A method or principle of construction; or
+<!-- -->
 
-b) Features a shape or configuration of an article which:
+a)  A method or principle of construction; or
+b)  Features a shape or configuration of an article which:
 
-(i)  are dictated solely by the function which the article has to
-     perform;
+<!-- -->
 
+(i) are dictated solely by the function which the article has to
+    perform;
 (ii) are dependent upon the appearance of another article of which the
-     article
+    article
 
-    is intended by the designer to form an integral part; or
+> is intended by the designer to form an integral part; or
 
 (i) enable the article to be connected to, or placed in, around or
     against,
 
     another article so that either article may perform its function.
+
+<!-- -->
 
 (a) **The design is “new”:** The design must not have been registered in
     Singapore or elsewhere, or published anywhere in the world, in
@@ -2440,37 +2323,31 @@ b) Features a shape or configuration of an article which:
     that are commonly found in trade. Therefore, the owner of a design
     should be careful not to disclose the design to anyone until a
     design application is filed.
-
 (b) **The applicant is the “owner of the design”:** The applicant must
     be the person who creates it or, if there are 2 or more such
     persons, each of those persons.
-
 (c) **The design is to be applied to an “article”:** The registered
     design has to be applied to an article by an industrial process.
     This means that more than 50 copies of the article must have been or
     are intended to be produced for sale or hire.
 
-Designs that cannot be registered
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Designs that cannot be registered
 
 Under the Registered Designs Act and Rules, the following cannot be
 registered:
 
--  Designs that are contrary to public order or morality
+-   Designs that are contrary to public order or morality
+-   Computer program or layout-designs
+-   Wall plaques, medals and medallionsPrinted matter primarily of a
+    literary or artistic character, including book jackets, calenders,
+    certificates, coupons, dress-making patterns, greeting cards,
+    labels, leaflets, maps, plans, playing cards, postcards, stamps,
+    trade advertisements, trade forms and cash, transfers and similar
+    articles
 
--  Computer program or layout-designs
+### Applying to register a design in Singapore
 
--  Wall plaques, medals and medallionsPrinted matter primarily of a
-   literary or artistic character, including book jackets, calenders,
-   certificates, coupons, dress-making patterns, greeting cards, labels,
-   leaflets, maps, plans, playing cards, postcards, stamps, trade
-   advertisements, trade forms and cash, transfers and similar articles
-
-Applying to register a design in Singapore
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Before application**
-^^^^^^^^^^^^^^^^^^^^^^
+#### **Before application**
 
 It is important to conduct a search of existing designs to ensure its
 registrability. You can use the IPOS eDesigns search resource and the
@@ -2478,8 +2355,7 @@ search terminals available at the IPOS Public Search area to carry out
 your search. You may also wish to check the databases of other
 countries.
 
-**When to register**
-^^^^^^^^^^^^^^^^^^^^^^
+#### **When to register**
 
 You should register your design at the earliest opportunity as the
 design registration system in Singapore operates on a first-to-file
@@ -2492,18 +2368,16 @@ another Paris Convention country or a World Trade Organisation member
 country (other than Singapore). The Singapore application must be filed
 within six months from the date of the first filing.
 
-**Application**
-^^^^^^^^^^^^^^^
+#### **Application**
 
 Download your forms at the IPOS website and send; or take your completed
 application to:
 
 | **Registry of Designs - Intellectual Property Office of Singapore**
-| 51 Bras Basah Road, #01-01 Manulife Centre, Singapore 189554
-|
+| 51 Bras Basah Road, \#01-01 Manulife Centre, Singapore 189554
+| 
 
-Term and Renewal
-^^^^^^^^^^^^^^^^
+#### Term and Renewal
 
 If your design registration is successful, you will own the design for
 an initial five years from the date of filing the registration. The
@@ -2517,10 +2391,13 @@ registration of a design gives to the registered owner the exclusive
 right:
 
 (a) To make in Singapore or import into Singapore:
+(b) For sale or hire
 
-(i)  For sale or hire
+<!-- -->
 
 (ii) For use for the purpose of trade or business
+
+<!-- -->
 
 (a) to sell, hire, or offer or expose for sale or hire, in Singapore,
 
@@ -2528,8 +2405,7 @@ any article in respect of which the design is registered and to which
 that design or a design not substantially different from it has been
 applied.
 
-Infringement
-~~~~~~~~~~~~
+### Infringement
 
 Section 30(2) of the Registered Designs Act provides that the right in a
 registered design is infringed by any person who, without the consent of
@@ -2537,14 +2413,11 @@ the registered owner and while the registration is in force:
 
 (a) Does anything which by virtue of subsection (1) is the exclusive
     right of the registered owner.
-
 (b) Makes anything for enabling any article referred to in subsection
     (1) to be made in Singapore or elsewhere.
-
 (c) Does anything in relation to a kit that would constitute an
     infringement of the design if it had been done in relation to the
     assembled article, **or**
-
 (d) Makes anything for enabling a kit to be made or assembled, in
     Singapore or elsewhere, if the assembled article would be an article
     referred to in subsection (1).
@@ -2557,16 +2430,14 @@ to that which has been registered.
 When making comparison, the whole of the shape and configuration of the
 registered design are to be taken into account.
 
-Enforcement
-~~~~~~~~~~~
+### Enforcement
 
-Under the Registered Designs Actthe plaintiff has the following remedies:
+Under the Registered Designs Actthe plaintiff has the following
+remedies:
 
-a) Injunctions
-
-b) Damages, **or**
-
-c) Account of profits
+a)  Injunctions
+b)  Damages, **or**
+c)  Account of profits
 
 Trade Secrets and Confidential Information
 ------------------------------------------
@@ -2597,15 +2468,12 @@ consider the following:
 
 (a) The information must have the necessary quality of confidence about
     it.
-
 (b) The information must have been imparted in circumstances importing
     an obligation of confidence.
-
 (c) There must be an unauthorised use of the information to the
     detriment of the party communicating it.
 
-Confidential Information
-~~~~~~~~~~~~~~~~~~~~~~~~
+### Confidential Information
 
 To have the “necessary quality of confidence”, the information must not
 already be available to the public at large. It does not have to be new,
@@ -2622,22 +2490,18 @@ and therefore protectable if:
 
 (a) The owner of the information believes that the release of the
     information would be injurious to him or of advantage to his rivals.
-
 (b) The owner believes the information to be confidential or secret and
     not already in the public domain.
-
 (c) The owner’s belief in respect of (a) and (b) above is reasonable,
     **and**
-
 (d) The information must be judged in the light of usages and practices
-    of the particular trade or industry concerned [229]_.
+    of the particular trade or industry concerned[^11].
 
 In an action for breach of confidence, the owner must clearly and
 specifically identify the confidential information that is alleged to
-have been wrongly disclosed or used by the defendant  [230]_.
+have been wrongly disclosed or used by the defendant[^12].
 
-Confidential Obligation
-~~~~~~~~~~~~~~~~~~~~~~~
+### Confidential Obligation
 
 The obligation can arise by contract or by implication of law, such as
 where there is a duty of good faith as in the relationship between a
@@ -2655,43 +2519,38 @@ employment, except trade secrets and information covered by the express
 term of his employment contract. Whether the information is to be
 regarded as a trade secret depends on such factors as:
 
-a) The nature of the employment.
+a)  The nature of the employment.
+b)  The nature of the information itself.
+c)  Whether the employer impressed on the employee the confidentiality
+    of the information, **and**
+d)  Whether the relevant information can be easily isolated from other
+    information which the employee is free to disclose[^13].
 
-b) The nature of the information itself.
-
-c) Whether the employer impressed on the employee the confidentiality of
-   the information, **and**
-
-d) Whether the relevant information can be easily isolated from other
-   information which the employee is free to disclose [231]_.
-
-Unauthorised Use
-~~~~~~~~~~~~~~~~
+### Unauthorised Use
 
 A person who has acquired confidential information under confidential
 circumstances is under an obligation not to disclose or use the
 information. Whether there is such an obligation on him depends on if it
 is conscionable for a recipient of confidential information to disclose
-or use the information in the circumstances in question [232]_. The test
+or use the information in the circumstances in question[^14]. The test
 is objective. He is liable even if he does not appreciate the
-confidentiality of the information [233]_, has no intention to take
+confidentiality of the information[^15], has no intention to take
 advantage of the information **(Interfirm Comparisons v Law Society of
-New South Wales** [1977] RPC 137 [234]_), or uses the information
-“subconsciously” [235]_ ().
+New South Wales** \[1977\] RPC 137[^16]), or uses the information
+“subconsciously”[^17] ().
 
 A third party to whom confidential information has been wrongfully
 disclosed would not be liable for disclosing or using the information if
 he is a bona fide purchaser for value without notice of the
-confidentiality of the information ( [236]_). But once he knows that the
+confidentiality of the information ([^18]). But once he knows that the
 information was originally given in confidence, he can be restrained
-from disclosing or using the information [237]_ ().
+from disclosing or using the information[^19] ().
 
 Unauthorised disclosure is allowed if it is in the public interest or
 there is a just cause or excuse (e.g. to prevent cover-up of a
-wrongdoing) [238]_.
+wrongdoing)[^20].
 
-Remedies
-~~~~~~~~
+### Remedies
 
 Where the requirements are established, the owner of the confidential
 information can apply to the court for an interlocutory and final
@@ -2706,21 +2565,18 @@ The best way of protecting confidential information is to make sure that
 no one else knows the information. Ways to protect the confidentiality
 of information include:
 
--  Only allowing certain people to access such confidential information.
+-   Only allowing certain people to access such confidential
+    information.
+-   Having employees sign contracts called non-disclosure agreements,
+    which provide that they have to maintain confidential, specific
+    information that is disclosed to them.
+-   Having non-disclosure agreements signed by anyone else who comes in
+    contact with the company, such as consultants or vendors, and who
+    have the chance to learn about the confidential information, and/or
+-   Keeping a clear record of all business deals that may cover any
+    confidential information.
 
--  Having employees sign contracts called non-disclosure agreements,
-   which provide that they have to maintain confidential, specific
-   information that is disclosed to them.
-
--  Having non-disclosure agreements signed by anyone else who comes in
-   contact with the company, such as consultants or vendors, and who
-   have the chance to learn about the confidential information, and/or
-
--  Keeping a clear record of all business deals that may cover any
-   confidential information.
-
-Patents and confidential information
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Patents and confidential information
 
 Generally, it is not possible to maintain a patent and ensure
 non-disclosure of confidential information for the same invention. Under
@@ -2730,8 +2586,7 @@ consent. In return, the owner makes a full disclosure of the invention
 for the world to know. Thus, details on/about a patented invention can
 never be kept confidential.
 
-Copyright and confidential information
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Copyright and confidential information
 
 Confidential information with copyrightable material will be protected
 by both copyright law and law regarding confidential information. One
@@ -2740,8 +2595,7 @@ protection for the software programme, the owner may commercialise the
 software product while maintaining confidentiality of the underlying
 architecture, algorithms and source code.
 
-Confidential information
-~~~~~~~~~~~~~~~~~~~~~~~~
+### Confidential information
 
 The law of confidential information in Singapore is based on the English
 common law doctrine of breach of confidentiality. It prevents
@@ -2778,12 +2632,11 @@ proprietary information confidential. Establishing an employee program
 to protect confidential information is the most important internal
 procedure. Such a program includes the following:
 
--  Requiring all salaried employees to sign written non-disclosure
-   agreements as a condition of their hiring; **and**
-
--  Similarly requiring all hourly employees to sign statements reciting
-   the company’s policies with respect to its confidential and
-   proprietary information.
+-   Requiring all salaried employees to sign written non-disclosure
+    agreements as a condition of their hiring; **and**
+-   Similarly requiring all hourly employees to sign statements reciting
+    the company’s policies with respect to its confidential and
+    proprietary information.
 
 The employee program should also include placing notices of the
 company’s policies with respect to its confidential and proprietary
@@ -2801,24 +2654,19 @@ of physical security at company offices to physically safeguard its
 confidential and proprietary information. Some common physical security
 measures that should seriously be considered include:
 
--  Keeping all confidential and proprietary information under lock and
-   key (i.e. on-line, subject to computer security measures to prevent
-   unauthorized access) and restricting access to such information to
-   only those employees who need access to perform their respective
-   jobs.
-
--  Restricting access to certain parts of company offices to authorized
-   personnel only;
-
--  Maintaining a register to be signed by all visitors.
-
--  Requiring that visitors be escorted while on the premises.
-
--  Requiring approval of a corporate officer for any office tours and
-   restricting the scope of such tours, and
-
--  Requiring all employees and visitors to wear distinguishing badges,
-   especially to gain access to restricted areas.
+-   Keeping all confidential and proprietary information under lock and
+    key (i.e. on-line, subject to computer security measures to prevent
+    unauthorized access) and restricting access to such information to
+    only those employees who need access to perform their respective
+    jobs.
+-   Restricting access to certain parts of company offices to authorized
+    personnel only;
+-   Maintaining a register to be signed by all visitors.
+-   Requiring that visitors be escorted while on the premises.
+-   Requiring approval of a corporate officer for any office tours and
+    restricting the scope of such tours, and
+-   Requiring all employees and visitors to wear distinguishing badges,
+    especially to gain access to restricted areas.
 
 In addition to internal procedures to maintain the secrecy of all
 confidential and proprietary information, there should also be certain
@@ -2843,8 +2691,7 @@ his permission. It gives protection to inventions in all fields of human
 endeavours and is synonymous with the progress of science and the
 creation of useful arts.
 
-How Is A Patent Registered?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### How Is A Patent Registered?
 
 To obtain a patent in Singapore, one must submit a patent application to
 the Registry of Patents. The patent application should contain a request
@@ -2852,8 +2699,7 @@ for the grant of a patent, a specification containing a description of
 the invention, a claim or claims, any drawing referred to in the
 description or any claim and an abstract.
 
-Benefits Of A Patent
-~~~~~~~~~~~~~~~~~~~~
+### Benefits Of A Patent
 
 Apart from using the patent to prevent others from exploiting the
 invention, the patent owner can exploit his patent in many ways. He can
@@ -2861,8 +2707,7 @@ use his patent to raise funds for his business, license it to third
 parties for commercial returns or sell the patented invention for a sum
 of money.
 
-Patentable Inventions
-~~~~~~~~~~~~~~~~~~~~~
+### Patentable Inventions
 
 A patentable invention can be a product or a process that gives a new
 technical solution to a problem. It can be a new method of doing things,
@@ -2873,12 +2718,9 @@ For an invention to be patentable, it must, in general, satisfy three
 key criteria:
 
 (a) The invention must be **new**
-
 (b) There must be an **inventive step**, and
-
 (c) The invention must be capable of **industrial application**
-
-(a) **The invention must be new:** The invention should not have been
+(d) **The invention must be new:** The invention should not have been
     made known to the public in any way (within or outside of
     Singapore). Owners of inventions should be careful to keep the
     invention secretuntil a patent application has been successfully
@@ -2899,13 +2741,12 @@ key criteria:
     Intellectual Property Office of Singapore’s database. This database
     can be viewed by the public.
 
-(a) **There must be an inventive step:** The invention must be something
+(e) **There must be an inventive step:** The invention must be something
     that represents an improvement over any existing product or process
     that is already available. If an invention is new yet obvious to a
     person skilled in the art, the invention would not fulfil the
     inventive step requirement.
-
-(b) **The invention must be capable of industrial application:** The
+(f) **The invention must be capable of industrial application:** The
     invention must be useful and have some form of practical
     application. It should be capable of being made or used, or
     achieving a concrete end result in any industry, including
@@ -2919,8 +2760,7 @@ key criteria:
     Public Search Area. You may also wish to check the databases of
     other countries.
 
-Non-Patentable Inventions
-~~~~~~~~~~~~~~~~~~~~~~~~~
+### Non-Patentable Inventions
 
 An invention of a method of treatment of the human or animal body by
 surgery or therapy or of diagnosis practised on the human or animal body
@@ -2931,8 +2771,7 @@ Also, an invention that is generally expected to encourage offensive,
 immoral or anti-social behaviour will not be patentable even if it
 satisfies the three key criteria.
 
-Ownership And Rights
-~~~~~~~~~~~~~~~~~~~~
+### Ownership And Rights
 
 **Legislation Governing Patents**
 
@@ -2943,7 +2782,7 @@ Agents) Rules, and the Patents (Composition of Offences) Regulations,
 form the legislation governing patent law in Singapore.
 
 Copies of the legislation are available at the Intellectual Property
-Office of Singapore website [239]_.
+Office of Singapore website[^21].
 
 **Rights Conferred by a Patent**
 
@@ -2979,8 +2818,7 @@ an address for service in Singapore to which all correspondences will be
 sent. If a patent agent is hired to act on the applicant's behalf, this
 address for service should be the practice address of the patent agent.
 
-Infringement And Enforcement Of Patent Rights
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Infringement And Enforcement Of Patent Rights
 
 **Infringement**
 
@@ -2992,13 +2830,11 @@ the patent owner will constitute infringement:
 (a) Where the invention is a product, he makes, disposes of, offers to
     dispose of, uses or imports the product or keeps it whether for
     disposal or otherwise
-
 (b) Where the invention is a process, he uses the process or he offers
     it for use in Singapore when he knows, or it is obvious to a
     reasonable person in the circumstances, that its use without the
     consent of the proprietor would be an infringement of the patent,
     **or**
-
 (c) Where the invention is a process, he disposes of, offers to dispose
     of, uses or imports any product obtained directly by means of that
     process or keeps any such product whether for disposal or otherwise.
@@ -3012,18 +2848,14 @@ The patent owner may seek the following remedies from a court, namely:
 
 (a) An injunction restraining the defendant from any apprehended act of
     infringement.
-
 (b) An order for the defendant to deliver up or destroy any patented
     product in relation to which the patent is infringed or any article
     in which that product is inextricably comprised or any material and
     implement the predominant use of which has been in the creation of
     the infringing product.
-
 (c) For damages in respect of the infringement.
-
 (d) Or an account of the profits derived by him from the infringement,
     and
-
 (e) For a declaration that the patent is valid and has been infringed by
     him.
 
@@ -3033,7 +2865,7 @@ It is a criminal offence to make unauthorised claims about patent rights
 or patents applied for. If a party falsely claims his product is
 "patented" or "patent pending" or he claims to have applied for a patent
 for his product without actually doing so, if found guilty, can face a
-fine of up to $10,000 or to imprisonment for a term not exceeding 12
+fine of up to \$10,000 or to imprisonment for a term not exceeding 12
 months or both.
 
 An example of when a person would be deemed to have made an unauthorised
@@ -3050,8 +2882,7 @@ or implying that a patent has been applied for in respect of the
 article, shall be taken to represent that a patent has been applied for
 in respect of it.
 
-Hiring Patent Professionals
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Hiring Patent Professionals
 
 Although it is not a requirement that a patent application be filed
 through an agent, an applicant should consider seeking the advice of a
@@ -3070,11 +2901,10 @@ In Singapore, the patent agent profession is regulated by The Patent
 If a person describes himself as a patent agent, he must be registered
 with IPOS and have a practising certificate issued by IPOS. The list of
 Singapore-based registered patent agents are available at the IPOS
-website [240]_.
-
+website[^22].
 
 Layout-designs of Integrated Circuits
-----------------------------------------
+-------------------------------------
 
 Integrated circuits are integral components in electronic equipment such
 as computers and mobile phones. In Singapore, integrated circuits are
@@ -3094,8 +2924,7 @@ terms "integrated circuit", "semiconductor" and "silicon chip" are used
 synonymously as commercial ICs are usually fabricated from silicon
 semiconductors.
 
-Protection
-~~~~~~~~~~
+### Protection
 
 This form of IP need not be registered, but may be protected
 nonetheless. A citizen or resident of Singapore, or a country which is a
@@ -3117,78 +2946,67 @@ commission, the person who commissioned the layout-design is the owner
 and where the layout-design is created by an employee in the course of
 his employement, the employer is the owner.
 
-Duration
-~~~~~~~~
+### Duration
 
 A layout-design ceases to be a protected:
 
 (a) If it is first commercially exploited within 5 years after it was
     created, at the end of the tenth calendar year.
-
 (b) In any other case, at the end of the period of 15 calendar years
     after the year in which it was created
 
-Rights
-~~~~~~
+### Rights
 
 Section 8 of the Layout-Designs of Integrated Circuits Act provides that
 a person who is the owner of the layout-design has the following rights:
 
-a) To copy, and to authorise the copying of, all or part of his
-   protected layout-design, whether by incorporation into an integrated
-   circuit or otherwise
+a)  To copy, and to authorise the copying of, all or part of his
+    protected layout-design, whether by incorporation into an integrated
+    circuit or otherwise
+b)  To commercially exploit, and to authorise the commercial
+    exploitation of, his protected layout-design
 
-b) To commercially exploit, and to authorise the commercial exploitation
-   of, his protected layout-design
-
-Acts amounting to infringement
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Acts amounting to infringement
 
 A person who does any of the restricted acts referred to in Section 8 of
 the Layout-Designs Act as mentioned above, without the consent of the
 qualified owner is liable for infringement.
 
-Acts not amounting to infringement
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Acts not amounting to infringement
 
 Instances when acts of a person would not constitute infringement
 includes:
 
-a) If the copying is of any part of a protected layout-design that does
-   not comply with the requirement of originality.
+a)  If the copying is of any part of a protected layout-design that does
+    not comply with the requirement of originality.
+b)  If the copying is done for a private purpose and not for commercial
+    exploitation.
+c)  If the copying is done for the sole purpose of evaluation, analysis,
+    research or teaching.
+d)  To use the results of such evaluation, analysis or research to
+    create a different layout-design that complies with the requirement
+    of originality.
+e)  To do any of the acts referred to in section 8 (see above) in
+    respect of the layout-design referred to in paragraph (d) above
+f)  For a qualified owner of another protected layout-design —
 
-b) If the copying is done for a private purpose and not for commercial
-   exploitation.
+<!-- -->
 
-c) If the copying is done for the sole purpose of evaluation, analysis,
-   research or teaching.
-
-d) To use the results of such evaluation, analysis or research to create
-   a different layout-design that complies with the requirement of
-   originality.
-
-e) To do any of the acts referred to in section 8 (see above) in respect
-   of the layout-design referred to in paragraph (d) above
-
-f) For a qualified owner of another protected layout-design —
-
-(i)  That is identical to the first-mentioned protected layout-design;
-     and
-
+(i) That is identical to the first-mentioned protected layout-design;
+    and
 (ii) That is independently created,
 
-    to do any of the acts referred to in section 8 (see above) in
-    respect of that other layout-design, **or**
+> to do any of the acts referred to in section 8 (see above) in respect
+> of that other layout-design, **or**
 
-a) To commercially exploit a copy of the protected layout-design, an
-   integrated circuit in which the layout-design is incorporated or an
-   article that contains an integrated circuit in which the
-   layout-design is incorporated after the copy, integrated circuit or
-   article has been commercially exploited, whether in Singapore or
-   elsewhere, by, or with the consent of, the qualified owner.
+a)  To commercially exploit a copy of the protected layout-design, an
+    integrated circuit in which the layout-design is incorporated or an
+    article that contains an integrated circuit in which the
+    layout-design is incorporated after the copy, integrated circuit or
+    article has been commercially exploited, whether in Singapore or
+    elsewhere, by, or with the consent of, the qualified owner.
 
-Remedies
-~~~~~~~~
+### Remedies
 
 The owner can exercise his rights by taking legal action against the
 infringing party for damages, injunctions, account of profits, delivery
@@ -3199,9 +3017,8 @@ circumstances of the case including the flagrancy of the infringement
 and any benefit accruing to the defendant by reason of the infringement,
 and award additional damages.
 
-
 Geographical Indications
----------------------------
+------------------------
 
 A geographical indication (GI) is a sign that identifies a product as
 originating from a specific location which shows that the product has a
@@ -3210,8 +3027,7 @@ special quality or reputation or other characteristic.
 Well-known examples of GIs include Darjeeling (tea) and Tuscany (olive
 oil).
 
-Protection
-~~~~~~~~~~
+### Protection
 
 The Geographical Indications Act (Cap. 117B) provides that it is not
 necessary to file an application to protect the GI, as it can
@@ -3234,25 +3050,20 @@ the Singapore Government as a qualifying country from which GIs of that
 country can be protected. Additionally, the GI must be protected in its
 country of origin.
 
-Geographical indications that are not protected
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Geographical indications that are not protected
 
 Instances where a GI will not be protected includes the following:
 
--  It is immoral or against public policy.
+-   It is immoral or against public policy.
+-   It has become the common name in Singapore for the goods or services
+    which it identifies.
+-   It is not or has ceased to be protected in its country of origin, or
+    has fallen into disuse in that country, **and**
+-   In relation to wines and spirits, it has been used continuously for
+    at least 10 years preceding 15 April 1994 or in good faith preceding
+    that date.
 
--  It has become the common name in Singapore for the goods or services
-   which it identifies.
-
--  It is not or has ceased to be protected in its country of origin, or
-   has fallen into disuse in that country, **and**
-
--  In relation to wines and spirits, it has been used continuously for
-   at least 10 years preceding 15 April 1994 or in good faith preceding
-   that date.
-
-Enforcement
-~~~~~~~~~~~
+### Enforcement
 
 In Singapore, a producer of the goods, trader of the goods or an
 association of such producers or traders can exercise his rights under
@@ -3269,7 +3080,6 @@ expiry of 5 years:
 
 (a) From the date such use by that person or his predecessor in title
     has become generally known in Singapore, **or**
-
 (b) From the date of registration of that trade mark by that person
     under the current Trade Marks Act (Cap. 332) or any previous law
     relating to trade marks, if the trade mark has been published by
@@ -3279,29 +3089,26 @@ The time-bar does not apply where the trade mark in question was used or
 registered in bad faith.
 
 Plant Variety
-----------------
+-------------
 
 A plant variety is defined as a plant group within a single botanical
 taxon of the lowest rank.
 
 A plant variety can be:
 
--  Defined by the expression of the characteristics resulting from a
-   given genotype or a combination of genotypes.
-
--  Distinguished from any other plant grouping by the expression of at
-   least one of those characteristics, and
-
--  Considered as a unit with regard to its suitability for being
-   propagated unchanged.
+-   Defined by the expression of the characteristics resulting from a
+    given genotype or a combination of genotypes.
+-   Distinguished from any other plant grouping by the expression of at
+    least one of those characteristics, and
+-   Considered as a unit with regard to its suitability for being
+    propagated unchanged.
 
 If you are a person who breeds plant, and has discovered and developed a
 new plant variety, you are called a "breeder" and you can seek
 protection for your new plant varieties by applying for a Grant of
 Protection for a Plant Variety.
 
-Protection
-~~~~~~~~~~
+### Protection
 
 The term of protection is 25 years from the date of grant, subject to
 the payment of annual fees. Annual fees are payable every year starting
@@ -3314,56 +3121,46 @@ Grant of Protection) in respect of the propagating material and/or
 harvested material of the protected plant variety without the breeder’s
 authorisation:
 
--  Production or reproduction
-
--  Conditioning for the purpose of propagation
-
--  Offering for sale
-
--  Selling or other forms of marketing
-
--  Export
-
--  Import, **and**
-
--  Stocking for any of the purposes mentioned above
+-   Production or reproduction
+-   Conditioning for the purpose of propagation
+-   Offering for sale
+-   Selling or other forms of marketing
+-   Export
+-   Import, **and**
+-   Stocking for any of the purposes mentioned above
 
 The candidate plant variety must meet the following criteria:
 
 (a) **New**
-
 (b) **Distinct**
-
 (c) **Uniform, and**
-
 (d) **Stable**
-
-(a) **New:** The variety has not been sold or disposed of, by or with
+(e) **New:** The variety has not been sold or disposed of, by or with
     the consent of the breeder:
+
+<!-- -->
 
 i.  Earlier than 1 year before the date of application in Singapore
     where the sale or disposal is made in Singapore, **and**
-
 ii. Where the sale / disposal is made outside of Singapore, earlier than
     6 years before the date of application in the case of trees or
     vines, or earlier than 4 years before the date of application in the
     case of other plant varieties.
 
+<!-- -->
+
 (a) **Distinct:** The variety is clearly distinguishable from any other
     variety whose existence is a matter of common knowledge at the time
     of filing of the application. A variety that is of common knowledge
     does not have to be a protected variety.
-
 (b) **Uniform:** The variety is sufficiently uniform in its relevant
     characteristics, subject to the variation that may be expected from
     the particular features of its propagation.
-
 (c) **Stable:** The relevant characteristics of the variety remain
     unchanged after repeated propagation or, in the case of a particular
     cycle of propagation, at the end of each such cycle.
 
-Denomination
-~~~~~~~~~~~~
+### Denomination
 
 Furthermore, it must also be given a suitable denomination. Thisis the
 distinguishing name or identification for the plant variety. The breeder
@@ -3384,27 +3181,22 @@ Sections 36 and 37 of the Plant Varieties Protection Act.
 The Registrar shall not approve or register a denomination for the plant
 variety which:
 
--  Consists solely of figures, except where this is an established
-   practice for designating plant varieties.
+-   Consists solely of figures, except where this is an established
+    practice for designating plant varieties.
+-   Is likely to mislead or cause confusion concerning the
+    characteristics, value or identity of the plant variety, or the
+    identity of the breeder.
+-   Is contrary to any written law or public order, or is likely to be
+    offensive to the public
+-   Is likely to cause confusion with a trade mark, a name, a business
+    or any other rights for which any person other than the applicant
+    enjoys protection under any law, **or**
+-   Is likely to cause confusion with a trade mark for any material of
+    another plant variety or for goods similar to any material of the
+    first-mentioned plant variety for which the applicant enjoys
+    protection under any law.
 
--  Is likely to mislead or cause confusion concerning the
-   characteristics, value or identity of the plant variety, or the
-   identity of the breeder.
-
--  Is contrary to any written law or public order, or is likely to be
-   offensive to the public
-
--  Is likely to cause confusion with a trade mark, a name, a business or
-   any other rights for which any person other than the applicant enjoys
-   protection under any law, **or**
-
--  Is likely to cause confusion with a trade mark for any material of
-   another plant variety or for goods similar to any material of the
-   first-mentioned plant variety for which the applicant enjoys
-   protection under any law.
-
-Application for protection
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Application for protection
 
 You should apply for plant variety protection at the earliest
 opportunity as the system in Singapore operates on a first-to-file
@@ -3443,12 +3235,11 @@ mailed to the address below:
 | Registry of Plant Varieties
 | Intellectual Property Office of Singapore
 | 51 Bras Basah Road
-| #01-01 Manulife Centre
+| \#01-01 Manulife Centre
 | Singapore 189554
-|
+| 
 
-Publication
-~~~~~~~~~~~
+### Publication
 
 The application will be published in the Plant Varieties Protection
 Journal, produced by the Registry of Plant Varieties once the
@@ -3459,13 +3250,11 @@ Challenging the validity of a grant of protection
 
 Anyone can challenge the validity of your grant on the grounds that:
 
--  The plant was not new or distinct at the time of grant.
-
--  The plant variety was not uniform or stable at the time of grant,
-   **or**
-
--  The protection has been granted to a party who is not entitled to the
-   grant.
+-   The plant was not new or distinct at the time of grant.
+-   The plant variety was not uniform or stable at the time of grant,
+    **or**
+-   The protection has been granted to a party who is not entitled to
+    the grant.
 
 Anyone may also apply to the court to challenge the validity of a
 registered denomination on the ground that it did not meet the required
@@ -3485,8 +3274,7 @@ residency. However, an applicant who is not a resident in Singapore must
 provide the Registry of Plant Varieties with an address for service in
 Singapore to which all correspondences will be sent.
 
-Provisional Protection
-~~~~~~~~~~~~~~~~~~~~~~
+### Provisional Protection
 
 Where a grant of protection for a plant variety has been made, the
 grantee shall have the right to take proceedings in respect of the
@@ -3495,8 +3283,7 @@ grant of protection had been made on the date the application for that
 grant of protection was published under section 15 of the Plant
 Varieties Protection Act.
 
-Infringement and enforcement
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Infringement and enforcement
 
 The rights of the owner of the protected plant variety are infringed if
 a party performs any of the acts stated in the Scope of Grant of
@@ -3509,81 +3296,61 @@ against an infringing party, seek relief in the form of an injunction to
 stop the infringing activities, demand for the profits gained by the
 infringing party at his expense or seek damages for the loss suffered.
 
-.. [219]
-   http://www.wipo.int
+[^1]: <http://www.wipo.int>
 
-.. [220]
-   http://www.wto.org
+[^2]: <http://www.wto.org>
 
-.. [221]
-   http://www.ipos.gov.sg
+[^3]: <http://www.ipos.gov.sg>
 
-.. [222]
-   `http://www.ipos.gov.sg/Portals/0/COPYRIGHT\_Work%20[Oct%202012].pdf <http://www.ipos.gov.sg/Portals/0/COPYRIGHT_Work%20%5bOct%202012%5d.pdf>`__,
-   information as of 2012 and last accessed on 1 September 2014
+[^4]: [[http://www.ipos.gov.sg/Portals/0/COPYRIGHT\\\_Work%20\[Oct%202012\].pdf](http://www.ipos.gov.sg/Portals/0/COPYRIGHT\_Work%20%5BOct%202012%5D.pdf)](http://www.ipos.gov.sg/Portals/0/COPYRIGHT_Work%20%5bOct%202012%5d.pdf),
+    information as of 2012 and last accessed on 1 September 2014
 
-.. [223]
-   Extracted from the IPOS website, last updated and verified on 1
-   September 2014
+[^5]: Extracted from the IPOS website, last updated and verified on 1
+    September 2014
 
-.. [224]
-   Extracted from the IPOS website, last updated and verified on 1
-   September 2014
+[^6]: Extracted from the IPOS website, last updated and verified on 1
+    September 2014
 
-.. [225]
-   Extracted from the IPOS website, last updated and verified on 1
-   September 2014
+[^7]: Extracted from the IPOS website, last updated and verified on 1
+    September 2014
 
-.. [226]
-   http://www.ipos.gov.sg/Portals/0/COPYRIGHT\_Educators%20[Oct%202012].pdf
+[^8]: [http://www.ipos.gov.sg/Portals/0/COPYRIGHT\\\_Educators%20\[Oct%202012\].pdf](http://www.ipos.gov.sg/Portals/0/COPYRIGHT\_Educators%20%5BOct%202012%5D.pdf)
 
-.. [227]
-   http://www.ifaq.gov.sg/iPOS/apps/fcd_faqmain.aspx#TOPIC_433, last
-   updated 4 August 2014, last accessed 1 September 2014
-   http://www.ipos.gov.sg/Portals/0/COPYRIGHT\_Educators%20[Oct%202012].pdf
+[^9]: <http://www.ifaq.gov.sg/iPOS/apps/fcd_faqmain.aspx#TOPIC_433>,
+    last updated 4 August 2014, last accessed 1 September 2014
+    [http://www.ipos.gov.sg/Portals/0/COPYRIGHT\\\_Educators%20\[Oct%202012\].pdf](http://www.ipos.gov.sg/Portals/0/COPYRIGHT\_Educators%20%5BOct%202012%5D.pdf)
 
-.. [228]
-   http://www.ifaq.gov.sg/iPOS/apps/fcd_faqmain.aspx#TOPIC_433, last
-   updated 4 August 2014, last accessed 1 September 2014
+[^10]: <http://www.ifaq.gov.sg/iPOS/apps/fcd_faqmain.aspx#TOPIC_433>,
+    last updated 4 August 2014, last accessed 1 September 2014
 
-.. [229]
-   (Thomas Marshall (Exports) Ltd v Guinle [1976] FSR 345 ).
+[^11]: (Thomas Marshall (Exports) Ltd v Guinle \[1976\] FSR 345 ).
 
-.. [230]
-   (Chiarapurk Jack v Haw Par Brothers International Ltd [1993] 3 SLR
-   285).
+[^12]: (Chiarapurk Jack v Haw Par Brothers International Ltd \[1993\] 3
+    SLR 285).
 
-.. [231]
-   (Faccenda Chicken Ltd v Fowler [1986] 1 All ER 617, applied in Tang
-   Siew Choy v Certact Pte Ltd [1993] 3 SLR 44. Asia Business Forum Pte
-   Ltd v Long Ai Sin [2003] 4 SLR 658 and the Court of Appeal in Man
-   Financial (S) Pte Ltd v Wong Bark Chuan David [2008] 1 SLR 663).
+[^13]: (Faccenda Chicken Ltd v Fowler \[1986\] 1 All ER 617, applied in
+    Tang Siew Choy v Certact Pte Ltd \[1993\] 3 SLR 44. Asia Business
+    Forum Pte Ltd v Long Ai Sin \[2003\] 4 SLR 658 and the Court of
+    Appeal in Man Financial (S) Pte Ltd v Wong Bark Chuan David \[2008\]
+    1 SLR 663).
 
-.. [232]
-   Douglas v Hello! Ltd [2001] QBD 967 at [65]
+[^14]: Douglas v Hello! Ltd \[2001\] QBD 967 at \[65\]
 
-.. [233]
-   National Broach v Churchill Gear [1965] RPC 61
+[^15]: National Broach v Churchill Gear \[1965\] RPC 61
 
-.. [234]
-   Interfirm Comparisons v Law Society of New South Wales [1977] RPC 137
+[^16]: Interfirm Comparisons v Law Society of New South Wales \[1977\]
+    RPC 137
 
-.. [235]
-   Seager v Copydex [1967] 1 WLR 923
+[^17]: Seager v Copydex \[1967\] 1 WLR 923
 
-.. [236]
-   Stevenson, Jordan and Harrison Ltd v Macdonald and Evans Ltd [1951]
-   68 RPC 190
+[^18]: Stevenson, Jordan and Harrison Ltd v Macdonald and Evans Ltd
+    \[1951\] 68 RPC 190
 
-.. [237]
-   Wheatley v Bell [1984] FSR 16
+[^19]: Wheatley v Bell \[1984\] FSR 16
 
-.. [238]
-   Lion Laboratories Ltd v Evans [1985] QBD 527
+[^20]: Lion Laboratories Ltd v Evans \[1985\] QBD 527
 
-.. [239]
-   http://www.ipos.gov.sg/AboutIP/IPLegislation.aspx, last accessed on 1
-   September 2014
+[^21]: <http://www.ipos.gov.sg/AboutIP/IPLegislation.aspx>, last
+    accessed on 1 September 2014
 
-.. [240]
-   https://www.ipos.gov.sg
+[^22]: <https://www.ipos.gov.sg>

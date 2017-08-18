@@ -1,6 +1,5 @@
-
-WILLS, INTESTACY, PROBATE & ADMINISTRATION [241]_
-=================================================
+WILLS, INTESTACY, PROBATE & ADMINISTRATION[^1]
+==============================================
 
 Making a Will
 -------------
@@ -10,31 +9,26 @@ Making a Will
 A Will is a legal document by which a person writing the Will ("the
 Testator") can, amongst other things -
 
-1. Dictate how his/her assets shall be administered and distributed
-   after his/her death. The recipients of these assets are known as
-   "beneficiaries";
-
-2. Appoint a person ("the Executor") to carry out such administration
-   and distribution upon the Testator’s death; and
-
-3. Appoint guardians for his/her children who may still be under the age
-   of 21 at the Testator’s death.
+1.  Dictate how his/her assets shall be administered and distributed
+    after his/her death. The recipients of these assets are known as
+    "beneficiaries";
+2.  Appoint a person ("the Executor") to carry out such administration
+    and distribution upon the Testator’s death; and
+3.  Appoint guardians for his/her children who may still be under the
+    age of 21 at the Testator’s death.
 
 **How is a Will Created?**
 
 There are certain basic requirements for a valid will -
 
-1. The Testator must be older than 21 years old;
-
-2. The Testator must have the requisite mental capacity to make the
-   will;
-
-3. The will must be made in writing, and must be signed by the Testator
-   in the presence of two (2) witnesses; and
-
-4. The witnesses to the execution of the will can be a Testator's
-   lawyer, friend or relative (excluding spouse) as long as the witness
-   is not a beneficiary under the will.
+1.  The Testator must be older than 21 years old;
+2.  The Testator must have the requisite mental capacity to make the
+    will;
+3.  The will must be made in writing, and must be signed by the Testator
+    in the presence of two (2) witnesses; and
+4.  The witnesses to the execution of the will can be a Testator's
+    lawyer, friend or relative (excluding spouse) as long as the witness
+    is not a beneficiary under the will.
 
 A maximum of four (4) people can be appointed as Executor/Trustee under
 a will, although the more Executor/Trustees are appointed, the harder it
@@ -55,11 +49,9 @@ can be bequeathed.
 
 Assets which cannot be included in a will are -
 
-1. Any immovable properties that are held in joint tenancy;
-
-2. Monies in Central Provident Fund;
-
-3. Insurance policies in which you have nominated beneficiaries.
+1.  Any immovable properties that are held in joint tenancy;
+2.  Monies in Central Provident Fund;
+3.  Insurance policies in which you have nominated beneficiaries.
 
 **Money in your Central Provident Fund (CPF)**
 
@@ -91,20 +83,16 @@ in contemplation of your marriage.
 
 You should also review your Will if any of the following happens:
 
-a. If you change your name or anyone mentioned in the Will changes his
-   name.
-
-b. If an executor or trustee dies or becomes incapable of carrying out
-   his duties owing to ill-health.
-
-c. If a beneficiary dies (this is called a “Lapse”).
-
-d. If you subsequently sell or part with any property mentioned in the
-   Will.
-
-e. If there is any significant change in circumstances, for example,
-   when you acquire property or assets which have not been mentioned in
-   your Will.
+a.  If you change your name or anyone mentioned in the Will changes his
+    name.
+b.  If an executor or trustee dies or becomes incapable of carrying out
+    his duties owing to ill-health.
+c.  If a beneficiary dies (this is called a “Lapse”).
+d.  If you subsequently sell or part with any property mentioned in the
+    Will.
+e.  If there is any significant change in circumstances, for example,
+    when you acquire property or assets which have not been mentioned in
+    your Will.
 
 It is advisable to review your Will regularly.
 
@@ -121,7 +109,7 @@ actually keep a copy of the Will itself. You do not have to register the
 Will in order to validate it.
 
 This form can be downloaded from their website at
-https://www.mlaw.gov.sg/content/pto/en.html.
+<https://www.mlaw.gov.sg/content/pto/en.html>.
 
 Apart from registering your Will with the Wills Registry, you may wish
 to deposit the original Will with your lawyer for safekeeping. You
@@ -201,20 +189,16 @@ years (s5 of the Wills Act).
 Your Will is invalid if it does not conform to the rules of formal
 validity under the Wills Act:
 
--  A Will must be committed to writing (verbal declaration of the
-   Testator’s intentions does not constitute a valid Will).
-
--  The testator must be at least 21 of age.
-
--  The testator must sign the Will at the foot of the Will. If the
-   testator is unable to do so, he may direct another person to sign it
-   in his presence.
-
--  A Will must be witnessed by two witnesses, and they must also sign
-   the Will in the presence of the testator.
-
--  The two witnesses cannot be beneficiaries of the Will, or spouses of
-   the beneficiaries.
+-   A Will must be committed to writing (verbal declaration of the
+    Testator’s intentions does not constitute a valid Will).
+-   The testator must be at least 21 of age.
+-   The testator must sign the Will at the foot of the Will. If the
+    testator is unable to do so, he may direct another person to sign it
+    in his presence.
+-   A Will must be witnessed by two witnesses, and they must also sign
+    the Will in the presence of the testator.
+-   The two witnesses cannot be beneficiaries of the Will, or spouses of
+    the beneficiaries.
 
 If you change your Will by crossing parts out or adding words in or by
 attaching anything to it and not by making a fresh Will or prepare a
@@ -231,8 +215,8 @@ lawyer to draft a Will. If it is not affordable for you, you may
 consider obtaining free legal advice by visiting a Community Legal
 Clinic, provided by the Pro Bono Service Office to clarify any queries
 you may have on drafting a Will. For more information, you may refer to
-the website of the Pro Bono Service Office [242]_. You may also find a
-list of other legal clinics there.
+the website of the Pro Bono Service Office[^2]. You may also find a list
+of other legal clinics there.
 
 If you require further services, you may consider applying to the Legal
 Aid Bureau, which can assist in appointing a lawyer for you if you meet
@@ -271,14 +255,14 @@ dependents either as a lump sum or on such terms that the Court deems
 fit. Dependants which may be entitled to make such application are (s3
 of the Inheritance Act):
 
--  A spouse.
+-   A spouse.
+-   An unmarried daughter
+-   A son who has not attained his age of 21 years.
+-   
 
--  An unmarried daughter
+    A son or a daughter who is in capable of maintaining himself or
 
--  A son who has not attained his age of 21 years.
-
--  A son or a daughter who is in capable of maintaining himself or
-       herself, by reason of some mental or physical disability.
+    :   herself, by reason of some mental or physical disability.
 
 **Is a hand-written will valid?**
 
@@ -295,16 +279,13 @@ presence of witnesses and it is not possible to make a valid Will alone.
 Yes, even if a Will is drafted and executed overseas, it can be a valid
 Will. However, the Will has to be executed according to:
 
--  The territory of execution of the Will.
-
--  The territory of domicile of the testator when the Will was executed
-   or at the time of his death.
-
--  The territory of habitual residence of the testator when the Will was
-   executed or at the time of his death: or
-
--  The territory of which the testator was a national when the Will was
-   executed or at the time of his death.
+-   The territory of execution of the Will.
+-   The territory of domicile of the testator when the Will was executed
+    or at the time of his death.
+-   The territory of habitual residence of the testator when the Will
+    was executed or at the time of his death: or
+-   The territory of which the testator was a national when the Will was
+    executed or at the time of his death.
 
 **Can I draft a will on someone else’s behalf?**
 
@@ -342,9 +323,9 @@ expenses of the deceased prior to the distribution of his estate.
 
 | If there aren’t enough assets to cover the debts, the estate is said
   to be insolvent. For insolvent estate, the order of priority in the
-  repayment of debts have to be accordance with the \ *First
-  Schedule* of the Probate and Administration Act, and then rules under
-  the \ *Bankruptcy Act* will follow. If there aren’t enough funds left
+  repayment of debts have to be accordance with the *First Schedule* of
+  the Probate and Administration Act, and then rules under
+  the *Bankruptcy Act* will follow. If there aren’t enough funds left
   over to pay all the creditors in one group, the amount left will be
   prorated to creditors in the group. The beneficiaries will also get
   nothing, even if a will leaves them specific property or specified
@@ -404,16 +385,15 @@ too in the first place (eg. property in someone else’s name, etc)?**
   on the documents conferring the title of immovable property on the
   owners, like the Certificate of Title.
 
-Administration of Small Estates by The Public Trustee [243]_
--------------------------------------------------------------
+Administration of Small Estates by The Public Trustee[^3]
+---------------------------------------------------------
 
-Overview Of Services Provided By The Public Trustee
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Overview Of Services Provided By The Public Trustee
 
 **Administration of Estates of Deceased Persons**
 
 The Public Trustee administers small estates of deceased persons where
-the value of the estate does not exceed $50,000.00.
+the value of the estate does not exceed \$50,000.00.
 
 In administering an estate, the Public Trustee recovers and realizes
 assets in the estate and distributes these to the beneficiaries. The
@@ -428,16 +408,12 @@ monthly maintenance.
 
 The assets that are administered by the Public Trustee include:
 
--  Deceased’s monies in banks or other financial institutions in
-   Singapore.
-
--  Deceased’s shares which are listed on SGX.
-
--  Deceased’s vehicle, except taxis.
-
--  Deceased’s undrawn salary.
-
--  Compensation monies due to the deceased.
+-   Deceased’s monies in banks or other financial institutions in
+    Singapore.
+-   Deceased’s shares which are listed on SGX.
+-   Deceased’s vehicle, except taxis.
+-   Deceased’s undrawn salary.
+-   Compensation monies due to the deceased.
 
 **Who Can Apply To the Public Trustee?**
 
@@ -448,29 +424,24 @@ apply on behalf of beneficiaries.
 
 The statutory fees payable to the Public Trustee are as follows:
 
-+------------------------+--------------+
-| **Value of Estate**    | **Charge**   |
-+------------------------+--------------+
-| For the first $5,000   | 6.50%        |
-+------------------------+--------------+
-| For the next $2,000    | 6.00%        |
-+------------------------+--------------+
-| For the next $3,000    | 4.25%        |
-+------------------------+--------------+
-| For the next $10,000   | 2.75%        |
-+------------------------+--------------+
-| For the next $30,000   | 2.25%        |
-+------------------------+--------------+
+  ------------------------- ---------------
+  **Value of Estate**       **Charge**
+  For the first \$5,000     6.50%
+  For the next \$2,000      6.00%
+  For the next \$3,000      4.25%
+  For the next \$10,000     2.75%
+  For the next \$30,000     2.25%
+  ------------------------- ---------------
 
  
 
 These fees, which we will take from the estate money, include GST and
-cannot be waived. You will have to pay a minimum fee of $15.
+cannot be waived. You will have to pay a minimum fee of \$15.
 
 **How To Apply To The Public Trustee To Be Administrator**
 
 You will need to make an online application at
-https://www.mlaw.gov.sg/content/pto/en.html under eServices for the
+<https://www.mlaw.gov.sg/content/pto/en.html> under eServices for the
 Public Trustee to administer the Deceased’s estate monies. Please note
 that you will be required to disclose information on the Deceased’s
 shares, bank savings account, death gratuity, insurance policies and
@@ -478,12 +449,12 @@ vehicles owned (if any) in the online application.
 
 You will need to have your Singpass ready in order to access the online
 application form. You may apply for your Singpass at
-`https://www.singpass.gov.sg <https://www.singpass.gov.sg/>`__ if you do
+[<https://www.singpass.gov.sg>](https://www.singpass.gov.sg/) if you do
 not have one.
 
 If you are ineligible to apply for a Singpass, you may apply for a login
 ID and password through the website:
-https://www.mlaw.gov.sg/content/pto/en.html under eServices.
+<https://www.mlaw.gov.sg/content/pto/en.html> under eServices.
 
 Please note that the information given to the public trustee must be
 true.
@@ -493,53 +464,45 @@ It is an offence to furnish false information to a public servant.
 The Public Trustee will not administer the estate if he discovers that
 any information given is incorrect or untrue.
 
-Situations Where The Public Trustee Is Unable To Help
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Situations Where The Public Trustee Is Unable To Help
 
 The situations where the Public Trustee is unable to assist include the
 following:
 
--  Where the estate exceeds $50,000 in value.
-
--  Where there are conflicting claims to the estate or disputes between
-   beneficiaries.
-
--  Where the estate has outstanding debts or liabilities.
-
--  Where the deceased had shares or other interest in unlisted companies
-   (foreign or local.
-
--  Where the deceased was a partner, a sole-proprietor or had interest
-   in a firm or other business.
-
--  Where the deceased was the sole lessee (owner) of a HDB flat and
-   there are minor interests.
-
--  Where there are pending law suits which involve the deceased.
+-   Where the estate exceeds \$50,000 in value.
+-   Where there are conflicting claims to the estate or disputes between
+    beneficiaries.
+-   Where the estate has outstanding debts or liabilities.
+-   Where the deceased had shares or other interest in unlisted
+    companies (foreign or local.
+-   Where the deceased was a partner, a sole-proprietor or had interest
+    in a firm or other business.
+-   Where the deceased was the sole lessee (owner) of a HDB flat and
+    there are minor interests.
+-   Where there are pending law suits which involve the deceased.
 
 Where the Public Trustee is unable to administer the estate, you may
 have to apply to the Courts for Letters of Administration (i.e. appoint
 administrators) to deal with the deceased’s estate. If you qualify for
 legal aid, you may apply to the Legal Aid Bureau at The URA Centre, East
-Wing, 45 Maxwell Road, #07-11, Singapore 069118 to assist you to apply
+Wing, 45 Maxwell Road, \#07-11, Singapore 069118 to assist you to apply
 for the Letters of Administration. If not, you will have to engage the
 services of a lawyer.
 
-Administration Of CPF Funds Of Deceased Persons
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Administration Of CPF Funds Of Deceased Persons
 
-The CPF Board will forward a Deceased’s CPF monies to the Public
-Trustee under the following scenarios:
+The CPF Board will forward a Deceased’s CPF monies to the Public Trustee
+under the following scenarios:
 
  
 
 (a) If the Deceased had not made a valid CPF nomination during his
 lifetime; or
 
-    (b) If the person nominated to receive the CPF monies is under 18
-    years old (other than a widow).
-
-     
+> \(b) If the person nominated to receive the CPF monies is under 18 years
+> old (other than a widow).
+>
+>  
 
 You will need to check with CPF Board if the Deceased had made a valid
 nomination for his CPF monies. If the Deceased had made a valid CPF
@@ -549,86 +512,95 @@ nominee(s) if he/she is above 18 years old.
 **Application To The Public Trustee**
 
 You will need to make an online application at
-https://www.mlaw.gov.sg/content/pto/en.html under eServices for the
+<https://www.mlaw.gov.sg/content/pto/en.html> under eServices for the
 Public Trustee to administer the un-nominated CPF monies.
 
 You will need to have your Singpass ready in order to access the online
 application form. You may apply for your Singpass at
-https://www.singpass.gov.sg if you do not have one.
+<https://www.singpass.gov.sg> if you do not have one.
 
 If you are ineligible to apply for a Singpass, you may apply for a login
 ID and password through the
-website:\ https://www.mlaw.gov.sg/content/pto/en.html under eServices.
+website:<https://www.mlaw.gov.sg/content/pto/en.html> under eServices.
 
 **Distribution By The Public Trustee**
 
 **For Non-Muslims:**
 
-+-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| **Rules of Distribution (Non-Muslims)**   |                                                                                                                |
-+-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| **Deceased Die**                          | **Distribution**                                                                                               |
-|                                           |                                                                                                                |
-| **Intestate Leaving**                     |                                                                                                                |
-+-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| **Spouse**                                | Whole share to surviving spouse                                                                                |
-|                                           |                                                                                                                |
-| No Issue                                  |                                                                                                                |
-|                                           |                                                                                                                |
-| No Parent                                 |                                                                                                                |
-+-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| **Spouse**                                | ½ share to surviving spouse                                                                                    |
-|                                           |                                                                                                                |
-| **Issue**                                 | ½ share to be shared equally among issue and, where they have already died, their children.                    |
-|                                           |                                                                                                                |
-|                                           | Parents are not entitled                                                                                       |
-+-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| **Issue**                                 | Whole share to be shared equally among issue and, where they have already died, their children                 |
-|                                           |                                                                                                                |
-| No Spouse                                 | Parents are not entitled                                                                                       |
-+-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| **Spouse**                                | ½ share to surviving spouse                                                                                    |
-|                                           |                                                                                                                |
-| **Parent**                                | ½ share to be shared equally among surviving parents                                                           |
-|                                           |                                                                                                                |
-| No Issue                                  |                                                                                                                |
-+-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| **Parents**                               | Whole share to be shared equally among surviving parents                                                       |
-|                                           |                                                                                                                |
-| No Spouse                                 |                                                                                                                |
-|                                           |                                                                                                                |
-| No Issue                                  |                                                                                                                |
-+-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| **Siblings**                              | Whole share to be shared equally among deceased’s siblings and, where they have already died, their children   |
-|                                           |                                                                                                                |
-| No Spouse                                 |                                                                                                                |
-|                                           |                                                                                                                |
-| No Issue                                  |                                                                                                                |
-|                                           |                                                                                                                |
-| No Parents                                |                                                                                                                |
-+-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| **Grandparents**                          | Whole share to be shared equally among surviving grandparents                                                  |
-|                                           |                                                                                                                |
-| No Spouse                                 |                                                                                                                |
-|                                           |                                                                                                                |
-| No Issue                                  |                                                                                                                |
-|                                           |                                                                                                                |
-| No Parents                                |                                                                                                                |
-|                                           |                                                                                                                |
-| No Siblings and their children            |                                                                                                                |
-+-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| **Uncles and Aunts**                      | Whole share to be shared equally among surviving uncles and aunts                                              |
-|                                           |                                                                                                                |
-| No Spouse                                 |                                                                                                                |
-|                                           |                                                                                                                |
-| No Issue                                  |                                                                                                                |
-|                                           |                                                                                                                |
-| No Parents                                |                                                                                                                |
-|                                           |                                                                                                                |
-| No Siblings and their children            |                                                                                                                |
-|                                           |                                                                                                                |
-| No Grandparents                           |                                                                                                                |
-+-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
++-------------------+--------------------------------------------------+
+| **Rules of        |                                                  |
+| Distribution      |                                                  |
+| (Non-Muslims)**   |                                                  |
++-------------------+--------------------------------------------------+
+| **Deceased Die**  | **Distribution**                                 |
+|                   |                                                  |
+| **Intestate       |                                                  |
+| Leaving**         |                                                  |
++-------------------+--------------------------------------------------+
+| **Spouse**        | Whole share to surviving spouse                  |
+|                   |                                                  |
+| No Issue          |                                                  |
+|                   |                                                  |
+| No Parent         |                                                  |
++-------------------+--------------------------------------------------+
+| **Spouse**        | ½ share to surviving spouse                      |
+|                   |                                                  |
+| **Issue**         | ½ share to be shared equally among issue and,    |
+|                   | where they have already died, their children.    |
+|                   |                                                  |
+|                   | Parents are not entitled                         |
++-------------------+--------------------------------------------------+
+| **Issue**         | Whole share to be shared equally among issue     |
+|                   | and, where they have already died, their         |
+| No Spouse         | children                                         |
+|                   |                                                  |
+|                   | Parents are not entitled                         |
++-------------------+--------------------------------------------------+
+| **Spouse**        | ½ share to surviving spouse                      |
+|                   |                                                  |
+| **Parent**        | ½ share to be shared equally among surviving     |
+|                   | parents                                          |
+| No Issue          |                                                  |
++-------------------+--------------------------------------------------+
+| **Parents**       | Whole share to be shared equally among surviving |
+|                   | parents                                          |
+| No Spouse         |                                                  |
+|                   |                                                  |
+| No Issue          |                                                  |
++-------------------+--------------------------------------------------+
+| **Siblings**      | Whole share to be shared equally among           |
+|                   | deceased’s siblings and, where they have already |
+| No Spouse         | died, their children                             |
+|                   |                                                  |
+| No Issue          |                                                  |
+|                   |                                                  |
+| No Parents        |                                                  |
++-------------------+--------------------------------------------------+
+| **Grandparents**  | Whole share to be shared equally among surviving |
+|                   | grandparents                                     |
+| No Spouse         |                                                  |
+|                   |                                                  |
+| No Issue          |                                                  |
+|                   |                                                  |
+| No Parents        |                                                  |
+|                   |                                                  |
+| No Siblings and   |                                                  |
+| their children    |                                                  |
++-------------------+--------------------------------------------------+
+| **Uncles and      | Whole share to be shared equally among surviving |
+| Aunts**           | uncles and aunts                                 |
+|                   |                                                  |
+| No Spouse         |                                                  |
+|                   |                                                  |
+| No Issue          |                                                  |
+|                   |                                                  |
+| No Parents        |                                                  |
+|                   |                                                  |
+| No Siblings and   |                                                  |
+| their children    |                                                  |
+|                   |                                                  |
+| No Grandparents   |                                                  |
++-------------------+--------------------------------------------------+
 
 \* Spouse refers to husband or wife
 
@@ -638,7 +610,7 @@ children are NOT entitled under the Intestacy Rules
 
 **For Muslims:**
 
-The Public `Trustee <javascript:;>`__ will distribute the Deceased’s
+The Public [Trustee](javascript:;) will distribute the Deceased’s
 un-nominated CPF monies in accordance with the School of the Muslim Law
 observed by the Deceased. 
 
@@ -660,111 +632,93 @@ provide the Public Trustee with a copy of the documents stated online.
 The statutory fees payable to the Public Trustee for the administration
 of CPF monies are as follows:
 
-+-------------------------------------+--------------+
-| **Amount of CPF Monies**            | **Charge**   |
-+-------------------------------------+--------------+
-| For the first $1,000                | 2.400%       |
-+-------------------------------------+--------------+
-| For the next $9,000                 | 1.500%       |
-+-------------------------------------+--------------+
-| For the next $240,000               | 0.750%       |
-+-------------------------------------+--------------+
-| For the next $250,000               | 0.450%       |
-+-------------------------------------+--------------+
-| For amounts in excess of $500,000   | 0.300%       |
-+-------------------------------------+--------------+
+  -------------------------------------- ---------------
+  **Amount of CPF Monies**               **Charge**
+  For the first \$1,000                  2.400%
+  For the next \$9,000                   1.500%
+  For the next \$240,000                 0.750%
+  For the next \$250,000                 0.450%
+  For amounts in excess of \$500,000     0.300%
+  -------------------------------------- ---------------
 
 These fees, which we will take from the CPF money, include GST and
-cannot be waived. You will have to pay a minimum fee of $15.
+cannot be waived. You will have to pay a minimum fee of \$15.
 
-FAQs on Administration by The Public Trustee
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### FAQs on Administration by The Public Trustee
 
 **What is the maximum value of an estate that Public Trustee can
 administer?**
 
-$50,000 in value.
+\$50,000 in value.
 
-1. **What are the assets that can be realised by the Public Trustee?**
+1.  **What are the assets that can be realised by the Public Trustee?**
 
 The assets recovered by the Public Trustee are :
 
--  Deceased’s monies in banks or other financial institutions in
-   Singapore.
-
--  Deceased’s shares which are listed on SGX.
-
--  Deceased’s vehicle, except taxis.
-
--  Deceased’s undrawn salary.
-
--  Compensation monies due to the deceased.
-
-   1. **What are our fees?**
+-   Deceased’s monies in banks or other financial institutions in
+    Singapore.
+-   Deceased’s shares which are listed on SGX.
+-   Deceased’s vehicle, except taxis.
+-   Deceased’s undrawn salary.
+-   Compensation monies due to the deceased.
+    1.  **What are our fees?**
 
 Statutory Fees chargeable under the Public Trustee (Fees) Rules for the
 administration of Assets other than CPF Monies.
 
-    For the first $5,000 in the estate 6.5%
-
-    For the next $2,000 6.00%
-
-    For the next $3,000 4.25%
-
-    For the next $10,000 2.75%
-
-    For the next $30,000 2.25%
+> For the first \$5,000 in the estate 6.5%
+>
+> For the next \$2,000 6.00%
+>
+> For the next \$3,000 4.25%
+>
+> For the next \$10,000 2.75%
+>
+> For the next \$30,000 2.25%
 
 These fees cannot be waived.
 
-1. **What are the situations where the Public Trustee is unable to assist?**
+1.  **What are the situations where the Public Trustee is unable to
+    assist?**
 
 The situations includes :
 
--  Where the estate exceeds $50,000 in value.
-
--  Where there are conflicting claims to the estate or disputes between
-   beneficiaries.
-
--  Where the estate has outstanding debts or liabilities.
-
--  Where the deceased had shares or other interest in unlisted companies
-   (foreign or local).
-
--  Where the deceased was a partner, a sole-proprietor or had interest
-   in a firm or other business.
-
--  Where the deceased was the sole lessee (owner) of a HDB flat and
-   there are minor interests.
-
--  Where there are pending law suits which involve the deceased.
-
-   1. **How are the monies distributed?**
+-   Where the estate exceeds \$50,000 in value.
+-   Where there are conflicting claims to the estate or disputes between
+    beneficiaries.
+-   Where the estate has outstanding debts or liabilities.
+-   Where the deceased had shares or other interest in unlisted
+    companies (foreign or local).
+-   Where the deceased was a partner, a sole-proprietor or had interest
+    in a firm or other business.
+-   Where the deceased was the sole lessee (owner) of a HDB flat and
+    there are minor interests.
+-   Where there are pending law suits which involve the deceased.
+    1.  **How are the monies distributed?**
 
 Non-Muslim - Intestate Succession Act
 
-    Muslim - Inheritance Certificate from Syariah Court
+> Muslim - Inheritance Certificate from Syariah Court
 
-1. **How long does the Public Trustee take to administer a case?**
+1.  **How long does the Public Trustee take to administer a case?**
 
 The Public Trustee will distribute the monies within 4 weeks from the
 date of receipt of the full set of documentation from the beneficiaries
 or the date of receipt of the deceased's monies, whichever is later.
 
-1. **How does one make an application to the Public Trustee for assistance
-   in the administration of a deceased's estate?**
+1.  **How does one make an application to the Public Trustee for
+    assistance in the administration of a deceased's estate?**
 
 The appropriate application form must be completed online and submitted
 together with copies of documents as listed in the application forms.
 The application forms available are as follows:
 
--  Application for administration of CPF Monies.
+-   Application for administration of CPF Monies.
+-   Application for administration of deceased estate (Assets other then
+    CPF Monies).
 
--  Application for administration of deceased estate (Assets other then
-   CPF Monies).
-
-About the Wills Registry [244]_
--------------------------------
+About the Wills Registry[^4]
+----------------------------
 
 **What is the Wills Registry?**
 
@@ -787,15 +741,21 @@ information as to which solicitor drew up the Will.
 The information available from the Wills Registry will be useful to the
 following persons:
 
--  The person who made the Will (also known as the testator) and/or
-       his/her solicitors if the testator wishes to make a subsequent
-       Will.
+-   
 
--  The solicitors acting for the estate of the deceased testator to
-       assist them in the administration of the deceased testator’s
-       estate, **or**
+    The person who made the Will (also known as the testator) and/or
 
--  The next-of-kin or beneficiaries of a deceased.
+    :   his/her solicitors if the testator wishes to make a subsequent
+        Will.
+
+-   
+
+    The solicitors acting for the estate of the deceased testator to
+
+    :   assist them in the administration of the deceased testator’s
+        estate, **or**
+
+-   The next-of-kin or beneficiaries of a deceased.
 
 **What kind of information can be deposited at the Wills Registry?**
 
@@ -804,17 +764,13 @@ information on Wills, including Wills that have been previously drawn
 up, with the Wills Registry by completing this form and providing the
 following information:
 
--  Particulars of the Testator.
+-   Particulars of the Testator.
+-   Date of Will and Codicil (i.e. a supplement modifying a Will).
+-   Particulars of the Solicitor/Person who has drawn up the Will.
+-   Particulars of the Custodian of the Will, **and**
+-   Particulars of the Informant.
 
--  Date of Will and Codicil (i.e. a supplement modifying a Will).
-
--  Particulars of the Solicitor/Person who has drawn up the Will.
-
--  Particulars of the Custodian of the Will, **and**
-
--  Particulars of the Informant.
-
-Testators will need to access our online deposit form [245]_ to deposit
+Testators will need to access our online deposit form[^5] to deposit
 their will information with the Wills Registry. The Public Trustee does
 ***not*** allow the deposit of any Wills at the Wills Registry. Wills
 must be kept by the testator or his representative.
@@ -829,8 +785,8 @@ law firm or company may apply for an organisation account with us. With
 an organisation account, your law firm or company will be able to
 authorise you to access the online deposit form.
 
-You may refer to the IPTO guide online [246]_ under “Guides and Forms”
-on how to apply for an organization account.
+You may refer to the IPTO guide online[^6] under “Guides and Forms” on
+how to apply for an organization account.
 
 Your law firm or company need not apply for a new organisation account
 if it has an existing organisation account with us.
@@ -840,44 +796,42 @@ if it has an existing organisation account with us.
 All information deposited with us is strictly confidential. Only the
 following people may make a search for information related to a will.
 
--  The person who made the will (if they give us proof of identity).
-
--  The solicitor who is helping someone draw up any further will.
-
--  The solicitor acting for the estate of someone who has died (if they
-   produce the death certificate).
-
--  The next-of-kin of someone who has died if they produce the death
-   certificate and documents showing their relationship to the person
-   who has died.
+-   The person who made the will (if they give us proof of identity).
+-   The solicitor who is helping someone draw up any further will.
+-   The solicitor acting for the estate of someone who has died (if they
+    produce the death certificate).
+-   The next-of-kin of someone who has died if they produce the death
+    certificate and documents showing their relationship to the person
+    who has died.
 
 **How do I obtain information relating to a Will?**
 
-You will need to access the online search form [247]_.
+You will need to access the online search form[^7].
 
 Only the following persons may carry out an online search for this
 information, and the following supporting documents will be required:
 
--  For the person making search on own will record:
+-   For the person making search on own will record:
 
-    • Your NRIC
+    > • Your NRIC
 
--  For law firms:
+-   For law firms:
 
-    • NRIC of the person who made the will or
+    > • NRIC of the person who made the will or
+    >
+    > • Death certificate of the person who made the will
 
-    • Death certificate of the person who made the will
+-   For next-of-kin:
 
--  For next-of-kin:
-
-    • Death certificate of the person who made the will and
-
-    • NRIC of next-of-kin and
-
-    • Proof of relationship to the person who made the will (for
-      example, marriage certificate (for spouse) and birth certificate
-      (for parents or children))
-
+    > • Death certificate of the person who made the will and
+    >
+    > • NRIC of next-of-kin and
+    >
+    > • Proof of relationship to the person who made the will (for
+    >
+    > :   example, marriage certificate (for spouse) and birth
+    >     certificate (for parents or children))
+    >
 Please allow **3 - 5 working days** for IPTO to process your form.
 
 The Wills Registry will no longer accept hardcopy search forms after
@@ -892,16 +846,14 @@ The search results will no longer be sent by post or fax.
 
 Fees (inclusive of GST) are shown below.
 
-+--------------------------------+------------+
-| **Item**                       | **Fees**   |
-+--------------------------------+------------+
-| Depositing Information         | $50.00     |
-+--------------------------------+------------+
-| Cost of a Search Application   | $10.00     |
-+--------------------------------+------------+
+  --------------------------------- -------------
+  **Item**                          **Fees**
+  Depositing Information            \$50.00
+  Cost of a Search Application      \$10.00
+  --------------------------------- -------------
 
 Payment for the deposit of will information must be made online via
-debit card, `credit <javascript:;>`__ card or direct debit.
+debit card, [credit](javascript:;) card or direct debit.
 
 **Can the Wills Registry assist in the drafting of a Will?**
 
@@ -912,7 +864,7 @@ for help with drafting a will.
 **How do I update or amend my existing will record?**
 
 You will have to deposit a new will record with the Wills Registry. The
-$50 fee for a new will deposit shall still apply.
+\$50 fee for a new will deposit shall still apply.
 
 **Is it compulsory to deposit my will information with the Wills
 Registry?**
@@ -926,24 +878,36 @@ with the Wills Registry?**
 No, the validity of your will does not depend on whether you have
 deposited your will information with the Will Registry or not.
 
-Probate and Letters of Administration [248]_
---------------------------------------------
+Probate and Letters of Administration[^8]
+-----------------------------------------
 
 **What happens to the property belonging to a person when he dies?**
 
 A person has to be appointed by the Court to take charge of the deceased
 person's property (collectively known as his estate).
 
-+-------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
-| If the deceased person **has made a Will**                                                | If the deceased person died **without** having made a Will                                        |
-+===========================================================================================+===================================================================================================+
-| | He would have appointed a person(s) called an executor(s) to take charge of the estate. | A person would normally have to be appointed as an administrator(s) to take charge of the estate. |
-| | The appointed executor has to apply for a **Grant of Probate**                          |                                                                                                   |
-+-------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
-| | In order to be recognised legally as the executor(s) or administrator(s) of the deceased|                                                                                                   |
-| | person's estate, you would have to apply for a Grant of Probate or a Grant of Letters of|                                                                                                   |
-| | Administration respectively                                                             |                                                                                                   |
-+-------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
++---------------------------------+------------------------------------+
+| If the deceased person **has    | If the deceased person died        |
+| made a Will**                   | **without** having made a Will     |
++=================================+====================================+
+| | He would have appointed a     | A person would normally have to be |
+|   person(s) called an           | appointed as an administrator(s)   |
+|   executor(s) to take charge of | to take charge of the estate.      |
+|   the estate.                   |                                    |
+| | The appointed executor has to |                                    |
+|   apply for a **Grant of        |                                    |
+|   Probate**                     |                                    |
++---------------------------------+------------------------------------+
+| | In order to be recognised     |                                    |
+|   legally as the executor(s) or |                                    |
+|   administrator(s) of the       |                                    |
+|   deceased                      |                                    |
+| | person's estate, you would    |                                    |
+|   have to apply for a Grant of  |                                    |
+|   Probate or a Grant of Letters |                                    |
+|   of                            |                                    |
+| | Administration respectively   |                                    |
++---------------------------------+------------------------------------+
 
 **What is Probate?**
 
@@ -956,8 +920,7 @@ directions contained in his Will.
 It is a Court Order authorising the person(s) named in it, to administer
 the estate of the deceased person in accordance with the law.
 
-Who Can Apply For Probate Or Letters Of Administration?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Who Can Apply For Probate Or Letters Of Administration?
 
 **Probate**
 
@@ -994,75 +957,66 @@ Grant of Letters of Administration by filing a Renunciation and Consent.
 
 **Where can I apply for Probate or Letters of Administration?**
 
-If the value of the estate of the deceased is below S$3 million, the
+If the value of the estate of the deceased is below S\$3 million, the
 application is made in the State Courts. If the value of the estate of
-the deceased exceeds S$3 million, the application is made in the Supreme
-Court.
+the deceased exceeds S\$3 million, the application is made in the
+Supreme Court.
 
 **How do I apply for Probate or Letters of Administration?**
 
 To apply for Probate or Letters of Administration, a number of documents
 have to be prepared and filed (after payment of stamp fees) at the
 Service Bureau, located at the Supreme Court or at 133 New Bridge Road,
-#19-01/02 Chinatown Point.
+\#19-01/02 Chinatown Point.
 
 Documents required in an application for a Grant of Probate and a Grant
 of Letters of Administration:
 
 (1) An Originating Summons together with a Statement containing the
     relevant information to be entered in an electronic template.
-
 (2) A checklist for the Originating Summons in an electronic template.
-
 (3) A supporting affidavit verifying the information in the Statement
     for probate or administration. the affidavit must be in the format
     and contain the necessary supporting documents as prescribed by
-    paragraph 117 of the State Courts `Practice
-    Directions <http://app.subcourts.gov.sg/subcourts/page.aspx?pageid=4433>`__
+    paragraph 117 of the State Courts [Practice
+    Directions](http://app.subcourts.gov.sg/subcourts/page.aspx?pageid=4433)
     and must be filed within 14 days after the filing of the Originating
     Summons and Statement
-
 (4) The Administration Oath(s) by the Applicant(s) and Co-administrator,
     if any.
-
 (5) A certified true copy of the deceased's death certificate. The
     original must be submitted to the Probate Counter, located at the
     Civil Registry of the State Courts, for verification by 4.30 pm of
     the next working day after the electronic filing of the Originating
     Summons and Statement.
-
 (6) Original Inheritance Certificate from the Syariah Court (for Muslim
     estates only). The original must be submitted to the Probate Counter
     for verification by 4.30 pm, of the next working day of the
     electronic filing of the Originating Summons.
-
 (7) A certified true copy of the Will. The original must be submitted to
     the Probate Counter, by 4.30 pm of the next working day after the
     electronic filing of the Originating Summons and Statement.
-
 (8) Certificate of Result of Caveat Search together with the Search
     Reports from both the High Court and State Courts in the electronic
     format.
 
-**Additional documents required for Probate and Letters of Administration**
+**Additional documents required for Probate and Letters of
+Administration**
 
 **Probate**
 
 (1) The original Will, and two A4 sized certified true copies and one A3
     sized uncertified copy of the will.
-
 (2) Where the Will is not written in English, a certified true
     translation by a person competent to translate must be attached.
-
 (3) Renunciation(s) by a person(s) appointed executor(s) by the will but
     who does not wish to be the executor(s) if any.
 
 **Letters of Administration**
 
--  Consent of the co-administrator, if any.
-
--  Renunciation of the beneficiaries having a prior right to apply for
-   letters of administration if any.
+-   Consent of the co-administrator, if any.
+-   Renunciation of the beneficiaries having a prior right to apply for
+    letters of administration if any.
 
 *Note*: The above requirements apply in cases of simple applications for
 Probate and Letters of Administration. Much depends on the status of the
@@ -1084,13 +1038,11 @@ may be fixed for hearing before a Deputy Registrar in Chambers.
 After the Registrar grants an order-in-terms of the application, there
 are still a few more steps in which you (the applicant) need to file:
 
--  A Schedule of Assets belonging to the deceased as at time of death
-   and an affidavit verifying such schedule;
-
--  An Administration Bond with 2 sureties (Only for an application for
-   Grant of Letters of Administration); and
-
--  A Request to Extract Grant.
+-   A Schedule of Assets belonging to the deceased as at time of death
+    and an affidavit verifying such schedule;
+-   An Administration Bond with 2 sureties (Only for an application for
+    Grant of Letters of Administration); and
+-   A Request to Extract Grant.
 
 **How do I settle estate duty matters?**
 
@@ -1105,7 +1057,7 @@ Administration Bond to extract the grant. The Administration Bond has to
 be signed by you and your sureties, if any.
 
 Where any beneficiary is under 21 years of age, or the value of the
-estate exceeds S$250,000 you are required to furnish 2 sureties to the
+estate exceeds S\$250,000 you are required to furnish 2 sureties to the
 Administration Bond. This is to ensure that you administer the estate
 properly. The sureties must have assets worth the total value of the
 deceased's estate.
@@ -1123,7 +1075,7 @@ with one or both sureties.
 
 After the estate duty matters have been settled, you may apply to
 extract the grant. This is done by way of a Request to extract Grant of
-Probate or Letters of Administration [whichever is applicable] and
+Probate or Letters of Administration \[whichever is applicable\] and
 filing of the Administration Bond (if it is a case of Letters of
 Administration being extracted). before filling the request, you should
 conduct a search to ensure that there are no caveats in force against
@@ -1135,8 +1087,7 @@ You may wish to engage a lawyer if the estate of the deceased is complex
 or if you are unfamiliar with the legal procedures such as preparation
 and filing of numerous documents, and attending Court.
 
-Commonly Asked Questions On Probate / Letter Of Administration
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Commonly Asked Questions On Probate / Letter Of Administration
 
 **Executors/Administrators**
 
@@ -1145,33 +1096,26 @@ Commonly Asked Questions On Probate / Letter Of Administration
 The executor may be required to perform the following, depending on the
 contents of the will:
 
-1. Apply for probate.
-
-2. Make the arrangements for the funeral of the deceased.
-
-3. Determine the total assets and liabilities of the deceased.
-
-4. Resolve the outstanding income tax liability of the deceased,
-   according to section 58 of the `Income Tax
-   Act <http://statutes.agc.gov.sg/aol/search/display/view.w3p;page=0;query=DocId%3A45fc380e-12d4-4935-b138-c42dc45d377c%20Depth%3A0;rec=0;resUrl=http%3A%2F%2Fstatutes.agc.gov.sg%2Faol%2Fbrowse%2FtitleResults.w3p%3Bletter%3DI%3Btype%3DactsAll;whole=yes>`__.
-
-5. Pursue any debts owed to the deceased.
-
-6. Resolve any debts or liabilities of the deceased. In the case of an
-   insolvent estate, the order of priority in the repayment of debts can
-   be found in the \ `Bankruptcy
-   Act <http://statutes.agc.gov.sg/aol/search/display/view.w3p;page=0;query=DocId%3Ac342424a-8867-494a-bbab-91b696d12bdc%20Depth%3A0;rec=0;resUrl=http%3A%2F%2Fstatutes.agc.gov.sg%2Faol%2Fbrowse%2FtitleResults.w3p%3Bletter%3DB%3Btype%3DactsAll;whole=yes>`__,
-   after fulfillment of the \ `First
-   Schedule <http://statutes.agc.gov.sg/aol/search/display/view.w3p;ident=71399d56-6518-4694-bdd5-87dd81a8d927;page=0;query=DocId%3Af157ad50-12b0-43d2-9734-34a734c957c8%20Depth%3A0;rec=0;resUrl=http%3A%2F%2Fstatutes.agc.gov.sg%2Faol%2Fbrowse%2FtitleResults.w3p%3Bletter%3DP%3BpNum%3D1%3Btype%3DactsAll>`__ of
-   the Probate and Administration Act. In the case of a solvent estate,
-   the order of repayment can be found in the \ `Second
-   Schedule <http://statutes.agc.gov.sg/aol/search/display/view.w3p;ident=cfe43bcd-816c-47fb-8fa7-11dde4d3c225;page=0;query=DocId%3Af157ad50-12b0-43d2-9734-34a734c957c8%20Depth%3A0;rec=0;resUrl=http%3A%2F%2Fstatutes.agc.gov.sg%2Faol%2Fbrowse%2FtitleResults.w3p%3Bletter%3DP%3BpNum%3D1%3Btype%3DactsAll>`__ of
-   the Probate and Administration Act.
-
-7. Distribute the assets to the beneficiaries or their respective
-   guardians, in accordance to the will.
-
-8. Perform your duties in accordance with the Law.
+1.  Apply for probate.
+2.  Make the arrangements for the funeral of the deceased.
+3.  Determine the total assets and liabilities of the deceased.
+4.  Resolve the outstanding income tax liability of the deceased,
+    according to section 58 of the [Income Tax
+    Act](http://statutes.agc.gov.sg/aol/search/display/view.w3p;page=0;query=DocId%3A45fc380e-12d4-4935-b138-c42dc45d377c%20Depth%3A0;rec=0;resUrl=http%3A%2F%2Fstatutes.agc.gov.sg%2Faol%2Fbrowse%2FtitleResults.w3p%3Bletter%3DI%3Btype%3DactsAll;whole=yes).
+5.  Pursue any debts owed to the deceased.
+6.  Resolve any debts or liabilities of the deceased. In the case of an
+    insolvent estate, the order of priority in the repayment of debts
+    can be found in the [Bankruptcy
+    Act](http://statutes.agc.gov.sg/aol/search/display/view.w3p;page=0;query=DocId%3Ac342424a-8867-494a-bbab-91b696d12bdc%20Depth%3A0;rec=0;resUrl=http%3A%2F%2Fstatutes.agc.gov.sg%2Faol%2Fbrowse%2FtitleResults.w3p%3Bletter%3DB%3Btype%3DactsAll;whole=yes),
+    after fulfillment of the [First
+    Schedule](http://statutes.agc.gov.sg/aol/search/display/view.w3p;ident=71399d56-6518-4694-bdd5-87dd81a8d927;page=0;query=DocId%3Af157ad50-12b0-43d2-9734-34a734c957c8%20Depth%3A0;rec=0;resUrl=http%3A%2F%2Fstatutes.agc.gov.sg%2Faol%2Fbrowse%2FtitleResults.w3p%3Bletter%3DP%3BpNum%3D1%3Btype%3DactsAll) of
+    the Probate and Administration Act. In the case of a solvent estate,
+    the order of repayment can be found in the [Second
+    Schedule](http://statutes.agc.gov.sg/aol/search/display/view.w3p;ident=cfe43bcd-816c-47fb-8fa7-11dde4d3c225;page=0;query=DocId%3Af157ad50-12b0-43d2-9734-34a734c957c8%20Depth%3A0;rec=0;resUrl=http%3A%2F%2Fstatutes.agc.gov.sg%2Faol%2Fbrowse%2FtitleResults.w3p%3Bletter%3DP%3BpNum%3D1%3Btype%3DactsAll) of
+    the Probate and Administration Act.
+7.  Distribute the assets to the beneficiaries or their respective
+    guardians, in accordance to the will.
+8.  Perform your duties in accordance with the Law.
 
 The length of time it would take to carry out the duties of an executor
 will depend on various factors. Probate is a complex process, which can
@@ -1216,7 +1160,7 @@ issuance of the certificates can be made online or in person. Applicants
 are required to show his/her identity.
 
 For details of the application, please refer to the explanation of
-“Apply for Death Extracts” at the website of ICA [249]_.
+“Apply for Death Extracts” at the website of ICA[^9].
 
 **What if the executor can’t be found?**
 
@@ -1227,18 +1171,18 @@ relevant orders pursuant to the Will and the Letters of Administration
 require to do so. The order in considering the persons to be appointed
 by Court is as follows:
 
-    (a) A universal or residuary legatee.
-
-    (*b*) A legal personal representative of a deceased universal or
-    residuary legatee.
-
-    (*c*) Such person or persons, being beneficiaries under the will, as
-    would have been entitled to a grant of letters of administration if
-    the deceased had died intestate.
-
-    (*d*) A legatee having a beneficial interest.
-
-    (*e*) A creditor of the deceased.
+> (a) A universal or residuary legatee.
+>
+> (*b*) A legal personal representative of a deceased universal or
+> residuary legatee.
+>
+> (*c*) Such person or persons, being beneficiaries under the will, as
+> would have been entitled to a grant of letters of administration if
+> the deceased had died intestate.
+>
+> (*d*) A legatee having a beneficial interest.
+>
+> (*e*) A creditor of the deceased.
 
 **Can an administrator/executor distribute assets to themselves?**
 
@@ -1337,13 +1281,10 @@ such rights under the will or pursuant to the rules of intestacy. It is
 important to note that Singapore has a Wills Registry. The Wills
 Registry keeps the following information:
 
--  Details of the person making the will i.e. testator.
-
--  Date of the will.
-
--  Details of the person who drew up the will.
-
--  Details of where the will is held.
+-   Details of the person making the will i.e. testator.
+-   Date of the will.
+-   Details of the person who drew up the will.
+-   Details of where the will is held.
 
 The Wills Registry will not keep a copy nor original version of the
 Will.
@@ -1362,22 +1303,28 @@ such beneficiaries.
 
 These rights are:
 
--  To know if a Will exists.
+-   To know if a Will exists.
+-   To know the contents of the Will and request a copy of such text.
+-   
 
--  To know the contents of the Will and request a copy of such text.
+    To be informed by the executor/administrator of the current status of
 
--  To be informed by the executor/administrator of the current status of
-       his task, and to be informed on how the estate is being managed
-       towards distribution of the assets.
+    :   his task, and to be informed on how the estate is being managed
+        towards distribution of the assets.
 
--  To receive the assets as per stated in the Will or according to the
-       intestacy rules contained in the Intestate Succession Act.
+-   
 
--  To request the removal of the Administrator/Executor.
+    To receive the assets as per stated in the Will or according to the
 
--  To make an application for a Grant of Probate or a Grant of Letters
-       of Administration from a Court subject to the provisions of
-       Section 13 of the Probate and Administration Act.
+    :   intestacy rules contained in the Intestate Succession Act.
+
+-   To request the removal of the Administrator/Executor.
+-   
+
+    To make an application for a Grant of Probate or a Grant of Letters
+
+    :   of Administration from a Court subject to the provisions of
+        Section 13 of the Probate and Administration Act.
 
 **What are my rights as a spouse/child of the deceased? What if we were
 not on good terms?**
@@ -1410,7 +1357,7 @@ legitimate claim to the deceased’s estate?**
 
 Both illegitimate and adopted children are not included in the intestacy
 law rules. Thus under the current statutes they would not have a right
-to inherit. In AGG v. Estate of AAH deceased [2009] SGCA 56, an
+to inherit. In AGG v. Estate of AAH deceased \[2009\] SGCA 56, an
 appellant seeking maintenance for her two daughters which where
 illegitimate filed a claim for maintenances benefits. The Court
 dismissed the appeal based on the fact neither the law nor English
@@ -1543,51 +1490,44 @@ a caveat on the estate.
 
 (1) Inconsequence of the discovery of a will/codicil involving a
     substantial change in the disposition of the deceased’s estate
-
 (2) In consequence of a question whether a person had an interest in the
     estate; or as to the nature of an interest in the estate, not having
     been determined at the time when representation was first taken out;
     or
-
 (3) In consequence of some other circumstances affecting the
     administration or distribution of the estate.
 
-.. [241]
-   Following section on “Making a Will” is from The Law Society of
-   Singapore’s website
+[^1]: Following section on “Making a Will” is from The Law Society of
+    Singapore’s website
 
-.. [242]
-   http://probono.lawsociety.org.sg
+[^2]: <http://probono.lawsociety.org.sg>
 
-.. [243]
-   Information from IPTO’s website
-   http://www.ipto.gov.sg/content/ipto/en/public-trustee/deceased-cpf-estate-monies/information-for-next-of-kin-estate-monies.html,
-   last updated 8 September 2014
+[^3]: Information from IPTO’s website
+    <http://www.ipto.gov.sg/content/ipto/en/public-trustee/deceased-cpf-estate-monies/information-for-next-of-kin-estate-monies.html>,
+    last updated 8 September 2014
 
-.. [244]
-   .. rubric:: Source: IPTO website
-      https://www.mlaw.gov.sg/content/pto/en/wills-registry/information-for-testators.html,
-      last updated 2 December 2014
-      :name: source-ipto-website-httpswww.mlaw.gov.sgcontentptoenwills-registryinformation-for-testators.html-last-updated-2-december-2014
+[^4]: 
 
-.. [245]
-   Accessible at https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml
+    .. rubric:: Source: IPTO website
 
-.. [246]
-   https://www.mlaw.gov.sg/content/pto/en/wills-registry/forms.html
+    :   <https://www.mlaw.gov.sg/content/pto/en/wills-registry/information-for-testators.html>,
+        last updated 2 December 2014 :name:
+        source-ipto-website-httpswww.mlaw.gov.sgcontentptoenwills-registryinformation-for-testators.html-last-updated-2-december-2014
 
-.. [247]
-   Ibid
+[^5]: Accessible at
+    <https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml>
 
-.. [248]
-   http://www.ifaq.gov.sg/Subcourts/apps/fcd_faqmain.aspx#TOPIC_351,
-   updated on 16 June 2014 on the State Courts’ website.
+[^6]: <https://www.mlaw.gov.sg/content/pto/en/wills-registry/forms.html>
 
-   Current website
-   https://www.statecourts.gov.sg/TBD/Pages/ProbateandAdministration.aspx,
-   last updated 20/12/2014, being updated in view of amendments to the
-   Rules of Court and the Practice Directions.
+[^7]: Ibid
 
-.. [249]
-   http://www.ica.gov.sg/page.aspx?pageid=163, last accessed on 3
-   September 2014
+[^8]: <http://www.ifaq.gov.sg/Subcourts/apps/fcd_faqmain.aspx#TOPIC_351>,
+    updated on 16 June 2014 on the State Courts’ website.
+
+    Current website
+    <https://www.statecourts.gov.sg/TBD/Pages/ProbateandAdministration.aspx>,
+    last updated 20/12/2014, being updated in view of amendments to the
+    Rules of Court and the Practice Directions.
+
+[^9]: <http://www.ica.gov.sg/page.aspx?pageid=163>, last accessed on 3
+    September 2014

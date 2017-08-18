@@ -1,91 +1,144 @@
-
 CRIMINAL LAW AND PROCEDURE
 ==========================
 
 *Legal Infrastructure: What are the Criminal Courts and their differences?*
 ---------------------------------------------------------------------------
 
-+----------------------------------+----------------------------------------------------------------------------------+
-| **Name**                         | **Offences**                                                                     |
-+----------------------------------+----------------------------------------------------------------------------------+
-| **Magistrates’ Courts**          | | Can try offences where maximum imprisonment does not exceed three years or are |
-|                                  | | punishable with a fine only. Can sentence a person to imprisonment for not     |
-|                                  | | more than two years. However, where the law expressly provides for it, the MC  |
-|                                  | | also has the jurisdiction to try offences and impose sentences which exceed    |
-|                                  | | the above limits such as Common Gaming House Act (Cap 49), Films Act (Cap 107) |
-|                                  | | and Misc. Offences (Public Order & Nuisance) Act (Cap 184). [96]_              |
-+----------------------------------+----------------------------------------------------------------------------------+
-| **District Courts**              | | Can try offences where maximum imprisonment term does not exceed 10 years or   |
-|                                  | | are punishable with a fine only. Can sentence a person to imprisonment for no  |
-|                                  | | more than 7 years, a fine exceeding $10,000 and up to 12 strokes of the cane   |
-|                                  | | or any lawful sentence combining any of the sentences which hit is authorised  |
-|                                  | | by law to pass. Can also exceed limits on crimes under certain acts. [97]_     |
-+----------------------------------+----------------------------------------------------------------------------------+
-| **Commercial Criminal Courts**   | | Deals with specialised offences relating to commercial crimes and all          |
-|                                  | | interlocutory matters related to financial fraud, money laundering and         |
-| **and Special Trial Courts**     | | confiscation of assets; as well as cases of corruption, immigration, and       |
-|                                  | | employment of illegal foreign workers, special drug offences,                  |
-|                                  | | outraging of modesty and rape cases.                                           |
-+----------------------------------+----------------------------------------------------------------------------------+
-| **Criminal Mentions Courts**     | | An accused person is summoned to a Criminal Mentions Court when the prosecution|
-|                                  | | is ready to formally charge him/her, no longer than 48 hours after his/her     |
-|                                  | | arrest and remand.                                                             |
-|                                  | | There are two criminal mentions courts: District Arrest Cases (DACs) and the   |
-|                                  | | other with Magistrates’ Arrest Cases (MACs). [98]_ The charge is then read and |
-|                                  | | explained to the accused. If they plead guilty, they are then transferred to   |
-|                                  | | either sentencing courts or District Court (DC) No.1.                          |
-|                                  | | DC No.1 allows a presiding judge to grant appropriate applications of the      |
-|                                  | | prosecution or the accused persons including bail applications, applications   |
-|                                  | | to detain an accused for further investigations and applications to engage     |
-|                                  | | defence counsel. If an accused claims trial, the presiding judge will then fix |
-|                                  | | the case for a pre-trail conference before a Group Manager Judge under the     |
-|                                  | | Group Management of Cases scheme.                                              |
-+----------------------------------+----------------------------------------------------------------------------------+
-| **Centralised Sentencing Court** | | The CSC sentences accused persons who plead guilty to certain specified        |
-|                                  | | categories of cases. [99]_                                                     |
-+----------------------------------+----------------------------------------------------------------------------------+
-| **Filter Court**                 | | Generally deals with Night Court cases where the accused have claimed trial,   |
-|                                  | | and other simple cases which require up to a day’s trial. It is also a holding |
-|                                  | | court which filters cases to other trial courts. [100]_                        |
-+----------------------------------+----------------------------------------------------------------------------------+
-| **Traffic Court**                | | The traffic Court hears and tries traffic offences. This includes traffic      |
-|                                  | | arrests, traffic police summonses/notices where there are no offers of         |
-|                                  | | compensation (a traffic ticket).                                               |
-+----------------------------------+----------------------------------------------------------------------------------+
-| **Night Courts**                 | | These courts function for the convienience of the working public who would     |
-|                                  | | otherwise have to take time off from work in order to attend court. Operating  |
-|                                  | | hours are from 6pm onwards from Mondays to Fridays. There are two night courts,|
-|                                  | | each with its own profile of cases. Court 26N deals with summonses and notices |
-|                                  | | issued by the various departments (such as HDB, CPF, etc) while Court 25N deals|
-|                                  | | with road traffic offences and those brought about by the LTA. [101]_          |
-+----------------------------------+----------------------------------------------------------------------------------+
-| **Coroners’ Court**              | | In the event that someone’s family dies at home, contact the police to attend  |
-|                                  | | the premises and ascertain that the death was natural. If you have a family    |
-|                                  | | doctor, contract them to attend the home to sign a death certificate.          |
-|                                  | |                                                                                |
-|                                  | | The Coroner is a Judge of a State Court who, with the assistance of the police,|
-|                                  | | conducts investigations into the circumstances in which a deceased died. The   |
-|                                  | | Coroner’s Court deals with cases that are classified by the Police as Coroner’s|
-|                                  | | cases. The CC will hold an inquiry when there is reason to suspect that a      |
-|                                  | | person has died in a sudden or unnatural manner, by violence, when the cause   |
-|                                  | | of death is unknown and in situations where the law requires an inquiry (for   |
-|                                  | | example death in prison, suspected suicides, an industrial death, etc). [102]_ |
-|                                  | |                                                                                |
-|                                  | | Common verdicts are suicide, misadventure and open verdict (where the cause of |
-|                                  | | death is not clear). The body of a deceased will be brought to the Mortuary    |
-|                                  | | and the Police will contact you (if you had not been aware of this already).   |
-|                                  | | An autopsy may be conducted if the circumstances of death are suspicious. An   |
-|                                  | | autopsy decision cannot be appealed. In the event an individual is found to    |
-|                                  | | have contributed to the death, the judgement will be handed to the AGC and the |
-|                                  | | Public Prosecutor will decide whether to bring the case against the individual |
-|                                  | | for criminal misconduct.                                                       |
-+----------------------------------+----------------------------------------------------------------------------------+
++--------------------+-------------------------------------------------+
+| **Name**           | **Offences**                                    |
++--------------------+-------------------------------------------------+
+| **Magistrates’     | | Can try offences where maximum imprisonment   |
+| Courts**           |   does not exceed three years or are            |
+|                    | | punishable with a fine only. Can sentence a   |
+|                    |   person to imprisonment for not                |
+|                    | | more than two years. However, where the law   |
+|                    |   expressly provides for it, the MC             |
+|                    | | also has the jurisdiction to try offences and |
+|                    |   impose sentences which exceed                 |
+|                    | | the above limits such as Common Gaming House  |
+|                    |   Act (Cap 49), Films Act (Cap 107)             |
+|                    | | and Misc. Offences (Public Order & Nuisance)  |
+|                    |   Act (Cap 184).[^1]                            |
++--------------------+-------------------------------------------------+
+| **District         | | Can try offences where maximum imprisonment   |
+| Courts**           |   term does not exceed 10 years or              |
+|                    | | are punishable with a fine only. Can sentence |
+|                    |   a person to imprisonment for no               |
+|                    | | more than 7 years, a fine exceeding \$10,000  |
+|                    |   and up to 12 strokes of the cane              |
+|                    | | or any lawful sentence combining any of the   |
+|                    |   sentences which hit is authorised             |
+|                    | | by law to pass. Can also exceed limits on     |
+|                    |   crimes under certain acts.[^2]                |
++--------------------+-------------------------------------------------+
+| **Commercial       | | Deals with specialised offences relating to   |
+| Criminal Courts**  |   commercial crimes and all                     |
+|                    | | interlocutory matters related to financial    |
+| **and Special      |   fraud, money laundering and                   |
+| Trial Courts**     | | confiscation of assets; as well as cases of   |
+|                    |   corruption, immigration, and                  |
+|                    | | employment of illegal foreign workers,        |
+|                    |   special drug offences,                        |
+|                    | | outraging of modesty and rape cases.          |
++--------------------+-------------------------------------------------+
+| **Criminal         | | An accused person is summoned to a Criminal   |
+| Mentions Courts**  |   Mentions Court when the prosecution           |
+|                    | | is ready to formally charge him/her, no       |
+|                    |   longer than 48 hours after his/her            |
+|                    | | arrest and remand.                            |
+|                    | | There are two criminal mentions courts:       |
+|                    |   District Arrest Cases (DACs) and the          |
+|                    | | other with Magistrates’ Arrest Cases          |
+|                    |   (MACs).[^3] The charge is then read and       |
+|                    | | explained to the accused. If they plead       |
+|                    |   guilty, they are then transferred to          |
+|                    | | either sentencing courts or District Court    |
+|                    |   (DC) No.1.                                    |
+|                    | | DC No.1 allows a presiding judge to grant     |
+|                    |   appropriate applications of the               |
+|                    | | prosecution or the accused persons including  |
+|                    |   bail applications, applications               |
+|                    | | to detain an accused for further              |
+|                    |   investigations and applications to engage     |
+|                    | | defence counsel. If an accused claims trial,  |
+|                    |   the presiding judge will then fix             |
+|                    | | the case for a pre-trail conference before a  |
+|                    |   Group Manager Judge under the                 |
+|                    | | Group Management of Cases scheme.             |
++--------------------+-------------------------------------------------+
+| **Centralised      | | The CSC sentences accused persons who plead   |
+| Sentencing Court** |   guilty to certain specified                   |
+|                    | | categories of cases.[^4]                      |
++--------------------+-------------------------------------------------+
+| **Filter Court**   | | Generally deals with Night Court cases where  |
+|                    |   the accused have claimed trial,               |
+|                    | | and other simple cases which require up to a  |
+|                    |   day’s trial. It is also a holding             |
+|                    | | court which filters cases to other trial      |
+|                    |   courts.[^5]                                   |
++--------------------+-------------------------------------------------+
+| **Traffic Court**  | | The traffic Court hears and tries traffic     |
+|                    |   offences. This includes traffic               |
+|                    | | arrests, traffic police summonses/notices     |
+|                    |   where there are no offers of                  |
+|                    | | compensation (a traffic ticket).              |
++--------------------+-------------------------------------------------+
+| **Night Courts**   | | These courts function for the convienience of |
+|                    |   the working public who would                  |
+|                    | | otherwise have to take time off from work in  |
+|                    |   order to attend court. Operating              |
+|                    | | hours are from 6pm onwards from Mondays to    |
+|                    |   Fridays. There are two night courts,          |
+|                    | | each with its own profile of cases. Court 26N |
+|                    |   deals with summonses and notices              |
+|                    | | issued by the various departments (such as    |
+|                    |   HDB, CPF, etc) while Court 25N deals          |
+|                    | | with road traffic offences and those brought  |
+|                    |   about by the LTA.[^6]                         |
++--------------------+-------------------------------------------------+
+| **Coroners’        | | In the event that someone’s family dies at    |
+| Court**            |   home, contact the police to attend            |
+|                    | | the premises and ascertain that the death was |
+|                    |   natural. If you have a family                 |
+|                    | | doctor, contract them to attend the home to   |
+|                    |   sign a death certificate.                     |
+|                    | |                                               |
+|                    | | The Coroner is a Judge of a State Court who,  |
+|                    |   with the assistance of the police,            |
+|                    | | conducts investigations into the              |
+|                    |   circumstances in which a deceased died. The   |
+|                    | | Coroner’s Court deals with cases that are     |
+|                    |   classified by the Police as Coroner’s         |
+|                    | | cases. The CC will hold an inquiry when there |
+|                    |   is reason to suspect that a                   |
+|                    | | person has died in a sudden or unnatural      |
+|                    |   manner, by violence, when the cause           |
+|                    | | of death is unknown and in situations where   |
+|                    |   the law requires an inquiry (for              |
+|                    | | example death in prison, suspected suicides,  |
+|                    |   an industrial death, etc).[^7]                |
+|                    | |                                               |
+|                    | | Common verdicts are suicide, misadventure and |
+|                    |   open verdict (where the cause of              |
+|                    | | death is not clear). The body of a deceased   |
+|                    |   will be brought to the Mortuary               |
+|                    | | and the Police will contact you (if you had   |
+|                    |   not been aware of this already).              |
+|                    | | An autopsy may be conducted if the            |
+|                    |   circumstances of death are suspicious. An     |
+|                    | | autopsy decision cannot be appealed. In the   |
+|                    |   event an individual is found to               |
+|                    | | have contributed to the death, the judgement  |
+|                    |   will be handed to the AGC and the             |
+|                    | | Public Prosecutor will decide whether to      |
+|                    |   bring the case against the individual         |
+|                    | | for criminal misconduct.                      |
++--------------------+-------------------------------------------------+
 
 Arrest, Custody & Police Bail
 -----------------------------
 
-Arrest
-~~~~~~
+### Arrest
 
 **1. What is an arrest?**
 
@@ -118,7 +171,7 @@ to verify the identity of the arresting officer.
 
 A specimen of the warrant card is shown below.
 
-|image5|
+![image5](../images/image6.jpeg){width="1.31667in" height="2.08333in"}
 
 If you still have doubt about the officer's identity, you should call
 '999' for assistance.
@@ -205,25 +258,24 @@ officers.
 The law allows the accused to consult a lawyer of your choice within a
 reasonable time after the accused has been arrested.
 
-Custody
-~~~~~~~
+### Custody
 
 **1. How does the Police deal with an Accused detained in Police
-Custody?**\  [103]_
+Custody?**[^8]
 
-    **a. Interview:** The police will interview the accused on the facts
-    and circumstances of the case.
-
-    **b.** **Scene of the crime:** The police may also bring him/her to
-    the scene of crime or any other places to recover evidences that may
-    be relevant to the investigations.
-
-    **c. Polygraph examination:** As part of their investigations, the
-    Police may request the accused to undergo a polygraph examination
-    (or lie-detector test).
-
-    **d. Identification parade:** The Police may also request the
-    accused to participate in an identification parade
+> **a. Interview:** The police will interview the accused on the facts
+> and circumstances of the case.
+>
+> **b.** **Scene of the crime:** The police may also bring him/her to
+> the scene of crime or any other places to recover evidences that may
+> be relevant to the investigations.
+>
+> **c. Polygraph examination:** As part of their investigations, the
+> Police may request the accused to undergo a polygraph examination (or
+> lie-detector test).
+>
+> **d. Identification parade:** The Police may also request the accused
+> to participate in an identification parade
 
 The accused, if he/she so wishes, can decline to undergo a polygraph
 examination or to participate in an identification parade. During the
@@ -308,10 +360,9 @@ request and payment of the requisite fees. This, however, is subject to
 the guidelines applicable to the Police for the release of such
 documents.
 
-Police Bail
-~~~~~~~~~~~
+### Police Bail
 
-**1. What is bail?**\  [104]_
+**1. What is bail?**[^9]
 
 Bail is a security either in cash or by an undertaking given to the
 Court or to the police to ensure that the person released on bail (the
@@ -334,7 +385,7 @@ the offence is one where the punishment is death or life imprisonment.
 The amount of bail depends very much on the seriousness of the offence.
 
 Bail may be increased or reduced at any time by applying to the Court.
-If the police asks for bail in the sum of S$5,000.00 or more, the
+If the police asks for bail in the sum of S\$5,000.00 or more, the
 ability (means) of the bailor to stand bail will first of all have to be
 checked by the police and reported to the Court before granting the
 bail. A bailor may show his ability to stand bail by depositing cash, or
@@ -362,7 +413,7 @@ before the case is completed. If the accused cannot find a substitute
 bailor, he will be remanded in prison until the date of his conviction
 or acquittal.
 
-**7. What Is The Purpose Of Granting Police Bail?**\  [105]_
+**7. What Is The Purpose Of Granting Police Bail?**[^10]
 
 There are two functions of Police bail. The first is to ensure that the
 accused on bail turns up at the Police station to assist in Police
@@ -383,8 +434,8 @@ property, share certificates or other valuables. A bailor should also
 bring along his/her NRIC as proof of identity.
 
 The bailor *must also be prepared to accept the responsibility of a
-bailor until the case is over*. If the amount of bail exceeds $10,000, a
-company or a business may stand as bailor. The company's stamp will be
+bailor until the case is over*. If the amount of bail exceeds \$10,000,
+a company or a business may stand as bailor. The company's stamp will be
 needed. The authorised signatory of the company will have to sign the
 documents. The conditions of release on bail and the date of attendance
 at the Police station or court will be explained to the accused. A copy
@@ -392,35 +443,30 @@ of the bail will be provided. Another copy will also be given to the
 bailor. Once the bail has been processed, the accused will be released
 from Police custody, subject to the following conditions:
 
-1. He/She may be asked to surrender any travel documents in his
-   possession.
-
-2. He/She will surrender into custody, make himself available for
-   investigations or attend Court at the date, time and place appointed
-   for him to do so.
-
-3. He/She shall not commit any offence while released on bail or on
-   personal bond.
-
-4. He/She shall not interfere with any witness or otherwise obstruct the
-   course of justice whether in relation to himself or any other person.
-
-5. He/She will not be allowed to leave Singapore without the express
-   consent of the Police or the Court in writing.
+1.  He/She may be asked to surrender any travel documents in his
+    possession.
+2.  He/She will surrender into custody, make himself available for
+    investigations or attend Court at the date, time and place appointed
+    for him to do so.
+3.  He/She shall not commit any offence while released on bail or on
+    personal bond.
+4.  He/She shall not interfere with any witness or otherwise obstruct
+    the course of justice whether in relation to himself or any other
+    person.
+5.  He/She will not be allowed to leave Singapore without the express
+    consent of the Police or the Court in writing.
 
 **9. What are the duties of a bailor?**
 
 The bailor must ensure that:
 
-1. The released person surrenders to custody or makes himself available
-   for investigations or attends Court at the date, time, place
-   appointed for him to do so
-
-2. He keeps in daily communication with the released person and lodge a
-   police report within 24 hours of losing contact with him
-
-3. The released person is within Singapore unless the released person
-   has been permitted by Police to leave Singapore
+1.  The released person surrenders to custody or makes himself available
+    for investigations or attends Court at the date, time, place
+    appointed for him to do so
+2.  He keeps in daily communication with the released person and lodge a
+    police report within 24 hours of losing contact with him
+3.  The released person is within Singapore unless the released person
+    has been permitted by Police to leave Singapore
 
 If the bailor is in breach of any of his duties, the court may
 confiscate the whole or a part of the bail sum.
@@ -431,19 +477,18 @@ station on the given date and time?**
 If on the given date and time, the person bailed does not appear at the
 Police station:
 
-a. The Police will apply to the Court for a warrant of arrest. The
-   person on bail may also be charged in court for his/her
-   non-attendance for which he/she can be punished with imprisonment for
-   a term of up to 1 month or with a fine which may extend to $500 or
-   with both; and
-
-b. The bailor will be required to show cause to the Court why the bail
-   amount or any part thereof should not be forfeited.
+a.  The Police will apply to the Court for a warrant of arrest. The
+    person on bail may also be charged in court for his/her
+    non-attendance for which he/she can be punished with imprisonment
+    for a term of up to 1 month or with a fine which may extend to \$500
+    or with both; and
+b.  The bailor will be required to show cause to the Court why the bail
+    amount or any part thereof should not be forfeited.
 
 Police Investigations
--------------------------
+---------------------
 
-**1. What is an investigation?**\  [106]_
+**1. What is an investigation?**[^11]
 
 Investigation is the process of inquiry that helps Police to uncover
 what happened in a crime. The Police conduct investigations to find out
@@ -494,12 +539,11 @@ if the person does not speak or understand English, he/she should
 request for the statement to be interpreted to him/her in the language
 of his/her choice to ensure that the contents are true and correct.
 
-**
-6. What happens if the person refuses to sign the statement?**
+*\* 6. What happens if the person refuses to sign the statement?*\*
 
 If a person refuses to sign his/her statement, he/she may be charged
 with an offence for which he/she may be punished with imprisonment for a
-term of up to 3 months or a fine of up to $500 or both.
+term of up to 3 months or a fine of up to \$500 or both.
 
 **7. Where can a statement be recorded?**
 
@@ -514,18 +558,16 @@ If a person fails to attend an interview as required by the Police, the
 Magistrate may be notified for a warrant to be issued against his/her to
 secure his/her attendance.
 
-**9. What can an investigating officer do?**\  [107]_
+**9. What can an investigating officer do?**[^12]
 
 Some of the powers of an investigating officer are as follows:
 
-    a. To order a person to go to a police station or other place for
-    questioning and for taking of a statement.
+> a\. To order a person to go to a police station or other place for
+> questioning and for taking of a statement.
 
-b. To record what you have to say and ask you to sign it.
-
-c. To search a place and take away things to be used as evidence.
-
-d. To seize properties which may be exhibits in the case.
+b.  To record what you have to say and ask you to sign it.
+c.  To search a place and take away things to be used as evidence.
+d.  To seize properties which may be exhibits in the case.
 
 Being Charged In Court
 ----------------------
@@ -549,14 +591,11 @@ contest the charge).
 
 **Options for an accused when charged in court:**
 
-1. Adjournment (If undecided)
+1.  Adjournment (If undecided)
+2.  Pleading guilty
+3.  Claiming trial
 
-2. Pleading guilty
-
-3. Claiming trial
-
-Adjournment
-~~~~~~~~~~~
+### Adjournment
 
 If you are unable to decide whether to plead guilty or claim trial to
 the charge, or you wish to consult or be represented by a lawyer, you
@@ -568,17 +607,17 @@ consult a lawyer.
 
 Generally, adjournments may be granted for the following reasons:
 
-    a. For your lawyer to apply for the necessary papers e.g. first
-    information report and to make representations on your behalf to the
-    Attorney-General's Chambers.
-
-    b. For you to raise funds or make restitution, if you indicate an
-    intention to plead guilty to the charge.
-
-    c. For you/your lawyer to prepare your mitigation, if you indicate
-    an intention to plead guilty.
-
-    d. For you to settle personal affairs, if any.
+> a\. For your lawyer to apply for the necessary papers e.g. first
+> information report and to make representations on your behalf to the
+> Attorney-General's Chambers.
+>
+> b\. For you to raise funds or make restitution, if you indicate an
+> intention to plead guilty to the charge.
+>
+> c\. For you/your lawyer to prepare your mitigation, if you indicate an
+> intention to plead guilty.
+>
+> d.  For you to settle personal affairs, if any.
 
 Please note that an adjournment is granted at the Courts’ discretion. If
 the Court grants an adjournment, you may be asked to furnish bail. If
@@ -601,20 +640,20 @@ Warrant Enforcement Unit for the warrant to be executed.
 
 A medical certificate will not be accepted unless it:
 
-a. Contains the name of the medical practitioner who issued the
+a\. Contains the name of the medical practitioner who issued the
 certificate.
 
-b. States the name of the hospital/clinic in which he practices.
+b.  States the name of the hospital/clinic in which he practices.
 
-c. Indicates that the person to whom the certificate is issued is unable
+c\. Indicates that the person to whom the certificate is issued is unable
 to attend Court.
 
-d. Specifies the date(s) on which he is unfit to attend Court.
+d.  Specifies the date(s) on which he is unfit to attend Court.
 
-e. Is signed in full by the medical practitioner and must not be merely
+e\. Is signed in full by the medical practitioner and must not be merely
 initialled.
 
-f. Is authenticated by a rubber stamp showing the medical practitioner's
+f\. Is authenticated by a rubber stamp showing the medical practitioner's
 full name and designation in the hospital or clinic.
 
 **4. As a condition of the Warrant of Arrest, bail may or may not be
@@ -654,8 +693,7 @@ surety and the matter fixed for mention in Court. Your surety may have
 his bail money or property forfeited by the court if he fails to give a
 satisfactory explanation for your absence from Court.
 
-*Pleading Guilty*
-~~~~~~~~~~~~~~~~~
+### *Pleading Guilty*
 
 If you plead guilty to the charge, you must admit fully the offence
 alleged to have been committed by you. You must also understand the
@@ -717,8 +755,7 @@ to the Court a Victim Impact Statement. This is a recently introduced
 procedure by which the Court may assess the effect of the offences on
 the victim and then consider an appropriate sentence.
 
-*Claiming Trial*
-~~~~~~~~~~~~~~~~
+### *Claiming Trial*
 
 If you decide to claim trial to the charge, the Court will set aside a
 date for trial. Your trial may be fixed in another Court on a separate
@@ -783,18 +820,15 @@ In cases where the Court grants instalment payments and you fail to pay
 the instalment due, you will also have to serve the applicable period of
 default imprisonment sentence.
 
-How To File A Notice Of Appeal
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### How To File A Notice Of Appeal
 
 **For cases where the Accused is charged on or after 2 Jan 2011**
 
-**Procedure**\  [108]_
+**Procedure**[^13]
 
-1. Filing of a Notice of Appeal
-
-2. Service of Grounds of Decision and Notes of Evidence
-
-3. Filing of the Petition of Appeal
+1.  Filing of a Notice of Appeal
+2.  Service of Grounds of Decision and Notes of Evidence
+3.  Filing of the Petition of Appeal
 
 **Step 1: Filing of a Notice of Appeal**
 
@@ -826,7 +860,7 @@ firm’s reference, address, telephone and fax number must be provided in
 the Notice of Appeal.
 
 The completed form should be submitted (**within 14 calendar days**) at
-the Appeals Counter in Crime Registry and a fee of S$50 is required to
+the Appeals Counter in Crime Registry and a fee of S\$50 is required to
 be paid at the time of submission. Where the Appellant is a company, a
 letter of authorization is required from the company authorizing the
 representative of the company who signs on the Notice of Appeal.
@@ -847,7 +881,7 @@ will be served on the Appellant or his lawyer via Speed Post.
 The Appellant is entitled to the first set of record of proceedings and
 Grounds of Decision. Subsequent sets of record of proceeding, Grounds of
 Decision and exhibits tendered during hearing will be charged as
-follows: $0.50 for each page subject to a minimum of $10.
+follows: \$0.50 for each page subject to a minimum of \$10.
 
 **Step 3: Filing of the Petition of Appeal**
 
@@ -867,8 +901,8 @@ enforce its sentence or order.
 
 If the Appellant is on bail pending his/her appeal against a sentence of
 imprisonment, the Appellant must surrender to the Court that had
-sentenced him/her on the 15\ :sup:`th` day after the service of the
-Grounds of Decision, failing which, a Warrant of Arrest will be issued.
+sentenced him/her on the 15^th^ day after the service of the Grounds of
+Decision, failing which, a Warrant of Arrest will be issued.
 
 The Warrant Enforcement Unit (a division of the Singapore Police Force)
 will arrest and produce the Appellant in court. Thereafter, the
@@ -881,7 +915,7 @@ appeal.
 Court Bail
 ----------
 
-**1. What is Court Bail?**\  [109]_
+**1. What is Court Bail?**[^14]
 
 It is an amount of money or property required to be deposited with the
 Court, in order for the accused person to be released from custody of
@@ -930,57 +964,78 @@ Saturdays 8.30 am to 1.00 pm
 
 Please note:
 
-a. Registration for bail closes at 12 noon and at 5.00 pm on a weekday.
+a.  Registration for bail closes at 12 noon and at 5.00 pm on a weekday.
+b.  Registration closes at 12.00 noon on a Saturday.
 
-b. Registration closes at 12.00 noon on a Saturday.
-
-    c. Late registration of the bail can result in the bail not being
-    able to be processed within the same day and in which event, the
-    accused person would continue in remand at the Prison.
+    > c\. Late registration of the bail can result in the bail not being able
+    > to be processed within the same day and in which event, the accused
+    > person would continue in remand at the Prison.
 
 **7. How is the amount of bail decided?**
 
-+-------------+-----------------------------------------------------------------+-----------------------------------------------------------+
-| **S/No**    | **Punishment Prescribed**                                       | **Bail Amount Guide**                                     |
-+=============+=================================================================+===========================================================+
-| 1           | Offence is punishable with fine only                            | $1,000 - $5,000 or                                        |
-|             |                                                                 |                                                           |
-|             |                                                                 | Up to maximum fine                                        |
-+-------------+-----------------------------------------------------------------+-----------------------------------------------------------+
-| 2           | Offence is punishable with mandatory minimum fine               | Consider setting bail at minimum fine amount or upwards   |
-+-------------+-----------------------------------------------------------------+-----------------------------------------------------------+
-| 3           | Offence is punishable with imprisonment for up to 1 year        | $2,000 - $10,000                                          |
-+-------------+-----------------------------------------------------------------+-----------------------------------------------------------+
-| 4           | Offence is punishable with imprisonment for up to 3 years       | $5,000 upwards                                            |
-+-------------+-----------------------------------------------------------------+-----------------------------------------------------------+
-| 5           | Offence is punishable with imprisonment for up to 5 years       | $10,000 upwards                                           |
-+-------------+-----------------------------------------------------------------+-----------------------------------------------------------+
-| 6           | Offence is punishable with imprisonment for up to 7 years       | $10,000 upwards                                           |
-+-------------+-----------------------------------------------------------------+-----------------------------------------------------------+
-| 7           | Offence is punishable with imprisonment from 7 years upwards    | $20,000 upwards                                           |
-+-------------+-----------------------------------------------------------------+-----------------------------------------------------------+
-| 8           | Offence is punishable with mandatory imprisonment term \*       | $6,000 upwards                                            |
-+-------------+-----------------------------------------------------------------+-----------------------------------------------------------+
-| 9           | Offence is punishable with mandatory caning \*                  | $10,000 upwards                                           |
-+-------------+-----------------------------------------------------------------+-----------------------------------------------------------+
-| 10          | Offence is punishable with either Mandatory minimum imprisonment| $12,000 upwards                                           |
-|             |                                                                 |                                                           |
-|             | of 1 year \* OR Mandatory minimum caning of 3 strokes \*        |                                                           |
-+-------------+-----------------------------------------------------------------+-----------------------------------------------------------+
-| 11          | Offence is punishable with either Mandatory minimum imprisonment| $20,000 upwards                                           |
-|             |                                                                 |                                                           |
-|             | of 2 – 3 years\* OR Mandatory minimum caning of 6 strokes \*    |                                                           |
-+-------------+-----------------------------------------------------------------+-----------------------------------------------------------+
-| 12          | Offence is punishable with either Mandatory minimum of 5 years  | $30,000 upwards                                           |
-|             |                                                                 |                                                           |
-|             | upwards \* OR Mandatory minimum caning of 12 strokes \*         |                                                           |
-+-------------+-----------------------------------------------------------------+-----------------------------------------------------------+
++------+--------------------------------+-----------------------------+
+| **S/ | **Punishment Prescribed**      | **Bail Amount Guide**       |
+| No** |                                |                             |
++======+================================+=============================+
+| 1    | Offence is punishable with     | \$1,000 - \$5,000 or        |
+|      | fine only                      |                             |
+|      |                                | Up to maximum fine          |
++------+--------------------------------+-----------------------------+
+| 2    | Offence is punishable with     | Consider setting bail at    |
+|      | mandatory minimum fine         | minimum fine amount or      |
+|      |                                | upwards                     |
++------+--------------------------------+-----------------------------+
+| 3    | Offence is punishable with     | \$2,000 - \$10,000          |
+|      | imprisonment for up to 1 year  |                             |
++------+--------------------------------+-----------------------------+
+| 4    | Offence is punishable with     | \$5,000 upwards             |
+|      | imprisonment for up to 3 years |                             |
++------+--------------------------------+-----------------------------+
+| 5    | Offence is punishable with     | \$10,000 upwards            |
+|      | imprisonment for up to 5 years |                             |
++------+--------------------------------+-----------------------------+
+| 6    | Offence is punishable with     | \$10,000 upwards            |
+|      | imprisonment for up to 7 years |                             |
++------+--------------------------------+-----------------------------+
+| 7    | Offence is punishable with     | \$20,000 upwards            |
+|      | imprisonment from 7 years      |                             |
+|      | upwards                        |                             |
++------+--------------------------------+-----------------------------+
+| 8    | Offence is punishable with     | \$6,000 upwards             |
+|      | mandatory imprisonment term \* |                             |
++------+--------------------------------+-----------------------------+
+| 9    | Offence is punishable with     | \$10,000 upwards            |
+|      | mandatory caning \*            |                             |
++------+--------------------------------+-----------------------------+
+| 10   | Offence is punishable with     | \$12,000 upwards            |
+|      | either Mandatory minimum       |                             |
+|      | imprisonment                   |                             |
+|      |                                |                             |
+|      | of 1 year \* OR Mandatory      |                             |
+|      | minimum caning of 3 strokes \* |                             |
++------+--------------------------------+-----------------------------+
+| 11   | Offence is punishable with     | \$20,000 upwards            |
+|      | either Mandatory minimum       |                             |
+|      | imprisonment                   |                             |
+|      |                                |                             |
+|      | of 2 – 3 years\* OR Mandatory  |                             |
+|      | minimum caning of 6 strokes \* |                             |
++------+--------------------------------+-----------------------------+
+| 12   | Offence is punishable with     | \$30,000 upwards            |
+|      | either Mandatory minimum of 5  |                             |
+|      | years                          |                             |
+|      |                                |                             |
+|      | upwards \* OR Mandatory        |                             |
+|      | minimum caning of 12 strokes   |                             |
+|      | \*                             |                             |
++------+--------------------------------+-----------------------------+
 
-\* To consider scaling bail amount upwards if offence is punishable with mandatory minimum imprisonment term AND caning
+\* To consider scaling bail amount upwards if offence is punishable with
+mandatory minimum imprisonment term AND caning
 
-**Note:** Where the offence relates to property and the property is not recovered,
-the bail amount should generally bear some proportion to the value of the unrecovered property
-
+**Note:** Where the offence relates to property and the property is not
+recovered, the bail amount should generally bear some proportion to the
+value of the unrecovered property
 
 The suggested bail quanta listed above are intended only to serve as
 **general guidelines**. They may be adjusted upwards or downwards
@@ -1017,19 +1072,14 @@ Bail?**
 The following collaterals that can be pledged depends on the bail amount
 granted, and any conditions that may be imposed by the Court:
 
-+-------------------+--------+----------------+-----------------+--------------------------+
-| Bail Amount       | Cash   | Savings Acct   | Fixed Deposit   | Personal Property \*\*   |
-+===================+========+================+=================+==========================+
-| Below $1000\*     | NA     | NA             | NA              | NA                       |
-+-------------------+--------+----------------+-----------------+--------------------------+
-| $1001 to $5000    | √      | √              | √               | √                        |
-+-------------------+--------+----------------+-----------------+--------------------------+
-| $5001 to $10000   | √      | √              | √               | √\*\*\*                  |
-+-------------------+--------+----------------+-----------------+--------------------------+
-| $10,001 & above   | √      | √              | √               | X                        |
-+-------------------+--------+----------------+-----------------+--------------------------+
+  Bail Amount            Cash       Savings Acct       Fixed Deposit        Personal Property \*\*
+  ---------------------- ---------- ------------------ -------------------- ------------------------------
+  Below \$1000\*         NA         NA                 NA                   NA
+  \$1001 to \$5000       √          √                  √                    √
+  \$5001 to \$10000      √          √                  √                    √\*\*\*
+  \$10,001 & above       √          √                  √                    X
 
-\* For bail amounts of $1000 and below, no collateral is required.
+\* For bail amounts of \$1000 and below, no collateral is required.
 
 \*\* Pledging of movable personal property, such as household items or
 jewellery, is by way of a sworn affidavit. (Such an affidavit will be
@@ -1040,9 +1090,9 @@ Commissioner for Oaths).
 person to the Investigating Officer of the case, with the affidavit for
 verification purposes. Generally, the Investigating Officer may require
 the surety to submit documentary proof of ownership by the
-:sup:`1`\ surety. [110]_ If the surety provides cash for at least half
-of the bail amount, such verification by the Investigating Officer will
-not be required.
+^1^surety.[^15] If the surety provides cash for at least half of the
+bail amount, such verification by the Investigating Officer will not be
+required.
 
 **9. What is verification?**
 
@@ -1050,59 +1100,48 @@ It is a process to confirm that the current market value of the personal
 property pledged by the surety is worth the bail amount ordered by the
 Court. The verification process is as follows:
 
-a. Verification is conducted by the Investigating Officer of the case.
-
-b. The Bail Officer will prepare the affidavit, based on the information
-   given by the surety.
-
-c. The affidavit is then given to the surety in a sealed envelope with a
-   direction that the surety is to report personally at the relevant law
-   enforcement agency for the verification by the Investigating Officer.
-
-d. The Investigating Officer will assess whether the personal property
-   is worth the bail amount and then endorse on the reverse side of the
-   affidavit the outcome of his verification.
-
-e. The endorsed affidavit will be returned to the surety in a sealed
-   envelope with a direction that the surety is to return to the Bail
-   Centre with it.
-
-f. Upon the surety’s return, the Bail Centre will confirm whether the
-   endorsed amount is worth the bail amount. If it is, the Bail Officer
-   would then prepare the bail bond and have it executed before the Duty
-   Judge.
-
-g. If however the affidavit has been endorsed as not worth the bail
-   amount, the surety will be informed. The surety can then make
-   alternative arrangements like using cash or bank account. If the
-   surety decides to add further additional personal property the
-   verification process will have to be reactivated.
+a.  Verification is conducted by the Investigating Officer of the case.
+b.  The Bail Officer will prepare the affidavit, based on the
+    information given by the surety.
+c.  The affidavit is then given to the surety in a sealed envelope with
+    a direction that the surety is to report personally at the relevant
+    law enforcement agency for the verification by the Investigating
+    Officer.
+d.  The Investigating Officer will assess whether the personal property
+    is worth the bail amount and then endorse on the reverse side of the
+    affidavit the outcome of his verification.
+e.  The endorsed affidavit will be returned to the surety in a sealed
+    envelope with a direction that the surety is to return to the Bail
+    Centre with it.
+f.  Upon the surety’s return, the Bail Centre will confirm whether the
+    endorsed amount is worth the bail amount. If it is, the Bail Officer
+    would then prepare the bail bond and have it executed before the
+    Duty Judge.
+g.  If however the affidavit has been endorsed as not worth the bail
+    amount, the surety will be informed. The surety can then make
+    alternative arrangements like using cash or bank account. If the
+    surety decides to add further additional personal property the
+    verification process will have to be reactivated.
 
 **10. What happens in Court Bail proceedings?**
 
 The Bail Officer will:
 
-a. Prepare the bail bond and the affidavit, once the amount and method
-   of payment have been ascertained, as well as the completion of the
-   verification (if applicable), as explained above.
-
-b. Explain to the surety his responsibilities of the surety and the
-   consequences when the conditions of the bail are breached.
-
-c. Inform him of the next mention or trial date.
-
-d. Forward the bail bond by fax to the Police Lock-Up for the accused
-   person to sign
-
-e. Thereafter - The surety will appear before the Duty Judge, and the
-   accused person will be present through the video-link.
-
-f. The Duty Judge will confirm with the accused person and his surety
-   that they are aware of the mention or trial date and obtain surety’s
-   confirmation that he or she is aware of his/her duties
-
-g. Once the Duty Judge accepts the surety’s application, the accused
-   person would be released on bail.
+a.  Prepare the bail bond and the affidavit, once the amount and method
+    of payment have been ascertained, as well as the completion of the
+    verification (if applicable), as explained above.
+b.  Explain to the surety his responsibilities of the surety and the
+    consequences when the conditions of the bail are breached.
+c.  Inform him of the next mention or trial date.
+d.  Forward the bail bond by fax to the Police Lock-Up for the accused
+    person to sign
+e.  Thereafter - The surety will appear before the Duty Judge, and the
+    accused person will be present through the video-link.
+f.  The Duty Judge will confirm with the accused person and his surety
+    that they are aware of the mention or trial date and obtain surety’s
+    confirmation that he or she is aware of his/her duties
+g.  Once the Duty Judge accepts the surety’s application, the accused
+    person would be released on bail.
 
 **11. What are the consequences of breaching Court Bail?**
 
@@ -1179,49 +1218,47 @@ Magistrate’s Complaints
 
 A Magistrate’s Complaint is a written complaint lodged by a person (the
 Complainant) against one or more persons (the Respondents) whom he
-believes has committed a criminal offence against him. [111]_
+believes has committed a criminal offence against him.[^16]
 
-How To File A Magistrate’s Complaint
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### How To File A Magistrate’s Complaint
 
-|image6|
+![image6](../images/image7.png){width="6.00000in" height="4.40000in"}
 
-**Step 1: Filing of a Magistrates' Complaint**\  [112]_
+**Step 1: Filing of a Magistrates' Complaint**[^17]
 
 A Magistrates Complaint can be filed by any person who wishes to seek
 redress for an offence that they believe has been committed against them
 (broad range i.e. cheating, tenancy complaints, and suspected
 illegality).
 
-The complaint should be made on the `Standard Complaint
-form <http://app.subcourts.gov.sg/Data/Files/File/forms/Criminal/Form_MagistrateComplaint.pdf>`__.
+The complaint should be made on the [Standard Complaint
+form](http://app.subcourts.gov.sg/Data/Files/File/forms/Criminal/Form_MagistrateComplaint.pdf).
 A Court interpreter will assist to complete the form if the complainant
 is unable to do so himself in English.
 
 The completed form should be submitted to the Complaints Counter of the
 Crime Registry, together with:
 
-    1. A copy of a Police report, if any, **and**
-
-    2. A photocopy of the Complainant’s NRIC
+> 1.  A copy of a Police report, if any, **and**
+> 2.  A photocopy of the Complainant’s NRIC
 
 The Complainant has to affirm or swear to the truth and accuracy of the
 matters stated in the application form before a Magistrate. If the
 Magistrate is satisfied that the application is in order, he may do any
 of the following:
 
-    1. Issue a Notice to both the Complainant and Respondent.
+> 1.  Issue a Notice to both the Complainant and Respondent.
+>
+> 2\. If the Respondent’s address or particulars are not available, direct
+> the police to ascertain the particulars and thereafter issue a Notice to
+> both the Complainant and Respondent.
+>
+> 3\. Issue a Summons against the Respondent provided the Charge(s) are
+> available.
+>
+> 4.  Direct the police to investigate the Complaint.
 
-    2. If the Respondent’s address or particulars are not available,
-    direct the police to ascertain the particulars and thereafter issue
-    a Notice to both the Complainant and Respondent.
-
-    3. Issue a Summons against the Respondent provided the Charge(s) are
-    available.
-
-    4. Direct the police to investigate the Complaint.
-
-5. Dismiss the Complaint.
+5.  Dismiss the Complaint.
 
 The Complainant may apply to withdraw his complaint at any time
 **before** a summons is issued against the Respondent. If the summons
@@ -1250,29 +1287,27 @@ strike out the complaint.
 When both parties appear before Magistrate for criminal mediation, the
 following may occur:
 
-a. The Magistrate may refer both parties to the Community
-   Mediation Centre (CMC). The CMC has a panel of trained mediators who
-   are respected members society from all walks of life. If the matter
-   is settled at CMC, parties will sign a Settlement Agreement. If
-   settlement is not reached, fresh notices will be sent to the
-   Complainant and the Respondent to appear before the Magistrate on
-   another day.
-
-b. The Magistrate may mediate the matter. If a settlement is reached,
-   the complaint will be withdrawn and no further action will be taken.
-   If there is no settlement, the Complainant may wish to proceed to
-   trial by way of a private summons. A Summons will be issued once the
-   Complainant has prepared the necessary charges against the
-   Respondent. There is a fee of $20 payable for each Summons.
-
-c. The Magistrate may refer the Complainant and the Respondent to a
-   Court Mediator for mediation. Depending on the outcome of the
-   mediation, the follow-up actions will be similar to paragraph (b)
-   above.  
+a.  The Magistrate may refer both parties to the Community
+    Mediation Centre (CMC). The CMC has a panel of trained mediators who
+    are respected members society from all walks of life. If the matter
+    is settled at CMC, parties will sign a Settlement Agreement. If
+    settlement is not reached, fresh notices will be sent to the
+    Complainant and the Respondent to appear before the Magistrate on
+    another day.
+b.  The Magistrate may mediate the matter. If a settlement is reached,
+    the complaint will be withdrawn and no further action will be taken.
+    If there is no settlement, the Complainant may wish to proceed to
+    trial by way of a private summons. A Summons will be issued once the
+    Complainant has prepared the necessary charges against the
+    Respondent. There is a fee of \$20 payable for each Summons.
+c.  The Magistrate may refer the Complainant and the Respondent to a
+    Court Mediator for mediation. Depending on the outcome of the
+    mediation, the follow-up actions will be similar to paragraph (b)
+    above.  
 
 **Step 4: Service of Summons**
 
-Where a Summons is issued, the Complainant has to pay $20 for the
+Where a Summons is issued, the Complainant has to pay \$20 for the
 issuance of the Summons.  The Complainant must serve the Summons on the
 Respondent. This is to give the Respondent notice that a Complaint has
 been started against him. Service of Summons can be done in the
@@ -1288,10 +1323,9 @@ following ways:
     If the above service fails, the process server may obtain the
     Court's approval to serve the Summons by:
 
-(1) Leaving the Summons with an adult member of the Respondent's
+(2) Leaving the Summons with an adult member of the Respondent's
     household; or
-
-(2) Posting the Summons on the front door of the Respondent's place of
+(3) Posting the Summons on the front door of the Respondent's place of
     residence.
 
 It should be noted that a summons cannot be served on a Respondent who
@@ -1385,60 +1419,46 @@ sentence was passed and not the date of release from imprisonment.
 
 (1) A person must not be disqualified from having his record spent on
     any of the grounds in S7C, which are:
-
-    a. His conviction was for any offence specified in the Third
-       Schedule, which are offences for which a criminal record cannot
-       be spent. Offences under the Third Schedule include drug
-       trafficking, rioting, culpable homicide, cause of grievous hurt,
-       sexual offences, outrage of modesty or gang-robbery.
-
-    b. The sentence imposed on him for that conviction included:
-
-       i.  A term of imprisonment exceeding 3 months; or
-
-       ii. A fine exceeding $2000
-
-    c. That conviction was for a crime committed within 5 years after he
-       had been released from:
-
-       i.  An approved institution under the Misuse of Drugs Act.
-
-       ii. An approved centre under the Intoxicating Substances Act.
-
-    d. He has been detained or subject to a police supervision under S30
-       of the Criminal Law (Temporary Provisions) Act (Cap. 67) at any
-       time before that conviction.
-
-    e. He has a warrant of arrest for any offence issued against him
-       which remains unexecuted.
-
-    f. He has records in the register of more than one conviction,
-       whether or not these convictions arise from the same particular
-       occasion.
-
-    g. He has had any previous record in the register of any of his
-       convictions become spent under S7B or treated as spent under S7D
-
+    a.  His conviction was for any offence specified in the Third
+        Schedule, which are offences for which a criminal record cannot
+        be spent. Offences under the Third Schedule include drug
+        trafficking, rioting, culpable homicide, cause of grievous hurt,
+        sexual offences, outrage of modesty or gang-robbery.
+    b.  The sentence imposed on him for that conviction included:
+        i.  A term of imprisonment exceeding 3 months; or
+        ii. A fine exceeding \$2000
+    c.  That conviction was for a crime committed within 5 years after
+        he had been released from:
+        i.  An approved institution under the Misuse of Drugs Act.
+        ii. An approved centre under the Intoxicating Substances Act.
+    d.  He has been detained or subject to a police supervision under
+        S30 of the Criminal Law (Temporary Provisions) Act (Cap. 67) at
+        any time before that conviction.
+    e.  He has a warrant of arrest for any offence issued against him
+        which remains unexecuted.
+    f.  He has records in the register of more than one conviction,
+        whether or not these convictions arise from the same particular
+        occasion.
+    g.  He has had any previous record in the register of any of his
+        convictions become spent under S7B or treated as spent under S7D
 (2) A person who is disqualified under S7C from having the record in the
     register of his conviction within Singapore for any crime becoming
     spent may, at any time, apply to the Commissioner of Police to have
     the record treated as spent. (S7D of the RCA).
 
-Consequences of Criminal Record Being Treated as Spent
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Consequences of Criminal Record Being Treated as Spent
 
 A person who had his criminal record spent is *deemed to have no such
 record and may lawfully choose not to disclose the spent record for all
 purposes*, except during:
 
-a. An Investigation into an offence by a person authorised under any
+a\. An Investigation into an offence by a person authorised under any
 written law to carry out such investigation.
 
-b. Any prosecution against the person for any offence.
+b.  Any prosecution against the person for any offence.
+c.  Any proceedings before a court.
 
-c. Any proceedings before a court.
-
-d. Any application by a person for an appointment to or employment in
+d\. Any application by a person for an appointment to or employment in
 any office, or for admission to any profession or vocation, from which
 the person may be disqualified under any written law by reason of his
 conviction.
@@ -1448,15 +1468,14 @@ conviction.
 In order to find out whether a person’s criminal record has been marked
 spent, he can:
 
-a. Make an appointment via the police hotline 6557 5700 during office
-   hours to meet the counter staff of Police Records Office located at
-   the Police Cantonment Complex. Due to the confidentiality of the
-   information, no disclosures will be made on the phone.
-
-b. Alternatively, the electronic portal allows ex-offenders to check
-   whether their personal criminal records have been marked as spent
-   online, using the NRIC number as the login ID and SingPass as the
-   authentication password [113]_
+a.  Make an appointment via the police hotline 6557 5700 during office
+    hours to meet the counter staff of Police Records Office located at
+    the Police Cantonment Complex. Due to the confidentiality of the
+    information, no disclosures will be made on the phone.
+b.  Alternatively, the electronic portal allows ex-offenders to check
+    whether their personal criminal records have been marked as spent
+    online, using the NRIC number as the login ID and SingPass as the
+    authentication password[^18]
 
 **2. Effect of spent criminal records overseas – including employment,
 immigration, studies, adoption**
@@ -1505,8 +1524,8 @@ remains outstanding. However, if the person has satisfied the crime-free
 period, his record will become spent and any subsequent conviction or
 warrant of arrest will not revive the earlier record.
 
-**8. Will a person who had previously been placed on probation be eligible
-for his criminal record to be rendered spent?**
+**8. Will a person who had previously been placed on probation be
+eligible for his criminal record to be rendered spent?**
 
 A probation is not considered a conviction and thus not a criminal
 record. A person who was placed on probation for committing an offence
@@ -1585,43 +1604,28 @@ every individual offenders strengths and limitations to make the orders.
 In broad terms, the factors that the Juvenile Court considers when
 making the order include:
 
--  Rehabilitation and reformation of the offender
-
--  Removal of him/her from undesirable surroundings
-
--  Promoting his/her education and welfare
-
--  Compensation of victim(s) involved
-
--  Protection of public
-
--  Minimising the risk of further offending by the offender
-
--  Punishment of the offender
+-   Rehabilitation and reformation of the offender
+-   Removal of him/her from undesirable surroundings
+-   Promoting his/her education and welfare
+-   Compensation of victim(s) involved
+-   Protection of public
+-   Minimising the risk of further offending by the offender
+-   Punishment of the offender
 
 The Juvenile Court is empowered with the following options to deal with
 a juvenile offender upon a finding of guilt under s44 of the CYPA:
 
--  Discharge the offender
-
--  Commit the offender to the care of a relative or other fit person
-
--  Offender’s parent or guardian to execute a bond to exercise proper
-   care and guardianship
-
--  Community service order
-
--  Probation order
-
--  Detention at a Place of Detention
-
--  Weekend Detention at a Place of Detention or Approved Institution
-
--  Juvenile Rehabilitation Centre
-
--  Reformative Training Centre
-
--  Payment of a fine, damages or costs
+-   Discharge the offender
+-   Commit the offender to the care of a relative or other fit person
+-   Offender’s parent or guardian to execute a bond to exercise proper
+    care and guardianship
+-   Community service order
+-   Probation order
+-   Detention at a Place of Detention
+-   Weekend Detention at a Place of Detention or Approved Institution
+-   Juvenile Rehabilitation Centre
+-   Reformative Training Centre
+-   Payment of a fine, damages or costs
 
 **2. Family Conferencing**
 
@@ -1644,86 +1648,60 @@ order requiring either or both the Child or Young Person and the Parent
 or Guardian thereof to undergo counselling, psychotherapy or other
 appropriate programmes.
 
+[^1]: <https://app.statecourts.gov.sg/criminal/page.aspx?pageid=8972>,
+    last updated 06 Jan 2010, last accessed 29 Aug 2014
 
-.. [96]
-   https://app.statecourts.gov.sg/criminal/page.aspx?pageid=8972, last
-   updated 06 Jan 2010, last accessed 29 Aug 2014
+[^2]: <https://app.statecourts.gov.sg/criminal/page.aspx?pageid=8972>,
+    last updated 06 Jan 2010 , last accessed 29 Aug 2014
 
-.. [97]
-   https://app.statecourts.gov.sg/criminal/page.aspx?pageid=8972, last
-   updated 06 Jan 2010 , last accessed 29 Aug 2014
+[^3]: <https://app.statecourts.gov.sg/criminal/page.aspx?pageid=3979>,
+    last updated 22 Apr 2014, last accessed 29 Aug 2014
 
-.. [98]
-   https://app.statecourts.gov.sg/criminal/page.aspx?pageid=3979, last
-   updated 22 Apr 2014, last accessed 29 Aug 2014
+[^4]: <https://app.statecourts.gov.sg/criminal/page.aspx?pageid=10774>,
+    last updated 15 December 2006, last accessed 29 August 2014
 
-.. [99]
-   https://app.statecourts.gov.sg/criminal/page.aspx?pageid=10774, last
-   updated 15 December 2006, last accessed 29 August 2014
+[^5]: <https://app.statecourts.gov.sg/criminal/page.aspx?pageid=10792>,
+    last updated 22 December 2013, last accessed 29 August 2014
 
-.. [100]
-   https://app.statecourts.gov.sg/criminal/page.aspx?pageid=10792, last
-   updated 22 December 2013, last accessed 29 August 2014
+[^6]: <https://app.statecourts.gov.sg/criminal/page.aspx?pageid=3980>,
+    last updated 22 April 2014, last accessed 29 August 2014
 
-.. [101]
-   https://app.statecourts.gov.sg/criminal/page.aspx?pageid=3980, last
-   updated 22 April 2014, last accessed 29 August 2014
+[^7]: <https://app.statecourts.gov.sg/criminal/page.aspx?pageid=3278>,
+    last updated 22 April 2014, last accessed 29 August 2014
 
-.. [102]
-   https://app.statecourts.gov.sg/criminal/page.aspx?pageid=3278, last
-   updated 22 April 2014, last accessed 29 August 2014
+[^8]: Singapore Police Force website last updated 27 June 2007,
+    <http://www.spf.gov.sg/epc/procedures>, still relevant and in use as
+    of 29 August 2014
 
-.. [103]
-   Singapore Police Force website last updated 27 June 2007,
-   http://www.spf.gov.sg/epc/procedures, still relevant and in use as of
-   29 August 2014
+[^9]: The Law Society of Singapore website
+    -<http://www.lawsociety.org.sg/forPublic/YoutheLaw/ArrestBail.aspx>,
+    last accessed 29 August 2014
 
-.. [104]
-   The Law Society of Singapore website -
-   http://www.lawsociety.org.sg/forPublic/YoutheLaw/ArrestBail.aspx,
-   last accessed 29 August 2014
+[^10]: Singapore Police Force website updated 27 June 2007 –
+    <http://www.spf.gov.sg/epc/procedures>, still relevant and in use as
+    of 29 August 2014
 
-.. [105]
-   Singapore Police Force website updated 27 June 2007 –
-   http://www.spf.gov.sg/epc/procedures, still relevant and in use as of
-   29 August 2014
+[^11]: SPF website:
+    [<http://www.spf.gov.sg/epc/procedures>](http://www.spf.gov.sg/epc/procedures/)
+    - relevant and in use as of 29 August 2014
 
-.. [106]
-   SPF website:
-   `http://www.spf.gov.sg/epc/procedures <http://www.spf.gov.sg/epc/procedures/>`__
-   - relevant and in use as of 29 August 2014
+[^12]: <http://www.lawsociety.org.sg/forPublic/YoutheLaw/InvestigationYou.aspx>,
+    last accessed on 29 August 2014
 
-.. [107]
-   http://www.lawsociety.org.sg/forPublic/YoutheLaw/InvestigationYou.aspx,
-   last accessed on 29 August 2014
+[^13]: Last updated on 22 Apr 2014 on The State Courts’ website
 
-.. [108]
-   Last updated on 22 Apr 2014 on The State Courts’ website
+[^14]: State Courts Brochure and the Subordinate Courts’ Bail
+    Guidelines:
+    <https://app.statecourts.gov.sg/Data/Files/File/BailGuidelines.pdf>,
+    last accessed on 29 August 2014
 
-.. [109]
-   State Courts Brochure and the Subordinate Courts’ Bail Guidelines:
-   https://app.statecourts.gov.sg/Data/Files/File/BailGuidelines.pdf,
-   last accessed on 29 August 2014
+[^15]: Surety is a term given to a person who is prepared to pledge a
+    collateral \[for the value and nature of the bail as ordered by the
+    Court\] on behalf of another person who is accused of a criminal
+    offence.
 
-.. [110]
-   Surety is a term given to a person who is prepared to pledge a
-   collateral [for the value and nature of the bail as ordered by the Court]
-   on behalf of another person who is accused of a criminal offence.
+[^16]: Last updated 22 Apr 2014 on The State Courts’ website
 
-.. [111]
-   Last updated 22 Apr 2014 on The State Courts’ website
+[^17]: Last updated 14 Dec 2006 on The State Courts’ website
 
-.. [112]
-   Last updated 14 Dec 2006 on The State Courts’ website
-
-.. [113]
-   http://www.spf.gov.sg or http://www.ecitizen.gov.sg
-
-
-.. |image5| image:: ../_static/image6.jpeg
-   :width: 1.31667in
-   :height: 2.08333in
-
-.. |image6| image:: ../_static/image7.png
-   :width: 6.00000in
-   :height: 4.40000in
+[^18]: <http://www.spf.gov.sg> or <http://www.ecitizen.gov.sg>

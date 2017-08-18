@@ -1,9 +1,8 @@
-
 CLINIC MANAGEMENT
 =================
 
 Conduct
-~~~~~~~
+-------
 
 All data relating to the legal clinic is confidential and is **not** to
 be revealed to anyone not directly related to the service. The lawyers
@@ -13,7 +12,7 @@ the event that the applicant has sought the advice of another lawyer,
 you may deal with the case as you see fit.
 
 Confidentiality
-~~~~~~~~~~~~~~~
+---------------
 
 In addition to the rules mentioned above, the CDC shall not release the
 names or contact details of any of the lawyers volunteering at the legal
@@ -23,7 +22,7 @@ You are not to give your name, the name of your firm or any details by
 which the client may be able to identify or locate you.
 
 Support
-~~~~~~~
+-------
 
 A copy of the Community Legal Clinic Manual will be provided to each
 lawyer prior to the clinic.
@@ -75,7 +74,7 @@ register applicants for a second consultation over the same issue unless
 there are special circumstances requiring further legal advice.
 
 Applicants
-~~~~~~~~~~
+----------
 
 As a rule, each applicant is given a maximum of 20 minutes. The duty PBS
 Officer will advise if there is adequate time. If there are fewer
@@ -90,7 +89,7 @@ well as sign a Disclaimer of Liability before being allowed to consult
 with the lawyer.
 
 Clinic times and venues
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 
 Registration and arrangements for appointments at the four Community
 Legal Clinics are handled by the Pro Bono Services Office. The clinics
@@ -103,61 +102,60 @@ and venues for the clinics are as follows:
 Mon (7 -9.30 pm)
 
 | North West Community Development Council
-| #06-13 Woodlands Civic Centre
+| \#06-13 Woodlands Civic Centre
 | 900 South Woodlands Drive
 | Singapore 730900
-|
+| 
 
 (5 minutes walk from Woodlands MRT station)
 
-|image1|
+![image1](../images/image2.png){width="5.86458in" height="5.43053in"}
 
 *Reproduced with permission of SLA.*
 
 Tues (7 – 9.30 pm)
 
 | South East Community Development Council
-| #02-01 Singapore Post Centre
+| \#02-01 Singapore Post Centre
 | 10 Eunos Road 8
 | Singapore 408600
-|
+| 
 
 (5 minutes walk from Paya Lebar MRT station)
 
-|image2|
+![image2](../images/image3.png){width="5.95833in" height="5.95833in"}
 
 *Reproduced with permission of SLA.*
 
 Wed (7 – 9.30 pm)
 
 | South West Community Development Council
-| #03-11 The JTC Summit
+| \#03-11 The JTC Summit
 | 8 Jurong Town Hall Road
 | Singapore 609434
-|
+| 
 
 (10 minutes walk from Jurong East MRT station)
 
-|image3|
+![image3](../images/image4.png){width="6.12504in" height="4.70833in"}
 
 *Reproduced with permission of SLA.*
 
 Thurs (7 – 9.30 pm)
 
 | Central Community Development Council
-| #07-11 HDB Hub via Bizthree Lift Lobby 1
+| \#07-11 HDB Hub via Bizthree Lift Lobby 1
 | 490 Lorong 6 Toa Payoh
 | Singapore 310490
-|
+| 
 
 (5 minutes walk from Toa Payoh MRT station)
 
-|image4|
+![image4](../images/image5.png){width="6.02275in" height="4.95833in"}
 
-\ *Reproduced with permission of SLA.*
+*Reproduced with permission of SLA.*
 
-Clinic Checklist for Volunteer Lawyers
---------------------------------------
+### Clinic Checklist for Volunteer Lawyers
 
 The following checklist will assist the volunteer lawyer when dealing
 with the attendee during the clinic session.
@@ -165,8 +163,8 @@ with the attendee during the clinic session.
 **Explain to the clinic attendee the Disclaimer of Liability**. You
 could say:
 
-*The purpose of the Community Legal Clinic is to provide free advice
-to all those in need. The advice given at these sessions shall be as a
+*The purpose of the Community Legal Clinic is to provide free advice to
+all those in need. The advice given at these sessions shall be as a
 matter of guidance and comfort only and is not intended to replace,
 substitute or supplement legal advice and legal action that may be
 needed. The information provided by attendees to the volunteer lawyers
@@ -205,8 +203,7 @@ advice rendered by you in the attendance note provided.** Although there
 is a disclaimer the member of public would have signed, an accurate
 record will help us deal with complaint(s) later should any arise.
 
-Making Referrals
-----------------
+### Making Referrals
 
 The Pro Bono Officer will inform you of the appropriate referrals for
 the clinic attendees. You may then indicate the relevant information on
@@ -240,14 +237,15 @@ client to contact the appropriate agency for further assistance.
 
 • Insolvency & Public Trustees Office (IPTO)
 
-    | • Legal Aid Bureau (LAB)
-    | • Ministry of Manpower (MOM)
+> | • Legal Aid Bureau (LAB)
+> | • Ministry of Manpower (MOM)
 
 • Motor Industries Dispute Resolution Centre (MIDReC)
 
 • National Council On Problem Gambling (NCPG)
 
-• National Council of Social Service (NCSS) – with 54 social service agencies including Family Service Centres (FSCs)
+• National Council of Social Service (NCSS) – with 54 social service
+agencies including Family Service Centres (FSCs)
 
 • Primary Justice Project (PJP)
 
@@ -271,10 +269,9 @@ client to contact the appropriate agency for further assistance.
 
 • Tribunal for the Maintenance of Parents
 
-*The Advertising Standards Authority of Singapore (ASAS)*\  [1]_
-----------------------------------------------------------------
+### *The Advertising Standards Authority of Singapore (ASAS)*[^1]
 
-Address: 170 Ghim Moh Road #05-01
+Address: 170 Ghim Moh Road \#05-01
 
 Ulu Pandan Community Building
 
@@ -284,7 +281,7 @@ General Line: 6461 1888
 
 Fax : 6467 9055
 
-Email : asas@case.org.sg
+Email : <asas@case.org.sg>
 
 Operating Hours: Mondays–Fridays, 9am–6pm
 
@@ -297,46 +294,41 @@ self-regulatory body of the advertising industry.
 
 **What can ASAS do?**
 
--  Provides advice and guidance when advertisers, advertising agencies
-   and media owners are in doubt over the acceptability of
-   advertisements – particularly before publication. However, it is not
-   intended for ASAS to be a clearing-house for the approval of all
-   advertising.
+-   Provides advice and guidance when advertisers, advertising agencies
+    and media owners are in doubt over the acceptability of
+    advertisements – particularly before publication. However, it is not
+    intended for ASAS to be a clearing-house for the approval of all
+    advertising.
+-   Handles complaints about advertising practices. ASAS is able to rule
+    on disputes between members of the Singapore Advertisers
+    Association, the Association of Accredited Advertising Agents,
+    Advertising Media Owners’ Association of Singapore and the
+    Association of Broadcasters.
+-   Advises on any advertisement prepared and/or published by persons or
+    companies outside the four Associations, provided that it is brought
+    to the attention of ASAS in accordance with the procedure of lodging
+    a complaint.
+-   Issues sanctions: In withholding of advertising space or time from
+    advertisers, and withdrawal of the trading privileges from
+    advertising agencies. Both these sanctions are applied by the media
+    owners.
+-   On adverse publicity. This is wielded by ASAS, which may publish
+    details of the outcome of investigations it undertakes naming those
+    who have offended against the Code. Decides and interprets the Code.
+    Decision shall be final.
 
--  Handles complaints about advertising practices. ASAS is able to rule
-   on disputes between members of the Singapore Advertisers Association,
-   the Association of Accredited Advertising Agents, Advertising Media
-   Owners’ Association of Singapore and the Association of Broadcasters.
+### *Consumers Association of Singapore (CASE)*
 
--  Advises on any advertisement prepared and/or published by persons or
-   companies outside the four Associations, provided that it is brought
-   to the attention of ASAS in accordance with the procedure of lodging
-   a complaint.
-
--  Issues sanctions: In withholding of advertising space or time from
-   advertisers, and withdrawal of the trading privileges from
-   advertising agencies. Both these sanctions are applied by the media
-   owners.
-
--  On adverse publicity. This is wielded by ASAS, which may publish
-   details of the outcome of investigations it undertakes naming those
-   who have offended against the Code. Decides and interprets the Code.
-   Decision shall be final.
-
-*Consumers Association of Singapore (CASE)*
--------------------------------------------
-
-| 170 Ghim Moh Road #05-01
+| 170 Ghim Moh Road \#05-01
 | Ulu Pandan Community Building
 | Singapore 279621
-|
+| 
 
-Hotline: `6100 0315 <tel:+6561000315>`__
+Hotline: [6100 0315](tel:+6561000315)
 
 Fax : 6467 9055
 
 (Nearest MRT Station: Buona Vista) (Bus numbers: 92, 100, 111, 198)
-
 
 **Complaints CASE handles:**
 
@@ -367,42 +359,38 @@ are located at:
 
 |  
 | 170 Ghim Moh Road
-| #05-01 Ulu Pandan Community Building
+| \#05-01 Ulu Pandan Community Building
 | Singapore 279621
-|
+| 
 
 **Complaints CASE does not handle:**
 
--  Business-to-business disputes - This includes any transactions
-   between businesses and products or services purchased for business
-   use. Should there be a dispute, you may consider checking with the
-   Small Claims Tribunals (SCT) if you are eligible to make a claim
-   via \ `SCT <http://app.subcourts.gov.sg/sct/index.aspx>`__.
+-   Business-to-business disputes - This includes any transactions
+    between businesses and products or services purchased for business
+    use. Should there be a dispute, you may consider checking with the
+    Small Claims Tribunals (SCT) if you are eligible to make a claim
+    via [SCT](http://app.subcourts.gov.sg/sct/index.aspx).
+-   Landlord and tenant claims - For disputes pertaining to deposits or
+    rental issues, you should lodge your case with the Small Claims
+    Tribunals [SCT](http://app.subcourts.gov.sg/sct/index.aspx).
+-   Speculation in shares, stocks, commodities, investments - If you are
+    an investor and have dealings in shares, stocks etc. Accident claims
+    -   If you have a dispute with another driver in an accident.
+-   Overseas companies - If you have bought a product overseas (except
+    for Mainland China, India, Macao SAR and Malaysia).
 
--  Landlord and tenant claims - For disputes pertaining to deposits or
-   rental issues, you should lodge your case with the Small Claims
-   Tribunals \ `SCT <http://app.subcourts.gov.sg/sct/index.aspx>`__.
+### *Credit Counselling Singapore (CCS)*[^2]
 
--  Speculation in shares, stocks, commodities, investments - If you are
-   an investor and have dealings in shares, stocks etc. Accident claims
-   - If you have a dispute with another driver in an accident.
-
--  Overseas companies - If you have bought a product overseas (except
-   for Mainland China, India, Macao SAR and Malaysia).
-
-*Credit Counselling Singapore (CCS)*\  [2]_
--------------------------------------------
-
-| 210 Middle Road #05-04
+| 210 Middle Road \#05-04
 | Singapore Pools Building
 | Singapore 188994
-|
+| 
 
-General Line: `6338 2663 <tel:+6563382663>`__
+General Line: [6338 2663](tel:+6563382663)
 
 Fax : 6338 6586
 
-Email : enquiry@ccs.org.sg
+Email : <enquiry@ccs.org.sg>
 
 Operating Hours: Mondays–Fridays, 9am–6pm
 
@@ -422,15 +410,12 @@ submitted his counselling request.
 
 It offers services in the following areas:
 
--  Info Talk on Debt Management
+-   Info Talk on Debt Management
+-   Credit Counselling
+-   Debt Management Programme (DMP)
+-   Education on Financial Topics
 
--  Credit Counselling
-
--  Debt Management Programme (DMP)
-
--  Education on Financial Topics
-
-*Centre For Enabled Living (CEL)*\  [3]_
+*Centre For Enabled Living (CEL)*[^3]
 
 SG Enable
 
@@ -444,7 +429,7 @@ Hotline: 1800-8585-885
 
 Fax: 6270 7024
 
-Website: `*https://www.sgenable.sg* <https://www.sgenable.sg/>`__
+Website: [\*<https://www.sgenable.sg*>](https://www.sgenable.sg/)
 
 (Nearest MRT Station: Redhill)
 
@@ -452,26 +437,21 @@ SG Enable is an agency dedicated to enabling persons with disabilities.
 
 Key functions of SG Enable include:
 
--  Enhancing information and referral services for child and adult
-   disability schemes;
-
--  Administering grants and support to persons with disabilities and
-   their caregivers;
-
--  Improving transition management across different life stages;
-
--  Enhancing employability and employment options for persons with
-   disabilities; and
-
--  Rallying stakeholder support in enabling persons with disabilities
+-   Enhancing information and referral services for child and adult
+    disability schemes;
+-   Administering grants and support to persons with disabilities and
+    their caregivers;
+-   Improving transition management across different life stages;
+-   Enhancing employability and employment options for persons with
+    disabilities; and
+-   Rallying stakeholder support in enabling persons with disabilities
 
 SG Enable provides programmes for children, youths and adults. It also
 provides support for caregivers and for work training and employment.
 Schemes for financial assistance and other assistance may also be
 available
 
-*Criminal Legal Aid Scheme (CLAS)*
-----------------------------------
+### *Criminal Legal Aid Scheme (CLAS)*
 
 State Courts
 
@@ -484,7 +464,7 @@ Level 5 (between Court No. 5 & 12)
 
 Fax: 6534 5237
 
-Email: CLAS@lawsoc.org.sg
+Email: <CLAS@lawsoc.org.sg>
 
 Operating Hours: 9 am to 5.45 pm
 
@@ -494,46 +474,31 @@ Mondays to Fridays; closed on Saturdays, Sundays and Public Holidays
 
 CLAS provides free criminal legal assistance to the poor and needy in
 non-capital charges. Only persons with a disposable income of not more
-than S$10,000 per year and a disposable capital of not more than
-S$10,000 may be granted legal aid.
+than S\$10,000 per year and a disposable capital of not more than
+S\$10,000 may be granted legal aid.
 
 **The laws that CLAS covers include:**
 
--  Arms & Explosives Act (Cap. 13)
+-   Arms & Explosives Act (Cap. 13)
+-   Arms Offences Act (Cap. 14)
+-   Computer Misuse Act (Cap. 50A)
+-   Corrosive & Explosive Substances & Offensive Weapons Act (Cap. 65)
+-   Dangerous Fireworks Act (Cap. 72)
+-   Enlistment Act (Cap. 93)
+-   Explosive Substances Act (Cap. 100)
+-   Films Act (Cap. 107)
+-   Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184)
+-   Misuse of Drugs Act (Cap. 185)
+-   Penal Code (Cap. 224)
+-   Prevention of Corruption Act (Cap. 241)
+-   Undesirable Publications Act (Cap. 338)
+-   Vandalism Act (Cap. 341)
+-   Women’s Charter (Cap. 353) \[Sections 65(8) and 140(1)(i)\] \[S.
+    65(8) – breach of personal protection order\] \[S. 140(1)(i) –
+    sexual intercourse with any girl below the age of 16 years except by
+    way of marriage\]
 
--  Arms Offences Act (Cap. 14)
-
--  Computer Misuse Act (Cap. 50A)
-
--  Corrosive & Explosive Substances & Offensive Weapons Act (Cap. 65)
-
--  Dangerous Fireworks Act (Cap. 72)
-
--  Enlistment Act (Cap. 93)
-
--  Explosive Substances Act (Cap. 100)
-
--  Films Act (Cap. 107)
-
--  Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184)
-
--  Misuse of Drugs Act (Cap. 185)
-
--  Penal Code (Cap. 224)
-
--  Prevention of Corruption Act (Cap. 241)
-
--  Undesirable Publications Act (Cap. 338)
-
--  Vandalism Act (Cap. 341)
-
--  Women’s Charter (Cap. 353) [Sections 65(8) and 140(1)(i)] [S. 65(8) –
-   breach of personal protection order] [S. 140(1)(i) – sexual
-   intercourse with any girl below the age of 16 years except by way of
-   marriage]
-
-*Centre for Forensic Medicine (CFM)*
--------------------------------------
+### *Centre for Forensic Medicine (CFM)*
 
 Health Sciences Authority
 
@@ -547,8 +512,7 @@ serve the administration of justice and to safeguard public health. The
 Group consists of the Centre for Analytical Science (CAS), Centre for
 Forensic Medicine (CFM) and Centre for Forensic Science (CFS).
 
-\ *The Consumer Protection (Fair Trading) Act (CPFTA)*
-------------------------------------------------------
+### *The Consumer Protection (Fair Trading) Act (CPFTA)*
 
 Under the CPFTA, CASE and Singapore Tourism Board are empowered to
 invite errant businesses to enter into a Voluntary Compliance Agreement,
@@ -576,9 +540,9 @@ Resolution Centre Ltd (FIDReC) has been prescribed as the specified
 dispute resolution scheme in respect of disputes relating to MAS-related
 financial products or services supplied by a subscriber to FIDReC.
 
-\ *Financial Industry Disputes Resolution Centre Ltd (FIDReC)*\  [4]_
+*Financial Industry Disputes Resolution Centre Ltd (FIDReC)*[^4]
 
-112 Robinson Road #13-03
+112 Robinson Road \#13-03
 
 HB Robinson
 
@@ -588,7 +552,7 @@ Tel: (65) 63278878 / Fax: (65) 63278488
 
 (Nearest MRT Station: Downtown)
 
-Email: info@fidrec.com.sg
+Email: <info@fidrec.com.sg>
 
 Opening hours:
 
@@ -598,20 +562,18 @@ Tuesdays, Thursdays: 9am – 7.30pm
 
 **The Jurisdiction of FIDReC**
 
-The jurisdiction of FIDReC in adjudicating disputes between
-consumers and financial institutions is as follows:
+The jurisdiction of FIDReC in adjudicating disputes between consumers
+and financial institutions is as follows:
 
-(1) Claims between the insured and insurance companies up to S$100,000
-
+(1) Claims between the insured and insurance companies up to S\$100,000
 (2) Disputes between banks and consumers, capital market disputes and
     all other disputes (including third party claims and market conduct
-    claims): up to S$50,000
+    claims): up to S\$50,000
 
 At present, FIDReC’s services are available to all consumers who are
 individuals or sole-proprietors.
 
-\ *Friends of Litigants-In-Person (FLIP)*
------------------------------------------
+### *Friends of Litigants-In-Person (FLIP)*
 
 Community Justice Centre
 
@@ -630,7 +592,7 @@ practical support as they journey through the various steps of court
 proceedings during the trial. The earlier they engage FLIP, the more
 FLIP is able to help them.
 
-\ *Health Science Authority (HSA)*
+*Health Science Authority (HSA)*
 
 Health Sciences Authority
 
@@ -638,24 +600,23 @@ Health Sciences Authority
 
 Singapore 169078
 
-Bloodbank@HSA
+<Bloodbank@HSA>
 
-Website: `www.hsa.gov.sg <http://www.hsa.gov.sg/>`__
+Website: [www.hsa.gov.sg](http://www.hsa.gov.sg/)
 
 (Nearest MRT Station: Outram Park)
 
-\ *Insolvency & Public Trustees Office (IPTO)*\  [5]_
------------------------------------------------------
+### *Insolvency & Public Trustees Office (IPTO)*[^5]
 
 The URA Centre, East Wing
 
 45 Maxwell Road
 
-#07-11, Singapore 069118
+\#07-11, Singapore 069118
 
 Tel: 1800 2255 529
 
-Email: OneMinLaw@mlaw.gov.sg
+Email: <OneMinLaw@mlaw.gov.sg>
 
 Opening Hours:
 
@@ -667,20 +628,15 @@ Saturdays: 8:00 am to 12:00pm
 
 The Insolvency and Public Trustee's Office (IPTO) provides services in:
 
--  Bankruptcy & Debt Repayment Schemes
+-   Bankruptcy & Debt Repayment Schemes
+-   Corporate Insolvency
+-   Public Trustee
+-   Moneylenders
+-   Pawnbrokers
 
--  Corporate Insolvency
+### *Legal Aid Bureau (LAB)*
 
--  Public Trustee
-
--  Moneylenders
-
--  Pawnbrokers
-
-\ *Legal Aid Bureau (LAB)*
---------------------------
-
-45 Maxwell Rd #07-11
+45 Maxwell Rd \#07-11
 
 The URA Centre, East Wing
 
@@ -694,7 +650,7 @@ Saturdays: 8:30am to 12:00pm
 
 Tel: (65) 1800 2255 529 (toll-free) / Fax: (65) 6325 1402
 
-E-mail: OneMinLaw@mlaw.gov.sg
+E-mail: <OneMinLaw@mlaw.gov.sg>
 
 (Nearest MRT Station: Telok Ayer)
 
@@ -706,8 +662,7 @@ contribution towards the costs of work done. Legal Aid is available to
 Singapore citizens, and PRs who are in Singapore, that satisfy the means
 test.
 
-\ *Ministry of Manpower (MOM)*
-------------------------------
+### *Ministry of Manpower (MOM)*
 
 Ministry of Manpower Services Centre
 
@@ -735,7 +690,7 @@ Saturday: 8.30 am to 1 pm
 
 If you are an employee covered by the Employment Act and wish to lodge a
 claim against your employer, you can call MOM Contact Centre at 6438
-5122 or visit Appointment@MOM to book a 30-min appointment session to
+5122 or visit <Appointment@MOM> to book a 30-min appointment session to
 consult our Labour Relations Officer. Alternatively, you may submit your
 claims online via Employment Standards Online (ESOL) for individual
 users. This service is intended for employees who have left employment
@@ -743,19 +698,18 @@ and wish to recover salaries and other statutory payments such as
 overtime pay, public holiday and annual leave pay from their former
 employers. 
 
-\ *Motor Industries Dispute Resolution Centre (MIDReC)*\  [6]_
---------------------------------------------------------------
+### *Motor Industries Dispute Resolution Centre (MIDReC)*[^6]
 
 61 Ubi Avenue 2
 
-#06-04/05 Automobile Megamart
+\#06-04/05 Automobile Megamart
 
 Singapore 408898
 
 Opening hours: Mondays – Fridays 9:00am to 5:30pm / Saturdays 9:00am to
 1:00pm
 
-Tel: 67430269 / Fax: 67471010 / Email: info@midrec.com.sg
+Tel: 67430269 / Fax: 67471010 / Email: <info@midrec.com.sg>
 
 (Nearest MRT Station: MacPherson)
 
@@ -765,12 +719,11 @@ disputes between motoring businesses and consumers. Consumers who have
 an unresolved dispute with an accredited motoring business can lodge
 their claim/disputewith the MIDReC.
 
-\ *National Council On Problem Gambling (NCPG)*\  [7]_
-------------------------------------------------------
+### *National Council On Problem Gambling (NCPG)*[^7]
 
 510 Thomson Road
 
-#05-01, SLF Building, Singapore 298135
+\#05-01, SLF Building, Singapore 298135
 
 Opening hours: Mondays – Fridays 8:30am to 6:00pm. Eve of public
 holidays: 8.30am to 12.30pm
@@ -782,16 +735,15 @@ and psychology, social services, counselling, legal, rehabilitative as
 well as religious services. The Council’s first two-year term began on
 31 August 2005, and it is now in its fifth term.
 
-\ *National Council of Social Service (NCSS)*
----------------------------------------------
+### *National Council of Social Service (NCSS)*
 
 Ulu Pandan Community Building
 
-170 Ghim Moh Road, #01-02, Singapore 279621
+170 Ghim Moh Road, \#01-02, Singapore 279621
 
 DID: 6210 2500
 
-Website: `www.ncss.org.sg <http://www.ncss.org.sg>`__
+Website: [www.ncss.org.sg](http://www.ncss.org.sg)
 
 (Nearest MRT Station: Holland Village)
 
@@ -808,8 +760,7 @@ More information on the financial, social and other assistance schemes
 available can be found in “Assistance Schemes for Individuals & Families
 in Social & Financial Need” compiled by NCSS.
 
-*Singapore Dental Association (SDA)*
-------------------------------------
+### *Singapore Dental Association (SDA)*
 
 2 College Road
 
@@ -824,12 +775,11 @@ disputes and other complaints against dentist or dental clinics) are
 directed to the Complaints Handling Committee of the Singapore Dental
 Association for mediation.
 
-\ *Singapore Dental Council (SDC)*\  [8]_
------------------------------------------
+### *Singapore Dental Council (SDC)*[^8]
 
 81 Kim Keat Road
 
-#09-00 NKF Building, Singapore 328836
+\#09-00 NKF Building, Singapore 328836
 
 Opening Hours: Monday - Friday 9:00am to 6:00pm
 
@@ -848,12 +798,11 @@ Statutory Declaration.
 Types of issues include (1) serious profession misconduct, (2)
 performance impaired by ill health and/or (3) conviction.
 
-*Singapore Institute of Surveyors & Valuers (SISV)*
----------------------------------------------------
+### *Singapore Institute of Surveyors & Valuers (SISV)*
 
 SISV Dispute Resolution Centre
 
-110 Middle Road #09-03
+110 Middle Road \#09-03
 
 Chiat Hong Building
 
@@ -861,8 +810,8 @@ Singapore 188968
 
 Tel: 6222-3030 / Fax: 6225-2453
 
-Email: sisv.info@sisv.org.sg / Website:
-`http://www.sisv.org.sg <http://www.sisv.org.sg/>`__
+Email: <sisv.info@sisv.org.sg> / Website:
+[<http://www.sisv.org.sg>](http://www.sisv.org.sg/)
 
 (Nearest MRT Station: Bugis)
 
@@ -891,9 +840,7 @@ only deal with relational disputes such as quarrels, environmental
 problems arising from noise or leakage, use of common facilities, and
 disagreements with Council members and residents
 
-\ *
-Singapore Mediation Centre (SMC)*
----------------------------------
+\* Singapore Mediation Centre (SMC)\* ---------------------------------
 
 1 Supreme Court Lane
 
@@ -920,8 +867,7 @@ the help of their lawyers. They are in complete control of the outcome
 and do not run the risk of having an unfavourable decision imposed upon
 them by a judge or arbitrator. 
 
-\ *Primary Justice Project*
----------------------------
+### *Primary Justice Project*
 
 The PJP is a joint collaboration between the State Courts, the Law
 Society, the Community Justice Centre and other justice stakeholders.
@@ -938,31 +884,38 @@ facilitate a settlement of the dispute at a fixed fee.
 Parties may apply for PJP of their case falls under the following
 categories:
 
-(1) *Civil claims of less than $60,000* (e.g. claims for breach of
+(1) *Civil claims of less than \$60,000* (e.g. claims for breach of
     contract, defamation) and which fall outside the Small Claims
     Tribunals' jurisdiction, including consumer claims, tenancy
     disputes, MCST disputes, defamation and employment disputes; and
-
 (2) *Divorce matters where most ancillary matters are close to
     settlement* (e.g. maintenance; matrimonial property; matrimonial
     assets).
 
 **How much does PJP cost**
 
-+----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **1st appointment**        | **2nd appointment**                                                                                                                                                                                                    |
-+============================+========================================================================================================================================================================================================================+
-| $300 legal fees            | $1,500 (calculated at $300 per hour, capped at 5 hours).                                                                                                                                                               |
-|                            |                                                                                                                                                                                                                        |
-| $100 administrative fees   | Includes disbursements, however, this does not include costs and disbursements payable to an ADR service provider (e.g. mediation provider) and does not include stamp fees and other fees payable to third parties.   |
-+----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-------+--------------------------------------------------------------+
+| **1st | **2nd appointment**                                          |
+| appoi |                                                              |
+| ntmen |                                                              |
+| t**   |                                                              |
++=======+==============================================================+
+| \$300 | \$1,500 (calculated at \$300 per hour, capped at 5 hours).   |
+| legal |                                                              |
+| fees  | Includes disbursements, however, this does not include costs |
+|       | and disbursements payable to an ADR service provider (e.g.   |
+| \$100 | mediation provider) and does not include stamp fees and      |
+| admin | other fees payable to third parties.                         |
+| istra |                                                              |
+| tive  |                                                              |
+| fees  |                                                              |
++-------+--------------------------------------------------------------+
 
 **How to apply**
 
 Application forms are available at CJC HELP Services.
 
-\ *Singapore Medical Association (SMA)*\  [9]_
-----------------------------------------------
+### *Singapore Medical Association (SMA)*[^9]
 
 2 College Road, Level 2
 
@@ -977,34 +930,49 @@ medical practitioners in both the public and private sector.
 
 **Procedure For Submission of A Complaint**
 
-1) Forward an original, signed letter, giving full details of the
-       matter, to:
+1)  
 
-    The Chairman
+    Forward an original, signed letter, giving full details of the
 
-    Complaints Committee
+    :   matter, to:
 
-    Singapore Medical Association
+    > The Chairman
+    >
+    > Complaints Committee
+    >
+    > Singapore Medical Association
+    >
+    > 2 College Road
+    >
+    > Singapore 169850
 
-    2 College Road
+2)  
 
-    Singapore 169850
+    In the letter, please furnish the patient's particulars: NRIC No./
 
-1) In the letter, please furnish the patient's particulars: NRIC No./
-       Address/ Telephone No.
+    :   Address/ Telephone No.
 
-2) The doctor's particulars: Name / Place of Practice (Clinic /
-       Department & Hospital Name).
+3)  
 
-3) A letter of consent from the patient for the release of all relevant
-       information pertaining to consultation and treatment with the
-       doctor(s) or hospital mentioned in the letter. Please download
-       the appropriate consent/authorisation form from the SMA’s
-       website.
+    The doctor's particulars: Name / Place of Practice (Clinic /
 
-4) If you are not the patient, but are submitting the letter on behalf
-       of the patient, kindly furnish your Name, NRIC No., and Contact
-       Address.
+    :   Department & Hospital Name).
+
+4)  
+
+    A letter of consent from the patient for the release of all relevant
+
+    :   information pertaining to consultation and treatment with the
+        doctor(s) or hospital mentioned in the letter. Please download
+        the appropriate consent/authorisation form from the SMA’s
+        website.
+
+5)  
+
+    If you are not the patient, but are submitting the letter on behalf
+
+    :   of the patient, kindly furnish your Name, NRIC No., and Contact
+        Address.
 
 SMA’s preliminary enquiry procedure entails obtaining comments from the
 doctor(s) referred to in the case. Refer to Information on SMA
@@ -1015,18 +983,17 @@ preliminary enquiry is completed. While we endeavour to expedite the
 processing of letters received, the whole process may take 2 to 6 months
 before you will receive a final reply from us.
 
-\ *Singapore Medical Council (SMC)*\  [10]_
--------------------------------------------
+### *Singapore Medical Council (SMC)*[^10]
 
 Singapore Medical Council
 
-16 College Road #01-01
+16 College Road \#01-01
 
 College of Medicine Building
 
 Singapore 169854
 
-Website: `www.smc.gov.sg <http://www.smc.gov.sg>`__
+Website: [www.smc.gov.sg](http://www.smc.gov.sg)
 
 (Nearest MRT Station: Outram Park)
 
@@ -1040,38 +1007,31 @@ The Singapore Medical Council (SMC) is a statutory board under the
 Ministry of Health. Section 5 of the Medical Registration Act (Cap 174)
 states that the SMC is to:
 
--  Keep and maintain registers of registered medical practitioners
+-   Keep and maintain registers of registered medical practitioners
+-   Approve or reject applications for medical registration under the
+    MRA or to approve any such application subject to such restrictions
+    as it may think fit
+-   Issue practising certificates to registered medical practitioners
+-   Make recommendations to the appropriate authorities on the courses
+    of instructions and examinations leading to the Singapore degree
+-   Make recommendations to the appropriate authorities for the training
+    and education of registered medical practitioners
+-   Determine and regulate the conduct and ethics of registered medical
+    practitioners; and
+-   Generally do all such acts and matters and things as are necessary
+    to be carried out under the MRA
 
--  Approve or reject applications for medical registration under the MRA
-   or to approve any such application subject to such restrictions as it
-   may think fit
-
--  Issue practising certificates to registered medical practitioners
-
--  Make recommendations to the appropriate authorities on the courses of
-   instructions and examinations leading to the Singapore degree
-
--  Make recommendations to the appropriate authorities for the training
-   and education of registered medical practitioners
-
--  Determine and regulate the conduct and ethics of registered medical
-   practitioners; and
-
--  Generally do all such acts and matters and things as are necessary to
-   be carried out under the MRA
-
-\ *Special Needs Trust Company (SNTC)*
---------------------------------------
+### *Special Needs Trust Company (SNTC)*
 
 298 Tiong Bahru Road
 
-#03-07 Central Plaza, Singapore 168730
+\#03-07 Central Plaza, Singapore 168730
 
 (Nearest MRT Station: Tiong Bahru)
 
-Tel: 6278 9598 / Email: enquires@sntc.org.sg
+Tel: 6278 9598 / Email: <enquires@sntc.org.sg>
 
-Website: `www.sntc.org.sg <http://www.sntc.org.sg>`__
+Website: [www.sntc.org.sg](http://www.sntc.org.sg)
 
 Operation hours: Mon – Fri, 9am – 6pm
 
@@ -1089,10 +1049,9 @@ tailored to the needs of the Beneficiary under the trust.
 SNTC is jointly supported by the Ministry of Social and Family
 Development (MSF) and National Council of Social Service (NCSS).
 
-\ *Strata Titles Boards*\  [11]_
---------------------------------
+### *Strata Titles Boards*[^11]
 
-45 Maxwell Road #01-11
+45 Maxwell Road \#01-11
 
 East Wing, The URA Centre,
 
@@ -1106,25 +1065,24 @@ Tel No: 63251589/63251581
 
 Fax No: 6325 1607
 
-Email: mnd\_strata\_titles\_boards\_enquiry@mnd.gov.sg
+Email: mnd\_strata\_titles\_boards\_<enquiry@mnd.gov.sg>
 
 A Strata Titles Board is a body constituted under Part VI of the
 Building Maintenance and Strata Management Act (BMSMA) to hear
 applications:
 
-(a) for orders for collective sales under Part VA of the Land Titles
+\(a) for orders for collective sales under Part VA of the Land Titles
 (Strata) Act; and
 
-    (b) relating to certain types of disputes or matters arising in
-    respect of the strata units or the strata development including the
-    common property.
+> \(b) relating to certain types of disputes or matters arising in respect
+> of the strata units or the strata development including the common
+> property.
 
-\ *Tribunal For The Maintenance Of Parents*
--------------------------------------------
+### *Tribunal For The Maintenance Of Parents*
 
-Address: Family Link@Lengkok Bahru
+Address: Family <Link@Lengkok> Bahru
 
-8 Lengkok Bahru #02-01
+8 Lengkok Bahru \#02-01
 
 Singapore 159052
 
@@ -1174,58 +1132,33 @@ The Commissioner for the Maintenance of Parents appointed under the
 Maintenance of Parents Act may also make an application on a parent’s
 behalf.
 
+[^1]: Information retrieved from <http://www.case.org.sg/asas.aspx>
 
-.. [1]
-   Information retrieved from http://www.case.org.sg/asas.aspx
+[^2]: Information retrieved from <http://www.ccs.org.sg/about-ccs>
 
-.. [2]
-   Information retrieved from http://www.ccs.org.sg/about-ccs
+[^3]: Information retrieved from
+    [<https://www.sgenable.sg>,](https://www.sgenable.sg/) last updated
+    on 18 August 2014
 
-.. [3]
-   Information retrieved from
-   `https://www.sgenable.sg, <https://www.sgenable.sg/>`__ last updated
-   on 18 August 2014
+[^4]: Information retrieved from
+    <http://www.fidrec.com.sg/website/contactus.html>
 
-.. [4]
-   Information retrieved from
-   http://www.fidrec.com.sg/website/contactus.html
+[^5]: Information in this section obtained from the IPTO website
 
-.. [5]
-   Information in this section obtained from the IPTO website
+[^6]: Last updated on 18 February 2014 from [http://\\](http://\)
+    [www.casetrust.org.sg](http://www.casetrust.org.sg)
 
-.. [6]
-   Last updated on 18 February 2014 from
-   http://\ `www.casetrust.org.sg <http://www.casetrust.org.sg>`__
+[^7]: Information retrieved from <http://www.ncpg.org.sg>
 
-.. [7]
-   Information retrieved from http://www.ncpg.org.sg
+[^8]: Last updated on
+    [<http://www.healthprofessionals.gov.sg>](http://www.healthprofessionals.gov.sg/)
+    on 16 June 2013
 
-.. [8]
-   Last updated on
-   `http://www.healthprofessionals.gov.sg <http://www.healthprofessionals.gov.sg/>`__
-   on 16 June 2013
+[^9]: Information retrieved from <http://www.sma.org.sg/default.aspx>
 
-.. [9]
-   Information retrieved from http://www.sma.org.sg/default.aspx
+[^10]: Last updated 18 October 2011 from SMC website
+    -<http://www.healthprofessionals.gov.sg/content/hprof/smc/en.html>,
+    last accessed on 3 September 2014
 
-.. [10]
-   Last updated 18 October 2011 from SMC website -
-   http://www.healthprofessionals.gov.sg/content/hprof/smc/en.html, last
-   accessed on 3 September 2014
-
-.. [11]
-   http://app.mnd.gov.sg/stb/Home.aspx, last accessed on 3 September
-   2014
-
-.. |image1| image:: ../_static/image2.png
-   :width: 5.86458in
-   :height: 5.43053in
-.. |image2| image:: ../_static/image3.png
-   :width: 5.95833in
-   :height: 5.95833in
-.. |image3| image:: ../_static/image4.png
-   :width: 6.12504in
-   :height: 4.70833in
-.. |image4| image:: ../_static/image5.png
-   :width: 6.02275in
-   :height: 4.95833in
+[^11]: <http://app.mnd.gov.sg/stb/Home.aspx>, last accessed on 3
+    September 2014

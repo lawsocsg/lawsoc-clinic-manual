@@ -1,30 +1,22 @@
-
 PROPERTY
 ========
 
 Purchasing or Selling a House or Flat
 -------------------------------------
 
-Things To Consider When Purchasing A House Or Flat
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Things To Consider When Purchasing A House Or Flat
 
 When purchasing a house (“House”) or a flat (“Flat”), you should
 consider the following and address any problems that may arise:
 
-1. Title
+1.  Title
+2.  Single or joint ownership
+3.  ‘Landed’ or ‘non-landed’ property
+4.  Area of the property
+5.  Financing of purchase of property
+6.  Marital status
 
-2. Single or joint ownership
-
-3. ‘Landed’ or ‘non-landed’ property
-
-4. Area of the property
-
-5. Financing of purchase of property
-
-6. Marital status
-
-**1. Title**
-^^^^^^^^^^^^
+#### **1. Title**
 
 You should consider the title to the House or Flat and seek advice from
 your lawyer about it. Title is important because good title over your
@@ -35,28 +27,26 @@ have.
 
 The title to the House may be:
 
--  Freehold: Where ownership of the property technically lasts forever
-   (Absolute title or an estate in perpetuity)
-
--  Leasehold: Usually a lease for 99 years or 999 years. Note that as
-   the lease period may have commenced some time ago, meaning little
-   lease period remains. You should seek advice prior buying such a
-   property.
+-   Freehold: Where ownership of the property technically lasts forever
+    (Absolute title or an estate in perpetuity)
+-   Leasehold: Usually a lease for 99 years or 999 years. Note that as
+    the lease period may have commenced some time ago, meaning little
+    lease period remains. You should seek advice prior buying such a
+    property.
 
 **Flat - HDBs, ECs, private condominiums**
 
 The title to the Flat may be:
 
--  A common law lease (under the old conveyancing system) for 99 years
-   or 999 years with no interest in the land or with a proportionate
-   fractional share in the land subject to the lease.
+-   A common law lease (under the old conveyancing system) for 99 years
+    or 999 years with no interest in the land or with a proportionate
+    fractional share in the land subject to the lease.
+-   A strata title where the proprietor will have a title to the flat
+    with a proportionate share in the land (freehold or leasehold) on
+    which the flats had been erected.
 
--  A strata title where the proprietor will have a title to the flat
-   with a proportionate share in the land (freehold or leasehold) on
-   which the flats had been erected.
+#### **2. Single or joint ownership**
 
-**2. Single or joint ownership**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Before deciding whether to buy a House or Flat, you should check if you
 are buying it on your own or jointly with another/others. Buying the
 House or Flat with another will affect things such as ownership of the
@@ -77,8 +67,7 @@ regardless of the individual owner’s contribution to buy the flat.
 survivorship. This means if one joint tenant dies, his interest in the
 flat *automatically* passes to the remaining co-owner(s). This is
 regardless of whether the deceased joint tenant has left behind a
-Will. [114]_ The right of survivorship will override any terms in the
-will.
+Will.[^1] The right of survivorship will override any terms in the will.
 
 **Example:** Mr. X, his wife and their son own a HDB flat as joint
 tenants. Mr. X dies. The flat automatically passes to Mrs. X and their
@@ -91,14 +80,14 @@ owning land. For example, for probate purposes, no further vesting of
 title in the other co-owner is required. For sale or mortgage purposes,
 only one title needs to be investigated. For succession purposes, it is
 unnecessary for one co-owner to make any testamentary gift of his or her
-share to the other. [115]_
+share to the other.[^2]
 
 **Tenancy-in-common**
 
 A tenancy-in-common is a form of ownership where each co-owner holds a
-separate and definite share in a flat. [116]_ Unless stated otherwise,
-they are presumed to own an equal share in the property. However, all
-the co-owners are entitled to live in the whole flat regardless of their
+separate and definite share in a flat.[^3] Unless stated otherwise, they
+are presumed to own an equal share in the property. However, all the
+co-owners are entitled to live in the whole flat regardless of their
 share in the property.
 
 **No right of survivorship:** There is no right of survivorship in
@@ -106,7 +95,7 @@ tenancy-in-common. The deceased’s interest in the flat does not pass on
 automatically to the remaining co-owner(s). When a tenant-in-common
 dies, his interest in the flat will be distributed according to his
 Will. If he does not have a will, it will be distributed by law
-according to the provisions of the Intestate Succession Act. [117]_
+according to the provisions of the Intestate Succession Act.[^4]
 
 A joint-tenant can sever the joint tenancy by an instrument of
 declaration (usually a deed and form approved by the Registrar), and
@@ -128,19 +117,19 @@ e-services for the appropriate branch.
 You can be listed as a joint tenant if **all of the following** are
 present:
 
-1. Unity of possession: Each tenant is entitled to full possession of
+1\. Unity of possession: Each tenant is entitled to full possession of
 the entire property as any other joint tenant, and this means no single
 joint tenant can point to a physical part of the land / house / flat and
 claim it as his or her own
 
-2. Unity of interest: This means all tenants are entitled to one and the
+2\. Unity of interest: This means all tenants are entitled to one and the
 same interest, and in general an interest cannot be shifted to anyone
 else without all the joint tenants agreeing
 
-3. Unity of title: The interests of all joint tenants must be obtained
+3\. Unity of title: The interests of all joint tenants must be obtained
 from the **same** document or transfer
 
-4. Unity of time: Joint tenants must obtain their interests **at the
+4\. Unity of time: Joint tenants must obtain their interests **at the
 same time**
 
 The first two unities describe the rights of joint-tenants. The last two
@@ -154,7 +143,7 @@ The remaining family or single occupier is allowed to retain the
 existing flat after the owner has died if the remaining occupant is a
 Singapore Citizen or Permanent Resident, is at least 21 years old and
 satisfies the Housing & Developing Board’s prevailing eligibility rules
-and conditions to own a flat. [118]_
+and conditions to own a flat.[^5]
 
 If the sole owner or tenant-in-common passes away leaving behind a will,
 the deceased’s interest in the flat will be distributed according to the
@@ -162,7 +151,7 @@ will. The deceased’s family should engage a private solicitor to apply
 to the courts for a Grant of Probate. The Grant of Probate is a court
 order that gives the legal authority to the Executor to administer the
 deceased’s estate. The person named in a will to administer the
-deceased’s estate is known as an “Executor”. [119]_
+deceased’s estate is known as an “Executor”.[^6]
 
 If the sole owner or tenant-in-common passes away without leaving behind
 a will, the deceased’s interest in the flat will be distributed
@@ -171,8 +160,7 @@ deceased’s family should engage a private solicitor to apply to the
 courts for a Grant of Letters of Administration. The Grant of Letters of
 Administration is a court order that gives the legal authority to the
 Administrator to administer the deceased’s estate. The person
-administering the deceased’s estate is known as an
-“Administrator”. [120]_
+administering the deceased’s estate is known as an “Administrator”.[^7]
 
 Once the Grant of Letters of Administration or the Grant of Probate has
 been obtained, the Administrator(s) / Executor(s) can engage their own
@@ -183,48 +171,39 @@ If they wish to engage the services of HDB, they can approach the HDB
 Branch Office managing the deceased’s flat to make the necessary
 application, bringing along the following documents:
 
--  Original copy of the Petition for the Grant of Letters of
-   Administration/ Grant of Probate
-
--  Original copy of the Grant of Letters of Administration/ Grant of
-   Probate;
-
--  original copy of the Syariah Court Inheritance Certificate (for
-   Muslim Estates only)
-
--  A copy of death certificate of the deceased owner
-
--  Duplicate lease of the deceased’s flat
-
--  Identity Card(s) [121]_
+-   Original copy of the Petition for the Grant of Letters of
+    Administration/ Grant of Probate
+-   Original copy of the Grant of Letters of Administration/ Grant of
+    Probate;
+-   original copy of the Syariah Court Inheritance Certificate (for
+    Muslim Estates only)
+-   A copy of death certificate of the deceased owner
+-   Duplicate lease of the deceased’s flat
+-   Identity Card(s)[^8]
 
 The Administrator(s) / Executor(s) will have to sign the relevant
 documents and pay the relevant fees, such as stamp fees, conveyancing
 fees etc. Thereafter, the Administrator(s) / Executor(s) must apply at
 the HDB Branch Office managing the deceased’s flat to transfer the flat
 to the beneficiaries as owners, subject to HDB’s eligibility criteria
-and conditions governing transfer of flat ownership”. [122]_
+and conditions governing transfer of flat ownership”.[^9]
 
-**3. “Landed” or non-“landed” property**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### **3. “Landed” or non-“landed” property**
 
 The Singaporean Government imposes strict rules on who can and cannot
 purchase certain types of property in Singapore.
 
 **Landed Property**
 
-Under the Residential Property Act [123]_, only Singapore citizens and
+Under the Residential Property Act[^10], only Singapore citizens and
 approved buyers can buy landed ‘residential property’. Restrictions are
 imposed on foreign ownership of private residential property. A foreign
 person means any person who is not any of the following:
 
--  A Singapore citizen;
-
--  A Singapore company;
-
--  A Singapore limited liability partnership; or
-
--  A Singapore society. [124]_
+-   A Singapore citizen;
+-   A Singapore company;
+-   A Singapore limited liability partnership; or
+-   A Singapore society.[^11]
 
 Foreigners are eligible to purchase units in condominiums or apartments
 within a building.
@@ -241,80 +220,59 @@ persons as joint tenants or tenants-in-common. If parties wish to
 convert the holding type of the flat, or change the proportion of shares
 held in the flat, parties can either:
 
-    a. Appoint their own lawyers to act for them, or
+> a.  Appoint their own lawyers to act for them, or
+> b.  Contact and engage HDB to handle the transaction.
 
-    b. Contact and engage HDB to handle the transaction.
+#### **4. Area of house or flat**
 
-**4. Area of house or flat**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-You are advised to check with your lawyer the land area of the House
-/ floor area of the Flat. The land area of the House is different
-from the built-up area of the House.
+You are advised to check with your lawyer the land area of the House /
+floor area of the Flat. The land area of the House is different from the
+built-up area of the House.
 
 You may also want to consult a qualified surveyor if you suspect any
-discrepancy in the boundary line or encroachment, or if you require
-the actual area of the House or Flat.
+discrepancy in the boundary line or encroachment, or if you require the
+actual area of the House or Flat.
 
-**5. Financing**
-^^^^^^^^^^^^^^^^
+#### **5. Financing**
 
 **Total cost of buying the House or Flat**
 
-Before you decide to buy a House or Flat you must check that you
-have sufficient funds available to complete the purchase. You should
-check and factor in the total cost of buying the House or Flat such
-as:
+Before you decide to buy a House or Flat you must check that you have
+sufficient funds available to complete the purchase. You should check
+and factor in the total cost of buying the House or Flat such as:
 
-#. **Cost of buying a House or Flat**
-
-   -  Purchase price of the House or Flat.
-
-   -  Buyer’s stamp duty on the Sale and Purchase Agreement or Option to Purchase.
-
-   -  Additional buyer’s stamp duty (to be paid by certain groups of people
-      who buy or acquire residential properties including residential
-      land).
-
-   -  Lawyer’s fees and disbursements.
-
-   -  Valuation fees.
-
-   -  Survey fees.
-
-   -  Property agent’s commission.
-
-   -  Other miscellaneous costs.
-
-#. **Cost of financing a House or Flat**
-
-   -  CPF charges.
-
-   -  CPF Board’s lawyer’s fees and disbursements.
-
-   -  Fees charged by lender bank/finance company.
-
-   -  Lender’s lawyer’s fees and disbursements.
-
-   -  Stamp duty on loan/financing documents.
-
-   -  Other miscellaneous costs.
-
-#. **Stamp duty (as well as additional stamp duty) on the purchase will
-   have to be paid once the document is signed:**
-
-   -  Within 14 days after the date of the document if the document is
-      signed in Singapore; or
-
-   -  Within 30 days after the date of its receipt in Singapore if the
-      document is signed overseas. [125]_
+1.  **Cost of buying a House or Flat**
+    -   Purchase price of the House or Flat.
+    -   Buyer’s stamp duty on the Sale and Purchase Agreement or Option
+        to Purchase.
+    -   Additional buyer’s stamp duty (to be paid by certain groups of
+        people who buy or acquire residential properties including
+        residential land).
+    -   Lawyer’s fees and disbursements.
+    -   Valuation fees.
+    -   Survey fees.
+    -   Property agent’s commission.
+    -   Other miscellaneous costs.
+2.  **Cost of financing a House or Flat**
+    -   CPF charges.
+    -   CPF Board’s lawyer’s fees and disbursements.
+    -   Fees charged by lender bank/finance company.
+    -   Lender’s lawyer’s fees and disbursements.
+    -   Stamp duty on loan/financing documents.
+    -   Other miscellaneous costs.
+3.  **Stamp duty (as well as additional stamp duty) on the purchase will
+    have to be paid once the document is signed:**
+    -   Within 14 days after the date of the document if the document is
+        signed in Singapore; or
+    -   Within 30 days after the date of its receipt in Singapore if the
+        document is signed overseas.[^12]
 
 Stamp duty is the tax imposed on certain legal documents, including
 documents relating to immovable property such as a House / Flat.
 
 If stamp duty is not paid within 14 or 30 days (whichever is
 applicable), there will be penalties payable in addition to the stamp
-duty amounof up to 4 times the due amount. [126]_
+duty amounof up to 4 times the due amount.[^13]
 
 It is advisable to seek the assistance of a lawyer in order to estimate
 the total cost of buying a House or Flat.
@@ -322,34 +280,25 @@ the total cost of buying a House or Flat.
 You should also take into consideration other payments and charges that
 may apply after buying a House or Flat, such as:
 
--  Monthly instalments required for repayment of loan from the lender
-   bank or finance company.
-
--  Conservancy charges / management fees.
-
--  Fire insurance.
-
--  Mortgage term reducing insurance.
-
--  Property taxes.
+-   Monthly instalments required for repayment of loan from the lender
+    bank or finance company.
+-   Conservancy charges / management fees.
+-   Fire insurance.
+-   Mortgage term reducing insurance.
+-   Property taxes.
 
 **Financing the purchase of a House / Flat**
 
 You should consider what types of financing are available to you, such
 as:
 
--  Your income/salary
-
--  Savings in the form of cash and investments
-
--  Net sales proceeds (minus outstanding loan) from your current home,
-   if any
-
--  Loan from Lender
-
--  Loan from HDB
-
--  CPF savings
+-   Your income/salary
+-   Savings in the form of cash and investments
+-   Net sales proceeds (minus outstanding loan) from your current home,
+    if any
+-   Loan from Lender
+-   Loan from HDB
+-   CPF savings
 
 You should contact the CPF Board and the Lender bank/finance company as
 early as possible, preferably before you pay the upfront deposit. This
@@ -362,15 +311,14 @@ funds and/or loan will be approved and that the funds will be available.
 You should contact the Lender as early as possible, preferably before
 you pay the upfront deposit, to find out:
 
-    1. The loan amount you are eligible for.
-
-    2. The amount of monthly instalments required for repayment of the
-    loan.
+> 1.  The loan amount you are eligible for.
+>
+> 2\. The amount of monthly instalments required for repayment of the loan.
 
 To find out more about loans, how interest is computed, how to compare
 the different home loan packages, and other important information, you
 can refer to the ABS-MoneySENSE guide *About Home Loans - Key Questions
-to Ask the Bank Before Taking a Home Loan*. [127]_
+to Ask the Bank Before Taking a Home Loan*.[^14]
 
 **CPF savings**
 
@@ -378,21 +326,26 @@ If you are using CPF savings, you should work out your CPF withdrawal
 limit before you pay the upfront deposit for the House or Flat. You can
 utilise your CPF savings to help you pay for:
 
--  The purchase price.
+-   The purchase price.
+-   
 
--  The stamp duty, legal fees, incidental legal expenses and other
-       related costs incurred in connection with the purchase of the
-       House or Flat.
+    The stamp duty, legal fees, incidental legal expenses and other
 
--  Monthly instalments for repayment of the loan. However, please note
-       that there could be a mortgagee’s restriction on the use of your
-       CPF savings towards servicing your housing loan [128]_ or other
-       issues that should be taken into account.
+    :   related costs incurred in connection with the purchase of the
+        House or Flat.
+
+-   
+
+    Monthly instalments for repayment of the loan. However, please note
+
+    :   that there could be a mortgagee’s restriction on the use of your
+        CPF savings towards servicing your housing loan[^15] or other
+        issues that should be taken into account.
 
 It is advisable to seek the assistance of a lawyer in order to check the
 possible use of your CPF savings when buying a House or Flat.
 
-**6. Your marital status**\  [129]_
+**6. Your marital status**[^16]
 
 **Buying a HDB with your fiancé(e)**
 
@@ -449,9 +402,7 @@ whichever is later.
 the new flat:** You will have to submit a copy of your marriage
 certificate to the HDB Branch managing the lease of your flat.
 
-
-Your Lawyer’s Role in a Property Purchase
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Your Lawyer’s Role in a Property Purchase
 
 When you purchase property, your lawyer’s responsibilities include the
 following:
@@ -496,7 +447,7 @@ the ownership of the property from the current owners to yourself (as
 the new owner). Your lawyer must also ensure that the
 seller/transferor’s lawyer has filed a “notice of transfer” to notify
 the Inland Revenue Authority of Singapore (“IRAS”) within one month of
-the property transfer. [130]_
+the property transfer.[^17]
 
 **Legal Fees**
 
@@ -504,25 +455,22 @@ Note: The lawyer’s fees do not include stamp duty or disbursements
 properly incurred by the lawyer.
 
 Documents for Buying or Selling a House or Flat
---------------------------------------------------
+-----------------------------------------------
 
 **Option to Purchase or Sale and Purchase Agreement**
 
 Generally, legal contracts for the sale and purchase of property take
 the form of:
 
-1. An Option to Purchase (“OTP”) **or**
-
-2. A Sale and Purchase Agreement (“SPA”)
+1.  An Option to Purchase (“OTP”) **or**
+2.  A Sale and Purchase Agreement (“SPA”)
 
 A contract/agreement for the purchase of a House or Flat can be formed
 in many ways, for example:
 
--  By correspondence
-
--  By the exercise of an OTP
-
--  By the parties signing a SPA
+-   By correspondence
+-   By the exercise of an OTP
+-   By the parties signing a SPA
 
 **Scope and content of OTPs and SPAs**
 
@@ -530,23 +478,16 @@ OTPs (which are often prepared by property agents) and SPAs are
 documents that create legal rights and obligations, dealing particularly
 with:
 
--  Title of the property
-
--  Mode of payment
-
--  Discharge of encumbrances
-
--  Schemes and other matters affecting the property (e.g. road widening)
-
--  Vacant possession or subject to tenancy
-
--  Completion date
-
--  Liability for property tax, maintenance fees or sinking fund
-
--  Delay in completion
-
--  Other related and special terms
+-   Title of the property
+-   Mode of payment
+-   Discharge of encumbrances
+-   Schemes and other matters affecting the property (e.g. road
+    widening)
+-   Vacant possession or subject to tenancy
+-   Completion date
+-   Liability for property tax, maintenance fees or sinking fund
+-   Delay in completion
+-   Other related and special terms
 
 **Before signing:** You should consult your lawyer before signing the
 OTP or the SPA. This is to ensure that your interests are protected.
@@ -555,17 +496,13 @@ OTP or the SPA. This is to ensure that your interests are protected.
 the legal contract takes, the following terms must be present in order
 for the sale and purchase agreement to be legally enforceable:
 
-1. Identification of the property offered for sale
+1.  Identification of the property offered for sale
+2.  Price of the property
+3.  Completion Date
+4.  The contract for the sale of the property must aso be in writing,
+    and signed by the owner or his authorised representative
 
-2. Price of the property
-
-3. Completion Date
-
-4. The contract for the sale of the property must aso be in writing, and
-   signed by the owner or his authorised representative
-
-The Law Society’s Conditions Of Sale
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### The Law Society’s Conditions Of Sale
 
 Most contracts for the sale and purchase of property in Singapore will
 incorporate standard terms called the Singapore Law Society’s Conditions
@@ -573,12 +510,9 @@ of Sale 2012 (“2012 Conditions”). If the terms of the OTP or SPA are
 silent on certain points, then the 2012 Conditions will apply. These
 conditions may also be modified by express terms in the OTP or SPA.
 
+### Types Of Legal Contracts For The Purchase Of Property
 
-Types Of Legal Contracts For The Purchase Of Property
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**A. Option to Purchase (OTP)**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **A. Option to Purchase (OTP)**
 
 An OTP is a right or option given by the seller to the intending buyer
 to purchase the property at a specified price within a certain period of
@@ -611,8 +545,7 @@ advisable to seek the assistance of a lawyer before you agree on the
 terms of the OTP and part with any money. Checks can then be done on the
 property before you pay the option fee.
 
-**B. Sale and Purchase Agreement (SPA)**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **B. Sale and Purchase Agreement (SPA)**
 
 Sometimes the seller will insist on entering into a SPA for the
 property. If the buyer signs the SPA, unlike in the case of the OTP
@@ -647,22 +580,20 @@ Selling Your House or Flat
 It is important to keep the following factors in mind when selling your
 House / Flat:
 
-1. Whether to enter into an OTP or SPA
+1.  Whether to enter into an OTP or SPA
+2.  Stakeholding
 
-2. Stakeholding
-
-3. Goods and Services Tax (GST) for properties with a *commercial*
+3\. Goods and Services Tax (GST) for properties with a *commercial*
 component
 
-4. Whether your flat is a HDB flat (specific rules will apply)
+4.  Whether your flat is a HDB flat (specific rules will apply)
 
 **Option to Purchase or Sale and Purchase Agreement**
 
 You can sell your House or Flat by:
 
-1. Granting an Option to Purchase (“OTP”) to the buyer **or**
-
-2. Entering into a Sale and Purchase Agreement (“SPA”) with the buyer
+1.  Granting an Option to Purchase (“OTP”) to the buyer **or**
+2.  Entering into a Sale and Purchase Agreement (“SPA”) with the buyer
 
 For more information on the OTP or SPA see above.
 
@@ -673,26 +604,23 @@ or signing of the SPA, as stakeholders. This is to assure the buyer that
 the deposit will be kept safely until completion of the purchase,
 especially as the sale will normally be subject to:
 
--  The discharge of encumbrances like the mortgage and CPF charge
-
--  The title being in order
-
--  Satisfactory replies to legal requisitions sent to the various
-   government departments
+-   The discharge of encumbrances like the mortgage and CPF charge
+-   The title being in order
+-   Satisfactory replies to legal requisitions sent to the various
+    government departments
 
 In certain circumstances, the Singapore Academy of Law will hold two
 kinds of conveyancing money:
 
--  Stakeholding deposit
-
--  Conveyancing money (other than stakeholding deposit), i.e. the
-   buyer’s or seller’s money to be used for settlement of the sale and
-   purchase of the property [131]_ until the expiry of the defects
-   liability period provided in the SPA
+-   Stakeholding deposit
+-   Conveyancing money (other than stakeholding deposit), i.e. the
+    buyer’s or seller’s money to be used for settlement of the sale and
+    purchase of the property[^18] until the expiry of the defects
+    liability period provided in the SPA
 
 **3. Goods and Services Tax (‘GST’)**
 
-GST is not payable on residential property at present. [132]_
+GST is not payable on residential property at present.[^19]
 
 However, as some residential properties (e.g. a shop-house with a flat
 above) may involve a commercial component, you should seek advice from
@@ -713,10 +641,10 @@ bank’s mortgage and the CPF charge.
 
 Your lawyer shall also file a “notice of transfer” to notify the Inland
 Revenue Authority of Singapore (“IRAS”) within one month of the property
-transfer. [133]_
+transfer.[^20]
 
 Housing & Development Board Flats
-------------------------------------
+---------------------------------
 
 If you are selling your Housing & Development Board (“HDB”) flat, you
 should contact HDB directly in respect of the sale. The HDB has specific
@@ -726,8 +654,7 @@ sale and purchase of HDB flats.
 Commonly Asked Questions on Purchasing or Selling a House or Flat
 -----------------------------------------------------------------
 
-General
-~~~~~~~~~~~
+### General
 
 **What is a private property?**
 
@@ -760,17 +687,15 @@ restrictions do not apply if you are buying a non-restricted residential
 property. According to Section 4(1) of the Residential Property Act,
 non-restricted residential property includes:
 
--  Any flat (including any share in land appurtenant to that flat) that
-   is comprised in any building in a development permitted to be used
-   under the Planning Act (Cap. 232)
-
--  Any unit comprised in a development which is shown in an approved
-   plan bearing the title “condominium” and issued by the competent
-   authority under the Planning Act, **and**
-
--  Any unit in a development comprising of housing accommodation sold
-   under the executive condominium scheme established under the
-   Executive Condominium Housing Scheme Act (Cap. 99A)
+-   Any flat (including any share in land appurtenant to that flat) that
+    is comprised in any building in a development permitted to be used
+    under the Planning Act (Cap. 232)
+-   Any unit comprised in a development which is shown in an approved
+    plan bearing the title “condominium” and issued by the competent
+    authority under the Planning Act, **and**
+-   Any unit in a development comprising of housing accommodation sold
+    under the executive condominium scheme established under the
+    Executive Condominium Housing Scheme Act (Cap. 99A)
 
 As used in Singapore, “condominium” has a very specific meaning. Title
 documents for condominiums have the word “condominium” printed on the
@@ -816,7 +741,7 @@ for the sale and purchase of immovable properties. Parties may however
 contract out of the 2012 Conditions or any particular Condition by
 providing their own terms and conditions in the contracts, where
 appropriate, to meet the particular circumstances of their
-transaction. [134]_
+transaction.[^21]
 
 It is usual for any sale and purchase of property in Singapore to be
 made subject to these conditions. You should be able to obtain a copy of
@@ -833,28 +758,28 @@ Assuming that you are taking a loan and utilising your Central Provident
 Fund (“CPF”) savings for your purchase, you will have to ensure that you
 have funds for the following:
 
-1. Bank loan processing fee (the amount varies from bank to bank and
+1\. Bank loan processing fee (the amount varies from bank to bank and
 some banks may not charge / will waive this fee).
 
-2. Stamp duty on the SPAor OTP and on the loan documents.
+2.  Stamp duty on the SPAor OTP and on the loan documents.
 
-3. Legal fees for your lawyers, the bank’s lawyers, the CPF Board’s
+3\. Legal fees for your lawyers, the bank’s lawyers, the CPF Board’s
 lawyers and incidental legal expenses.
 
-4. Incidental expenses that have to be settled (refer to Chapter
+4\. Incidental expenses that have to be settled (refer to Chapter
 17.1.1(e)).
 
 You can utilise your CPF savings to help you pay for:
 
-1. The purchase price.
+1.  The purchase price.
 
-2. The stamp duty, legal fees, incidental legal expenses and other
+2\. The stamp duty, legal fees, incidental legal expenses and other
 related costs incurred in connection with the purchase of the
 House/Flat.
 
-3. Monthly instalments for repayment of the loan. However, please note
+3\. Monthly instalments for repayment of the loan. However, please note
 that there could be a mortgagee’s restriction on the use of your CPF
-savings towards servicing your housing loan [135]_ or other issues that
+savings towards servicing your housing loan[^22] or other issues that
 should be taken into account. It is advisable to seek the assistance of
 a lawyer in order to check the possible use of the CPF savings for this
 purpose.
@@ -868,8 +793,7 @@ residential property with a seller introduced by an estate agent, you
 will have to pay the estate agent commission which is a percentage of
 the purchase price as indicated in the Sale and Purchase Agreement.
 
-Sale and Purchase Of HDB Flats
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Sale and Purchase Of HDB Flats
 
 **Who can apply for a HDB loan to finance their purchase of resale
 flats?**
@@ -877,40 +801,35 @@ flats?**
 Buyers can apply for a HDB loan if they and/or their essential
 occupiers\*:
 
--  Have at least one buyer who is a Singapore Citizen
+-   Have at least one buyer who is a Singapore Citizen
+-   Have average gross monthly household income not exceeding:
 
--  Have average gross monthly household income not exceeding:
+    > a.  \$10,000 for families
+    > b.  \$15,000 for extended families
+    >
+    > c\. \$5,000 for singles buying a 5-room or smaller resale flat or 2-room
+    > new flat in a non-mature estate under the Single Singapore Citizen
+    > scheme
+    >
+    > (Note that if the applicants and occupiers are unemployed for
+    > fewer than 3 months, the average income will be computed based on
+    > the number of actual months worked)
+    >
+    > **AND** submit HDB Loan Eligibility (HLE) applications for the
+    > purchase of new flats, purchase of resale flats, and transfer of
+    > flat ownership (refer to the HDB InfoWEB page for more details on
+    > this)
 
-    a. $10,000 for families
-
-    b. $15,000 for extended families
-
-    c. $5,000 for singles buying a 5-room or smaller resale flat or
-    2-room new flat in a non-mature estate under the Single Singapore
-    Citizen scheme
-
-    (Note that if the applicants and occupiers are unemployed for fewer
-    than 3 months, the average income will be computed based on the
-    number of actual months worked)
-
-    **AND** submit HDB Loan Eligibility (HLE) applications for the
-    purchase of new flats, purchase of resale flats, and transfer of
-    flat ownership (refer to the HDB InfoWEB page for more details on
-    this)
-
--  Have not previously taken two or more HDB concessionary interest rate
-   loans;
-
--  Do not own any private residential property in Singapore or overseas,
-   which includes Housing and Urban Development Company (HUDC) flats and
-   Executive Condominiums (ECs)
-
--  Have not disposed of any private residential property (includes HUDCs
-   and ECs) within 30 months before the date of application for HLE and
-   have never taken any HDB concessionary interest rate loan
-
--  Do not own more than one market / hawker stalls or commercial /
-   industrial property in Singapore or overseas
+-   Have not previously taken two or more HDB concessionary interest
+    rate loans;
+-   Do not own any private residential property in Singapore or
+    overseas, which includes Housing and Urban Development Company
+    (HUDC) flats and Executive Condominiums (ECs)
+-   Have not disposed of any private residential property (includes
+    HUDCs and ECs) within 30 months before the date of application for
+    HLE and have never taken any HDB concessionary interest rate loan
+-   Do not own more than one market / hawker stalls or commercial /
+    industrial property in Singapore or overseas
 
 \*Essential occupiers are family members who are required to be listed
 in the Application Form in order to form a family nucleus so that the
@@ -918,7 +837,7 @@ buyer (the applicant) can qualify under the eligibility scheme to
 purchase a resale flat.
 
 You are advised to check the HDB InfoWEB for the most updated
-eligibility conditions for HDB concessionary loans. [136]_
+eligibility conditions for HDB concessionary loans.[^23]
 
 **What are my options if I want to buy a HDB flat but am still part of a
 nuclear family due to my having been adopted?**
@@ -958,7 +877,7 @@ to other family members under the Resale part-share scheme, subject to
 the buyers meeting HDB’s eligibility schemes and eligibility criteria.
 Resale part-share refers to a change of flat ownership by way of a
 partial sale/purchase between family members at a mutually agreed price.
-Monetary consideration is involved for such change in ownership. [137]_
+Monetary consideration is involved for such change in ownership.[^24]
 The minimum occupation period of the flat must also have been met.
 However, resale part-share is not allowed between married couples. For
 more information, please contact HDB.
@@ -986,8 +905,7 @@ filing a removal of caveat with the Registrar.
 Letting / Renting a Property
 ----------------------------
 
-Documents Required For Letting / Renting a Property
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Documents Required For Letting / Renting a Property
 
 Most landlords and tenants will engage the help of a professional
 property agent to assist them and to protect their interest. The
@@ -1005,21 +923,15 @@ on the terms of the tenancy agreement, usually 7 days.
 
 The LOI may include provisions such as:
 
--  Period of lease
-
--  Date of commencement
-
--  Terms of payment
-
--  Utilities and payment for other charges
-
--  Tenancy Agreement and stamping of tenancy
-
--  Diplomatic clause (usually included if the lease is more than a year)
-
--  Good faith deposit
-
--  Property agent’s fees
+-   Period of lease
+-   Date of commencement
+-   Terms of payment
+-   Utilities and payment for other charges
+-   Tenancy Agreement and stamping of tenancy
+-   Diplomatic clause (usually included if the lease is more than a
+    year)
+-   Good faith deposit
+-   Property agent’s fees
 
 **Document 2: Tenancy Agreement**
 
@@ -1028,22 +940,15 @@ the Tenancy Agreement.
 
 The Tenancy Agreement may include provisions such as:
 
--  Period of lease
-
--  Date of commencement
-
--  Terms of payment
-
--  Payment of rent, deposit and return of deposit
-
--  Utilities and payment for other charges
-
--  Maintenance of unit, including air conditioners, repairs and payment
-   in excess of amount stipulated for repairs
-
--  Diplomatic clause
-
--  Stamp duty
+-   Period of lease
+-   Date of commencement
+-   Terms of payment
+-   Payment of rent, deposit and return of deposit
+-   Utilities and payment for other charges
+-   Maintenance of unit, including air conditioners, repairs and payment
+    in excess of amount stipulated for repairs
+-   Diplomatic clause
+-   Stamp duty
 
 **Commission Fees**
 
@@ -1060,34 +965,22 @@ owners who are Singapore Citizens may sublet their whole flat if they
 meet HDB’s eligibility conditions under the Subletting of Flat/Bedroom
 Scheme, such as prior approval from HDB.
 
-**Eligibility Conditions For Subletting**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **Eligibility Conditions For Subletting**
 
 Prospective subtenants and flat owners are advised to familiarise
-themselves with HDB’s eligibility conditions: [138]_
+themselves with HDB’s eligibility conditions:[^25]
 
-1. Citizenship of flat owners
-
-2. Citizenship of subtenants
-
-3. Minimum occupation period
-
-4. Maximum number of occupants
-
-5. Tenancy / property ownership status
-
-6. Period of subletting
-
-7. Fees and costs
-
-8. Application for approval
-
-9. Flat owner’s responsibilities
-
-9. Proof of ownership of flat
-
+1.  Citizenship of flat owners
+2.  Citizenship of subtenants
+3.  Minimum occupation period
+4.  Maximum number of occupants
+5.  Tenancy / property ownership status
+6.  Period of subletting
+7.  Fees and costs
+8.  Application for approval
+9.  Flat owner’s responsibilities
+10. Proof of ownership of flat
 11. Rent payment and deposit
-
 12. Disputes between subtenants and flat owners
 
 **1. Citizenship of flat owners**
@@ -1099,25 +992,23 @@ Resident (PR) flat owners are not allowed to sublet their flat.
 
 Subtenants must be:
 
--  Singapore Citizens; or
+-   Singapore Citizens; or
+-   Singapore Permanent Residents (PRs); or
+-   Non-Citizens legally residing in Singapore (holders of Employment
+    Passes, “S” Passes, Work Permits\*, Student Passes, Passes, or
+    Long-Term Social Visit Passes. These passes must have a validity
+    period of at least 6 months as at the date of subletting
+    registration) \*\*
 
--  Singapore Permanent Residents (PRs); or
-
--  Non-Citizens legally residing in Singapore (holders of Employment
-   Passes, “S” Passes, Work Permits\*, Student Passes, Passes, or
-   Long-Term Social Visit Passes. These passes must have a validity
-   period of at least 6 months as at the date of subletting
-   registration) \*\*
-
-    \* Construction workers who are work permit holders must be
-    Malaysians.
-
-    \*\* Tourists are **not** allowed to rent HDB flats.
+    > \* Construction workers who are work permit holders must be
+    > Malaysians.
+    >
+    > \*\* Tourists are **not** allowed to rent HDB flats.
 
 If the subtenants are non-citizens, you can verify their immigration
 status at the Immigration & Checkpoints Authority’s iEnquiry
-website [139]_ or their Employment Pass and “S” Pass validity on the
-Ministry of Manpower’s website. [140]_
+website[^26] or their Employment Pass and “S” Pass validity on the
+Ministry of Manpower’s website.[^27]
 
 **Non-Citizen Subletting Quota**
 
@@ -1131,7 +1022,7 @@ When the NC Subletting Quota in a neighbourhood and/or block is reached,
 flat owners there cannot apply to sublet their flat to any non-Malaysian
 NCs. They can only sublet their flat to Singaporeans and Malaysians.
 Flat owners can use the e-Service on the HDB InfoWEB to enquire if their
-flat can be sublet to non-Malaysian NCs. [141]_
+flat can be sublet to non-Malaysian NCs.[^28]
 
 The NC Subletting Quota does not apply to subletting of bedrooms.
 
@@ -1140,42 +1031,41 @@ The NC Subletting Quota does not apply to subletting of bedrooms.
 Flat owners may sublet their flat if they have met the minimum
 occupation period (“MOP”) as follows:
 
--  **3 years:** Non-subsidised flat (flat purchased from the open market
-   without a CPF housing grant) and the application to buy the flat was
-   received by HDB before 30 Aug 2010
-
--  **5 years:** (i) Non-subsidised flat (flat purchased from the open
-   market without a CPF housing grant) and the application to buy the
-   flat was received by HDB on or after 30 Aug 2010; or (ii) subsidised
-   flat (flat purchased directly from HDB or from the open market with a
-   CPF housing grant)
+-   **3 years:** Non-subsidised flat (flat purchased from the open
+    market without a CPF housing grant) and the application to buy the
+    flat was received by HDB before 30 Aug 2010
+-   **5 years:** (i) Non-subsidised flat (flat purchased from the open
+    market without a CPF housing grant) and the application to buy the
+    flat was received by HDB on or after 30 Aug 2010; or (ii) subsidised
+    flat (flat purchased directly from HDB or from the open market with
+    a CPF housing grant)
 
 If you do not meet the MOP, you should contact HDB to see if any
 exceptions apply to you.
 
 **4. Maximum number of occupants**
 
-+---------------------+--------------------------------------------------------+
-| **Flat type**       | **Maximum number of occupants allowed in each flat**   |
-+=====================+========================================================+
-| 1-room and 2-room   | 4                                                      |
-+---------------------+--------------------------------------------------------+
-| 3-room              | 6                                                      |
-+---------------------+--------------------------------------------------------+
-| 4-room and bigger   | 9                                                      |
-+---------------------+--------------------------------------------------------+
+  ------------------------------------------------------------------------
+  **Flat type**        **Maximum number of occupants allowed in each
+                       flat**
+  -------------------- ---------------------------------------------------
+  1-room and 2-room    4
+
+  3-room               6
+
+  4-room and bigger    9
+  ------------------------------------------------------------------------
 
 **5. Tenancy / property ownership status**
 
 Subtenants must not be tenants/owners of other HDB flats except for:
 
--  Tenants/owners who are divorced / legally separated; Only one of the
-   divorced / legally separated parties may be a subtenant
-
--  Owners who are eligible to sublet their whole HDB flat; They must
-   sublet their own flat within one month after they have rented a
-   flat/bedroom from another flat owner, failing which, they must resume
-   occupation of their own flat
+-   Tenants/owners who are divorced / legally separated; Only one of the
+    divorced / legally separated parties may be a subtenant
+-   Owners who are eligible to sublet their whole HDB flat; They must
+    sublet their own flat within one month after they have rented a
+    flat/bedroom from another flat owner, failing which, they must
+    resume occupation of their own flat
 
 Subtenants must not be owners of Executive Condominium units where the
 5-year minimum occupation period has not been met.
@@ -1203,17 +1093,16 @@ your flat or when they renew the subletting tenancy.
 The period of subletting will not be included in computing the requisite
 MOP/time bar to determine the flat owner’s eligibility to:
 
--  Resell the flat in the open market;
+-   Resell the flat in the open market;
+-   Invest in a private residential property
 
--  Invest in a private residential property
+    > Not applicable if the flat sublet is a resale flat bought from
+    > open market without a CPF Housing Grant and the application for
+    > the purchase of the flat was received by HDB before 30 Aug 2010)
 
-    Not applicable if the flat sublet is a resale flat bought from open
-    market without a CPF Housing Grant and the application for the
-    purchase of the flat was received by HDB before 30 Aug 2010)
-
--  Apply for another flat directly from HDB (not applicable if the flat
-   sublet is a resale flat bought from the open market without a CPF
-   Housing Grant)
+-   Apply for another flat directly from HDB (not applicable if the flat
+    sublet is a resale flat bought from the open market without a CPF
+    Housing Grant)
 
 Owners who have sublet their flats will have to satisfy the full
 requisite occupation period/time bar specified by HDB before they are
@@ -1223,8 +1112,8 @@ eligible for any of the above.
 
 **Administrative fee**
 
-Flat owners have to pay an administrative fee of $20 for each subletting
-application.
+Flat owners have to pay an administrative fee of \$20 for each
+subletting application.
 
 **Renewal fee**
 
@@ -1239,12 +1128,12 @@ Quota.
 As part of the Goods and Services Tax offset package, the Government
 granted the Service & Conservancy Charge (S&CC) rebate to eligible
 citizen households. However, lessees who sublet their flat will not be
-eligible for the rebate during the period of subletting. [142]_
+eligible for the rebate during the period of subletting.[^29]
 
 **8. Application for approval**
 
 You must obtain HDB’s approval before you sublet your whole flat. You
-can submit the application online at HDB’s *MyHDBPage*. [143]_
+can submit the application online at HDB’s *MyHDBPage*.[^30]
 Alternatively, you can obtain the application form online or from any
 HDB Branch.
 
@@ -1260,32 +1149,25 @@ the POA.
 As a flat owner subletting your flat, you will be responsible for making
 sure that:
 
--  The flat is sublet to eligible subtenants only.
-
--  There is no overcrowding and the number of subtenants does not exceed
-   the maximum number allowed.
-
--  Your subtenants have entered and are remaining in Singapore lawfully
-   at all times (while the subletting is ongoing).
-
--  Your subtenants do not further sublet the flat to other persons; and
-
--  Your subtenants comply with all the covenants in the lease and the
-   provisions of the Housing & Development Act and that you are
-   responsible for all infringements, if any, committed by them.
+-   The flat is sublet to eligible subtenants only.
+-   There is no overcrowding and the number of subtenants does not
+    exceed the maximum number allowed.
+-   Your subtenants have entered and are remaining in Singapore lawfully
+    at all times (while the subletting is ongoing).
+-   Your subtenants do not further sublet the flat to other persons; and
+-   Your subtenants comply with all the covenants in the lease and the
+    provisions of the Housing & Development Act and that you are
+    responsible for all infringements, if any, committed by them.
 
 As a flat owner subletting your flat, you will also be responsible for:
 
--  Informing the Comptroller of Property Tax, of the subletting approval
-   and termination of subletting.
-
--  Informing HDB of any changes in the subletting agreement.
-
--  Resuming occupation of your flat and ensuring your subtenants vacate
-   the premises when the subletting is terminated, or when you are no
-   longer eligible to sublet your flat.
-
--  Surrendering the flat if it is repossessed by HDB.
+-   Informing the Comptroller of Property Tax, of the subletting
+    approval and termination of subletting.
+-   Informing HDB of any changes in the subletting agreement.
+-   Resuming occupation of your flat and ensuring your subtenants vacate
+    the premises when the subletting is terminated, or when you are no
+    longer eligible to sublet your flat.
+-   Surrendering the flat if it is repossessed by HDB.
 
 **10. Proof of ownership of flat**
 
@@ -1324,57 +1206,48 @@ carefully and understand all the terms and conditions in the tenancy
 agreement before signing it.
 
 Subletting of Bedrooms in a HDB Flat
------------------------------------------
+------------------------------------
 
-**Eligibility Conditions For Subletting**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **Eligibility Conditions For Subletting**
 
 Flat owners who are Singapore Citizens or Permanent Residents (PRs) may
 sublet their spare bedrooms if they meet HDB’s eligibility
-conditions: [144]_
+conditions:[^31]
 
-1. Citizenship of subtenants
+1.  Citizenship of subtenants
 
-    2. Maximum number of subtenants and numbers of bedrooms allowed for
-    subletting
-
-    3. Tenancy / property ownership status
-
-    4. Period of subletting
-
-    5. Registration of subletting
-
-    6. Flat owner’s responsibilities
-
-    7. Proof of ownership of flat
-
-    8. Rent payment and deposit
-
-    9. Disputes between subtenants and owners
+    > 2\. Maximum number of subtenants and numbers of bedrooms allowed for
+    > subletting
+    >
+    > 3.  Tenancy / property ownership status
+    > 4.  Period of subletting
+    > 5.  Registration of subletting
+    > 6.  Flat owner’s responsibilities
+    > 7.  Proof of ownership of flat
+    > 8.  Rent payment and deposit
+    > 9.  Disputes between subtenants and owners
 
 **1. Citizenship of subtenants**
 
 Subtenants must be:
 
--  Singapore Citizens; or
+-   Singapore Citizens; or
+-   Singapore Permanent Residents (PRs); or
+-   Non-Citizens legally residing in Singapore (holders of Employment
+    Passes, “S” Passes, Work Permits\*, Student Passes, Passes, or
+    Long-Term Social Visit Passes. These passes must have a validity
+    period of at least 6 months as at the date of subletting
+    registration\*\*
 
--  Singapore Permanent Residents (PRs); or
-
--  Non-Citizens legally residing in Singapore (holders of Employment
-   Passes, “S” Passes, Work Permits\*, Student Passes, Passes, or
-   Long-Term Social Visit Passes. These passes must have a validity
-   period of at least 6 months as at the date of subletting
-   registration\*\*
-
-    \* Construction workers who are work permit holders must be
-    Malaysians.
-
-    \*\* Tourists are **not** allowed to rent HDB flats.
+    > \* Construction workers who are work permit holders must be
+    > Malaysians.
+    >
+    > \*\* Tourists are **not** allowed to rent HDB flats.
 
 **Verifying immigration status of non-citizens:** If the subtenants are
 non-citizens, you can verify their immigration status at the Immigration
-& Checkpoints Authority’s iEnquiry website [145]_ or their Employment
-Pass and “S” Pass validity on the Ministry of Manpower’s website. [146]_
+& Checkpoints Authority’s iEnquiry website[^32] or their Employment Pass
+and “S” Pass validity on the Ministry of Manpower’s website.[^33]
 
 **2. Maximum number of subtenants and numbers of bedrooms allowed for
 subletting**
@@ -1390,37 +1263,35 @@ The total number of occupants (inclusive of owners, authorised occupiers
 and subtenants) and the total number of bedrooms which flat owners are
 allowed to sublet in each flat is summarized in the chart below:
 
-+-----------------+-----------------------------------------------------------+--------------------------------------------------------+
-| **Flat Type**   | **Maximum number of bedrooms\* allowed for subletting**   | **Maximum number of occupants allowed in each flat**   |
-+=================+===========================================================+========================================================+
-| 3-room          | 1                                                         | 6                                                      |
-+-----------------+-----------------------------------------------------------+--------------------------------------------------------+
-| 4-room          | 2                                                         | 9                                                      |
-+-----------------+-----------------------------------------------------------+--------------------------------------------------------+
-| 5-room          | 2                                                         | 9                                                      |
-+-----------------+-----------------------------------------------------------+--------------------------------------------------------+
-| Executive       | 2                                                         | 9                                                      |
-+-----------------+-----------------------------------------------------------+--------------------------------------------------------+
+  ----------------------------------------------------------------------------------------------------------
+  **Flat Type**  **Maximum number of bedrooms\* allowed for     **Maximum number of occupants allowed in
+                 subletting**                                   each flat**
+  -------------- ---------------------------------------------- --------------------------------------------
+  3-room         1                                              6
+
+  4-room         2                                              9
+
+  5-room         2                                              9
+
+  Executive      2                                              9
+  ----------------------------------------------------------------------------------------------------------
 
 \* The living room, household shelter and utility room cannot be
-sublet. [147]_
+sublet.[^34]
 
 **3. Tenancy / property ownership status**
 
 Subtenants must not be tenants/owners of other HDB flats except for:
 
--  Tenants/owners who are divorced/legally separated. Only one of the
-   divorced/legally separated parties may be a subtenant
-
--  Owners who are eligible to sublet their whole HDB flat. They must
-   sublet their own flat within one month after they have rented a
-   flat/bedroom from another flat owner, failing which, they must resume
-   occupation of their own flat
-
--  Subtenants must not be owners of Executive Condominium units where
-   the 5-year minimum occupation period has not been met
-
--  Subtenants must not be tourists
+-   Tenants/owners who are divorced/legally separated. Only one of the
+    divorced/legally separated parties may be a subtenant
+-   Owners who are eligible to sublet their whole HDB flat. They must
+    sublet their own flat within one month after they have rented a
+    flat/bedroom from another flat owner, failing which, they must
+    resume occupation of their own flat
+-   Subtenants must not be owners of Executive Condominium units where
+    the 5-year minimum occupation period has not been met
+-   Subtenants must not be tourists
 
 **4. Period of subletting**
 
@@ -1444,7 +1315,7 @@ your flat or when they renew the subletting tenancy.
 
 No approval from HDB is required. However, flat owners must register the
 subletting with HDB within 7 days from the commencement date of the
-subletting. You can register online at *MyHDBPage*. [148]_
+subletting. You can register online at *MyHDBPage*.[^35]
 
 **6. Flat owner’s responsibilities**
 
@@ -1459,17 +1330,14 @@ against the flat owners under the Housing & Development Act.
 As a flat owner subletting your bedroom, you will be responsible for
 making sure that:
 
--  The bedroom is sublet to eligible subtenants only.
-
--  There is no overcrowding and that the number of subtenants do not
-   exceed the maximum number allowed.
-
--  Your subtenants have entered and are remaining in Singapore lawfully
-   at all times while the subletting is in force.
-
--  Your subtenants comply with all the covenants in the lease and the
-   provisions of the Housing & Development Act and you are responsible
-   for all infringements, if any, committed by them.
+-   The bedroom is sublet to eligible subtenants only.
+-   There is no overcrowding and that the number of subtenants do not
+    exceed the maximum number allowed.
+-   Your subtenants have entered and are remaining in Singapore lawfully
+    at all times while the subletting is in force.
+-   Your subtenants comply with all the covenants in the lease and the
+    provisions of the Housing & Development Act and you are responsible
+    for all infringements, if any, committed by them.
 
 Owners are responsible for surrendering the flat to HDB in the event
 that the flat is re-possessed by the HDB.
@@ -1511,28 +1379,26 @@ subtenants on these matters. Hence, flat owners and subtenants are
 advised to read carefully and understand all the terms and conditions in
 the tenancy agreement before signing it.
 
-
 Commonly Asked Questions on Letting and Subletting
-------------------------------------------------------
+--------------------------------------------------
 
-**FOR LANDLORDS**
-~~~~~~~~~~~~~~~~~
+### **FOR LANDLORDS**
 
 **What are my rights as a landlord?**
 
 Your rights are provided in the Tenancy Agreement. This includes:
 
-a. Having rent paid on time.
+a.  Having rent paid on time.
 
-    b. Having repairs made and paid for where damage other than normal
-    wear-and-tear was caused by the tenant or their guests.
+    > b\. Having repairs made and paid for where damage other than normal
+    > wear-and-tear was caused by the tenant or their guests.
 
-c. Not having the property used for any purpose other than residential.
+b.  Not having the property used for any purpose other than residential.
 
-d. Allowing the landlord or the landlord’s agent to enter the premises
+d\. Allowing the landlord or the landlord’s agent to enter the premises
 for specific purposes, including inspection, repairs and maintenance.
 
-e. Returning the premises to the landlord in its original condition,
+e\. Returning the premises to the landlord in its original condition,
 which includes having all repairs done, walls repainted, curtains and
 appliances thoroughly cleaned, and any installations removed unless an
 agreement was made with the landlord for these to remain.
@@ -1561,8 +1427,7 @@ Act, in case of any infringement committed by the subtenants during the
 period of the subletting.
 
 **I would like to let someone else stay in my flat without collecting
-rent from them, while my family and I stay elsewhere. Is this
-allowed?**
+rent from them, while my family and I stay elsewhere. Is this allowed?**
 
 You, as flat owner, may allow your relatives/friends to stay in your
 flat temporarily. However, you and your family must continue to stay in
@@ -1599,7 +1464,8 @@ HDB flats are meant for owner-occupation. If you sublet your rooms (and
 not the entire flat) to subtenants, you and your family must continue to
 stay in the flat with the subtenants during the period of subletting.
 
-**Can Executive Condominium (EC) owners sublet rooms in their EC units?**
+**Can Executive Condominium (EC) owners sublet rooms in their EC
+units?**
 
 Yes.
 
@@ -1623,8 +1489,7 @@ Agreement depending on what is mutually agreed upon by both parties. The
 deposit should be refunded upon termination of the Agreement in under
 certain stipulated events.
 
-**FOR TENANTS AND SUB-TENANTS: GENERAL**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **FOR TENANTS AND SUB-TENANTS: GENERAL**
 
 **What are my rights as a tenant?**
 
@@ -1679,9 +1544,7 @@ You can do so by requesting the person you are dealing with to show you
 documentary evidence of flat ownership, such as:
 
 (a) Agreement for Lease
-
 (b) Service & Conservancy charges booklet
-
 (c) Annual or Loan instalment payment booklet / Annual Loan statements
 
 The name of the flat owner should be stated in the above documents.
@@ -1717,20 +1580,19 @@ consequence and have his deposit returned.
 **Contract Law Principles:** Where no such clauses exist, the principles
 of contract law apply.
 
-    **Material breach:** to be able to terminate a contract there must
-    be a “material breach” of contract causing damages which allows the
-    non-breaching party to terminate the Tenancy Agreement. There is no
-    strict definition of “material breach”, the courts considering the
-    circumstances of each case and consequences resulting from the
-    breach. As such a carefully drafted Tenancy Agreement specifying the
-    types of conduct that will constitute a “material breach” is
-    crucial.
-
-    **Minor breach:**\ Where the breach is a minora tenant may be
-    able to pursue damages at the Small Claims Tribunal, but it is
-    recommended that both parties try to negotiate first. A minor breach
-    does not excuse the tenant from fulfilling his/her contractual
-    duties (such as paying rent).
+> **Material breach:** to be able to terminate a contract there must be
+> a “material breach” of contract causing damages which allows the
+> non-breaching party to terminate the Tenancy Agreement. There is no
+> strict definition of “material breach”, the courts considering the
+> circumstances of each case and consequences resulting from the breach.
+> As such a carefully drafted Tenancy Agreement specifying the types of
+> conduct that will constitute a “material breach” is crucial.
+>
+> **Minor breach:**Where the breach is a minora tenant may be able to
+> pursue damages at the Small Claims Tribunal, but it is recommended
+> that both parties try to negotiate first. A minor breach does not
+> excuse the tenant from fulfilling his/her contractual duties (such as
+> paying rent).
 
 **Resolution of Contractual Issues:** You may consider legal arbitration
 or litigation in civil court to resolve this contractual issue.
@@ -1741,8 +1603,8 @@ passed and follow the settlement accordingly. If either of the parties
 does not agree for out-of-court settlements, then the breach of contract
 is made into a civil case.
 
-**The landlord and co-tenant have changed the locks on the unit I rent -
-what are my rights?**
+**The landlord and co-tenant have changed the locks on the unit I rent
+-what are my rights?**
 
 **Rights in the Tenancy Agreement:** You should check your Tenancy
 Agreement for the terms between the landlord and yourself. Subject to
@@ -1854,8 +1716,7 @@ common law implies the clause that there shall be no derogation from the
 grant. Barring any fault on your part, being forced to move out could be
 seen as an infringement of this condition.
 
-**FOR TENANTS AND SUBTENANTS: RECOVERING YOUR DEPOSIT**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **FOR TENANTS AND SUBTENANTS: RECOVERING YOUR DEPOSIT**
 
 **I paid a deposit for a room but have changed my mind. Can I recover my
 deposit in full or in part?**
@@ -1934,21 +1795,17 @@ deposit will be forfeited to the landlord. But as there are no standard
 terms relating to this, you should check your LOI for any specific
 terms. Careful drafting is thus important for the LOI.
 
-
 Recourse for Landlords, Enforcement Proceedings
----------------------------------------------------
+-----------------------------------------------
 
 If your tenant fails to pay rent, you have several options as landlord,
 including:
 
-1. A distress action
+1.  A distress action
+2.  An action to sue for arrears of rent
+3.  Forfeiture of the lease
 
-2. An action to sue for arrears of rent
-
-3. Forfeiture of the lease
-
-Distress Action [149]_
-~~~~~~~~~~~~~~~~~~~~~~
+### Distress Action[^36]
 
 A distress action allows the landlord to go into the premises to seize
 goods up to the value of the rents owed, in order to compel the tenant
@@ -1994,26 +1851,20 @@ The balance, if any, will be returned to the tenant.
 
 **NOTE: Property exempted from seizure**
 
-1. Things in actual use and in the hands of a person at the time of the
-   seizure.
+1.  Things in actual use and in the hands of a person at the time of the
+    seizure.
+2.  Tools and implements not in use where there is other movable
+    property in or upon the house or premises sufficient to cover such
+    amount and costs.
+3.  The tenant’s necessary wearing apparel and necessary bedding for
+    himself and his family.
+4.  Goods in the possession of the tenant for the purpose of being
+    carried, wrought, worked up, or otherwise dealt with in the course
+    of his ordinary trade or business.
+5.  Goods belonging to guests.
+6.  Goods in the custody of the law.
 
-2. Tools and implements not in use where there is other movable property
-   in or upon the house or premises sufficient to cover such amount and
-   costs.
-
-3. The tenant’s necessary wearing apparel and necessary bedding for
-   himself and his family.
-
-4. Goods in the possession of the tenant for the purpose of being
-   carried, wrought, worked up, or otherwise dealt with in the course of
-   his ordinary trade or business.
-
-5. Goods belonging to guests.
-
-6. Goods in the custody of the law.
-
-Suit For Arrears Of Rent
-~~~~~~~~~~~~~~~~~~~~~~~~
+### Suit For Arrears Of Rent
 
 Statutory Limitation: This action must be brought within **6 years** of
 the date when the arrars became due.
@@ -2024,20 +1875,17 @@ owed plus interest as the court thinks fit.
 
 **Process:**
 
-1. Legal proceedings are begun via a writ of summons.
+1.  Legal proceedings are begun via a writ of summons.
+2.  The tenant must then enter appearance by filing a Memorandum of
+    Appearance within 8 days of the date of service of the writ.
+    Otherwise, judgment may be entered against him in default of
+    appearance.
+3.  Thereafter, the tenant will have to file a Defence to the claim, if
+    any, within 14 days. If he does not, or if he has no Defence under
+    the law, the landlord may then apply for judgment to be entered
+    against him in default of Defence.
 
-2. The tenant must then enter appearance by filing a Memorandum of
-   Appearance within 8 days of the date of service of the writ.
-   Otherwise, judgment may be entered against him in default of
-   appearance.
-
-3. Thereafter, the tenant will have to file a Defence to the claim, if
-   any, within 14 days. If he does not, or if he has no Defence under
-   the law, the landlord may then apply for judgment to be entered
-   against him in default of Defence.
-
-Forfeiture Of Lease
-~~~~~~~~~~~~~~~~~~~
+### Forfeiture Of Lease
 
 The landlord may also apply for forfeiture of the lease, i.e.
 effectively bring the lease to an end. This is often an action for
@@ -2046,29 +1894,26 @@ for re-entry in the event of the tenant's failure to pay rent.
 
 **Process:**
 
-1. A landlord can obtain possession of the premises either by effecting
-   a peaceable entry or by process of law. This must be coupled with the
-   intention on the part of the landlord to exclude the tenant from
-   possession, hence the requirement for a formal demand. As it is
-   unlikely that the tenant will calmly submit, it is more common to
-   instruct a solicitor to issue a writ of summons for possession.
-
-2. The landlord may institute legal proceedings for taking possession.
-   The action should be brought before the District Court where the
-   annual value of the property does not exceed $250,000 or the rent
-   payable by the tenant does not exceed $250,000 a year or $20,800 a
-   month. Otherwise, the action should be brought in the High Court.
-
-3. However, the tenant may apply to court before judgment for relief
-   from forfeiture by paying into court all the arrears of rent and
-   costs, in which case the tenant would be able to continue with the
-   lease and not have to enter into a newone.
-
-4. Even after judgment for possession, the tenant is still entitled to
-   relief if he pays up the judgment sum with costs within 4 weeks of
-   the judgment. The law is not explicit about whether relief is still
-   available to the tenant where the landlord has entered into
-   possession peaceably and changed the locks.
+1.  A landlord can obtain possession of the premises either by effecting
+    a peaceable entry or by process of law. This must be coupled with
+    the intention on the part of the landlord to exclude the tenant from
+    possession, hence the requirement for a formal demand. As it is
+    unlikely that the tenant will calmly submit, it is more common to
+    instruct a solicitor to issue a writ of summons for possession.
+2.  The landlord may institute legal proceedings for taking possession.
+    The action should be brought before the District Court where the
+    annual value of the property does not exceed \$250,000 or the rent
+    payable by the tenant does not exceed \$250,000 a year or \$20,800 a
+    month. Otherwise, the action should be brought in the High Court.
+3.  However, the tenant may apply to court before judgment for relief
+    from forfeiture by paying into court all the arrears of rent and
+    costs, in which case the tenant would be able to continue with the
+    lease and not have to enter into a newone.
+4.  Even after judgment for possession, the tenant is still entitled to
+    relief if he pays up the judgment sum with costs within 4 weeks of
+    the judgment. The law is not explicit about whether relief is still
+    available to the tenant where the landlord has entered into
+    possession peaceably and changed the locks.
 
 **Restrictions on forfeiture of lease**
 
@@ -2089,12 +1934,10 @@ landlord has an implied power to re-enter and thereby terminate the
 tenancy if rent is in arrears for 30 days, even though no formal demand
 is made.
 
-
 Commonly Asked Questions on Enforcement Proceedings
--------------------------------------------------------
+---------------------------------------------------
 
-**QUESTIONS FROM THE LANDLORD**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **QUESTIONS FROM THE LANDLORD**
 
 **I terminated a rental agreement with the lodger/tenant for failure to
 pay rent. Some of his belongings still remain at rental property. Can I
@@ -2112,32 +1955,27 @@ be returned to the tenant.
 one at home?**
 
 Yes, the Sheriff is empowered to break any door or window to enter a
-property while enforcing his duties. [150]_
+property while enforcing his duties.[^37]
 
-**QUESTIONS FROM THE TENANT**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **QUESTIONS FROM THE TENANT**
 
 **My landlord is trying to evict me. What are my rights?**
 
 You may apply to a judge to discharge or suspend the execution of the
 writ, or to release any part of the property seized. The judge may, on
 an application for the release of any property through one of the
-following ways: [151]_
+following ways:[^38]
 
--  Deal with the matter summarily and dismiss the application or
-   discharge the writ
-
--  Order the release unconditionally or on such terms as he thinks fit
-   of any property seized
-
--  Direct an issue to be tried and, pending the determination of such
-   issue, suspend the execution of the writ
-
--  Order the property to be sold and the proceeds of sale to be lodged
-   in court
-
--  Make such other order on such terms as he considers fair as between
-   the parties pending the final determination of the matter
+-   Deal with the matter summarily and dismiss the application or
+    discharge the writ
+-   Order the release unconditionally or on such terms as he thinks fit
+    of any property seized
+-   Direct an issue to be tried and, pending the determination of such
+    issue, suspend the execution of the writ
+-   Order the property to be sold and the proceeds of sale to be lodged
+    in court
+-   Make such other order on such terms as he considers fair as between
+    the parties pending the final determination of the matter
 
 **Can creditors seize my property located overseas?**
 
@@ -2169,15 +2007,15 @@ Sheriff?**
 Yes, items seized by the Sheriff will be auctioned at the place of
 seizure during a Sheriff' s sale. The notice of sale is available on the
 Supreme Court’s website as well as the place of seizure. However, if the
-value of the goods exceeds S$2,000.00, an advertisement will be
+value of the goods exceeds S\$2,000.00, an advertisement will be
 published in the Straits Times. All payments for goods purchased must be
-in cash only. [152]_
+in cash only.[^39]
 
 **How can I find out whether there are any goods to be auctioned
 off/sold by the Sheriff?**
 
 Notices of sale will be posted on the Supreme Court’s website and in the
-Straits Times. [153]_
+Straits Times.[^40]
 
 **What happens if my mortgage isn't paid?**
 
@@ -2194,14 +2032,12 @@ transportation) incurred by your tenants.
 property?**
 
 Yes, because the Sheriff is acting according to the orders of the Court.
-However, tenants are given some time to move out from the
-property. [154]_
+However, tenants are given some time to move out from the property.[^41]
 
 HDB Flats & Related Issues
--------------------------------
+--------------------------
 
-Owning A HDB Flat
-~~~~~~~~~~~~~~~~~
+### Owning A HDB Flat
 
 **1. Regulations governing ownership**
 
@@ -2226,7 +2062,7 @@ can also apply to change the shares of flat ownership they are holding.
 The total shares of flat ownership must be in fractions and must add up
 to one whole.
 
-**3. Inclusion and deletion of occupiers**\  [155]_
+**3. Inclusion and deletion of occupiers**[^42]
 
 After the purchase of the flat, flat owners can apply to include their
 family members or immediate relatives as occupiers of the flat. The
@@ -2237,79 +2073,148 @@ the following tables:
 from HDB, resale flats bought with the CPF Housing Grant, and Design,
 Build and Sell Scheme (DBSS) flats purchased directly from developers)*
 
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Eligibility criteria**                   | **Subsidised flats**                                                                                                                                                                                                                       |
-+============================================+============================================================================================================================================================================================================================================+
-| Relationship of occupiers to flat owners   | Proposed occupiers must be related to the flat owner. They can be the following persons:                                                                                                                                                   |
-|                                            |                                                                                                                                                                                                                                            |
-|                                            | (a) spouse                                                                                                                                                                                                                                 |
-|                                            |                                                                                                                                                                                                                                            |
-|                                            | (b) children/adopted children                                                                                                                                                                                                              |
-|                                            |                                                                                                                                                                                                                                            |
-|                                            | (c) parents/parents-in-law                                                                                                                                                                                                                 |
-|                                            |                                                                                                                                                                                                                                            |
-|                                            | (d) brothers/sisters                                                                                                                                                                                                                       |
-|                                            |                                                                                                                                                                                                                                            |
-|                                            | (e) other blood relatives                                                                                                                                                                                                                  |
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Citizenship of occupiers                   | Proposed occupiers in above categories (a) to (e) can be Singapore Citizens, Permanent Residents (PRs) or non-citizens. Where all the flat owners are PRs, the proposed occupiers must have obtained the PR status for at least 3 years.   |
-|                                            |                                                                                                                                                                                                                                            |
-|                                            | Proposed occupiers in categories (d) and (e) who are non-citizens must hold long-term social visit passes for at least six months.                                                                                                         |
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Income of occupiers                        | For flat owners who have not completed the required minimum occupation period (“MOP”) for their flat:                                                                                                                                      |
-|                                            |                                                                                                                                                                                                                                            |
-|                                            | -  If the proposed occupiers are spouses, parents or grandparents, their incomes need not be assessed.                                                                                                                                     |
-|                                            |                                                                                                                                                                                                                                            |
-|                                            | -  Proposed occupiers who are children, adopted children, brothers, sisters and other blood relatives need to have their income assessed.                                                                                                  |
-|                                            |                                                                                                                                                                                                                                            |
-|                                            | -  Income of proposed occupiers together with the rest of the family's income must not exceed the income ceiling stipulated for the purchase of a flat direct from HDB.                                                                    |
-|                                            |                                                                                                                                                                                                                                            |
-|                                            | For flat owners who have completed the required MOP, the income of proposed occupiers need not be assessed.                                                                                                                                |
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Occupiers’ ownership of private property   | For flat owners who have not completed the required MOP for their flat:                                                                                                                                                                    |
-|                                            |                                                                                                                                                                                                                                            |
-|                                            | -  Proposed occupiers must not have an interest in any private property.                                                                                                                                                                   |
-|                                            |                                                                                                                                                                                                                                            |
-|                                            | -  Proposed occupiers can however be ex-owners of private property (including HUDC Phase 1 and 2 flats and pre-war flats).                                                                                                                 |
-|                                            |                                                                                                                                                                                                                                            |
-|                                            | For households consisting of at least one Citizen owner and that have completed the required MOP, the proposed occupiers can be the owners of private property, for investment purposes.                                                   |
-|                                            |                                                                                                                                                                                                                                            |
-|                                            | For PR households (i.e. households without any Singapore Citizen owner) and that have completed the required MOP, the proposed occupiers must not have an interest in any local private residential property.                              |
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++----------+-----------------------------------------------------------+
+| **Eligib | **Subsidised flats**                                      |
+| ility    |                                                           |
+| criteria |                                                           |
+| **       |                                                           |
++==========+===========================================================+
+| Relation | Proposed occupiers must be related to the flat owner.     |
+| ship     | They can be the following persons:                        |
+| of       |                                                           |
+| occupier | (a) spouse                                                |
+| s        | (b) children/adopted children                             |
+| to flat  | (c) parents/parents-in-law                                |
+| owners   | (d) brothers/sisters                                      |
+|          | (e) other blood relatives                                 |
++----------+-----------------------------------------------------------+
+| Citizens | Proposed occupiers in above categories (a) to (e) can be  |
+| hip      | Singapore Citizens, Permanent Residents (PRs) or          |
+| of       | non-citizens. Where all the flat owners are PRs, the      |
+| occupier | proposed occupiers must have obtained the PR status for   |
+| s        | at least 3 years.                                         |
+|          |                                                           |
+|          | Proposed occupiers in categories (d) and (e) who are      |
+|          | non-citizens must hold long-term social visit passes for  |
+|          | at least six months.                                      |
++----------+-----------------------------------------------------------+
+| Income   | For flat owners who have not completed the required       |
+| of       | minimum occupation period (“MOP”) for their flat:         |
+| occupier |                                                           |
+| s        | -   If the proposed occupiers are spouses, parents or     |
+|          |     grandparents, their incomes need not be assessed.     |
+|          | -   Proposed occupiers who are children, adopted          |
+|          |     children, brothers, sisters and other blood relatives |
+|          |     need to have their income assessed.                   |
+|          | -   Income of proposed occupiers together with the rest   |
+|          |     of the family's income must not exceed the income     |
+|          |     ceiling stipulated for the purchase of a flat direct  |
+|          |     from HDB.                                             |
+|          |                                                           |
+|          | For flat owners who have completed the required MOP, the  |
+|          | income of proposed occupiers need not be assessed.        |
++----------+-----------------------------------------------------------+
+| Occupier | For flat owners who have not completed the required MOP   |
+| s’       | for their flat:                                           |
+| ownershi |                                                           |
+| p        | -   Proposed occupiers must not have an interest in any   |
+| of       |     private property.                                     |
+| private  | -   Proposed occupiers can however be ex-owners of        |
+| property |     private property (including HUDC Phase 1 and 2 flats  |
+|          |     and pre-war flats).                                   |
+|          |                                                           |
+|          | For households consisting of at least one Citizen owner   |
+|          | and that have completed the required MOP, the proposed    |
+|          | occupiers can be the owners of private property, for      |
+|          | investment purposes.                                      |
+|          |                                                           |
+|          | For PR households (i.e. households without any Singapore  |
+|          | Citizen owner) and that have completed the required MOP,  |
+|          | the proposed occupiers must not have an interest in any   |
+|          | local private residential property.                       |
++----------+-----------------------------------------------------------+
 
-*Eligibility criteria for non-subsidised flats, which include resale flats bought without the CPF Housing Grant:*
+*Eligibility criteria for non-subsidised flats, which include resale
+flats bought without the CPF Housing Grant:*
 
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Eligibility criteria**                   | **Non-subsidised flats for resale applications submitted before 30 Aug 2010**                                                                                                                                                              | **Non-subsidised flats for resale applications submitted on or after 30 Aug 2010**                                                                                                                    |
-+============================================+============================================================================================================================================================================================================================================+=======================================================================================================================================================================================================+
-| Relationship of occupiers to flat owners   | Proposed occupiers must be related to the flat owner. They can be the following persons:                                                                                                                                                   |                                                                                                                                                                                                       |
-|                                            |                                                                                                                                                                                                                                            |                                                                                                                                                                                                       |
-|                                            | (a) spouse                                                                                                                                                                                                                                 |                                                                                                                                                                                                       |
-|                                            |                                                                                                                                                                                                                                            |                                                                                                                                                                                                       |
-|                                            | (b) children/adopted children                                                                                                                                                                                                              |                                                                                                                                                                                                       |
-|                                            |                                                                                                                                                                                                                                            |                                                                                                                                                                                                       |
-|                                            | (c) parents/parents-in-law                                                                                                                                                                                                                 |                                                                                                                                                                                                       |
-|                                            |                                                                                                                                                                                                                                            |                                                                                                                                                                                                       |
-|                                            | (d) brothers/sisters                                                                                                                                                                                                                       |                                                                                                                                                                                                       |
-|                                            |                                                                                                                                                                                                                                            |                                                                                                                                                                                                       |
-|                                            | (e) other blood relatives                                                                                                                                                                                                                  |                                                                                                                                                                                                       |
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Citizenship of occupiers                   | Proposed occupiers in above categories (a) to (e) can be Singapore Citizens, Permanent Residents (PRs) or non-citizens. Where all the flat owners are PRs, the proposed occupiers must have obtained the PR status for at least 3 years.   |                                                                                                                                                                                                       |
-|                                            |                                                                                                                                                                                                                                            |                                                                                                                                                                                                       |
-|                                            | Proposed occupiers in categories (d) and (e) who are non-citizens must hold long-term social visit passes for at least six months.                                                                                                         |                                                                                                                                                                                                       |
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Income of occupiers                        | Income of proposed occupiers need not be assessed.                                                                                                                                                                                         |                                                                                                                                                                                                       |
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Occupiers’ ownership of private property   | For households consisting of at least one Citizen owner, the proposed occupiers can be the owners of private property, for investment purposes.                                                                                            | For flat owners who have not completed the required MOP for their flat:                                                                                                                               |
-|                                            |                                                                                                                                                                                                                                            |                                                                                                                                                                                                       |
-|                                            | For PR households (i.e. households without any Citizen owner), the proposed occupiers must not have an interest in any local private residential property.                                                                                 | -  Proposed occupiers must not have an interest in any private property.                                                                                                                              |
-|                                            |                                                                                                                                                                                                                                            |                                                                                                                                                                                                       |
-|                                            |                                                                                                                                                                                                                                            | -  Proposed occupiers can however be ex-owners of private property.                                                                                                                                   |
-|                                            |                                                                                                                                                                                                                                            |                                                                                                                                                                                                       |
-|                                            |                                                                                                                                                                                                                                            | For households consisting of at least one Citizen owner and that have completed the required MOP, the proposed occupiers can be the owners of private property, for investment purposes.              |
-|                                            |                                                                                                                                                                                                                                            |                                                                                                                                                                                                       |
-|                                            |                                                                                                                                                                                                                                            | For PR households (i.e. households without any Citizen owner) and that have completed the required MOP, the proposed occupiers must not have an interest in any local private residential property.   |
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-----+----------------------------------+----------------------------+
+| **E | **Non-subsidised flats for       | **Non-subsidised flats for |
+| lig | resale applications submitted    | resale applications        |
+| ibi | before 30 Aug 2010**             | submitted on or after 30   |
+| lit |                                  | Aug 2010**                 |
+| y   |                                  |                            |
+| cri |                                  |                            |
+| ter |                                  |                            |
+| ia* |                                  |                            |
+| *   |                                  |                            |
++=====+==================================+============================+
+| Rel | Proposed occupiers must be       |                            |
+| ati | related to the flat owner. They  |                            |
+| ons | can be the following persons:    |                            |
+| hip |                                  |                            |
+| of  | (a) spouse                       |                            |
+| occ | (b) children/adopted children    |                            |
+| upi | (c) parents/parents-in-law       |                            |
+| ers | (d) brothers/sisters             |                            |
+| to  | (e) other blood relatives        |                            |
+| fla |                                  |                            |
+| t   |                                  |                            |
+| own |                                  |                            |
+| ers |                                  |                            |
++-----+----------------------------------+----------------------------+
+| Cit | Proposed occupiers in above      |                            |
+| ize | categories (a) to (e) can be     |                            |
+| nsh | Singapore Citizens, Permanent    |                            |
+| ip  | Residents (PRs) or non-citizens. |                            |
+| of  | Where all the flat owners are    |                            |
+| occ | PRs, the proposed occupiers must |                            |
+| upi | have obtained the PR status for  |                            |
+| ers | at least 3 years.                |                            |
+|     |                                  |                            |
+|     | Proposed occupiers in categories |                            |
+|     | (d) and (e) who are non-citizens |                            |
+|     | must hold long-term social visit |                            |
+|     | passes for at least six months.  |                            |
++-----+----------------------------------+----------------------------+
+| Inc | Income of proposed occupiers     |                            |
+| ome | need not be assessed.            |                            |
+| of  |                                  |                            |
+| occ |                                  |                            |
+| upi |                                  |                            |
+| ers |                                  |                            |
++-----+----------------------------------+----------------------------+
+| Occ | For households consisting of at  | For flat owners who have   |
+| upi | least one Citizen owner, the     | not completed the required |
+| ers | proposed occupiers can be the    | MOP for their flat:        |
+| ’   | owners of private property, for  |                            |
+| own | investment purposes.             | -   Proposed occupiers     |
+| ers |                                  |     must not have an       |
+| hip | For PR households (i.e.          |     interest in any        |
+| of  | households without any Citizen   |     private property.      |
+| pri | owner), the proposed occupiers   | -   Proposed occupiers can |
+| vat | must not have an interest in any |     however be ex-owners   |
+| e   | local private residential        |     of private property.   |
+| pro | property.                        |                            |
+| per |                                  | For households consisting  |
+| ty  |                                  | of at least one Citizen    |
+|     |                                  | owner and that have        |
+|     |                                  | completed the required     |
+|     |                                  | MOP, the proposed          |
+|     |                                  | occupiers can be the       |
+|     |                                  | owners of private          |
+|     |                                  | property, for investment   |
+|     |                                  | purposes.                  |
+|     |                                  |                            |
+|     |                                  | For PR households (i.e.    |
+|     |                                  | households without any     |
+|     |                                  | Citizen owner) and that    |
+|     |                                  | have completed the         |
+|     |                                  | required MOP, the proposed |
+|     |                                  | occupiers must not have an |
+|     |                                  | interest in any local      |
+|     |                                  | private residential        |
+|     |                                  | property.                  |
++-----+----------------------------------+----------------------------+
 
 Flat owners may delete the names of the existing occupiers, as long as
 the deletion does not make the flat owners ineligible to retain the
@@ -2317,8 +2222,7 @@ flat.
 
 You are advised to contact HDB if you require more information.
 
-Retention & Transfer Of Flat Ownership
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Retention & Transfer Of Flat Ownership
 
 Existing flat owners may transfer the ownership of their flat to other
 family members or apply to retain the flat due to changes to the family
@@ -2326,12 +2230,10 @@ structure, e.g. marriage, divorce or death of co-owner(s) or
 occupier(s), subject to HDB’s eligibility rules and conditions to own a
 flat.
 
-
 Commonly Asked Questions on Retention & Transfer of Ownership of HDB Flat
------------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
-**TRANSFER OF OWNERSHIP**
-~~~~~~~~~~~~~~~~~~~~~~~~~
+### **TRANSFER OF OWNERSHIP**
 
 **Can I relinquish ownership of my HDB flat?**
 
@@ -2399,9 +2301,8 @@ between family members (but not between for married couples). This
 involves a change in flat ownership by way of a partial sale/purchase
 between flat members at a mutually agreed price.
 
-
 Purchasing & Investing in Private Properties
-------------------------------------------------
+--------------------------------------------
 
 HDB flat owners and occupiers of the following sold flats are allowed to
 purchase private residential property (both local and overseas) if the
@@ -2411,23 +2312,46 @@ their flat.
 There is no limit on the number of private properties that a flat owner
 or occupier can purchase, and the private residential properties can
 still be under construction or ready for possession. However, flat
-owners must meet certain eligibility conditions: [156]_
+owners must meet certain eligibility conditions:[^43]
 
-+--------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Types of HDB-sold flats**                                                                                        | **Eligibility conditions**                                                                                                                                                                                                                   |
-+====================================================================================================================+==============================================================================================================================================================================================================================================+
-| Flats bought directly from HDB                                                                                     | The flat owners must satisfy the MOP for their flats before acquiring private residential property. Periods of non-occupation such as subletting of whole flat or any infringement of the lease of the flat will be excluded from the MOP.   |
-+--------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Resale flats purchased with CPF Housing Grant                                                                      |                                                                                                                                                                                                                                              |
-+--------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Design, Build and Sell Scheme (DBSS) flats purchased directly from the developer                                   |                                                                                                                                                                                                                                              |
-+--------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Replacement flats bought directly from HDB under the Selective En-Bloc Redevelopment Scheme (SERS)                 |                                                                                                                                                                                                                                              |
-+--------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Resale flats purchased without the CPF Housing Grant (for resale applications submitted on or after 30 Aug 2010)   |                                                                                                                                                                                                                                              |
-+--------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Resale flats purchased without CPF Housing Grant (for resale applications submitted before 30 Aug 2010)            | There is no need to satisfy the MOP before acquiring private residential property.                                                                                                                                                           |
-+--------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+  ------------------------------------------------------------------------
+  **Types of HDB-sold     **Eligibility conditions**
+  flats**                 
+  ----------------------- ------------------------------------------------
+  Flats bought directly   The flat owners must satisfy the MOP for their
+  from HDB                flats before acquiring private residential
+                          property. Periods of non-occupation such as
+                          subletting of whole flat or any infringement of
+                          the lease of the flat will be excluded from the
+                          MOP.
+
+  Resale flats purchased  
+  with CPF Housing Grant  
+
+  Design, Build and Sell  
+  Scheme (DBSS) flats     
+  purchased directly from 
+  the developer           
+
+  Replacement flats       
+  bought directly from    
+  HDB under the Selective 
+  En-Bloc Redevelopment   
+  Scheme (SERS)           
+
+  Resale flats purchased  
+  without the CPF Housing 
+  Grant (for resale       
+  applications submitted  
+  on or after 30 Aug      
+  2010)                   
+
+  Resale flats purchased  There is no need to satisfy the MOP before
+  without CPF Housing     acquiring private residential property.
+  Grant (for resale       
+  applications submitted  
+  before 30 Aug 2010)     
+  ------------------------------------------------------------------------
 
 Singapore Permanent Resident flat owners and/or essential family members
 who have met the MOP for their flat are required to notify HDB of their
@@ -2440,9 +2364,7 @@ Singapore Citizen flat owners and occupiers must continue to stay in
 their HDB flat after the purchase of the private residential property
 unless prior approval from HDB is obtained to sublet the whole flat.
 
-
-Common Asked Questions On Purchasing & Investing In Private Properties
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Common Asked Questions On Purchasing & Investing In Private Properties
 
 **I have bought a private residential property. Can I sublet my HDB flat
 and live in my private property?**
@@ -2468,11 +2390,9 @@ the types of private properties I can invest in?**
 
 If you have not fulfilled the MOP, you can only invest in:
 
--  Pure commercial properties
-
--  Pure industry properties
-
--  Vacant land not zoned for residential development
+-   Pure commercial properties
+-   Pure industry properties
+-   Vacant land not zoned for residential development
 
 You cannot invest in any type of property that is classified as
 residential or has residential accommodation.
@@ -2526,10 +2446,9 @@ and your intended buyer is an undischarged bankrupt, make sure that your
 buyer has obtained a letter of consent from the OA for the purchase.
 
 You are advised to refer to the Insolvency & Public Trustee’s Office’s
-website [157]_ for more information.
+website[^44] for more information.
 
-Commonly Asked Questions On Bankruptcy And Sale Of Property
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Commonly Asked Questions On Bankruptcy And Sale Of Property
 
 **My wife and I are co-owners of a HDB flat and we intend to sell our
 flat in the open market. If I am an undischarged bankrupt but my wife is
@@ -2558,7 +2477,7 @@ bankrupt flat owners who belong to Singapore Citizen households.
 Bankrupt flat owners of Singapore Permanent Resident Households must get
 the OA’s consent before they can sell their flat. The letter of consent
 must be obtained from the OA before the owners grant an Option to
-Purchase to the prospective buyers. [158]_
+Purchase to the prospective buyers.[^45]
 
 Appealing a HDB Decision
 
@@ -2573,8 +2492,7 @@ legality of HDB’s decision.
 Maintenance, Repairs, Leakages & Disputes in Strata Management Title
 --------------------------------------------------------------------
 
-Maintenance Of Exterior Features
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Maintenance Of Exterior Features
 
 Section 9(1) of the **Building Maintenance and Strata Management Act**
 (Cap. 30C) makes it an offense for a person to fail to maintain a
@@ -2586,33 +2504,29 @@ The person responsible for maintenance of exterior features of the
 building is generally the **owner of the premises or building** which
 the exterior feature is on, or such other person who has charge and
 control of the management and maintenance of the exterior feature,
-unless: [159]_
+unless:[^46]
 
--  The exterior feature is part of any common property of any HDB
-   housing estate, in which case the responsible person is the Town
-   Council established under the Town Councils Act (Cap. 329A) for that
-   housing estate or the contractor (if any) engaged by the Town Council
-   and who has charge and control of the management and maintenance of
-   the common property.
+-   The exterior feature is part of any common property of any HDB
+    housing estate, in which case the responsible person is the Town
+    Council established under the Town Councils Act (Cap. 329A) for that
+    housing estate or the contractor (if any) engaged by the Town
+    Council and who has charge and control of the management and
+    maintenance of the common property.
+-   The exterior feature is part of any common property or limited
+    common property of any other land (whether or not comprised in a
+    strata title plan), in which case the responsible person is the
+    owner thereof or the managing agent (if any) appointed by the owner
+    and who has charge and control of the management and maintenance of
+    the common property or limited common property.
+-   The exterior feature is a window, grille or shutter that is part of
+    a flat, the responsible person is the owner of that flat or other
+    person who ordinarily has daily charge and control over the
+    maintenance and use of such window, grille or shutter
+-   Someone else has been prescribed as the person responsible for the
+    exterior feature (such a provision shall be determinative even if
+    one of the above conditions applies).
 
--  The exterior feature is part of any common property or limited common
-   property of any other land (whether or not comprised in a strata
-   title plan), in which case the responsible person is the owner
-   thereof or the managing agent (if any) appointed by the owner and who
-   has charge and control of the management and maintenance of the
-   common property or limited common property.
-
--  The exterior feature is a window, grille or shutter that is part of a
-   flat, the responsible person is the owner of that flat or other
-   person who ordinarily has daily charge and control over the
-   maintenance and use of such window, grille or shutter
-
--  Someone else has been prescribed as the person responsible for the
-   exterior feature (such a provision shall be determinative even if one
-   of the above conditions applies).
-
-HDB Flats
-~~~~~~~~~
+### HDB Flats
 
 **(a) Ceiling leaks**
 
@@ -2620,16 +2534,14 @@ When ceiling leaks occur, you should contact the HDB. HDB will send
 someone to investigate the cause of the leak. To establish the cause,
 HDB will need to enter your flat and the flat above yours.
 
-    According to your Lease Agreement with HDB, you and the owner of the
-    flat above are responsible for repairing the leak if the leak is
-    caused by wear and tear of the waterproof membrane/screed in the
-    floor slab. Both parties will need to:
+> According to your Lease Agreement with HDB, you and the owner of the
+> flat above are responsible for repairing the leak if the leak is
+> caused by wear and tear of the waterproof membrane/screed in the floor
+> slab. Both parties will need to:
 
--  Jointly engage an experienced contractor to fix the leak
-
--  Allow the contractor to enter your homes to repair the leak
-
--  Share the cost of repairs equally
+-   Jointly engage an experienced contractor to fix the leak
+-   Allow the contractor to enter your homes to repair the leak
+-   Share the cost of repairs equally
 
 You can contact HDB for a list of qualified contractors.
 
@@ -2654,7 +2566,7 @@ upper floor unit unless the owner can prove otherwise. Therefore, the
 owner of the upper floor unit cannot claim that the leak has not
 originated from a defect in his unit. He has to jointly investigate the
 cause with his lower-floor neighbour and proceed with any repairs
-required. [160]_
+required.[^47]
 
 **What maintenance is the developer/management corporation of my
 condominium responsible for?**
@@ -2664,14 +2576,12 @@ Management Act (Cap. 30C), the developer must establish a maintenance
 fund to be used for day-to-day management and maintenance purposes, such
 as:
 
--  Paying for cleaning and security services [161]_
-
--  Maintaining, repairing and renewing certain fixtures and fittings
-   (including lifts) [162]_
-
--  Maintaining, repairing and renewing sewers, pipes, wires, cables and
-   ducts that can be used between 2 or more units or the common property
-   of the development [163]_
+-   Paying for cleaning and security services[^48]
+-   Maintaining, repairing and renewing certain fixtures and fittings
+    (including lifts)[^49]
+-   Maintaining, repairing and renewing sewers, pipes, wires, cables and
+    ducts that can be used between 2 or more units or the common
+    property of the development[^50]
 
 Purchasers contribute to the maintenance fund by monthly charges.
 
@@ -2679,7 +2589,7 @@ The developer/management corporation must also establish a “sinking
 fund” to provide for future capital needs, such as large-scale
 maintenance and improvements (e.g. painting of the common property,
 acquiring movable property, and renewing or replacing any fixtures on
-the common property). [164]_
+the common property).[^51]
 
 **The air conditioning in my newly-rented HDB flat is broken and the
 landlord refuses to fix it; can I make a claim against my landlord or
@@ -2758,97 +2668,93 @@ every matter with respect to which it has jurisdiction.
 
 **(a) Strata Titles Boards**
 
-    The STB is a statutory body that is made up of a panel of members
-    who are lawyers and experienced practitioners in the building
-    industry. A board is constituted to hear each dispute. The decisions
-    of the STB are final. After such a decision, an appeal can only be
-    made to the High Court on a question of law.
+> The STB is a statutory body that is made up of a panel of members who
+> are lawyers and experienced practitioners in the building industry. A
+> board is constituted to hear each dispute. The decisions of the STB
+> are final. After such a decision, an appeal can only be made to the
+> High Court on a question of law.
+>
+> **(b) Types of disputes or orders requested**
+>
+> Not all disputes can be referred to the STB. Only disputes listed in
+> the Building Maintenance and Strata Management Act can be heard by the
+> STB, including settling dispute on costs or repairs, or rectifying a
+> complaint in respect of a defect in a lot, a subdivided building and
+> the common property.
+>
+> For matters that are outside the jurisdiction of the STB, the
+> disputing parties can seek resolution from the courts.
+>
+> You should consult the STB website[^52] and the Act for the different
+> types of orders you may apply for, and the parties who are entitled to
+> apply for each type of order.
 
-    **(b) Types of disputes or orders requested**
+**(c) Application procedure**[^53]
 
-    Not all disputes can be referred to the STB. Only disputes listed in
-    the Building Maintenance and Strata Management Act can be heard by
-    the STB, including settling dispute on costs or repairs, or
-    rectifying a complaint in respect of a defect in a lot, a subdivided
-    building and the common property.
-
-    For matters that are outside the jurisdiction of the STB, the
-    disputing parties can seek resolution from the courts.
-
-    You should consult the STB website [165]_ and the Act for the
-    different types of orders you may apply for, and the parties who are
-    entitled to apply for each type of order.
-
-**(c) Application procedure**\  [166]_
-
-    You may make the application yourself and represent yourself, or you
-    may engage a lawyer or ask someone (whom the Board must allow) to
-    represent you. If you do not intend to engage a lawyer, you may
-    nonetheless want to at least obtain legal advice first and consult
-    the STB website [167]_ so that you proceed under the correct section
-    and use the correct form.
-
-    To apply, you will need to lodge with the Registrar of the
-    appropriate form and 4 copies thereof, together with the fee of
-    $500. The approved forms can be downloaded from the STB
-    website [168]_ or obtained from the URA Centre.
-
-    After submitting the application, the applicant must serve a copy of
-    the application on the respondent(s).
+> You may make the application yourself and represent yourself, or you
+> may engage a lawyer or ask someone (whom the Board must allow) to
+> represent you. If you do not intend to engage a lawyer, you may
+> nonetheless want to at least obtain legal advice first and consult the
+> STB website[^54] so that you proceed under the correct section and use
+> the correct form.
+>
+> To apply, you will need to lodge with the Registrar of the appropriate
+> form and 4 copies thereof, together with the fee of \$500. The
+> approved forms can be downloaded from the STB website[^55] or obtained
+> from the URA Centre.
+>
+> After submitting the application, the applicant must serve a copy of
+> the application on the respondent(s).
 
 **(d) Documents to file with your application**
 
-    When you file your application, you need only hand in the
-    application fee, the original and 4 copies of the prescribed form
-    together with such supportive documents as required. If your
-    application is in order, the Registrar will issue directions to all
-    relevant parties to proceed with the mediation and/or determination
-    of the dispute or matter expeditiously.
+> When you file your application, you need only hand in the application
+> fee, the original and 4 copies of the prescribed form together with
+> such supportive documents as required. If your application is in
+> order, the Registrar will issue directions to all relevant parties to
+> proceed with the mediation and/or determination of the dispute or
+> matter expeditiously.
 
 **(e) Timeline**
 
-    Normally, a case will be heard within 4 to 6 weeks and has to be
-    concluded within 6 months, unless the Minister approves an
-    extension. Much depends on how prepared you are when you submit your
-    application. For example, if you apply for an order that a neighbour
-    on the upper floor carry out repairs to stop water leaking into your
-    apartment, you may need a surveyor or other expert to visit the
-    premises and give an opinion on the cause of and steps to be taken
-    to rectify the problem. You may also need to have a contractor's
-    quotation ready to assist the panel in gauging how much it will cost
-    you to repair the damage to your apartment caused by the leakage. If
-    you are ready with this information, the Board will be able to hear
-    your case earlier.
-
+> Normally, a case will be heard within 4 to 6 weeks and has to be
+> concluded within 6 months, unless the Minister approves an extension.
+> Much depends on how prepared you are when you submit your application.
+> For example, if you apply for an order that a neighbour on the upper
+> floor carry out repairs to stop water leaking into your apartment, you
+> may need a surveyor or other expert to visit the premises and give an
+> opinion on the cause of and steps to be taken to rectify the problem.
+> You may also need to have a contractor's quotation ready to assist the
+> panel in gauging how much it will cost you to repair the damage to
+> your apartment caused by the leakage. If you are ready with this
+> information, the Board will be able to hear your case earlier.
 
 En-Bloc Sale
-----------------
+------------
 
 A collective sale (or more commonly termed en-bloc sale) is a combined
 sale by the owners of 2 or more property units to a common
-purchaser. [169]_
+purchaser.[^56]
 
 The most common en-bloc sale is the sale of all the units in a strata or
 flatted development to a purchaser. The sale proceeds are then divided
-amongst all the unit owners. [170]_ Other variations of en-bloc sales
+amongst all the unit owners.[^57] Other variations of en-bloc sales
 include the sale of all units in a development together with an
-adjoining development or landed properties. [171]_
+adjoining development or landed properties.[^58]
 
-Considerations In An En-Bloc Sale
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Considerations In An En-Bloc Sale
 
-**1. Consent of a specified majority**\  [172]_
+**1. Consent of a specified majority**[^59]
 
 An en-bloc sale of all the units in a strata or flatted development can
 take place only if there is agreement by both:
 
--  A specified majority (based on share value, share in land or notional
-   share) of the unit owners.
+-   A specified majority (based on share value, share in land or
+    notional share) of the unit owners.
+-   A specified majority of the total area of all the lots in a strata
+    or flatted development.
 
--  A specified majority of the total area of all the lots in a strata or
-   flatted development.
-
-**Specified majority**\  [173]_
+**Specified majority**[^60]
 
 **If a development is less than 10 years old:** (Calculated from the
 date of the issue of the latest Temporary Occupation Permit (“TOP”), or
@@ -2869,165 +2775,144 @@ property or land to a purchaser under a sale and purchase agreement
 You are advised to consult Part VA of the Land Titles (Strata) Act (Cap.
 158) for further details.
 
-**2. Types of developments**\  [174]_
+**2. Types of developments**[^61]
 
 The developments for which an application can be made for an order for
 en-bloc sale by majority agreement are:
 
--  Strata developments registered under the Land Titles (Strata)
-   Act [175]_.
-
--  Strata or flat developments where the owners of the flats also own a
-   share in the land and the leases for their flats are registered under
-   the Registration of Deeds Act or the Land Titles Act [176]_.
-
--  Strata or flat developments where the owners of the flats own a
-   registered leasehold tenure of 850 years or more (or such other
-   leasehold period as the Minister may specify) but they do not own the
-   land in the development. The leases for the flats may be registered
-   under the Registration of Deeds Act or the Land Titles Act [177]_\*.
-
--  Strata developments where the owners of the flats own a registered
-   leasehold tenure of 850 years or more (or such other leasehold period
-   as the Minister may specify). The subsisting leases for the strata
-   lots are registered under the Land Titles (Strata) Act [178]_.
+-   Strata developments registered under the Land Titles (Strata)
+    Act[^62].
+-   Strata or flat developments where the owners of the flats also own a
+    share in the land and the leases for their flats are registered
+    under the Registration of Deeds Act or the Land Titles Act[^63].
+-   Strata or flat developments where the owners of the flats own a
+    registered leasehold tenure of 850 years or more (or such other
+    leasehold period as the Minister may specify) but they do not own
+    the land in the development. The leases for the flats may be
+    registered under the Registration of Deeds Act or the Land Titles
+    Act[^64]\*.
+-   Strata developments where the owners of the flats own a registered
+    leasehold tenure of 850 years or more (or such other leasehold
+    period as the Minister may specify). The subsisting leases for the
+    strata lots are registered under the Land Titles (Strata) Act[^65].
 
 \* As there are no share values or shares in land assigned to flats in
 such developments, the owners of at least 25% of the total number of
 flats in the development must apply to the Registrar of Titles for
 notional shares in land to be assigned to their individual flats to
-facilitate calculation of the majority agreement. [179]_
+facilitate calculation of the majority agreement.[^66]
 
-**3. Application procedure**\  [180]_
+**3. Application procedure**[^67]
 
 **Step 1: Pre-application**
 
 The duly-constituted collective sale committee must:
 
-1. Hold and conduct General Meetings pursuant to the Second Schedule of
-   the Land Titles Act in relation to the en-bloc sale
+1.  Hold and conduct General Meetings pursuant to the Second Schedule of
+    the Land Titles Act in relation to the en-bloc sale
 
--  The Second Schedule sets out the provisions that govern the conduct
-   and proceedings of the General Meetings of the Management
-   Corporations for the purposes of an en-bloc sale.
+-   The Second Schedule sets out the provisions that govern the conduct
+    and proceedings of the General Meetings of the Management
+    Corporations for the purposes of an en-bloc sale.
+-   The Third Schedule sets out the provisions that govern the
+    composition, constitution and proceedings of a collective sales
+    committee
 
--  The Third Schedule sets out the provisions that govern the
-   composition, constitution and proceedings of a collective sales
-   committee
+1.  Appoint up to 3 owners from the collective sale committee to
+    represent them in connection with the application[^68].
+2.  Obtain a valuation report for the whole development from an
+    independent valuer as at the date of the close of the public tender
+    or auction[^69].
+3.  Obtain a report by an independent valuer on the proposed method of
+    distributing the sale proceeds[^70].
+4.  Advertise the particulars of the proposed application in the local
+    newspapers, as approved by the Board, in the 4 official
+    languages.[^71] The advertisement must include:[^72]
 
-1. Appoint up to 3 owners from the collective sale committee to
-   represent them in connection with the application [181]_.
+-   Information on the development, i.e. name, land, lot number and
+    address
+-   Brief details of the sale proposal
+-   The place at which the relevant parties can inspect the documents
+    for the en-bloc sale.
 
-2. Obtain a valuation report for the whole development from an
-   independent valuer as at the date of the close of the public tender
-   or auction [182]_.
+1.  Prepare the application to be made to the Board. A copy of the
+    application form may be downloaded from the STB website[^73] or
+    obtained from the URA Centre
+2.  Serve a notice of the proposed application by registered post to all
+    unit owners and to the mortgagee, chargee or other person (other
+    than a lessee) with an estate or interest in the unit and whose
+    interest is notified on the land register.[^74] The notice must
+    include a copy of:[^75]
 
-3. Obtain a report by an independent valuer on the proposed method of
-   distributing the sale proceeds [183]_.
+-   The advertisement referred to above
+-   Collective sale agreement
+-   The sale and purchase agreement
+-   A statutory declaration made by the purchaser on his relationship,
+    if any, to the unit owners
+-   The valuation report referred to above
+-   The report by an independent valuer on the proposed method of
+    distributing the sale proceeds, referred to above
 
-4. Advertise the particulars of the proposed application in the local
-   newspapers, as approved by the Board, in the 4 official
-   languages. [184]_ The advertisement must include: [185]_
+1.  Affix a copy of the notice, in the 4 official languages, to a
+    conspicuous part of each building in the development[^76].
+2.  The notice to be served by registered post shall be served on a
+    party:[^77]
 
--  Information on the development, i.e. name, land, lot number and
-   address
+-   Where the party is an owner of a unit registered under the Land
+    Titles (Strata) Act, at the address as shown on the strata roll.
+-   Where the party is an owner of a unit not registered under the Land
+    Titles (Strata) Act, at the last recorded address at the Singapore
+    Land Authority (“SLA”).
+-   Where the party is a mortgagee, chargee or other person with an
+    estate and interest in the unit whose interest is notified on the
+    land register, at the address on the strata roll or last recorded
+    address at the SLA.
+-   Where the party is a management corporation, at its address as shown
+    in the SLA.
 
--  Brief details of the sale proposal
+    > **Step 2: Application**
+    >
+    > The application for en-bloc sale must be made using the approved
+    > form within 14 days of the publication of the advertisement. The
+    > application is to be made by way of a statutory declaration by the
+    > representatives appointed by the majority owners, stating that the
+    > relevant provisions of the Act have been complied with.
+    >
+    > The application must include the following:[^78]
 
--  The place at which the relevant parties can inspect the documents for
-   the en-bloc sale.
+-   The documents set out in para 7 of the *Pre-Application* section
+    above.
+-   A list of the names of the unit owners who have not agreed to the
+    sale in writing, their mortgagees, chargees, the subsidiary
+    proprietors in reversion of the leasehold estate in the lots and
+    other persons (other than lessees) with an estate or interest in the
+    flats whose interests are reflected in the land registers.
+-   Such other documents that the Board may require.
+-   An undertaking to pay the costs of the Board in relation to any
+    valuation or other reports called for by the Board.
 
-1. Prepare the application to be made to the Board. A copy of the
-   application form may be downloaded from the STB website [186]_ or
-   obtained from the URA Centre
+    > 6 copies of all documents mentioned above are to be submitted to
+    > the office.
+    >
+    > **Step 3: Post-application**
+    >
+    > After submitting the application at the applicants must lodge a
+    > copy, in the approved form, for registration at the SLA. A copy of
+    > the forms can be downloaded from the SLA website[^79].
 
-2. Serve a notice of the proposed application by registered post to all
-   unit owners and to the mortgagee, chargee or other person (other than
-   a lessee) with an estate or interest in the unit and whose interest
-   is notified on the land register. [187]_ The notice must include a
-   copy of: [188]_
-
--  The advertisement referred to above
-
--  Collective sale agreement
-
--  The sale and purchase agreement
-
--  A statutory declaration made by the purchaser on his relationship, if
-   any, to the unit owners
-
--  The valuation report referred to above
-
--  The report by an independent valuer on the proposed method of
-   distributing the sale proceeds, referred to above
-
-1. Affix a copy of the notice, in the 4 official languages, to a
-   conspicuous part of each building in the development [189]_.
-
-2. The notice to be served by registered post shall be served on a
-   party: [190]_
-
--  Where the party is an owner of a unit registered under the Land
-   Titles (Strata) Act, at the address as shown on the strata roll.
-
--  Where the party is an owner of a unit not registered under the Land
-   Titles (Strata) Act, at the last recorded address at the Singapore
-   Land Authority (“SLA”).
-
--  Where the party is a mortgagee, chargee or other person with an
-   estate and interest in the unit whose interest is notified on the
-   land register, at the address on the strata roll or last recorded
-   address at the SLA.
-
--  Where the party is a management corporation, at its address as shown
-   in the SLA.
-
-    **Step 2: Application**
-
-    The application for en-bloc sale must be made using the approved
-    form within 14 days of the publication of the advertisement. The
-    application is to be made by way of a statutory declaration by the
-    representatives appointed by the majority owners, stating that the
-    relevant provisions of the Act have been complied with.
-
-    The application must include the following: [191]_
-
--  The documents set out in para 7 of the *Pre-Application* section
-   above.
-
--  A list of the names of the unit owners who have not agreed to the
-   sale in writing, their mortgagees, chargees, the subsidiary
-   proprietors in reversion of the leasehold estate in the lots and
-   other persons (other than lessees) with an estate or interest in the
-   flats whose interests are reflected in the land registers.
-
--  Such other documents that the Board may require.
-
--  An undertaking to pay the costs of the Board in relation to any
-   valuation or other reports called for by the Board.
-
-    6 copies of all documents mentioned above are to be submitted to the
-    office.
-
-    **Step 3: Post-application**
-
-    After submitting the application at the applicants must lodge a
-    copy, in the approved form, for registration at the SLA. A copy of
-    the forms can be downloaded from the SLA website [192]_.
-
-**4. Objections**\  [193]_
+**4. Objections**[^80]
 
 A unit owner who has not agreed to the sale in writing, his mortgagee,
 chargee or other person with an estate or interest in the unit may,
 within 21 days of the date of the notice for en-bloc sale, file an
 objection in the prescribed form (1 original & 5 photocopies) with the
-STB. [194]_
+STB.[^81]
 
 The Board will, within 5 days of the filing of an objection, forward a
 copy of it by registered post to the representatives appointed by the
-majority owners and their lawyers, if any. [195]_
+majority owners and their lawyers, if any.[^82]
 
-**5. Board approval**\  [196]_
+**5. Board approval**[^83]
 
 The factors that the Board will take into account in its decision will
 depend on whether an objection has been filed against the application.
@@ -3038,36 +2923,32 @@ The Board will approve the application unless, after going through the
 application, it is satisfied that the transaction is not entered into in
 good faith, after taking into account:
 
--  The sale price for the whole development
+-   The sale price for the whole development
+-   The method of distributing the sale proceeds
+-   The relationship of the purchaser to any of the flat owners
 
--  The method of distributing the sale proceeds
+The Board will not approve an application if:[^84]
 
--  The relationship of the purchaser to any of the flat owners
+-   The sale agreement requires any unit owner who has not agreed in
+    writing to the sale to be a party to any arrangement for the
+    redevelopment of the property; or
+-   If the collective sale committee does not consent to any order made
+    by the Board in relation to an increase in the sale proceeds to be
+    received by the owners objecting to the sale (where it is just and
+    equitable to do so in the opinion of the Board).
 
-The Board will not approve an application if: [197]_
-
--  The sale agreement requires any unit owner who has not agreed in
-   writing to the sale to be a party to any arrangement for the
-   redevelopment of the property; or
-
--  If the collective sale committee does not consent to any order made
-   by the Board in relation to an increase in the sale proceeds to be
-   received by the owners objecting to the sale (where it is just and
-   equitable to do so in the opinion of the Board).
-
-**Where objections have been filed against the application**\  [198]_
+**Where objections have been filed against the application**[^85]
 
 The Board will consider the objection and the same factors stated above,
 and may call for mediation.
 
 The Board will not approve an application if it is satisfied that:
 
--  The unit owner who objects to the sale will suffer a financial
-   loss\*; or
-
--  The sale proceeds to be received by a unit owner, his mortgagee or
-   chargee, are insufficient to redeem any mortgage or charge against
-   the flat.
+-   The unit owner who objects to the sale will suffer a financial
+    loss\*; or
+-   The sale proceeds to be received by a unit owner, his mortgagee or
+    chargee, are insufficient to redeem any mortgage or charge against
+    the flat.
 
 \* A unit owner will be considered to suffer financial loss if the sale
 proceeds for his unit, after any deduction (such as stamp duty and legal
@@ -3078,17 +2959,16 @@ what he paid for the unit.
 \* A unit owner will not be considered to suffer financial loss simply
 because:
 
--  His net gain from the sale will be less than the other unit owners
+-   His net gain from the sale will be less than the other unit owners
+-   The proceeds of sale for his unit, after such deductions as the
+    Board may allow, is less than the price he paid for his unit if he
+    had purchased his unit after the collective sale committee had
+    already signed an agreement to sell all the units and common
+    property in the development to a purchaser[^86]
 
--  The proceeds of sale for his unit, after such deductions as the Board
-   may allow, is less than the price he paid for his unit if he had
-   purchased his unit after the collective sale committee had already
-   signed an agreement to sell all the units and common property in the
-   development to a purchaser [199]_
+**6. Effects of an order by the Board**[^87]
 
-**6. Effects of an order by the Board**\  [200]_
-
-**Owners of units and land**\  [201]_
+**Owners of units and land**[^88]
 
 An order for en-bloc sale issued by the Board is binding on all the unit
 and land owners of the development (including their successors in title
@@ -3103,7 +2983,7 @@ the purpose of the sale.
 
 **Owners of land in an application under section 84E where the unit
 owners of a 850-year registered leasehold estate do not own a share in
-the land**\  [202]_
+the land**[^89]
 
 Where the Board makes an order for the en-bloc sale of the units and the
 land, the owner of the land (or reversion) will be deemed to have
@@ -3124,9 +3004,9 @@ interest in the unit to the purchaser upon the registration by the
 Registrar of Titles of the transfers of all the units in the strata
 title plan and the Registrar of Titles shall enter a notification of the
 vesting of the reversionary interest in the purchaser on the subsidiary
-strata land register. [203]_
+strata land register.[^90]
 
-**Effect on leases of the units**\  [204]_
+**Effect on leases of the units**[^91]
 
 A lease against any of the units (other than the lease held by the unit
 owner) shall, unless there is an earlier agreed date, determine on the
@@ -3135,7 +3015,7 @@ purchaser. The order does not prejudice the lessee's right to any
 compensation from the unit owner. Unit owners or their lessees can apply
 to the Board to determine the amount of compensation payable.
 
-|
+| 
 | Commonly Asked Questions on En-Bloc Sale
 
 **Can the majority owners apply to the board to appoint a third party to
@@ -3143,46 +3023,42 @@ act for certain unit owners in the sale?**
 
 The representatives appointed by the majority owners may apply to the
 Board to appoint a person to deal with all matters pertaining to the
-sale of a flat where: [205]_
+sale of a flat where:[^92]
 
--  The unit owner has died and no personal representative has been
-   appointed; or
-
--  In any other case as the Board may think fit.
+-   The unit owner has died and no personal representative has been
+    appointed; or
+-   In any other case as the Board may think fit.
 
 **Who can appear in a hearing before the board?**
 
 Where a Board has appointed a date for hearing, it will, where
 necessary, give a notice of the hearing to all parties to the dispute or
-matter. [206]_
+matter.[^93]
 
 A party entitled to appear before the Board may appear in person or may
 be represented by his lawyer or such other person as the Board may
 allow. The representative may examine witnesses and address the Board on
-behalf of the party. [207]_
+behalf of the party.[^94]
 
 Divorce & Separation: Property Considerations
 ---------------------------------------------
 
-Divorce
-~~~~~~~
+### Divorce
 
 **If the couple has children:** Under the HDB’s prevailing policy for
 divorce (not due to non-consummation of marriage or annulment or
 break-up of fiancé/fiancée relationship), a divorced party who has the
 custody of the child (including care and control) is allowed to retain
-the flat subject to the eligibility conditions. [208]_
+the flat subject to the eligibility conditions.[^95]
 
 **If the couple has no children:** If there are no children from the
 marriage, the divorced party (flat owner) may retain the flat under the
-Single Singapore Citizen (“SSC”) Scheme, provided that: [209]_
+Single Singapore Citizen (“SSC”) Scheme, provided that:[^96]
 
--  He/she is a Singapore citizen.
-
--  He/she is at least 35 years old.
-
--  The matrimonial flat is a resale flat purchased from the open market
-   without the CPF Housing Grant for Family.
+-   He/she is a Singapore citizen.
+-   He/she is at least 35 years old.
+-   The matrimonial flat is a resale flat purchased from the open market
+    without the CPF Housing Grant for Family.
 
 **MOP required:** If the matrimonial flat was bought directly from HDB
 (including resale flats bought with the CPF Housing Grant for Family),
@@ -3192,32 +3068,31 @@ Scheme.
 
 Alternatively, the divorced party may include another person to retain
 the flat, subject to the prevailing eligibility criteria and eligibility
-scheme regardless of the occupation period. [210]_
+scheme regardless of the occupation period.[^97]
 
-**Resale of flat in the open market:** If the divorced owners wish to
-resell their flat in the open market, they must have completed the MOP
-for the flat at the date of divorce completion. If the divorce is within
-the MOP and none of the owners is eligible to retain the flat, the
-owners may have to return the flat to HDB, subject to HDB’s approval.
-The compensation for the return of flat will be determined by
-HDB. [211]_
+\*\*Resale of flat in the open <market:**> If the divorced owners wish
+to resell their flat in the open market, they must have completed the
+MOP for the flat at the date of divorce completion. If the divorce is
+within the MOP and none of the owners is eligible to retain the flat,
+the owners may have to return the flat to HDB, subject to HDB’s
+approval. The compensation for the return of flat will be determined by
+HDB.[^98]
 
-Separation
-~~~~~~~~~~
+### Separation
 
 A separated party who has legal custody of the child (including care and
 control) pursuant to a Court Order is allowed to retain the flat,
 subject to the eligibility conditions. If there are no children from the
 marriage, one party may include another person to retain the flat,
 subject to the prevailing eligibility criteria and eligibility scheme
-regardless of the occupation period. [212]_
+regardless of the occupation period.[^99]
 
 If neither party from the separated couple is able to retain the flat,
 they will need to dispose of the flat. If they have completed the
 minimum occupation period (“MOP”), they can resell the flat in the open
 market. If they have not completed the MOP, they will have to return the
 flat to HDB at the prevailing compensation price, subject to HDB’s
-approval. [213]_
+approval.[^100]
 
 Commonly Asked Questions on Property Considerations in Divorce & Separation
 ---------------------------------------------------------------------------
@@ -3230,12 +3105,11 @@ property with a view towards dissipating the assets so as to prevent the
 other from claiming a share, it is possible that the spouse with the
 potential claim can:
 
--  Lodge a caveat with the Land Titles Registry claiming a beneficial
-   interest in the property which may prevent the other from selling or
-   dealing with the property without notice; **and**
-
--  Apply to court for injunctive relief to stop the intended sale of the
-   property
+-   Lodge a caveat with the Land Titles Registry claiming a beneficial
+    interest in the property which may prevent the other from selling or
+    dealing with the property without notice; **and**
+-   Apply to court for injunctive relief to stop the intended sale of
+    the property
 
 **What factors affect the division of property in the event of
 divorce?**
@@ -3243,11 +3117,9 @@ divorce?**
 There are several factors that a Court will take into account for the
 division of matrimonial assets in the event of a divorce, including:
 
--  Direct and indirect contributions made by the parties
-
--  Financial capacity of the parties
-
--  Needs of minor children (if any) of the marriage
+-   Direct and indirect contributions made by the parties
+-   Financial capacity of the parties
+-   Needs of minor children (if any) of the marriage
 
 **In the event of divorce, can I claim back 50% of the HDB sale
 proceeds?**
@@ -3261,11 +3133,9 @@ contributed from their individual CPF accounts.
 There are several factors that a Court will take into account for the
 division of matrimonial assets in the event of a divorce including:
 
--  Direct and indirect contributions made by the parties
-
--  Financial capacity of the parties
-
--  Needs of minor children (if any) of the marriage
+-   Direct and indirect contributions made by the parties
+-   Financial capacity of the parties
+-   Needs of minor children (if any) of the marriage
 
 **How can I prove that I contributed to the purchase of my property?**
 
@@ -3280,18 +3150,18 @@ if the matrimonial flat is bought directly from HDB (including resale
 flats bought with the CPF Housing Grant for Family), “the 5-year minimum
 occupation period (“MOP”) must be satisfied before the divorced party is
 allowed to take over the flat under the Single Singapore Citizen (“SSC”)
-Scheme. [214]_
+Scheme.[^101]
 
 Alternatively, the divorced party may include another person to retain
 the flat, subject to the prevailing eligibility criteria and eligibility
-scheme regardless of the occupation period. [215]_
+scheme regardless of the occupation period.[^102]
 
 If the divorced owners wish to resell their flat in the open market,
 they must have completed the MOP for the flat, as at the date of divorce
 completion. If the divorce is within the MOP and none of the owners is
 eligible to retain the flat, the owners may have to return the flat to
 HDB, subject to HDB’s approval. The compensation for the return of flat
-will be determined by HDB. [216]_
+will be determined by HDB.[^103]
 
 **Can I get a proportion of the sale proceeds if the flat is sold prior
 to one of us filing for divorce?**
@@ -3335,10 +3205,10 @@ the spousal assets.
 **Can I purchase my spouse’s share of property?**
 
 If parties can agree on one spouse purchasing the other spouse’s share
-of the property, an Agreed Matrimonial Property Plan is filed. [217]_ If
+of the property, an Agreed Matrimonial Property Plan is filed.[^104] If
 parties cannot agree, yet one party wants to purchase the other spouse’s
 share of the property, both parties can file individual Proposed
-Matrimonial Property Plans. [218]_ These proposals will assist the Court
+Matrimonial Property Plans.[^105] These proposals will assist the Court
 in deciding how to divide the property. The Court may accept or reject
 the whole or any part of the Agreed or Proposed Matrimonial Property
 Plan(s). The Court may also impose such terms and conditions as it
@@ -3420,416 +3290,321 @@ occupation period (“MOP”), they can resell the flat in the open market.
 If they have not completed the MOP, they would have to return the flat
 to HDB at the prevailing compensation price, subject to HDB's approval.
 
-.. [114]
-   Housing & Development Board (“HDB”), *HDB InfoWEB: Change Owners or
-   Occupiers* available at
-   http://www.hdb.gov.sg/fi10/fi10326p.nsf/w/ChgOwnerEligCriteriaShareProportion,
-   last accessed on 28 August 2014
-
-.. [115]
-   Singapore Land Authority (“SLA”), *Tenants of state properties will
-   save with rental rebates* available at
-   http://www.sla.gov.sg/htm/new/new2001/new0261.htm, last accessed on
-   28 August 2014
-
-.. [116]
-   Ibid
-
-.. [117]
-   Ibid
-
-.. [118]
-   HDB, *HDB InfoWEB: Change Owners or Occupiers* available at
-   http://www.hdb.gov.sg/fi10/fi10326p.nsf/w/ChgOwnerEligCriteriaShareProportion,
-   last accessed on 29 August 2014
-
-.. [119]
-   Ibid
-
-.. [120]
-   Ibid
-
-.. [121]
-   Ibid
-
-.. [122]
-   Ibid
-
-.. [123]
-   Residential Property Act Cap 274 (2009) s 2(1)
-
-.. [124]
-   SLA, *Foreign Ownership of Properties*
-   http://www.sla.gov.sg/htm/ser/ser0306.htm, last accessed on 29 August
-   2014
-
-.. [125]
-   Inland Revenue Authority of Singapore (“IRAS”), *When Do I Have To
-   Pay Stamp Duty* available at
-   http://www.iras.gov.sg/irashome/page.aspx?id=8998, last accessed on
-   29 August 2014
-
-.. [126]
-   IRAS, *Penalties for Late or Insufficient Stamping* available at
-   http://www.iras.gov.sg/irasHome/page04.aspx?id=1810, last accessed on
-   29 August 2014
-
-.. [127]
-   MoneySENSE, *About Home Loans – Key Questions to Ask the Bank Before
-   Taking a Home Loan* available at
-   http://www.moneysense.gov.sg/~/Moneysense/Guides%20and%20Articles/Guides/HomeloanEng.pdf,
-   last accessed on 29 August 2014
-
-.. [128]
-   Central Provident Fund (“CPF”) Board, *Buying A House* available at
-   http://mycpf.cpf.gov.sg/CPF/my-cpf/buy-house/BH4.htm, last accessed
-   on 29 August 2014
-
-.. [129]
-   HDB, *HDB InfoWEB: Additional Info on FS* available at
-   http://www.hdb.gov.sg/fi10/fi10321p.nsf/w/BuyingNewFlatAdditionalInfoonFS?OpenDocument,
-   last accessed on 29 August 2014
-
-.. [130]
-   IRAS, *Pointers for Buyers of Private Residential Properties*
-   available at http://www.iras.gov.sg/irashome/page04.aspx?id=2954,
-   last accessed on 29 August 2014
-
-.. [131]
-   *See* Singapore Academy of Law, 2011 Instructions for the
-   Conveyancing Money Service; Conveyancing and Law of Property
-   (Conveyancing) Rules 2011; Singapore Academy of Law (Conveyancing
-   Money) Rules 2011
-
-.. [132]
-   IRAS, *Exempt Supplies* available at
-   http://www.iras.gov.sg/irasHome/page04.aspx?id=2002#Sale\_and\_lease\_of\_residential\_properties,
-   last accessed on 29 August 2014
-
-.. [133]
-   IRAS, *Private Residential Properties* available at
-   http://www.iras.gov.sg/irashome/page04.aspx?id=2954, last accessed on
-   29 August 2014
-
-.. [134]
-   The Law Society of Singapore, *Conditions of Sale 2012* available at
-   http://www.lawsociety.org.sg/forMembers/ResourceCentre/ConditionsofSale2012.aspx,
-   last accessed on 29 August 2014
-
-.. [135]
-   CPF Board, *Buying A House* available at
-   http://mycpf.cpf.gov.sg/CPF/my-cpf/buy-house/BH4.htm, last accessed
-   on 29 August 2014
-
-.. [136]
-   HDB, *HDB InfoWEB: Eligibility Conditions for HDB Concessionary Loan*
-   available at http://www.hdb.gov.sg/fi10/fi10321p.nsf/w/HLHDBWho, last
-   accessed on 29 August 2014
-
-.. [137]
-   HDB, *HDB InfoWEB: Change Owners or Occupiers* available at
-   http://www.hdb.gov.sg/fi10/fi10326p.nsf/w/ChgOwnerEligCriteriaShareProportion,
-   last accessed on 29 August 2014
-
-.. [138]
-   HDB, *HDB InfoWEB: Guidelines for Renting Out the Whole Flat*
-   available at
-   http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktRentOutWholeFlat,
-   last accessed on 29 August 2014
-
-.. [139]
-   Immigration & Checkpoints Authority, *iEnquiry* available at
-   https://ienquiry.ica.gov.sg/home.do, last accessed on 29 August 2014
-
-.. [140]
-   Ministry of Manpower, *Employment Pass/S Pass Validity Check via
-   Employment Pass Online* available at
-   https://eponline.mom.gov.sg/epol/PEPOLUAMT012DisplayAction.do, last
-   accessed on 29 August 2014
-
-.. [141]
-   HDB, *InfoWEB: Non-Citizen Subletting Quota for the Subletting of
-   Flat* available at http://www.hdb.gov.sg/subletting-quota, last
-   accessed on 29 August 2014
-
-.. [142]
-   Singapore Budget 2014, *Measures for Households* available at
-   http://www.singaporebudget.gov.sg/budget\_2014/Families1.aspx, last
-   accessed on 29 August 2014
-
-.. [143]
-   HDB, *MyHDBPage* available at http://www.hdb.gov.sg/MyHDBPage, last
-   accessed on 29 August 2014
-
-.. [144]
-   HDB, *HDB InfoWEB: Guidelines for Renting Out Rooms* available at
-   http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktRentOutRoom,
-   last accessed on 29 August 2014
-
-.. [145]
-   Immigration & Checkpoints Authority, *iEnquiry* available at
-   https://ienquiry.ica.gov.sg/home.do, last accessed on 29 August 2014
-
-.. [146]
-   Ministry of Manpower, *Employment Pass/S Pass Validity Check via
-   Employment Pass Online* available at
-   https://eponline.mom.gov.sg/epol/PEPOLUAMT012DisplayAction.do, last
-   accessed on 29 August 2014
-
-.. [147]
-   HDB, *InfoWEB: Guidelines for Renting Out Rooms* available at
-   http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktRentOutRoom?OpenDocument,
-   last accessed on 29 August 2014
-
-.. [148]
-   HDB, *MyHDBPage* available at http://www.hdb.gov.sg/MyHDBPage, last
-   accessed on 29 August 2014
-
-.. [149]
-   Distress Act (Cap 84) s 8
-
-.. [150]
-   Supreme Court of Singapore, *Frequently Asked Questions* available at
-   http://www.ifaq.gov.sg/supremecourt/apps/fcd\_faqmain.aspx, last
-   accessed on 29 August 2014
+[^1]: Housing & Development Board (“HDB”), *HDB InfoWEB: Change Owners
+    or Occupiers* available at
+    <http://www.hdb.gov.sg/fi10/fi10326p.nsf/w/ChgOwnerEligCriteriaShareProportion>,
+    last accessed on 28 August 2014
 
-.. [151]
-   Distress Act (Cap 84) ss 16-17
+[^2]: Singapore Land Authority (“SLA”), *Tenants of state properties
+    will save with rental rebates* available at
+    <http://www.sla.gov.sg/htm/new/new2001/new0261.htm>, last accessed
+    on 28 August 2014
 
-.. [152]
-   Ibid
+[^3]: Ibid
 
-.. [153]
-   Ibid
-
-.. [154]
-   Ibid
+[^4]: Ibid
 
-.. [155]
-   Ibid
+[^5]: HDB, *HDB InfoWEB: Change Owners or Occupiers* available at
+    <http://www.hdb.gov.sg/fi10/fi10326p.nsf/w/ChgOwnerEligCriteriaShareProportion>,
+    last accessed on 29 August 2014
 
-.. [156]
-   HDB, *HDB InfoWEB: Purchase Private Properties* available at
-   http://www.hdb.gov.sg/fi10/fi10325p.nsf/w/PrivatePtyEligibility, last
-   accessed on 29 August 2014
+[^6]: Ibid
 
-.. [157]
-   http://www.ipto.gov.sg
+[^7]: Ibid
 
-.. [158]
-   HDB, *HDB InfoWEB: Additional Requirements for Selected Cases*
-   available at
-   http://www.hdb.gov.sg/fi10/fi10322p.nsf/w/SellFlatSpecificCasesEligibility,
-   last accessed on 29 August 2014
+[^8]: Ibid
 
-.. [159]
-   Building Maintenance and Strata Management Act (Cap 30C) s 2(1)
+[^9]: Ibid
 
-.. [160]
-   Building and Construction Authority (“BCA”), *Strata Living in
-   Singapore* available at
-   http://www.bca.gov.sg/BMSM/strata\_living.html, last accessed on 29
-   August 2014
+[^10]: Residential Property Act Cap 274 (2009) s 2(1)
 
-.. [161]
-   Building Maintenance and Strata Management Act (Cap 30C) s 16(2)(a)
+[^11]: SLA, *Foreign Ownership of Properties*
+    <http://www.sla.gov.sg/htm/ser/ser0306.htm>, last accessed on 29
+    August 2014
 
-.. [162]
-   Building Maintenance and Strata Management Act (Cap 30C) s 16(2)(b)
+[^12]: Inland Revenue Authority of Singapore (“IRAS”), *When Do I Have
+    To Pay Stamp Duty* available at
+    <http://www.iras.gov.sg/irashome/page.aspx?id=8998>, last accessed
+    on 29 August 2014
 
-.. [163]
-   Building Maintenance and Strata Management Act (Cap 30C) s 16(2)(c)
+[^13]: IRAS, *Penalties for Late or Insufficient Stamping* available at
+    <http://www.iras.gov.sg/irasHome/page04.aspx?id=1810>, last accessed
+    on 29 August 2014
 
-.. [164]
-   Building Maintenance and Strata Management Act (Cap 30C) s 38; BCA,
-   *Strata Living in Singapore* available at
-   http://www.bca.gov.sg/BMSM/strata\_living.html, last accessed on 29
-   August 2014
+[^14]: MoneySENSE, *About Home Loans – Key Questions to Ask the Bank
+    Before Taking a Home Loan* available at
+    <http://www.moneysense.gov.sg/~/Moneysense/Guides%20and%20Articles/Guides/HomeloanEng.pdf>,
+    last accessed on 29 August 2014
 
-.. [165]
-   http://www.mnd.gov.sg/stb/cg1.html
+[^15]: Central Provident Fund (“CPF”) Board, *Buying A House* available
+    at <http://mycpf.cpf.gov.sg/CPF/my-cpf/buy-house/BH4.htm>, last
+    accessed on 29 August 2014
 
-.. [166]
-   Strata Titles Boards (“STB”), *FAQ* available at
-   http://www.mnd.gov.sg/stb/faq.html, accessed on 29 August 2014
+[^16]: HDB, *HDB InfoWEB: Additional Info on FS* available at
+    <http://www.hdb.gov.sg/fi10/fi10321p.nsf/w/BuyingNewFlatAdditionalInfoonFS?OpenDocument>,
+    last accessed on 29 August 2014
 
-.. [167]
-   http://www.mnd.gov.sg/stb/cg1.html
+[^17]: IRAS, *Pointers for Buyers of Private Residential Properties*
+    available at <http://www.iras.gov.sg/irashome/page04.aspx?id=2954>,
+    last accessed on 29 August 2014
 
-.. [168]
-   http://www.mnd.gov.sg/stb/forms.html
+[^18]: *See* Singapore Academy of Law, 2011 Instructions for the
+    Conveyancing Money Service; Conveyancing and Law of Property
+    (Conveyancing) Rules 2011; Singapore Academy of Law (Conveyancing
+    Money) Rules 2011
 
-.. [169]
-   STB, *An application for an order for en-bloc sale by majority
-   consent under Part VA of the Land Titles (Strata) Act* available at
-   http://www.mnd.gov.sg/stb/typesofapplicationannex1.html, last
-   accessed on 29 August 2014
+[^19]: IRAS, *Exempt Supplies* available at
+    [http://www.iras.gov.sg/irasHome/page04.aspx?id=2002\#Sale\\\_and\\\_lease\\\_of\\\_residential\\\_properties](http://www.iras.gov.sg/irasHome/page04.aspx?id=2002#Sale\_and\_lease\_of\_residential\_properties),
+    last accessed on 29 August 2014
 
-.. [170]
-   Ibid
+[^20]: IRAS, *Private Residential Properties* available at
+    <http://www.iras.gov.sg/irashome/page04.aspx?id=2954>, last accessed
+    on 29 August 2014
 
-.. [171]
-   Ibid
+[^21]: The Law Society of Singapore, *Conditions of Sale 2012* available
+    at
+    <http://www.lawsociety.org.sg/forMembers/ResourceCentre/ConditionsofSale2012.aspx>,
+    last accessed on 29 August 2014
 
-.. [172]
-   Ibid
+[^22]: CPF Board, *Buying A House* available at
+    <http://mycpf.cpf.gov.sg/CPF/my-cpf/buy-house/BH4.htm>, last
+    accessed on 29 August 2014
 
-.. [173]
-   Land Titles (Strata) Act (Cap 158) ss 84A(1), 84D(2), 84E(3), 84FA(2)
+[^23]: HDB, *HDB InfoWEB: Eligibility Conditions for HDB Concessionary
+    Loan* available at
+    <http://www.hdb.gov.sg/fi10/fi10321p.nsf/w/HLHDBWho>, last accessed
+    on 29 August 2014
 
-.. [174]
-   STB, *An application for an order for en-bloc sale by majority
-   consent under Part VA of the Land Titles (Strata) Act* available at
-   http://www.mnd.gov.sg/stb/typesofapplicationannex1.html, last
-   accessed on 29 August 2014
+[^24]: HDB, *HDB InfoWEB: Change Owners or Occupiers* available at
+    <http://www.hdb.gov.sg/fi10/fi10326p.nsf/w/ChgOwnerEligCriteriaShareProportion>,
+    last accessed on 29 August 2014
 
-.. [175]
-   Land Titles (Strata) Act (Cap 158) s 84A
+[^25]: HDB, *HDB InfoWEB: Guidelines for Renting Out the Whole Flat*
+    available at
+    <http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktRentOutWholeFlat>,
+    last accessed on 29 August 2014
 
-.. [176]
-   Land Titles (Strata) Act (Cap 158) s 84D
+[^26]: Immigration & Checkpoints Authority, *iEnquiry* available at
+    <https://ienquiry.ica.gov.sg/home.do>, last accessed on 29 August
+    2014
 
-.. [177]
-   Land Titles (Strata) Act (Cap 158) s 84E
+[^27]: Ministry of Manpower, *Employment Pass/S Pass Validity Check via
+    Employment Pass Online* available at
+    <https://eponline.mom.gov.sg/epol/PEPOLUAMT012DisplayAction.do>,
+    last accessed on 29 August 2014
 
-.. [178]
-   Land Titles (Strata) Act (Cap 158) s 84F
+[^28]: HDB, *InfoWEB: Non-Citizen Subletting Quota for the Subletting of
+    Flat* available at <http://www.hdb.gov.sg/subletting-quota>, last
+    accessed on 29 August 2014
 
-.. [179]
-   Land Titles (Strata) Act (Cap 158) s 84E(2)
+[^29]: Singapore Budget 2014, *Measures for Households* available at
+    [http://www.singaporebudget.gov.sg/budget\\\_2014/Families1.aspx](http://www.singaporebudget.gov.sg/budget\_2014/Families1.aspx),
+    last accessed on 29 August 2014
 
-.. [180]
-   STB, *An application for an order for en-bloc sale by majority
-   consent under Part VA of the Land Titles (Strata) Act* available at
-   http://www.mnd.gov.sg/stb/typesofapplicationannex1.html, last
-   accessed on 29 August 2014
+[^30]: HDB, *MyHDBPage* available at <http://www.hdb.gov.sg/MyHDBPage>,
+    last accessed on 29 August 2014
 
-.. [181]
-   Land Titles (Strata) Act (Cap.158) s 84A(2)
+[^31]: HDB, *HDB InfoWEB: Guidelines for Renting Out Rooms* available at
+    <http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktRentOutRoom>,
+    last accessed on 29 August 2014
 
-.. [182]
-   Land Titles (Strata) Act (Cap 158) First Sched, para 1(e)(v)
+[^32]: Immigration & Checkpoints Authority, *iEnquiry* available at
+    <https://ienquiry.ica.gov.sg/home.do>, last accessed on 29 August
+    2014
 
-.. [183]
-   Land Titles (Strata) Act (Cap 158) First Sched, para 1(e)(vi)
+[^33]: Ministry of Manpower, *Employment Pass/S Pass Validity Check via
+    Employment Pass Online* available at
+    <https://eponline.mom.gov.sg/epol/PEPOLUAMT012DisplayAction.do>,
+    last accessed on 29 August 2014
 
-.. [184]
-   Land Titles (Strata) Act (Cap 158) First Sched, para 1(d)
+[^34]: HDB, *InfoWEB: Guidelines for Renting Out Rooms* available at
+    <http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktRentOutRoom?OpenDocument>,
+    last accessed on 29 August 2014
 
-.. [185]
-   Land Titles (Strata) Act (Cap 158) First Sched, para 9
+[^35]: HDB, *MyHDBPage* available at <http://www.hdb.gov.sg/MyHDBPage>,
+    last accessed on 29 August 2014
 
-.. [186]
-   http://www.mnd.gov.sg/stb/forms.html
+[^36]: Distress Act (Cap 84) s 8
 
-.. [187]
-   Land Titles (Strata) Act (Cap 158) ss 84A(4), 84D(3), 84E(5)
+[^37]: Supreme Court of Singapore, *Frequently Asked Questions*
+    available at
+    [http://www.ifaq.gov.sg/supremecourt/apps/fcd\\\_faqmain.aspx](http://www.ifaq.gov.sg/supremecourt/apps/fcd\_faqmain.aspx),
+    last accessed on 29 August 2014
 
-.. [188]
-   Land Titles (Strata) Act (Cap 158) First Sched, para 1(e)
+[^38]: Distress Act (Cap 84) ss 16-17
 
-.. [189]
-   Ibid
+[^39]: Ibid
 
-.. [190]
-   Land Titles (Strata) Act (Cap 158) First Sched, para 1(f)
+[^40]: Ibid
 
-.. [191]
-   Land Titles (Strata) Act (Cap 158) s 84A(3); First Sched, para 4,
-   para 6
+[^41]: Ibid
 
-.. [192]
-   http://www.sla.gov.sg
+[^42]: Ibid
 
-.. [193]
-   STB, *An application for an order for en-bloc sale by majority
-   consent under Part VA of the Land Titles (Strata) Act* available at
-   http://www.mnd.gov.sg/stb/typesofapplicationannex1.html, accessed on
-   29 August 2014
+[^43]: HDB, *HDB InfoWEB: Purchase Private Properties* available at
+    <http://www.hdb.gov.sg/fi10/fi10325p.nsf/w/PrivatePtyEligibility>,
+    last accessed on 29 August 2014
 
-.. [194]
-   Land Titles (Strata) Act (Cap 158) ss 84A(4), 84D(3), 84E(5), 84FA(2)
+[^44]: <http://www.ipto.gov.sg>
 
-.. [195]
-   Land Titles (Strata) Act (Cap 158) First Sched, para 5
+[^45]: HDB, *HDB InfoWEB: Additional Requirements for Selected Cases*
+    available at
+    <http://www.hdb.gov.sg/fi10/fi10322p.nsf/w/SellFlatSpecificCasesEligibility>,
+    last accessed on 29 August 2014
 
-.. [196]
-   STB, *An application for an order for en-bloc sale by majority
-   consent under Part VA of the Land Titles (Strata) Act* available at
-   http://www.mnd.gov.sg/stb/typesofapplicationannex1.html, last
-   accessed on 29 August 2014
+[^46]: Building Maintenance and Strata Management Act (Cap 30C) s 2(1)
 
-.. [197]
-   Land Titles (Strata) Act (Cap 158) ss 84A(9), 84D(7), 84FA(9)
+[^47]: Building and Construction Authority (“BCA”), *Strata Living in
+    Singapore* available at
+    [http://www.bca.gov.sg/BMSM/strata\\\_living.html](http://www.bca.gov.sg/BMSM/strata\_living.html),
+    last accessed on 29 August 2014
 
-.. [198]
-   Land Titles (Strata) Act (Cap 158) ss 84A(9), 84D(7), 84FA(9); Fourth
-   Sched
+[^48]: Building Maintenance and Strata Management Act (Cap 30C) s
+    16(2)(a)
 
-.. [199]
-   Land Titles (Strata) Act (Cap 158) s 84A(8)
+[^49]: Building Maintenance and Strata Management Act (Cap 30C) s
+    16(2)(b)
 
-.. [200]
-   STB, *An application for an order for en-bloc sale by majority
-   consent under Part VA of the Land Titles (Strata) Act* available at
-   http://www.mnd.gov.sg/stb/typesofapplicationannex1.html, last
-   accessed on 29 August 2014
+[^50]: Building Maintenance and Strata Management Act (Cap 30C) s
+    16(2)(c)
 
-.. [201]
-   Land Titles (Strata) Act (Cap 158) s 84B
+[^51]: Building Maintenance and Strata Management Act (Cap 30C) s 38;
+    BCA, *Strata Living in Singapore* available at
+    [http://www.bca.gov.sg/BMSM/strata\\\_living.html](http://www.bca.gov.sg/BMSM/strata\_living.html),
+    last accessed on 29 August 2014
 
-.. [202]
-   Land Titles (Strata) Act (Cap 158) s 84E(11)
+[^52]: <http://www.mnd.gov.sg/stb/cg1.html>
 
-.. [203]
-   Land Titles (Strata) Act (Cap 158) s 84FA(11)
+[^53]: Strata Titles Boards (“STB”), *FAQ* available at
+    <http://www.mnd.gov.sg/stb/faq.html>, accessed on 29 August 2014
 
-.. [204]
-   Land Titles (Strata) Act (Cap 158) s 84B
+[^54]: <http://www.mnd.gov.sg/stb/cg1.html>
 
-.. [205]
-   Land Titles (Strata) Act (Cap 158) s 84C
+[^55]: <http://www.mnd.gov.sg/stb/forms.html>
 
-.. [206]
-   STB, *An application for an order for en-bloc sale by majority
-   consent under Part VA of the Land Titles (Strata) Act* available at
-   http://www.mnd.gov.sg/stb/typesofapplicationannex1.html, last
-   accessed on 29 August 2014
+[^56]: STB, *An application for an order for en-bloc sale by majority
+    consent under Part VA of the Land Titles (Strata) Act* available at
+    <http://www.mnd.gov.sg/stb/typesofapplicationannex1.html>, last
+    accessed on 29 August 2014
 
-.. [207]
-   Land Titles (Strata) Act (Cap 158) s 94
+[^57]: Ibid
 
-.. [208]
-   HDB, *Change Owners or Occupiers* available at
-   http://www.hdb.gov.sg/fi10/fi10326p.nsf/w/ChgOwnerDivorce, last
-   accessed on 29 August 2014
+[^58]: Ibid
 
-.. [209]
-   Ibid
+[^59]: Ibid
 
-.. [210]
-   Ibid
+[^60]: Land Titles (Strata) Act (Cap 158) ss 84A(1), 84D(2), 84E(3),
+    84FA(2)
 
-.. [211]
-   Ibid
+[^61]: STB, *An application for an order for en-bloc sale by majority
+    consent under Part VA of the Land Titles (Strata) Act* available at
+    <http://www.mnd.gov.sg/stb/typesofapplicationannex1.html>, last
+    accessed on 29 August 2014
 
-.. [212]
-   Ibid
+[^62]: Land Titles (Strata) Act (Cap 158) s 84A
 
-.. [213]
-   Ibid
+[^63]: Land Titles (Strata) Act (Cap 158) s 84D
 
-.. [214]
-   Ibid
+[^64]: Land Titles (Strata) Act (Cap 158) s 84E
 
-.. [215]
-   Ibid
+[^65]: Land Titles (Strata) Act (Cap 158) s 84F
 
-.. [216]
-   Ibid
+[^66]: Land Titles (Strata) Act (Cap 158) s 84E(2)
 
-.. [217]
-   *See* Women’s Charter (Cap 353) s 9(1)(a)
+[^67]: STB, *An application for an order for en-bloc sale by majority
+    consent under Part VA of the Land Titles (Strata) Act* available at
+    <http://www.mnd.gov.sg/stb/typesofapplicationannex1.html>, last
+    accessed on 29 August 2014
 
-.. [218]
-   *See* Women’s Charter (Cap 353) s 9(1)(b)
+[^68]: Land Titles (Strata) Act (Cap.158) s 84A(2)
+
+[^69]: Land Titles (Strata) Act (Cap 158) First Sched, para 1(e)(v)
+
+[^70]: Land Titles (Strata) Act (Cap 158) First Sched, para 1(e)(vi)
+
+[^71]: Land Titles (Strata) Act (Cap 158) First Sched, para 1(d)
+
+[^72]: Land Titles (Strata) Act (Cap 158) First Sched, para 9
+
+[^73]: <http://www.mnd.gov.sg/stb/forms.html>
+
+[^74]: Land Titles (Strata) Act (Cap 158) ss 84A(4), 84D(3), 84E(5)
+
+[^75]: Land Titles (Strata) Act (Cap 158) First Sched, para 1(e)
+
+[^76]: Ibid
+
+[^77]: Land Titles (Strata) Act (Cap 158) First Sched, para 1(f)
+
+[^78]: Land Titles (Strata) Act (Cap 158) s 84A(3); First Sched, para 4,
+    para 6
+
+[^79]: <http://www.sla.gov.sg>
+
+[^80]: STB, *An application for an order for en-bloc sale by majority
+    consent under Part VA of the Land Titles (Strata) Act* available at
+    <http://www.mnd.gov.sg/stb/typesofapplicationannex1.html>, accessed
+    on 29 August 2014
+
+[^81]: Land Titles (Strata) Act (Cap 158) ss 84A(4), 84D(3), 84E(5),
+    84FA(2)
+
+[^82]: Land Titles (Strata) Act (Cap 158) First Sched, para 5
+
+[^83]: STB, *An application for an order for en-bloc sale by majority
+    consent under Part VA of the Land Titles (Strata) Act* available at
+    <http://www.mnd.gov.sg/stb/typesofapplicationannex1.html>, last
+    accessed on 29 August 2014
+
+[^84]: Land Titles (Strata) Act (Cap 158) ss 84A(9), 84D(7), 84FA(9)
+
+[^85]: Land Titles (Strata) Act (Cap 158) ss 84A(9), 84D(7), 84FA(9);
+    Fourth Sched
+
+[^86]: Land Titles (Strata) Act (Cap 158) s 84A(8)
+
+[^87]: STB, *An application for an order for en-bloc sale by majority
+    consent under Part VA of the Land Titles (Strata) Act* available at
+    <http://www.mnd.gov.sg/stb/typesofapplicationannex1.html>, last
+    accessed on 29 August 2014
+
+[^88]: Land Titles (Strata) Act (Cap 158) s 84B
+
+[^89]: Land Titles (Strata) Act (Cap 158) s 84E(11)
+
+[^90]: Land Titles (Strata) Act (Cap 158) s 84FA(11)
+
+[^91]: Land Titles (Strata) Act (Cap 158) s 84B
+
+[^92]: Land Titles (Strata) Act (Cap 158) s 84C
+
+[^93]: STB, *An application for an order for en-bloc sale by majority
+    consent under Part VA of the Land Titles (Strata) Act* available at
+    <http://www.mnd.gov.sg/stb/typesofapplicationannex1.html>, last
+    accessed on 29 August 2014
+
+[^94]: Land Titles (Strata) Act (Cap 158) s 94
+
+[^95]: HDB, *Change Owners or Occupiers* available at
+    <http://www.hdb.gov.sg/fi10/fi10326p.nsf/w/ChgOwnerDivorce>, last
+    accessed on 29 August 2014
+
+[^96]: Ibid
+
+[^97]: Ibid
+
+[^98]: Ibid
+
+[^99]: Ibid
+
+[^100]: Ibid
+
+[^101]: Ibid
+
+[^102]: Ibid
+
+[^103]: Ibid
+
+[^104]: *See* Women’s Charter (Cap 353) s 9(1)(a)
+
+[^105]: *See* Women’s Charter (Cap 353) s 9(1)(b)

@@ -1,4 +1,3 @@
-
 FAMILY LAW
 ==========
 
@@ -8,41 +7,46 @@ Family Court
 The Family Court is now a unified family court, dealing with all family
 proceedings in Singapore. Its jurisdiction covers:
 
--  Adoption proceedings under the Adoption of Children Act
+-   Adoption proceedings under the Adoption of Children Act
+-   Divorce, nullity and judicial separation proceedings under Part X of
+    the Women’s Charter
+-   Guardianship, custody, care and control of and access to children
+    under the Guardianship of Infants Act and Part X of the Women’s
+    Charter
+-   Division of matrimonial assets under Part X and section 59 of the
+    Women’s Charter
+-   Personal protection orders under Part VII of the Women’s Charter
+-   Spousal and child maintenance under Parts VIII and X of the Women’s
+    Charter
+-   Enforcement of maintenance orders made by Singapore courts, the
+    Maintenance of Parents Tribunal and the Syariah Court under section
+    71 and Part IX of the Women’s Charter and the Maintenance of Parents
+    Tribunal Act
+-   Reciprocal enforcement of maintenance orders made by foreign courts
+    or tribunals under the Maintenance Orders (Facilities for
+    Enforcement) Act and Maintenance Orders (Reciprocal Enforcement) Act
 
--  Divorce, nullity and judicial separation proceedings under Part X of
-   the Women’s Charter
-
--  Guardianship, custody, care and control of and access to children
-   under the Guardianship of Infants Act and Part X of the Women’s
-   Charter
-
--  Division of matrimonial assets under Part X and section 59 of the
-   Women’s Charter
-
--  Personal protection orders under Part VII of the Women’s Charter
-
--  Spousal and child maintenance under Parts VIII and X of the Women’s
-   Charter
-
--  Enforcement of maintenance orders made by Singapore courts, the
-   Maintenance of Parents Tribunal and the Syariah Court under section
-   71 and Part IX of the Women’s Charter and the Maintenance of Parents
-   Tribunal Act
-
--  Reciprocal enforcement of maintenance orders made by foreign courts
-   or tribunals under the Maintenance Orders (Facilities for
-   Enforcement) Act and Maintenance Orders (Reciprocal Enforcement) Act
-
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------+-------------------------------------------------------+
-| **COURSES OF ACTION OPEN TO APPLICANTS**   |                                                                                                        |                                                       |
-+============================================+========================================================================================================+=======================================================+
-| Divorce                                    | Nullity                                                                                                | Judicial Separation                                   |
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------+-------------------------------------------------------+
-| Legal procedure ending marriage            | Voiding marriage in its entirety, putting parties in the position as if they have never been married   | Allows parties to live separately without divorcing   |
-|                                            |                                                                                                        |                                                       |
-|                                            |                                                                                                        | Reasons: Religion or marriage for less than 3 years   |
-+--------------------------------------------+--------------------------------------------------------------------------------------------------------+-------------------------------------------------------+
++--------------+-----------------------------------+------------------+
+| **COURSES OF |                                   |                  |
+| ACTION OPEN  |                                   |                  |
+| TO           |                                   |                  |
+| APPLICANTS** |                                   |                  |
++==============+===================================+==================+
+| Divorce      | Nullity                           | Judicial         |
+|              |                                   | Separation       |
++--------------+-----------------------------------+------------------+
+| Legal        | Voiding marriage in its entirety, | Allows parties   |
+| procedure    | putting parties in the position   | to live          |
+| ending       | as if they have never been        | separately       |
+| marriage     | married                           | without          |
+|              |                                   | divorcing        |
+|              |                                   |                  |
+|              |                                   | Reasons:         |
+|              |                                   | Religion or      |
+|              |                                   | marriage for     |
+|              |                                   | less than 3      |
+|              |                                   | years            |
++--------------+-----------------------------------+------------------+
 
 Divorce
 -------
@@ -60,15 +64,13 @@ proceedings.
 This approach will place a much greater emphasis on addressing the
 interests of children in a divorce. This includes:
 
-1. Expanding the mandate of the existing Counselling and Psychological
-   Services of the State Courts;
-
-2. Appointing Child Representatives. This could take the form of a
-   lawyer appointed to be the child’s advocate or a social worker or
-   medical expert if one is required; and
-
-3. Enlisting the assistance of social and psychological service
-   professionals to protect the best interests of the child.
+1.  Expanding the mandate of the existing Counselling and Psychological
+    Services of the State Courts;
+2.  Appointing Child Representatives. This could take the form of a
+    lawyer appointed to be the child’s advocate or a social worker or
+    medical expert if one is required; and
+3.  Enlisting the assistance of social and psychological service
+    professionals to protect the best interests of the child.
 
 **Divorce Support Specialist Agencies**
 
@@ -93,22 +95,20 @@ lawyer could consider hiring an FLP-accreditated lawyer.r
 
 Before filing for divorce, parties should consider:
 
-1. The possibility of reconciliation. Project HEART is a programme to
-   aid couples in their efforts to salvage their marriage.
-
-2. Whether they require more information on what to expect when they
-   embark on divorce proceedings. Parties may find it useful to read
-   relevant Family Court pamphlets, or to attend a pre-filing
-   information session before filing their divorce application.
-
-3. Whether they require the assistance of the “Court Friend” scheme,
-   whch provides practical support and help to unrepresented litigants.
-
-4. Couples with children must undergo a pre-filing consultation session,
-   unless they are able to agree on the divorce and all ancillary
-   matters. The objective of the consultation session is to help parents
-   understand the importance of co-parenting and the practical isues
-   arising in a divorce that may have an impact on children.
+1.  The possibility of reconciliation. Project HEART is a programme to
+    aid couples in their efforts to salvage their marriage.
+2.  Whether they require more information on what to expect when they
+    embark on divorce proceedings. Parties may find it useful to read
+    relevant Family Court pamphlets, or to attend a pre-filing
+    information session before filing their divorce application.
+3.  Whether they require the assistance of the “Court Friend” scheme,
+    whch provides practical support and help to unrepresented litigants.
+4.  Couples with children must undergo a pre-filing consultation
+    session, unless they are able to agree on the divorce and all
+    ancillary matters. The objective of the consultation session is to
+    help parents understand the importance of co-parenting and the
+    practical isues arising in a divorce that may have an impact on
+    children.
 
 The Family Court will practice differentiated case management for
 different types of cases entering the court system.
@@ -117,9 +117,8 @@ different types of cases entering the court system.
 
 A divorce petition usually comprises 2 parties:
 
-1. The Plaintiff – the spouse filing the Petition.
-
-2. The Defendant – the other spouse.
+1.  The Plaintiff – the spouse filing the Petition.
+2.  The Defendant – the other spouse.
 
 If the Divorce is based on the factual situation of Adultery, the 3rd
 party may be named in the Petition and he or she is known as the
@@ -127,41 +126,36 @@ party may be named in the Petition and he or she is known as the
 
 **Brief Outline of Divorce Procedure**
 
-1. STAGE 1 – Interim Judgment: When a Judge of the Family Court grants
-   your divorce, he or she will hand down an Interim Judgment of
-   Divorce. This is the end of the first stage of your divorce
-   proceedings.
-
-2. STAGE 2 – Ancillary Matters: The Interim Judgment does not settle
-   issues about the children, property or maintenance. In legal
-   language, issues about the children, property and maintenance are
-   known as ‘\ *ancillary matters*.’ The ancillary matters are usually
-   dealt with *after* the Court has granted the Interim Judgment. This
-   is the second stage of divorce proceedings.
-
-3. STAGE 3 – Final Judgment: You must wait until the Court has dealt
-   with all the ancillary matters in your divorce, or for three months,
-   whichever is later, before you can apply for a Certificate of Making
-   Interim Judgment Final, or Final Judgment. You can only remarry after
-   you have obtained Final Judgment.
+1.  STAGE 1 – Interim Judgment: When a Judge of the Family Court grants
+    your divorce, he or she will hand down an Interim Judgment of
+    Divorce. This is the end of the first stage of your divorce
+    proceedings.
+2.  STAGE 2 – Ancillary Matters: The Interim Judgment does not settle
+    issues about the children, property or maintenance. In legal
+    language, issues about the children, property and maintenance are
+    known as ‘*ancillary matters*.’ The ancillary matters are usually
+    dealt with *after* the Court has granted the Interim Judgment. This
+    is the second stage of divorce proceedings.
+3.  STAGE 3 – Final Judgment: You must wait until the Court has dealt
+    with all the ancillary matters in your divorce, or for three months,
+    whichever is later, before you can apply for a Certificate of Making
+    Interim Judgment Final, or Final Judgment. You can only remarry
+    after you have obtained Final Judgment.
 
 **Who can apply for a divorce?**
 
 A party can obtain a divorce in the Family Court if the party **or**
 his/her spouse:
 
-1. Is domiciled in Singapore at the time of commencement of divorce
-   proceedings.
-
-   a. A Singapore Citizen shall be deemed, until the contrary is proved,
-      to be domiciled in Singapore.
-
-   b. The requirement of domicile goes beyond mere residency, it is
-      fulfilled as long as the party considers Singapore his or her
-      home, and intends to reside in Singapore indefinitely.
-
-2. Has lived in Singapore for at least three years immediately before
-   the commencement of divorce proceedings.
+1.  Is domiciled in Singapore at the time of commencement of divorce
+    proceedings.
+    a.  A Singapore Citizen shall be deemed, until the contrary is
+        proved, to be domiciled in Singapore.
+    b.  The requirement of domicile goes beyond mere residency, it is
+        fulfilled as long as the party considers Singapore his or her
+        home, and intends to reside in Singapore indefinitely.
+2.  Has lived in Singapore for at least three years immediately before
+    the commencement of divorce proceedings.
 
 **Three-Year Marriage Requirement**
 
@@ -171,10 +165,12 @@ Court’s permission) to make their divorce application.
 
 Leave of Court in this case will be given if a party proves that:
 
-1. He or she has suffered exceptional hardship during the marriage, or
+1.  He or she has suffered exceptional hardship during the marriage, or
+2.  
 
-2. The other spouse has behaved with exceptional depravity, meaning that
-       he or she has behaved unusually badly.
+    The other spouse has behaved with exceptional depravity, meaning that
+
+    :   he or she has behaved unusually badly.
 
 The party must apply for leave of Court by originating summons,
 supported with a supporting affidavit explaining the grounds for your
@@ -198,122 +194,202 @@ Charter.
 To prove that his/her marriage has irrevocablybroken down, a party must
 satisfy the Court that one or more of the following facts is true:
 
--  That the other spouse has committed *adultery*, and the party finds
-   it *intolerable* to live with him or her.
+-   That the other spouse has committed *adultery*, and the party finds
+    it *intolerable* to live with him or her.
+-   That the other spouse has *behaved* in such a way that the party
+    cannot reasonably be expected to live with him or her.
+-   That the other spouse has *deserted the party for a continuous
+    period of at least two years*.
+-   If the other spouse *agrees to the divorce*, that the party and the
+    other spouse have *lived apart for a continuous period of at least
+    three years*.
+-   If the other spouse *does not agree to the divorce*, that the party
+    and the other spouse have *lived apart for a continuous period* of
+    *at least four years*.
 
--  That the other spouse has *behaved* in such a way that the party
-   cannot reasonably be expected to live with him or her.
+### Divorce Case Flow[^1]
 
--  That the other spouse has *deserted the party for a continuous period
-   of at least two years*.
++-------+--------------------------------------------------------------+
+| **FIR | > APPLY for a divorce by filing a **Writ for Divorce** and   |
+| ST ST | > related papers                                             |
+| AGE** |                                                              |
+|       | ------------------------------------------------------------ |
+| :   + | ------------------------------------------------------------ |
+|       | ----------------------------+                                |
+|     + |                                                              |
+|       | :   First day at Court:                                      |
+|     + |                                                              |
+|       | ------------------------------------------------------------ |
+|     + | ------------------------------------------------------------ |
+|       | ----------------------------+                                |
+|     + |                                                              |
+|       | :   STATUS CONFERENCE IN CHAMBERS                            |
+|     + |                                                              |
+|       | ------------------------------------------------------------ |
+|     + | ------------------------------------------------------------ |
+|       | ----------------------------+                                |
+|     + |                                                              |
+|       | :   | If you have not **set down** your application for      |
+|     + |       hearing (formally asking the Court for a hearing date  |
+|       |       for your divorce) after six weeks,                     |
+|     + |     | the Court will ask you to attend a Status              |
+|       |       Conference. A Status Conference is conducted by a      |
+|       |       Deputy Registrar of the Family Court.                  |
+|       |     | The Deputy Registrar will check if you have **served** |
+|       |       your application on the other party. If you have, and  |
+|       |       the other party is present,                            |
+|       |     | the Deputy Registrar will make certain **orders** to   |
+|       |       help both parties reach an agreement on the divorce,   |
+|       |       if this is possible.                                   |
+|       |                                                              |
+|       | ------------------------------------------------------------ |
+|       | ------------------------------------------------------------ |
+|       | ----------------------------+                                |
+|       |                                                              |
+|       | :   Your next most likely Court date:                        |
+|       |                                                              |
+|       | ------------------------------------------------+----------- |
+|       | ---------------------------------------+-------------------- |
+|       | ----------------------------+                                |
+|       |                                                              |
+|       | :   | **COUNSELLING** | | **RESOLUTION CONFERENCE** | |      |
+|       |       **JOINT CONFERENCE**                                   |
+|       |     | with a professional Court counsellor to help | | with  |
+|       |       a Family Court Judge to help both parties | | with a   |
+|       |       Family Court Judge and a professional                  |
+|       |     | both parties resolve their differences over | |        |
+|       |       resolve their differences over the legal | | Court     |
+|       |       counsellor to help with both the                       |
+|       |     | the emotional aspects of the divorce | | aspects of    |
+|       |       the divorce | | emotional and legal aspects of the     |
+|       |       dispute                                                |
+|       |                                                              |
+|       | ------------------------------------------------+----------- |
+|       | -----------+---------------------------+-------------------- |
+|       | ----------------------------+                                |
+|       |                                                              |
+|       | :   If there is no settlement: | If there is a settlement:   |
+|       |                                                              |
+|       | ------------------------------------------------------------ |
+|       | -----------+------------------------+----------------------- |
+|       | ----------------------------+                                |
+|       |                                                              |
+|       | :   Plaintiff asks the Court to **set down** the divorce for |
+|       |     hearing                                                  |
+|       |                                                              |
+|       | ------------------------------------------------------------ |
+|       | -----------+------------------------------------------------ |
+|       | ----------------------------+                                |
+|       |                                                              |
+|       | :   PRE-TRIAL CONFERENCE IN CHAMBERS |                       |
+|       |                                                              |
+|       | ------------------------------------------------------------ |
+|       | -----------+                                                 |
+|       |                                                              |
+|       | :   | A Pre-Trial Conference is conducted by a Deputy        |
+|       |       Registrar of the |                                     |
+|       |     | Family Court. The purpose of a Pre-Trial Conference is |
+|       |       to help | UNCONTESTED DIVORCE HEARING IN OPEN COURT    |
+|       |     | both parties get ready for the divorce hearing. |      |
+|       |                                                              |
+|       | ------------------------------------------------------------ |
+|       | -----------+                                                 |
+|       |                                                              |
+|       | :   CONTESTED DIVORCE TRIAL IN OPEN COURT |                  |
++-------+--------------------------------------------------------------+
+|       | INTERIM JUDGMENT                                             |
++-------+--------------------------------------------------------------+
+| **SEC | > ANCILLARY MATTERS PRE-TRIAL CONFERENCE IN CHAMBERS         |
+| OND S |                                                              |
+| TAGE* | ------------------------------------------------------------ |
+| *     | ------------------------------------------------------------ |
+|       | ----------------------------+                                |
+| :   + |                                                              |
+|       | :   | An Ancillary Matters Pre-Trial Conference is conducted |
+|   +   |       by a Deputy Registrar of the Family Court. He or she   |
+|       |       may make certain **orders** to                         |
+| > +   |     | help both parties come to an agreement on the disputed |
+|       |       ancillary matters, including orders for the disclosure |
+|   +   |       of financial documents,                                |
+|       |     | or for parties to attend counseling or a resolution    |
+| > +   |       conference.                                            |
+| >     |                                                              |
+| > +   | ------------------------------------------------------------ |
+| >     | -----------+------------------------------------------------ |
+| > +   | ----------------------------+                                |
+|       |                                                              |
+|       | :   | **COUNSELLING** | | **RESOLUTION CONFERENCE**          |
+|       |     | with a professional Court counsellor especially | |    |
+|       |       with a Judge to help both parties resolve their        |
+|       |       differences.                                           |
+|       |     | if children’s issues are in dispute |                  |
+|       |                                                              |
+|       | ------------------------------------------------------------ |
+|       | -----------+------------------------------------------------ |
+|       | ----------------------------+                                |
+|       |                                                              |
+|       | :   ANCILLARY MATTERS PRE-TRIAL CONFERENCE IN CHAMBERS | If  |
+|       |     there is a settlement:                                   |
+|       |                                                              |
+|       | ------------------------------------------------------------ |
+|       | -----------+------------------------------------------------ |
+|       | ----------------------------+                                |
+|       |                                                              |
+|       | :   Filing of Affidavits of Assets and Means |               |
+|       |                                                              |
+|       | ------------------------------------------------------------ |
+|       | -----------+                                                 |
+|       |                                                              |
+|       | :   | If there are children, a counsellor or social worker   |
+|       |       may have to |                                          |
+|       |     | prepare a report for the Judge to consider at the      |
+|       |       contested | CONSENT ANCILLARY MATTERS HEARING          |
+|       |     | ancillary matters hearing |                            |
+|       |                                                              |
+|       | ------------------------------------------------------------ |
+|       | -----------+                                                 |
+|       |                                                              |
+|       | :   CONTESTED ANCILLARY MATTERS HEARING IN CHAMBERS |        |
+|       |                                                              |
+|       | ------------------------------------------------------------ |
+|       | -----------+------------------------------------------------ |
+|       | ----------------------------+                                |
+|       |                                                              |
+|       | :   FINAL JUDGMENT                                           |
++-------+--------------------------------------------------------------+
 
--  If the other spouse *agrees to the divorce*, that the party and the
-   other spouse have *lived apart for a continuous period of at least
-   three years*.
-
--  If the other spouse *does not agree to the divorce*, that the party
-   and the other spouse have *lived apart for a continuous period* of
-   *at least four years*.
-
-Divorce Case Flow [15]_
-~~~~~~~~~~~~~~~~~~~~~~~
-
-+--------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
-| **FIRST STAGE**    | APPLY for a divorce by filing a **Writ for Divorce** and related papers                                                                            |
-|                    +----------------------------------------------------------------------------------------------------------------------------------------------------+
-|                    | First day at Court:                                                                                                                                |
-|                    +----------------------------------------------------------------------------------------------------------------------------------------------------+
-|                    | STATUS CONFERENCE IN CHAMBERS                                                                                                                      |
-|                    +----------------------------------------------------------------------------------------------------------------------------------------------------+
-|                    | | If you have not **set down** your application for hearing (formally asking the Court for a hearing date for your divorce) after six weeks,       |
-|                    | | the Court will ask you to attend a Status Conference. A Status Conference is conducted by a Deputy Registrar of the Family Court.                |
-|                    | | The Deputy Registrar will check if you have **served** your application on the other party. If you have, and the other party is present,         |
-|                    | | the Deputy Registrar will make certain **orders** to help both parties reach an agreement on the divorce, if this is possible.                   |
-|                    +----------------------------------------------------------------------------------------------------------------------------------------------------+
-|                    | Your next most likely Court date:                                                                                                                  |
-|                    +------------------------------------------------+--------------------------------------------------+------------------------------------------------+
-|                    | | **COUNSELLING**                              | | **RESOLUTION CONFERENCE**                      | | **JOINT CONFERENCE**                         |
-|                    | | with a professional Court counsellor to help | | with a Family Court Judge to help both parties | | with a Family Court Judge and a professional |
-|                    | | both parties resolve their differences over  | | resolve their differences over the legal       | | Court counsellor to help with both the       |
-|                    | | the emotional aspects of the divorce         | | aspects of the divorce                         | | emotional and legal aspects of the dispute   |
-|                    +------------------------------------------------+----------------------+---------------------------+------------------------------------------------+
-|                    | If there is no settlement:                                            | If there is a settlement:                                                  |
-|                    +-----------------------------------------------------------------------+------------------------+---------------------------------------------------+
-|                    | Plaintiff asks the Court to **set down** the divorce for hearing                                                                                   |
-|                    +-----------------------------------------------------------------------+----------------------------------------------------------------------------+
-|                    | PRE-TRIAL CONFERENCE IN CHAMBERS                                      |                                                                            |
-|                    +-----------------------------------------------------------------------+                                                                            |
-|                    | | A Pre-Trial Conference is conducted by a Deputy Registrar of the    |                                                                            |
-|                    | | Family Court. The purpose of a Pre-Trial Conference is to help      |  UNCONTESTED DIVORCE HEARING IN OPEN COURT                                 |
-|                    | | both parties get ready for the divorce hearing.                     |                                                                            |
-|                    +-----------------------------------------------------------------------+                                                                            |
-|                    | CONTESTED DIVORCE TRIAL IN OPEN COURT                                 |                                                                            |
-+--------------------+-----------------------------------------------------------------------+----------------------------------------------------------------------------+
-|                    | INTERIM JUDGMENT                                                                                                                                   |
-+--------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
-| **SECOND STAGE**   | ANCILLARY MATTERS PRE-TRIAL CONFERENCE IN CHAMBERS                                                                                                 |
-|                    +----------------------------------------------------------------------------------------------------------------------------------------------------+
-|                    | | An Ancillary Matters Pre-Trial Conference is conducted by a Deputy Registrar of the Family Court. He or she may make certain **orders** to       |
-|                    | | help both parties come to an agreement on the disputed ancillary matters, including orders for the disclosure of financial documents,            |
-|                    | | or for parties to attend counseling or a resolution conference.                                                                                  |
-|                    +-----------------------------------------------------------------------+----------------------------------------------------------------------------+
-|                    | | **COUNSELLING**                                                     | | **RESOLUTION CONFERENCE**                                                |
-|                    | | with a professional Court counsellor especially                     | | with a Judge to help both parties resolve their differences.             |
-|                    | | if children’s issues are in dispute                                 |                                                                            |
-|                    +-----------------------------------------------------------------------+----------------------------------------------------------------------------+
-|                    | ANCILLARY MATTERS PRE-TRIAL CONFERENCE IN CHAMBERS                    | If there is a settlement:                                                  |
-|                    +-----------------------------------------------------------------------+----------------------------------------------------------------------------+
-|                    | Filing of Affidavits of Assets and Means                              |                                                                            |
-|                    +-----------------------------------------------------------------------+                                                                            |
-|                    | | If there are children, a counsellor or social worker may have to    |                                                                            |
-|                    | | prepare a report for the Judge to consider at the contested         | CONSENT ANCILLARY MATTERS HEARING                                          |
-|                    | | ancillary matters hearing                                           |                                                                            |
-|                    +-----------------------------------------------------------------------+                                                                            |
-|                    | CONTESTED ANCILLARY MATTERS HEARING IN CHAMBERS                       |                                                                            |
-|                    +-----------------------------------------------------------------------+----------------------------------------------------------------------------+
-|                    | FINAL JUDGMENT                                                                                                                                     |
-+--------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
-
-
-Divorce Proceedings at Court
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Divorce Proceedings at Court
 
 Please note that contested divorces are usually much more time-consuming
 and costly than uncontested divorce hearings.
 
 **FIRST STAGE OF DIVORCE CASE**
 
-**1. Starting proceedings**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### **1. Starting proceedings**
 
 To start divorce proceedings, you must file the following documents in
 Court:
 
-1. **Writ for Divorce, Statement of Claim and Statement of Particulars-**
-   The Statement of Claim must specify on which grounds (adultery,
-   unreasonable behaviour, three years’ separation with consent or four
-   years’ separation) you are relying on to ask the Court to grant you a
-   divorce. In the Statement of Particulars, give details of the fact
-   that you are relying on.
-
-2. **Proposed Parenting Plan if you have children below 21 -** File an
-   Agreed Parenting Plan if you and your spouse (the Defendant) have
-   managed to agree on the care arrangements for your children after the
-   divorce.
-
-3. **Proposed Matrimonial Property Plan -**\ If there is a Housing and
-   Development Board (HDB) flat to be divided between you and the
-   Defendant. File an Agreed Matrimonial Property Plan if you have
-   managed to agree on what to do with the HDB flat after the divorce.
-
-4. **Acknowledgment of Service**
-
-5. **Memorandum of Appearance**
+1.  **Writ for Divorce, Statement of Claim and Statement of
+    Particulars-** The Statement of Claim must specify on which grounds
+    (adultery, unreasonable behaviour, three years’ separation with
+    consent or four years’ separation) you are relying on to ask the
+    Court to grant you a divorce. In the Statement of Particulars, give
+    details of the fact that you are relying on.
+2.  **Proposed Parenting Plan if you have children below 21 -** File an
+    Agreed Parenting Plan if you and your spouse (the Defendant) have
+    managed to agree on the care arrangements for your children after
+    the divorce.
+3.  **Proposed Matrimonial Property Plan -**If there is a Housing and
+    Development Board (HDB) flat to be divided between you and the
+    Defendant. File an Agreed Matrimonial Property Plan if you have
+    managed to agree on what to do with the HDB flat after the divorce.
+4.  **Acknowledgment of Service**
+5.  **Memorandum of Appearance**
 
 You will need to pay the appropriate filing fee.
 
-**2. Service**
-^^^^^^^^^^^^^^
+#### **2. Service**
 
 If your documents are in order, the Family Registry will accept your
 documents for filing. Copies of your documents with the Court seal on
@@ -325,20 +401,17 @@ that you have started divorce proceedings in Court.
 
 You must serve the sealed copies in one of the following ways:
 
-1. By personal service, which means that the documents must be handed to
-   the Defendant directly by someone authorized to do so, such as a
-   court process server;
+1.  By personal service, which means that the documents must be handed
+    to the Defendant directly by someone authorized to do so, such as a
+    court process server;
+2.  By registered post to the Defendant’s address, but only if the
+    Defendant signs and returns the Acknowledgment of Service to you;
+3.  By the Integrated Electronic Litigation System (eLitigation) on the
+    Defendant’s lawyer, if he or she has one, but only if the
+    Defendant’s lawyer indicates on the documents that he or she accepts
+    service on behalf of the Defendant.
 
-2. By registered post to the Defendant’s address, but only if the
-   Defendant signs and returns the Acknowledgment of Service to you;
-
-3. By the Integrated Electronic Litigation System (eLitigation) on the
-   Defendant’s lawyer, if he or she has one, but only if the Defendant’s
-   lawyer indicates on the documents that he or she accepts service on
-   behalf of the Defendant.
-
-**3. Your first court date**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### **3. Your first court date**
 
 If the Defendant and yourself have agreed on a divorce, and if the
 Defendant has no dispute over what you have said in your Statement of
@@ -375,8 +448,7 @@ Trial.
 The Court may proceed to fix a divorce hearing date, hear the case, and
 grant the divorce in your absence.
 
-**4. Divorce hearing**
-^^^^^^^^^^^^^^^^^^^^^^
+#### **4. Divorce hearing**
 
 The Court will send you a letter to notify you of your next court date
 once you have filed your Request for Setting Down Action for Trial.
@@ -415,8 +487,7 @@ independent legal advice immediately.
 Further information on Pre-Trial Conferences may be found at paragraph
 90 of the Practice Directions.
 
-**5. Interim Judgment**
-^^^^^^^^^^^^^^^^^^^^^^^
+#### **5. Interim Judgment**
 
 At the end of both types of divorce hearing, the Judge will grant an
 Interim Judgment if he or she is satisfied that the marriage has
@@ -429,8 +500,7 @@ Interim Judgment has been made final.
 
 **SECOND STAGE OF DIVORCE CASE**
 
-**6. Ancillary matters pre-trial process**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### **6. Ancillary matters pre-trial process**
 
 The second stage begins when an Ancillary Matters Pre-Trial Conference
 is called. This is usually called within a month of the Interim Judgment
@@ -462,8 +532,7 @@ independent legal advice immediately.
 Further information on Ancillary Matters Pre-Trial Conferences may be
 found at paragraph 90 of the Practice Directions.
 
-**7. Ancillary matters hearing**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### **7. Ancillary matters hearing**
 
 If both parties manage to reach an agreement on the ancillary matters,
 the Court will give directions for a consent ancillary matters hearing
@@ -477,8 +546,8 @@ If there is no agreement, the Deputy Registrar will fix your case for a
 contested ancillary matters hearing.
 
 Please note that if either party declares that the gross value of the
-matrimonial property to be divided between you is S$1.5 million or more,
-your case must be transferred to the High Court for the contested
+matrimonial property to be divided between you is S\$1.5 million or
+more, your case must be transferred to the High Court for the contested
 ancillary matters hearing.
 
 You would make such a declaration when the Deputy Registrar asks you to
@@ -486,16 +555,14 @@ complete the Declaration of the Value of Matrimonial Assets (Form 19B).
 The Deputy Registrar will normally ask both parties to complete Form 19B
 at an Ancillary Matters Pre-Trial Conference.
 
-**8. Certificate of Making Interim Judgment Final**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### **8. Certificate of Making Interim Judgment Final**
 
 Three months after the Court has granted an Interim Judgment, you may
 proceed to apply for the *Certificate of Making Interim Judgment Final*.
 
 This will confirm your divorce, and conclude all Court proceedings.
 
-Muslim Marriages
-~~~~~~~~~~~~~~~~~
+### Muslim Marriages
 
 **Can the Family Court grant a divorce to a Muslim couple, or to a
 couple married under the Muslim law?**
@@ -610,20 +677,21 @@ shortened?**
 
 Generally this relief isn’t available within the first three years of
 marriage. There is an exception to this 3-year minimum rule where the
-case is one of ‘exceptional hardship’. [16]_ The factors which the court
+case is one of ‘exceptional hardship’.[^2] The factors which the court
 must consider in deciding whether to grant leave would include if there
 was any child of the marriage and whether there is a any reasonable
 chance of reconciliation between the parties within the 3-year
-period. [17]_
+period.[^3]
 
 **Can we put forward a self-drafted agreement in respect of division of
-matrimonial assets in connection with the grant of judgment of divorce?**
+matrimonial assets in connection with the grant of judgment of
+divorce?**
 
 Once the divorce proceedings reach the ancillary stage (ie. after a
 final order for divorce has been granted by a court), any agreement
 between the parties concerning the ownership and division of matrimonial
 assets made in contemplation of divorce may be considered by a court
-when deciding on such matters. [18]_
+when deciding on such matters.[^4]
 
 **What happens if one party wants a divorce and the other only wants a
 separation?**
@@ -646,15 +714,14 @@ Singapore court to seek financial relief?**
 You can apply to the Singapore court to seek financial relief provided
 that:
 
-1. The divorce in the foreign country must be recognized as valid in
-   Singapore under Singaporean law; and
-
-2. either party to the marriage was domiciled in Singapore on the date
-   of application or was so domiciled on the date the divorce took
-   effect in the foreign country or either party was habitually resident
-   in Singapore for a continuous period of one year immediately before
-   the date of application or the date in which the divorce took effect
-   in the foreign country.
+1.  The divorce in the foreign country must be recognized as valid in
+    Singapore under Singaporean law; and
+2.  either party to the marriage was domiciled in Singapore on the date
+    of application or was so domiciled on the date the divorce took
+    effect in the foreign country or either party was habitually
+    resident in Singapore for a continuous period of one year
+    immediately before the date of application or the date in which the
+    divorce took effect in the foreign country.
 
 However, before any Singapore court can make an order granting financial
 relief it must decide whether Singapore is the ‘natural forum’ for the
@@ -663,37 +730,29 @@ courts must consider:
 
 (a) The connection which the parties to the marriage have with
     Singapore.
-
 (b) The connection which those parties have with the country in which
     the marriage was dissolved.
-
 (c) The connection which those parties have with any other foreign
     country.
-
 (d) Any financial benefit which the applicant or a child of the marriage
     has received, or is likely to receive, in consequence of the divorce
     or by virtue of any agreement or the operation of the law of a
     foreign country.
-
 (e) In a case where an order has been made by a court of competent
     jurisdiction in a foreign country requiring the other party to the
     marriage to make any payment or transfer any property for the
     benefit of the applicant or a child of the marriage, the financial
     relief given by the order and the extent to which the order has been
     complied with or is likely to be complied with
-
 (f) Any right which the applicant has, or has had, to apply for
     financial relief from the other party to the marriage under the law
     of any foreign country, and if the applicant has omitted to exercise
     that right, the reason for that omission.
-
 (g) The availability in Singapore of any matrimonial asset in respect of
     which an order could be made.
-
 (h) The extent to which any order is likely to be enforceable.
-
 (i) The length of time which has elapsed since the date of the
-    divorce [19]_.
+    divorce[^5].
 
 **Will the court consider the interests of my children when deciding
 whether to grant my divorce?**
@@ -714,7 +773,7 @@ statement of claim, unless the court directs otherwise.
 
 Bigamy in Singapore is regarded a criminal offence in Singapore. The
 penalty for such offence is of imprisonment up to 7 years as well as a
-fine. [20]_
+fine.[^6]
 
 Nullity
 -------
@@ -731,23 +790,18 @@ marriage at the point when it was formed.
 
 *Applicable to a marriage which takes place after* **1st June 1981**
 
--  The marriage has not been consummated owing to the incapacity of
-   either party to consummate it.
-
--  The marriage has not been consummated owing to the willful refusal of
-   the respondent to consummate it.
-
--  Lack of consent; the marriage was not consensual on both parties,
-   whether in consequence of duress, mistake, mental disorder or
-   otherwise.
-
--  Mental illness rendering the person unfit for marriage
-
--  Respondent suffered from Communicable Venereal Disease prior to
-   marriage
-
--  At the time of the marriage the wife respondent was pregnant by some
-   person other than the petitioner.
+-   The marriage has not been consummated owing to the incapacity of
+    either party to consummate it.
+-   The marriage has not been consummated owing to the willful refusal
+    of the respondent to consummate it.
+-   Lack of consent; the marriage was not consensual on both parties,
+    whether in consequence of duress, mistake, mental disorder or
+    otherwise.
+-   Mental illness rendering the person unfit for marriage
+-   Respondent suffered from Communicable Venereal Disease prior to
+    marriage
+-   At the time of the marriage the wife respondent was pregnant by some
+    person other than the petitioner.
 
 The above list is not exhaustive. To rely on the grounds of mental
 illness, lack of consent, pregnancy and venereal disease, the
@@ -758,22 +812,18 @@ proceedings must be instituted within 3 years from the date of marriage.
 If any of the following situations exist, then the marriage is
 considered void at law i.e. no legal marriage has ever taken place:
 
-1) Either party is under the age of 18 years old and is married without
-   the Minister's special permission.
-
-2) Spouses are closely related (such relationships are set out in the
-   Women's Charter) and the Minister's permission has not been obtained.
-
-3) A marriage celebrated outside Singapore fails to comply with the law
-   of that country.
-
-4) Either party is already married.
-
-5) Person who solemnized the marriage does not have the authority /
-   valid license to do so.
-
-6) The parties are of the same sex as stated in their respective
-   documents of identity.
+1)  Either party is under the age of 18 years old and is married without
+    the Minister's special permission.
+2)  Spouses are closely related (such relationships are set out in the
+    Women's Charter) and the Minister's permission has not been
+    obtained.
+3)  A marriage celebrated outside Singapore fails to comply with the law
+    of that country.
+4)  Either party is already married.
+5)  Person who solemnized the marriage does not have the authority /
+    valid license to do so.
+6)  The parties are of the same sex as stated in their respective
+    documents of identity.
 
 A child of a void marriage born on or after **2nd May 1975** shall be
 deemed the legitimate child of his/her parents if at the date of the
@@ -786,11 +836,11 @@ intestate (without a will).
 The Court will not grant a decree of nullity in such voidable marriages
 if the Respondent convinces the Court that:
 
-a. The Petitioner, knowing that he/she has grounds for nullity, gave the
-   Respondent the impression that he/she would not seek such a decree.
-
-b. It would be unjust to the Respondent for the Court to grant the
-   decree.
+a.  The Petitioner, knowing that he/she has grounds for nullity, gave
+    the Respondent the impression that he/she would not seek such a
+    decree.
+b.  It would be unjust to the Respondent for the Court to grant the
+    decree.
 
 **What about the status of any child of a marriage that has been
 annulled?**
@@ -830,12 +880,9 @@ proceedings for various reasons. This is possible if you apply to the
 Court for Judicial Separation:
 
 (a) Adultery.
-
 (b) Unreasonable behaviour.
-
 (c) Desertion for a continuous period of at least 2 years immediately
     preceding the presentation of the petition.
-
 (d) Separation for 3 or 4 years with consent.
 
 **What is the effect of a Judicial Separation?**
@@ -861,8 +908,7 @@ restriction on petitions for divorces.
 Yes. The Court can deal with matters such as custody of the children,
 maintenance and the division of matrimonial assets.
 
-Deed of Separation [21]_
-~~~~~~~~~~~~~~~~~~~~~~~~
+### Deed of Separation[^7]
 
 You may wish to be separated from your spouse for a period of time
 before you decide on a divorce. In the meantime, the parties can still
@@ -906,16 +952,12 @@ Ancillary Matters Upon Divorce
 Ancillary matters that a court will adjudicate upon after granting the
 Interim Judgment includes the following:
 
-1. Custody, care and control, and access to any child of the marriage
+1.  Custody, care and control, and access to any child of the marriage
+2.  Maintenance of a wife or ex-wife
+3.  Maintenance of a child or children
+4.  Division of matrimonial property
 
-2. Maintenance of a wife or ex-wife
-
-3. Maintenance of a child or children
-
-4. Division of matrimonial property
-
-Custody, Care and Control, and Access [22]_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Custody, Care and Control, and Access[^8]
 
 In any hearing pertaining to the custody, care and control, or access to
 a child, the court’s primary and overriding consideration will be the
@@ -944,85 +986,92 @@ There are two Service Bureaux in Singapore:
 | 1 Supreme Court Lane
 | Level 1, Supreme Court Building
 | Singapore 178879
-|
+| 
 
-`6337 9164 <tel:+6563379164>`__
+[6337 9164](tel:+6563379164)
 
 **Chinatown Point LawNet / EFS Service Bureau**
 
 | 133 New Bridge Road
-| #19-01/02 Chinatown Point
+| \#19-01/02 Chinatown Point
 | Singapore 059413
-|
+| 
 
-`6538 9507 <tel:+6565389507>`__
+[6538 9507](tel:+6565389507)
 
-Proceedings for Obtaining Custody, Care and Control, and Access
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Proceedings for Obtaining Custody, Care and Control, and Access
 
 **Original Summons Case Flow**
 
 How your case may progress through the Family Court:
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------+
-| **APPLY for custody, care and control or access by filing an Originating Summons and related papers**                                              |
-+----------------------------------------------------------------------------------------------------------------------------------------------------+
-| First day at Court:                                                                                                                                |
-+----------------------------------------------------------------------------------------------------------------------------------------------------+
-| **PRE-TRIAL CONFERENCE IN CHAMBERS**                                                                                                               |
-+----------------------------------------------------------------------------------------------------------------------------------------------------+
-| | A Pre-Trial Conference is conducted by a Deputy Registrar of the Family Court. The purpose of a                                                  |
-| | Pre-Trial Conference is to help both parties get ready for the hearing of the Originating Summons.                                               |
-| | If it might be possible to reach an amicable settlement of the matter, the Deputy Registrar will                                                 |
-| | refer the parties for counseling, a Resolution Conference, or a Joint Conference.                                                                |
-+----------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Your next most likely Court date:**                                                                                                              |
-+------------------------------------------------+--------------------------------------------------+------------------------------------------------+
-| | **COUNSELLING**                              | | **RESOLUTION CONFERENCE**                      | | **JOINT CONFERENCE**                         |
-| | with a professional Court counsellor to help | | with a Family Court Judge to help both         | | with a Family Court Judge and a professional |
-| | both parties resolve their differences over  | | parties resolve their differences over         | | Court counsellor to help with both the       |
-| | the emotional aspects of the divorce         | | the legal aspects of the divorce               | | emotional and legal aspects of the dispute   |
-+------------------------------------------------+----------------------+---------------------------+------------------------------------------------+
-| If there is no settlement:                                            | If there is a settlement:                                                  |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+
-| | **PRE-TRIAL CONFERENCE IN CHAMBERS**                                | | **CONSENT ORIGINATING SUMMONS HEARING**                                  |
-| | **HEARING OF ORIGINATING SUMMONS BEFORE**                           | | **BEFORE A DISTRICT JUDGE IN CHAMBERS**                                  |
-| | **A DISTRICT JUDGE IN CHAMBERS**                                    |                                                                            |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+
++-----------------------------------------------------------------------+
+| **APPLY for custody, care and control or access by filing an          |
+| Originating Summons and related papers**                              |
++-----------------------------------------------------------------------+
+| First day at Court:                                                   |
++-----------------------------------------------------------------------+
+| **PRE-TRIAL CONFERENCE IN CHAMBERS**                                  |
++-----------------------------------------------------------------------+
+| | A Pre-Trial Conference is conducted by a Deputy Registrar of the    |
+|   Family Court. The purpose of a                                      |
+| | Pre-Trial Conference is to help both parties get ready for the      |
+|   hearing of the Originating Summons.                                 |
+| | If it might be possible to reach an amicable settlement of the      |
+|   matter, the Deputy Registrar will                                   |
+| | refer the parties for counseling, a Resolution Conference, or a     |
+|   Joint Conference.                                                   |
++-----------------------------------------------------------------------+
+| **Your next most likely Court date:**                                 |
++-----------------------------------------------------------------------+
+| | **COUNSELLING** | | **RESOLUTION CONFERENCE** | | **JOINT           |
+|   CONFERENCE**                                                        |
+| | with a professional Court counsellor to help | | with a Family      |
+|   Court Judge to help both | | with a Family Court Judge and a        |
+|   professional                                                        |
+| | both parties resolve their differences over | | parties resolve     |
+|   their differences over | | Court counsellor to help with both the   |
+| | the emotional aspects of the divorce | | the legal aspects of the   |
+|   divorce | | emotional and legal aspects of the dispute              |
++-----------------------------------------------------------------------+
+| If there is no settlement: | If there is a settlement:                |
++-----------------------------------------------------------------------+
+| | **PRE-TRIAL CONFERENCE IN CHAMBERS** | | **CONSENT ORIGINATING      |
+|   SUMMONS HEARING**                                                   |
+| | **HEARING OF ORIGINATING SUMMONS BEFORE** | | **BEFORE A DISTRICT   |
+|   JUDGE IN CHAMBERS**                                                 |
+| | **A DISTRICT JUDGE IN CHAMBERS** |                                  |
++-----------------------------------------------------------------------+
 
-Starting proceedings
-^^^^^^^^^^^^^^^^^^^^
+#### Starting proceedings
 
 To start guardianship proceedings, you must file the following documents
 in Court:
 
-1. Originating Summons
-
-2. Affidavit in support of the Originating Summons
+1.  Originating Summons
+2.  Affidavit in support of the Originating Summons
 
 The person filing the Originating Summons is the Plaintiff.  The person
 against whom you are filing the Originating Summons is the Defendant.
-Under paragraph 102 of the `Practice
-Directions <http://app.subcourts.gov.sg/subcourts/page.aspx?pageid=4433>`__,
+Under paragraph 102 of the [Practice
+Directions](http://app.subcourts.gov.sg/subcourts/page.aspx?pageid=4433),
 you must exhibit your Marriage Certificate to your affidavit if you are
 or were married to the Defendant.
 
-If there are `Syariah Court <http://www.syariahcourt.gov.sg>`__ divorce
+If there are [Syariah Court](http://www.syariahcourt.gov.sg) divorce
 proceedings between you and the Defendant, Order 84 of the Rules of
 Court requires you to file the following documents with your Originating
 Summons:
 
-1. A Syariah Court commencement certificate; or
-
-2. The parties’ written consent to the commencement of proceedings in
-   the Family Court, and a Syariah Court certificate of attendance.
+1.  A Syariah Court commencement certificate; or
+2.  The parties’ written consent to the commencement of proceedings in
+    the Family Court, and a Syariah Court certificate of attendance.
 
 You will need to pay the appropriate filing
-`fees <http://app.subcourts.gov.sg/family/page.aspx?pageid=3759>`__ for
-all documents filed in Court.
+[fees](http://app.subcourts.gov.sg/family/page.aspx?pageid=3759) for all
+documents filed in Court.
 
-Service
-^^^^^^^^
+#### Service
 
 If your documents are in order, the Family Registry will accept your
 documents for filing.  Copies of your documents with the Court seal on
@@ -1033,16 +1082,14 @@ that you have started these proceedings in Court.
 
 You must serve the sealed copies in one of the following ways:
 
-1. By personal service, which means that the documents must be handed to
-   the Defendant directly by someone authorized to do so, such as a
-   court process server; or
+1.  By personal service, which means that the documents must be handed
+    to the Defendant directly by someone authorized to do so, such as a
+    court process server; or
+2.  By EFS on the Defendant’s lawyer, if he or she has one, but only if
+    the Defendant’s lawyer indicates on the documents that he or she
+    accepts service on behalf of the Defendant.
 
-2. By EFS on the Defendant’s lawyer, if he or she has one, but only if
-   the Defendant’s lawyer indicates on the documents that he or she
-   accepts service on behalf of the Defendant.
-
-Your first Court date
-^^^^^^^^^^^^^^^^^^^^^
+#### Your first Court date
 
 Your first Court date is likely to be a Pre-Trial Conference before a
 Deputy Registrar of the Family Court.  Both you and the Defendant will
@@ -1060,8 +1107,8 @@ reply. 
 
 If there is a possibility for amicable resolution, the Deputy Registrar
 may refer the case for counselling with a professional Court counsellor,
-or for a resolution or joint conference at the `Family Relations
-Chambers <http://app.subcourts.gov.sg/family/page.aspx?pageid=3657>`__. 
+or for a resolution or joint conference at the [Family Relations
+Chambers](http://app.subcourts.gov.sg/family/page.aspx?pageid=3657). 
 
 In a high conflict case, the Deputy Registrar may consider referring the
 matter to a professional Court counsellor or social worker, so that a
@@ -1069,11 +1116,10 @@ confidential report may be prepared for the purpose of the Originating
 Summons hearing.
 
 Further information on Pre-Trial Conferences may be found at paragraphs
-89 and 102 of the `Practice
-Directions <http://app.subcourts.gov.sg/subcourts/page.aspx?pageid=4433>`__.
+89 and 102 of the [Practice
+Directions](http://app.subcourts.gov.sg/subcourts/page.aspx?pageid=4433).
 
-Originating Summons Hearing
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Originating Summons Hearing
 
 If an amicable resolution of your dispute is reached after attendance at
 counselling, or after a resolution or joint conference, a consent order
@@ -1090,8 +1136,7 @@ After hearing both sides, the District Judge will rule on your
 application, and make the necessary orders.  This formally ends the
 Court proceedings. 
 
-Appeals
-^^^^^^^
+#### Appeals
 
 If you are not satisfied with the District Judge’s order, you may appeal
 to a Judge of the High Court.
@@ -1103,45 +1148,40 @@ serve the Notice on the other party within 7 days of it being issued. 
 You may wish to refer to Order 55C of the Rules of Court for further
 details.
 
-The courts’ primary consideration in awarding ‘\ **custody**\ ’, i.e.
-the right to make major decisions about the welfare and upbringing, and
-the '**care and control**' of a child (i.e. the right to have the child
-live with a particular parent and to make day-to-day decisions
-concerning the child), is still “the welfare of the child”.
+The courts’ primary consideration in awarding ‘**custody**’, i.e. the
+right to make major decisions about the welfare and upbringing, and the
+'**care and control**' of a child (i.e. the right to have the child live
+with a particular parent and to make day-to-day decisions concerning the
+child), is still “the welfare of the child”.
 
 When the Court considers the welfare of the child, some relevant factors
 would be:
 
--  The role each parent has played in the child’s life.
+-   The role each parent has played in the child’s life.
+-   The stability that each parent can offer the child.
+-   Whether the child’s existing care arrangements can be left as they
+    are.
+-   The child’s age: care and control of a very young child will
+    normally lie with the mother.
+-   Whether there are siblings: as far as possible, the Court tries not
+    to separate siblings.
+-   The child’s wishes, if he or she is old enough to express an
+    independent opinion.
+-   The parents’ wishes: but it is important to note that this factor
+    comes second to the welfare of the child.
+-   
 
--  The stability that each parent can offer the child.
+    It is now the trend for Singapore to award joint custody to both
 
--  Whether the child’s existing care arrangements can be left as they
-   are.
+    :   parents even though in some situations, the parents obviously do
+        not get along.
 
--  The child’s age: care and control of a very young child will normally
-   lie with the mother.
+-   A court order for custody may be changed later if it can be shown
+    that there has been a substantial change of circumstances since the
+    previous court order, and that the change would be in the best
+    interests of the child.
 
--  Whether there are siblings: as far as possible, the Court tries not
-   to separate siblings.
-
--  The child’s wishes, if he or she is old enough to express an
-   independent opinion.
-
--  The parents’ wishes: but it is important to note that this factor
-   comes second to the welfare of the child.
-
--  It is now the trend for Singapore to award joint custody to both
-       parents even though in some situations, the parents obviously do
-       not get along.
-
--  A court order for custody may be changed later if it can be shown
-   that there has been a substantial change of circumstances since the
-   previous court order, and that the change would be in the best
-   interests of the child.
-
-Commonly Asked Questions on Children’s Issues [23]_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Commonly Asked Questions on Children’s Issues[^9]
 
 **How does the Court decide which parent gets the children?**
 
@@ -1151,15 +1191,14 @@ not change when parents’ divorce.
 
 The Court decides two things:
 
-    1. The first thing to decide is whether one or both parents should
-    have custody of the children. Custody is the right to make major
-    decisions on the welfare and upbringing of the children. Custody can
-    be shared.
-
-    2. The second thing to decide is which parent has care and control
-    of the children. Care and control is the right to have the children
-    live with you, and to make everyday decisions about them. For
-    practical reasons, care and control normally lies with one parent.
+> 1\. The first thing to decide is whether one or both parents should have
+> custody of the children. Custody is the right to make major decisions on
+> the welfare and upbringing of the children. Custody can be shared.
+>
+> 2\. The second thing to decide is which parent has care and control of
+> the children. Care and control is the right to have the children live
+> with you, and to make everyday decisions about them. For practical
+> reasons, care and control normally lies with one parent.
 
 The Court considers the welfare of the child to be the most important
 factor in making its decisions on custody, care and control. The welfare
@@ -1359,7 +1398,7 @@ with a child below 21 studying in Singapore, possibly a long-term
 visitor pass. The Social Visit Pass is valid between two to four weeks
 and may be subsequently renewed for up to three months. Holders of the
 Social Visit Pass are not allowed to work in Singapore. For more details
-on application, please visit `www.ica.gov.sg <http://www.ica.gov.sg>`__.
+on application, please visit [www.ica.gov.sg](http://www.ica.gov.sg).
 
 **What happens if neither parent wants custody?**
 
@@ -1423,10 +1462,10 @@ and/or access dispute between parties. 
 
 Reports may be ordered by the deputy registrar at the ancillary
 pre-trial conference, the court mediator or the judge hearing the
-ancillary matters. [24]_
+ancillary matters.[^10]
 
-Maintenance [25]_
------------------
+Maintenance[^11]
+----------------
 
 Maintenance is financial support.
 
@@ -1434,50 +1473,61 @@ Maintenance is financial support.
 
 How your case may progress through the Family Court:
 
-+---------------------------------------------------------------------------------------------------------------+
-| | APPLY for **maintenance**, or for the enforcement of an existing maintenance order                          |
-| | by filing and swearing/affirming a **Magistrate’s Complaint**                                               |
-+---------------------------------------------------------------------------------------------------------------+
-| | You will be brought before a Magistrate or District Judge. If your application is in order,                 |
-| | the Magistrate or District Judge will direct that a summons to the respondent be issued.                    |
-| | The Court will send a letter to the respondent to inform him or her that attendance in                      |
-| | Court is required for service of the summons.  You must also be present on this date.                       |
-+---------------------------------------------------------------------------------------------------------------+
-| First day at Court:                                                                                           |
-+-------------------------------------------------------------+-------------------------------------------------+
-| If the respondent is **present**                            | If the respondent is **absent**                 |
-+-------------------------------------------------------------+-------------------------------------------------+
-| SERVICE OF THE SUMMONS AND MEDIATION                        | SERVICE OF THE SUMMONS                          |
-+-------------------------------------------------------------+-------------------------------------------------+
-| | The respondent will be served with the summons personally | | You will have to accompany the Court process  |
-| | at the Family Court.  If both of you are agreeable, your  | | server to the respondent’s house for service  |
-| | case will be referred for mediation with a court mediator.| | of the summons.                               |
-+-------------------------------------------------------------+-------------------------------------------------+
-| IF THERE IS AN AGREEMENT BETWEEN THE PARTIES,               | MENTIONS IN FAMILY COURT 1                      |
-|                                                             +-------------------------------------------------+
-|                                                             | | On your next Court date, your case will be    |
-| CONSENT ORDER RECORDED BEFORE MAGISTRATE                    | | mentioned in Family Court 1 before a          |
-|                                                             | | District Judge. The District Judge will order |
-|                                                             | | both parties to disclose financial documents  |
-| OR DISTRICT JUDGE                                           | | and salary slips, and fix trial dates if the  |
-|                                                             | | case is ready for hearing.                    |
-|                                                             |                                                 |
-|                                                             +-------------------------------------------------+
-|                                                             | HEARING IN OPEN COURT                           |
-|                                                             +-------------------------------------------------+
-|                                                             | | Maintenance trials are heard before a         |
-|                                                             | | Magistrate or a District Judge in open court. |
-|                                                             | | The open court trial may take up to one day   |
-|                                                             | | depending on the complexity of the case.      |
-|                                                             | | The Magistrate or District Judge will make    |
-|                                                             | | the necessary orders after the hearing is over|
-|                                                             |                                                 |
-|                                                             +-------------------------------------------------+
-|                                                             | ORDER OF COURT                                  |
-+-------------------------------------------------------------+-------------------------------------------------+
++-----------------------------------------------------------------------+
+| | APPLY for **maintenance**, or for the enforcement of an existing    |
+|   maintenance order                                                   |
+| | by filing and swearing/affirming a **Magistrate’s Complaint**       |
++-----------------------------------------------------------------------+
+| | You will be brought before a Magistrate or District Judge. If your  |
+|   application is in order,                                            |
+| | the Magistrate or District Judge will direct that a summons to the  |
+|   respondent be issued.                                               |
+| | The Court will send a letter to the respondent to inform him or her |
+|   that attendance in                                                  |
+| | Court is required for service of the summons.  You must also be     |
+|   present on this date.                                               |
++-----------------------------------------------------------------------+
+| First day at Court:                                                   |
++-----------------------------------------------------------------------+
+| If the respondent is **present** | If the respondent is **absent**    |
++-----------------------------------------------------------------------+
+| SERVICE OF THE SUMMONS AND MEDIATION | SERVICE OF THE SUMMONS         |
++-----------------------------------------------------------------------+
+| | The respondent will be served with the summons personally | | You   |
+|   will have to accompany the Court process                            |
+| | at the Family Court.  If both of you are agreeable, your | | server |
+|   to the respondent’s house for service                               |
+| | case will be referred for mediation with a court mediator.| | of    |
+|   the summons.                                                        |
++-----------------------------------------------------------------------+
+| IF THERE IS AN AGREEMENT BETWEEN THE PARTIES, | MENTIONS IN FAMILY CO |
+| URT 1                                                                 |
+|                                                                       |
+| :   +-------------------------------------------------+               |
+|     | | On your next Court date, your case will be    |               |
+|     +-------------------------------------------------+               |
+|                                                                       |
+| CONSENT ORDER RECORDED BEFORE MAGISTRATE | | mentioned in Family Cour |
+| t 1 before a                                                          |
+|                                                                       |
+| :   | | District Judge. The District Judge will order                 |
+|     | | both parties to disclose financial documents                  |
+|                                                                       |
+| OR DISTRICT JUDGE | | and salary slips, and fix trial dates if the    |
+|                                                                       |
+| :   | | case is ready for hearing. |                                  |
+|     +-------------------------------------------------+ | HEARING IN  |
+|     OPEN COURT +-------------------------------------------------+ |  |
+|     | Maintenance trials are heard before a | | Magistrate or a       |
+|     District Judge in open court. | | The open court trial may take   |
+|     up to one day | | depending on the complexity of the case. | |    |
+|     The Magistrate or District Judge will make | | the necessary      |
+|     orders after the hearing is over |                                |
+|     +-------------------------------------------------+ | ORDER OF    |
+|     COURT                                                             |
++-----------------------------------------------------------------------+
 
-Starting proceedings
-~~~~~~~~~~~~~~~~~~~~
+### Starting proceedings
 
 You must come **personally** to the Family Court to complete the
 standard Magistrate’s Complaint form.  You may do this at the Family
@@ -1485,13 +1535,11 @@ Registry, Level 1, Family and Juvenile Court Building.
 
 You must bring:
 
-1. Your Marriage Certificate, if any
-
-2. Your children’s Birth Certificates, if you are applying for their
-   maintenance
-
-3. A copy of the Court order that you wish to enforce, if you are
-   applying for enforcement
+1.  Your Marriage Certificate, if any
+2.  Your children’s Birth Certificates, if you are applying for their
+    maintenance
+3.  A copy of the Court order that you wish to enforce, if you are
+    applying for enforcement
 
 As you are the person filing the Magistrate’s Complaint, you are the
 Complainant. The person against whom the Magistrate’s Complaint is made
@@ -1508,7 +1556,7 @@ If your application is in order, the Magistrate or District Judge will
 direct that a summons to the Respondent be issued. 
 
 You will have to pay the
-prescribed\ `fee <http://app.subcourts.gov.sg/family/page.aspx?pageid=3759>`__
+prescribed[fee](http://app.subcourts.gov.sg/family/page.aspx?pageid=3759)
 for the issuance of the summons.
 
 The Family Registry will set a date for the personal service of the
@@ -1516,8 +1564,7 @@ summons on the Respondent.  The Respondent will be sent a letter at the
 address you have provided, to inform him or her that he or she has to
 attend at the Family Court for the service of the summons.
 
-Service appointment
-~~~~~~~~~~~~~~~~~~~
+### Service appointment
 
 If both you and the Respondent are present, personal service of the
 summons will be effected on the Respondent.  If both of you are in
@@ -1532,7 +1579,7 @@ If the Respondent is absent from Court on this date, you will have to
 accompany the Court process server to the Respondent’s address if you
 wish to proceed with your application.  You will have to pay the
 prescribed
-`fee <http://app.subcourts.gov.sg/family/page.aspx?pageid=3759>`__ for
+[fee](http://app.subcourts.gov.sg/family/page.aspx?pageid=3759) for
 service of your summons by the Court process server.
 
 Once the summons has been served on the Respondent, a date will be set
@@ -1546,8 +1593,7 @@ Complaint, and pay the fee again.
 If you are the Respondent, your failure to turn up will result in the
 issuance of a Warrant of Arrest against you.
 
-Your first Court date
-~~~~~~~~~~~~~~~~~~~~~
+### Your first Court date
 
 Your first Court date will be a mention of your case in Family Court 1
 before a District Judge.  A mention is a short hearing.  It usually
@@ -1556,18 +1602,15 @@ mentions per half-day session in Family Court 1.
 
 At your mention, the Judge will:
 
--  Consider whether the case may be resolved by agreement.
-
--  Give orders on the production of evidence—in maintenance cases, the
-   usual evidence consists of parties’ bank and CPF statements, salary
-   slips, IRAS Notices of Assessments and lists of personal monthly
-   expenses.
-
--  Give orders on the filing of affidavits, if you or the Respondent
-   have lawyers, or know how to prepare affidavits.
-
--  Determine how many days are needed for the hearing of your case, and
-   fix trial dates accordingly.
+-   Consider whether the case may be resolved by agreement.
+-   Give orders on the production of evidence—in maintenance cases, the
+    usual evidence consists of parties’ bank and CPF statements, salary
+    slips, IRAS Notices of Assessments and lists of personal monthly
+    expenses.
+-   Give orders on the filing of affidavits, if you or the Respondent
+    have lawyers, or know how to prepare affidavits.
+-   Determine how many days are needed for the hearing of your case, and
+    fix trial dates accordingly.
 
 If you have applied to enforce an existing maintenance order, the
 District Judge may direct the Respondent to show cause as to why he or
@@ -1578,8 +1621,7 @@ If you are the Respondent, you should ensure that all the documents you
 want to rely on—for example, any medical reports or letters of
 retrenchment—are ready to be shown to the Judge on the mention date.
 
-Hearing in open court
-~~~~~~~~~~~~~~~~~~~~~
+### Hearing in open court
 
 If you are not able to settle the maintenance dispute with the
 Respondent, you will each have to give evidence before a Magistrate or
@@ -1596,17 +1638,14 @@ case.
 At the trial, the proceedings will generally take the following
 structure:
 
--  The Complainant gives his or her documents to the Court, and takes
-   the witness stand to give sworn or affirmed evidence.
-
--  The Respondent may cross-examine the Complainant on what he or she
-   has said.
-
--  The Respondent gives his or her documents to the Court, and takes the
-   witness stand to give sworn or affirmed evidence.
-
--  The Complainant may cross-examine the Respondent on what he or she
-   has said.
+-   The Complainant gives his or her documents to the Court, and takes
+    the witness stand to give sworn or affirmed evidence.
+-   The Respondent may cross-examine the Complainant on what he or she
+    has said.
+-   The Respondent gives his or her documents to the Court, and takes
+    the witness stand to give sworn or affirmed evidence.
+-   The Complainant may cross-examine the Respondent on what he or she
+    has said.
 
 If either party is represented, the trial will be conducted by their
 lawyers. At the end of the hearing, the lawyers will present arguments
@@ -1615,33 +1654,30 @@ on behalf of each party.
 The Magistrate or District Judge will then make the necessary orders. 
 This concludes your case.
 
-Appeals
-~~~~~~~~
+### Appeals
 
 If you are not satisfied with the order, you may appeal to a Judge of
 the High Court.
 
-If you wish to appeal, you must do so by filing a\ `Notice of Appeal
-(Form 114) <http://app.subcourts.gov.sg/family/page.aspx?pageid=8541>`__
-in the `Civil Registry <http://app.subcourts.gov.sg/civil/index.aspx>`__
-of the State Courts.  The Notice must be filed and served within 14 days
-of the order. You must also provide security for the other party’s costs
-of the appeal in the sum of $2,000, if you are appealing against a
-Magistrate’s order, or $3,000, if you are appealing against a District
+If you wish to appeal, you must do so by filing a[Notice of Appeal (Form
+114)](http://app.subcourts.gov.sg/family/page.aspx?pageid=8541) in the
+[Civil Registry](http://app.subcourts.gov.sg/civil/index.aspx) of the
+State Courts.  The Notice must be filed and served within 14 days of the
+order. You must also provide security for the other party’s costs of the
+appeal in the sum of \$2,000, if you are appealing against a
+Magistrate’s order, or \$3,000, if you are appealing against a District
 Judge’s order.  You may wish to refer to Order 55D of the Rules of Court
 for further details. **Please note that court staff cannot help you with
 your appeal papers.  **
 
-Respondents residing outside Singapore
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Respondents residing outside Singapore
 
 If you want to file a Magistrate’s Complaint against a respondent who
 resides outside Singapore, you may do so if:
 
--  You know the respondent’s address in the foreign country.
-
--  The country is one of those which has made arrangements with
-   Singapore on maintenance matters.
+-   You know the respondent’s address in the foreign country.
+-   The country is one of those which has made arrangements with
+    Singapore on maintenance matters.
 
 These countries are listed in the Maintenance Orders (Facilities for
 Enforcement) Act (Cap 168) and the Maintenance Orders (Reciprocal
@@ -1660,13 +1696,11 @@ If you are applying for maintenance **for the first time**, you will be
 given a Court date to attend before a Magistrate or District Judge in
 open court.  You must bring:
 
--  Your Marriage Certificate, or the children’s Birth Certificates, if
-   you are applying for their maintenance.
-
--  Information on the respondent’s residential address in the foreign
-   country.
-
--  A photograph of the respondent.
+-   Your Marriage Certificate, or the children’s Birth Certificates, if
+    you are applying for their maintenance.
+-   Information on the respondent’s residential address in the foreign
+    country.
+-   A photograph of the respondent.
 
 You will give sworn or affirmed evidence, and produce any documents in
 support of the application – such as, for example receipts for expenses
@@ -1683,36 +1717,32 @@ authorities in that particular country.  Family Court staff will not be
 able to advise you on how long the process will take in the receiving
 country.
 
-Commonly Asked Questions on Maintenance
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Commonly Asked Questions on Maintenance
 
 **Who can apply for maintenance?**
 
 Any married woman whose husband neglects or refuses to provide her
 reasonable maintenance may apply to a District Court or a Magistrate’s
 Court and that Court may, on due proof thereof, order the husband to pay
-a monthly allowance or a lump sum for her maintenance. [26]_
+a monthly allowance or a lump sum for her maintenance.[^12]
 
 Additionally, the following persons may also apply for an order to grant
 maintenance from either the District Court or a Magistrate’s Court,
 namely:
 
 (a) Any person who is a guardian or has the actual custody of the child.
-
 (b) Where the child has attained the age of 21 years, by the child
     himself.
-
 (c) Where the child is below the age of 21 years, any of his siblings
     who has attained the age of 21 years, or
-
-(d) Any person appointed by the Minister [27]_.
+(d) Any person appointed by the Minister[^13].
 
 **Do I have to maintain my child if the Court has granted care and
 control to the other parent?**
 
 Except where an agreement or order of court otherwise provides, it shall
 be the duty of a parent to maintain or contribute to the maintenance of
-his or her children. [28]_
+his or her children.[^14]
 
 **What factors does the Court consider in making a maintenance order?**
 
@@ -1721,30 +1751,23 @@ consideration in deciding whether to make an order for maintenance or
 not, namely:
 
 (a) the financial needs of the wife or child;
-
 (b) the income, earning capacity (if any), property and other financial
     resources of the wife or child;
-
 (c) any physical or mental disability of the wife or child;
-
 (d) the age of each party to the marriage and the duration of the
     marriage;
-
 (e) the contributions made by each of the parties to the marriage to the
     welfare of the family, including any contribution made by looking
     after the home or caring for the family;
-
 (f) the standard of living enjoyed by the wife or child before the
     husband or parentneglected or refused to provide reasonable
     maintenance for the wife or child;
-
 (g) in the case of a child, the manner in which he was being, and in
     which the parties to the marriage expected him to be, educated or
     trained; and
-
 (h) the conduct of each of the parties to the marriage, if the conduct
     is such that it would in the opinion of the court be inequitable to
-    disregard it. [29]_
+    disregard it.[^15]
 
 **Can I withhold access if the other parent has not been paying child
 maintenance?**
@@ -1753,7 +1776,7 @@ No. The Court considers maintenance issues and parenting issues
 separately. You are still bound by the Court order to allow the other
 parent to have access to the children even if he or she is not making
 regular maintenance payments. You similarly can’t withhold maintenance
-payments if the other parent has denied you access to your child [30]_.
+payments if the other parent has denied you access to your child[^16].
 
 However, where a parent is failing to make maintenance payment/s an
 applicant can apply to court to enforce the maintenance order. In this
@@ -1762,24 +1785,19 @@ situation the court may order any of the following, namely:
 (a) For every breach of the order by warrant direct the amount due to be
     levied in the manner by law provided for levying fines imposed by a
     Magistrate’s Court.
-
 (b) Sentence him to imprisonment for a term not exceeding one month for
     each month’s allowance remaining unpaid.
-
 (c) Make a garnishee order in accordance with the rules made under this
     Act.
-
 (d) Order the person to furnish security against any future default in
     maintenance payments by means of a bankerʼs guarantee.
-
 (e) If the court considers it in the interests of the parties in the
     maintenance proceedings or their children to do so, order the person
     to undergo financial counselling or such other similar or related
     programme as the court may direct.
-
 (f) Make a community service order requiring the person to perform any
     unpaid community service for up to 40 hours under the supervision of
-    a community service officer [31]_.
+    a community service officer[^17].
 
 **How do I represent myself in Court without a lawyer?**
 
@@ -1795,29 +1813,29 @@ lawyers and court users a single access point for commencement and
 active management of case files throughout the litigation process. The
 system also provides functionalities and related services that
 streamline the litigation process, thereby helping to improve efficiency
-and enhance access to justice. [32]_
+and enhance access to justice.[^18]
 
 **Do I have to pay maintenance if my spouse did not mention this in the
 Writ of Divorce?**
 
 For a child’s maintenance, the judge can order you to pay for the child
 at any time either before or after a final judgment for divorce has been
-granted. [33]_ This maintenance order may subsequently be further varied
+granted.[^19] This maintenance order may subsequently be further varied
 subject to changing circumstances (e.g. needs of the child, finances of
-either parent). [34]_
+either parent).[^20]
 
 For spousal maintenance, however, your spouse will need to apply for
 maintenance during divorce proceedings themselves, although this does
 not necessarily restrict itself to the stage of serving you with the
-writ of divorce. A divorce suit takes place in 2 stages. In the
-1\ :sup:`st` stage, the courts will decide if the marriage will be
-dissolved. Ancillary matters such as those relating to spousal
-maintenance will be dealt with at the second stage. [35]_
+writ of divorce. A divorce suit takes place in 2 stages. In the 1^st^
+stage, the courts will decide if the marriage will be dissolved.
+Ancillary matters such as those relating to spousal maintenance will be
+dealt with at the second stage.[^21]
 
 In cases where a maintenance order is urgently required, an application
 can be made immediately at the State Courts without having to wait for
 the divorce hearing in the High Court. The application can be made
-anytime during the marriage or separation or after the divorce. [36]_
+anytime during the marriage or separation or after the divorce.[^22]
 
 **What mode of payment should I use to pay maintenance (Cheque? Bank
 transfer?)**
@@ -1826,7 +1844,7 @@ You should check with your ex-spouse and work out a suitable agreement
 between the both of you. The method you eventually choose should enable
 you to meet your maintenance responsibilities in a timely and consistent
 fashion. Such details would be included in the maintenance order handed
-down from the Judge. [37]_
+down from the Judge.[^23]
 
 **Is it possible to pay maintenance solely to my child and not to my
 ex-spouse?**
@@ -1838,29 +1856,29 @@ orders (e.g. to pay schooling fees directly to your child).
 
 If your minor child's needs are not being met and you are worried about
 their welfare (e.g. that the money is being misused), you may apply to
-the Family Court for a variation of maintenance orders. [38]_
+the Family Court for a variation of maintenance orders.[^24]
 
 **Will the fact that I have outstanding loans/debt affect the amount of
 maintenance I have to pay?**
 
 The judge will consider the earning and financial capacity of both
-parties in deciding the amount of maintenance to be paid. [39]_ However,
+parties in deciding the amount of maintenance to be paid.[^25] However,
 maintenance orders may be varied in the future subject to changing
-circumstances (e.g. repayment of debts, change of job). [40]_
+circumstances (e.g. repayment of debts, change of job).[^26]
 
 **Can I defer maintenance payments until I finish my studies and get a
 job?**
 
 Before granting an order of maintenance, a Judge would consider all
 necessary factors, such as age, occupation and financial capacity of the
-parties. [41]_ The order of maintenance when effective would mean that
+parties.[^27] The order of maintenance when effective would mean that
 the party would be obliged to make the payments immediately.
 
 **Do I still have to pay child maintenance if my ex-spouse passes away
 and our child lives with my ex-spouse’s relatives?**
 
 It is the individual responsibility of each parent to maintain and
-contribute to the maintenance of his/her children. [42]_ Therefore, even
+contribute to the maintenance of his/her children.[^28] Therefore, even
 where one of the parents passes away, the obligation to maintain the
 child will still rest with the parent which is still alive.
 
@@ -1871,19 +1889,16 @@ maintenance could be made by any of the following persons for the child,
 namely:
 
 (a) any person who is a guardian or has the actual custody of the child;
-
 (b) where the child has attained the age of 21 years, by the child
     himself;
-
 (c) where the child is below the age of 21 years, any of his siblings
     who has attained the age of 21 years; or
-
-(d) any person appointed by the Minister. [43]_
+(d) any person appointed by the Minister.[^29]
 
 **How can I prove that I have been paying maintenance?**
 
 A court has the power to make an attachment of earnings order in
-connection with the payment of maintenance. [44]_ This will require the
+connection with the payment of maintenance.[^30] This will require the
 employer to directly pay the wife/child a specified sum out of the
 earnings of his/her employee. In such cases, it would be important for
 the employer to keep a record of such payments being made.
@@ -1896,29 +1911,25 @@ any payments which have been made.
 
 What would be considered a reasonable amount of maintenance differs from
 case to case depending on the outcome of the court based upon its
-investigation of the factors of each party. [45]_
+investigation of the factors of each party.[^31]
 
 **Can I request a lump maintenance sum?**
 
 A court, when granting a maintenance order, may either require a person
 to make periodical payments or a lump sum payment, which may be required
-to be secured. [46]_
+to be secured.[^32]
 
 **Can I nominate a third party’s bank account for my maintenance to be
 paid into?**
 
 When the court makes a maintenance order it will usually specify:
 
--  The full amount of the maintenance to be paid and how much is to be
-   paid for the spouse/civil partner and how much for each child
-
--  The frequency of payments – weekly, fortnightly or monthly
-
--  The date on which the first payment is to be made
-
--  To whom payments are to be made
-
--  Method of payment
+-   The full amount of the maintenance to be paid and how much is to be
+    paid for the spouse/civil partner and how much for each child
+-   The frequency of payments – weekly, fortnightly or monthly
+-   The date on which the first payment is to be made
+-   To whom payments are to be made
+-   Method of payment
 
 If there are special circumstances verifiable by evidence, you may
 request that maintenance be paid into a third party’s bank account in
@@ -1931,13 +1942,13 @@ form to provide evidence of such a variation.
 
 Only a married woman can claim maintenance from her husband. However, if
 the ex-boyfriend is the parent to your child then an application can be
-made for maintenance of the child. [47]_
+made for maintenance of the child.[^33]
 
 **Can I claim maintenance from a partner who is in jail?**
 
 Yes. As stated above, in deciding on the exact amount of maintenance to
 be paid a judge would take various factors into accounts, such as, the
-financial capacity of the individuals. [48]_
+financial capacity of the individuals.[^34]
 
 **Can I compel my ex-spouse to pay maintenance in advance if he is about
 to emigrate?**
@@ -1952,7 +1963,7 @@ Family Court can however, enforce a recovery of arrears for up to 3
 years of maintenance before the filing of the enforcement application,
 if evidence of any arrears you furnish is adequate. Note that any
 arrears in excess of 3 years cannot be recovered unless the Court, under
-special circumstances, otherwise allows. [49]_
+special circumstances, otherwise allows.[^35]
 
 **Can my ex-spouse remarry if he owes me outstanding maintenance
 payments?**
@@ -1960,7 +1971,7 @@ payments?**
 Yes. However, if the ex-spouse at any time refuses or neglects to make
 payments as provided under the maintenance order, the aggrieved party
 may seek the assistance of a court to initiate enforcement proceedings
-of the maintenance order. [50]_
+of the maintenance order.[^36]
 
 **Will I able to gain sole custody of our child if my ex-spouse fails to
 meet his maintenance obligations?**
@@ -1973,24 +1984,19 @@ access to the children even if he or she is not making regular
 maintenance payments. You may wish to apply to Court to enforce the
 maintenance order against the other parent. The Court can impose a fine
 or jail term if your ex-spouse is persistently in arrears of
-maintenance. [51]_
+maintenance.[^37]
 
 **Can I enforce a maintenance order made overseas?**
 
 There is a list of countries provided under Singapore law, whose orders
-for maintenance can be enforced in a Singapore court. [52]_ Countries
+for maintenance can be enforced in a Singapore court.[^38] Countries
 included in the list are:
 
 (a) The United Kingdom;
-
 (b) New Zealand;
-
 (c) Hong Kong;
-
 (d) China;
-
 (e) Province of Manitoba, and;
-
 (f) Australia.
 
 **Can maintenance be claimed for education fees?**
@@ -2000,7 +2006,7 @@ Yes.
 The general rule is the maintenance is not required to be paid once a
 child has reached the age of 21. However, a court may order for
 maintenance payments to continue to be paid after the child has reached
-21 where the child is or will be receiving an education. [53]_
+21 where the child is or will be receiving an education.[^39]
 
 **As a child, how do I file a maintenance claim?**
 
@@ -2008,54 +2014,62 @@ Where the child is below the age of 21, the following persons are
 eligible to make an application for an order of maintenance on his/her
 behalf, namely:
 
-    Any person who is a guardian or has the actual custody of the child:
+> Any person who is a guardian or has the actual custody of the child:
 
 (a) Where the child has attained the age of 21 years, by the child
     himself
-
 (b) Where the child is below the age of 21 years, any of his siblings
     who has attained the age of 21 years, or
+(c) Any person appointed by the Minister[^40]
 
-(c) Any person appointed by the Minister [54]_
-
-Division of Matrimonial Property [55]_
---------------------------------------
+Division of Matrimonial Property[^41]
+-------------------------------------
 
 | **Originating Summons case flow for division of matrimonial property**
 | How your case may progress through the Family Court:
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| APPLY for **division of matrimonial property** by filing an **Originating Summons** and related papers                                                                                                                                                                                                                                                                                  |                                                                               |
-+=========================================================================================================================================================================================================================================================================================================================================================================================+===============================================================================+
-| First day at Court:                                                                                                                                                                                                                                                                                                                                                                     |                                                                               |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| **PRE-TRIAL CONFERENCE IN CHAMBERS**                                                                                                                                                                                                                                                                                                                                                    |                                                                               |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| A Pre-Trial Conference is conducted by a Deputy Registrar of the Family Court. The purpose of a Pre-Trial Conference is to help both parties get ready for the hearing of the Originating Summons. If it might be possible to reach an amicable settlement of the matter, the Deputy Registrar will refer the parties for counseling, a Resolution Conference, or a Joint Conference.   |                                                                               |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| Your next most likely Court date:                                                                                                                                                                                                                                                                                                                                                       |                                                                               |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| RESOLUTION CONFERENCE with a Family Court Judge to help both parties resolve their differences over the legal aspects of the dispute                                                                                                                                                                                                                                                    |                                                                               |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| If there is no settlement:                                                                                                                                                                                                                                                                                                                                                              | If there is a settlement:                                                     |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| **PRE-TRIAL CONFERENCE IN CHAMBERS**                                                                                                                                                                                                                                                                                                                                                    | **CONSENT ORIGINATING SUMMONS HEARING BEFORE A DISTRICT JUDGE IN CHAMBERS**   |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| **HEARING OF ORIGINATING SUMMONS BEFORE A DISTRICT JUDGE IN CHAMBERS**                                                                                                                                                                                                                                                                                                                  |                                                                               |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
+  --------------------------------------------------------------------------------------
+  APPLY for **division of matrimonial property** by filing an            
+  **Originating Summons** and related papers                             
+  ---------------------------------------------------------------------- ---------------
+  First day at Court:                                                    
 
-Proceedings For Division of Matrimonial Property
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  **PRE-TRIAL CONFERENCE IN CHAMBERS**                                   
 
-Starting proceedings
-^^^^^^^^^^^^^^^^^^^^
+  A Pre-Trial Conference is conducted by a Deputy Registrar of the       
+  Family Court. The purpose of a Pre-Trial Conference is to help both    
+  parties get ready for the hearing of the Originating Summons. If it    
+  might be possible to reach an amicable settlement of the matter, the   
+  Deputy Registrar will refer the parties for counseling, a Resolution   
+  Conference, or a Joint Conference.                                     
+
+  Your next most likely Court date:                                      
+
+  RESOLUTION CONFERENCE with a Family Court Judge to help both parties   
+  resolve their differences over the legal aspects of the dispute        
+
+  If there is no settlement:                                             If there is a
+                                                                         settlement:
+
+  **PRE-TRIAL CONFERENCE IN CHAMBERS**                                   **CONSENT
+                                                                         ORIGINATING
+                                                                         SUMMONS HEARING
+                                                                         BEFORE A
+                                                                         DISTRICT JUDGE
+                                                                         IN CHAMBERS**
+
+  **HEARING OF ORIGINATING SUMMONS BEFORE A DISTRICT JUDGE IN CHAMBERS** 
+  --------------------------------------------------------------------------------------
+
+### Proceedings For Division of Matrimonial Property
+
+#### Starting proceedings
 
 To start proceedings for the division of matrimonial property, you must
 file the following documents in Court:
 
--  Originating Summons
-
--  Affidavit in support of the Originating Summons
+-   Originating Summons
+-   Affidavit in support of the Originating Summons
 
 The person filing the Originating Summons is the Plaintiff. The person
 against whom you are filing the Originating Summons is the Defendant.
@@ -2069,21 +2083,18 @@ If you are making your application under s 17A(2)(c) of the Supreme
 Court of Judicature Act, you must also file the following documents with
 your Originating Summons:
 
--  A Syariah Court commencement certificate; or
+-   A Syariah Court commencement certificate; or
+-   The parties’ written consent to the commencement of proceedings in
+    the Family Court, and a Syariah Court certificate of attendance; and
+-   If there is an HDB matrimonial asset to be divided, an [Agreed or
+    Proposed Matrimonial Property
+    Plan](http://app.subcourts.gov.sg/family/page.aspx?pageid=3764).
 
--  The parties’ written consent to the commencement of proceedings in
-   the Family Court, and a Syariah Court certificate of attendance; and
+You will need to pay the appropriate [filing
+fees](http://app.subcourts.gov.sg/family/page.aspx?pageid=3759) for all
+documents filed in Court.
 
--  If there is an HDB matrimonial asset to be divided, an `Agreed or
-   Proposed Matrimonial Property
-   Plan <http://app.subcourts.gov.sg/family/page.aspx?pageid=3764>`__.
-
-You will need to pay the appropriate `filing
-fees <http://app.subcourts.gov.sg/family/page.aspx?pageid=3759>`__ for
-all documents filed in Court.
-
-Service
-^^^^^^^
+#### Service
 
 | If your documents are in order, the Family Registry will accept your
   documents for filing. Copies of your documents with the Court seal on
@@ -2093,16 +2104,14 @@ Service
 
 You must serve the sealed copies in one of the following ways:
 
--  By personal service, which means that the documents must be handed to
-   the Defendant directly by someone authorized to do so, such as a
-   court process server
+-   By personal service, which means that the documents must be handed
+    to the Defendant directly by someone authorized to do so, such as a
+    court process server
+-   By EFS on the Defendant’s lawyer, if he or she has one, but only if
+    the Defendant’s lawyer indicates on the documents that he or she
+    accepts service on behalf of the Defendant
 
--  By EFS on the Defendant’s lawyer, if he or she has one, but only if
-   the Defendant’s lawyer indicates on the documents that he or she
-   accepts service on behalf of the Defendant
-
-Your first Court date
-^^^^^^^^^^^^^^^^^^^^^
+#### Your first Court date
 
 Your first Court date is likely to be a Pre-Trial Conference before a
 Deputy Registrar of the Family Court. Both you and the Defendant will be
@@ -2119,14 +2128,13 @@ contesting your application, he or she will have to file an affidavit in
 reply.
 
 If there is a possibility for amicable resolution, the Deputy Registrar
-may refer the case for a resolution conference at the `Family Relations
-Chambers <http://app.subcourts.gov.sg/family/page.aspx?pageid=3657>`__.
+may refer the case for a resolution conference at the [Family Relations
+Chambers](http://app.subcourts.gov.sg/family/page.aspx?pageid=3657).
 
 Further information on Pre-Trial Conferences may be found at paragraphs
 89 and 111 of the Practice Directions.
 
-Originating Summons hearing
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Originating Summons hearing
 
 | If an amicable resolution of your dispute is reached after a
   resolution, a consent order may be recorded before a District Judge in
@@ -2141,8 +2149,7 @@ After hearing both sides, the District Judge will rule on your
 application, and make the necessary orders. This formally ends the Court
 proceedings.
 
-Appeals
-^^^^^^^
+#### Appeals
 
 | If you are not satisfied with the District Judge’s order, you may
   appeal to a Judge of the High Court.
@@ -2152,16 +2159,15 @@ Appeals
   Notice on the other party within 7 days of it being issued. You may
   wish to refer to Order 55C of the Rules of Court for further details.
 
-Commonly Asked Questions on Division of Matrimonial Property
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Commonly Asked Questions on Division of Matrimonial Property
 
 **Can I keep our HDB flat after the divorce?**
 
 That depends. If the HDB flat is a matrimonial asset, the Court can make
-an order for division of this matrimonial asset. [56]_
+an order for division of this matrimonial asset.[^42]
 
 It is very important that you check with HDB that you are eligible to
-retain the flat. [57]_ You must do this before the ancillary matters
+retain the flat.[^43] You must do this before the ancillary matters
 hearing, because the Court will not be able to give you an answer to
 this question.
 
@@ -2170,8 +2176,7 @@ see if you can reimburse the CPF money that your spouse used to buy the
 flat, and to pay any cash amount that your spouse may ask for in return
 for the transfer. You may need to make some inquiries with your bank.
 Again, you must do this before the ancillary matters hearing, because
-the Court will not be able to help you with financing the
-transfer. [58]_
+the Court will not be able to help you with financing the transfer.[^44]
 
 **If my spouse and I have reached an agreement to sell our (HDB) flat
 after the divorce, must we refund the CPF money we used to buy the flat
@@ -2179,10 +2184,10 @@ to our CPF accounts?**
 
 You will both need to refund the money used for the purchase of your
 home, with interest on those amounts, or such amounts as to be
-determined by the CPF Board, to your respective CPF accounts. [59]_
+determined by the CPF Board, to your respective CPF accounts.[^45]
 
 You should refer to the CPF Board website for current information on CPF
-rules, regulations and policies. [60]_
+rules, regulations and policies.[^46]
 
 **How does the Court decide on our shares of the matrimonial assets?**
 
@@ -2193,32 +2198,25 @@ factors:
 (a) The extent of the contributions made by each party in money,
     property or work towards acquiring, improving or maintaining the
     matrimonial assets.
-
 (b) Any debt owing or obligation incurred or undertaken by either party
     for their joint benefit or for the benefit of any child of the
     marriage.
-
 (c) The needs of the children (if any) of the marriage.
-
 (d) The extent of the contributions made by each party to the welfare of
     the family, including looking after the home or caring for the
     family or any aged or infirm relative or dependant of either party.
-
 (e) Any agreement between the parties with respect to the ownership and
     division of the matrimonial assets made in contemplation of divorce.
-
 (f) Any period of rent-free occupation or other benefit enjoyed by one
     party in the matrimonial home to the exclusion of the other party.
-
 (g) The giving of assistance or support by one party to the other party
     (whether or not of a material kind), including the giving of
     assistance or support which aids the other party in the carrying on
     of his or her occupation or business.
-
 (h) To the extent relevant, such matters which are considered when the
     Court determines the amount of any maintenance to be paid by a man
     to his wife or former wife as set out in section 114(1) of the
-    Women’s Charter of Singapore [61]_.
+    Women’s Charter of Singapore[^47].
 
 **What is a matrimonial asset?**
 
@@ -2235,12 +2233,12 @@ However, a matrimonial asset shall not include any asset which was
 acquired by a party to the marriage by way of gift or inheritance (apart
 from the matrimonial home) and that has not been substantially improved
 during the marriage by the other party or by both parties to the
-marriage. [62]_
+marriage.[^48]
 
 **What if one or both of us is bankrupt?**
 
 When a person is made bankrupt, the Official Assignee will step in to
-manage all his assets except for the HDB flat [63]_ and CPF money. [64]_
+manage all his assets except for the HDB flat[^49] and CPF money.[^50]
 
 The Court will still divide the matrimonial assets in the same way as in
 a case where neither spouse is bankrupt. But the Official Assignee may
@@ -2252,7 +2250,7 @@ agreement.
 
 For more information on bankruptcy and the role of the Official
 Assignee, you may wish to refer to the website of the Insolvency and
-Public Trustee’s Office. [65]_
+Public Trustee’s Office.[^51]
 
 **What happens if my spouse has debts/liabilities? Will that affect the
 division of matrimonial assets/property?**
@@ -2260,7 +2258,7 @@ division of matrimonial assets/property?**
 In deciding on the division of matrimonial assets, the Court will take
 into consideration various factors including any debt owing or
 obligation incurred or undertaken by either party for their joint
-benefit or for the benefit of any child of the marriage. [66]_
+benefit or for the benefit of any child of the marriage.[^52]
 
 Therefore, in cases where the debts/liabilities of your spouse are
 contracted for the joint benefit for both of you, then it will affect
@@ -2277,7 +2275,7 @@ such property will no longer constitute matrimonial asset.
 
 However, in deciding on the division of matrimonial assets, the Court
 will take into consideration various factors including the extent of the
-contributions made by each party to the welfare of the family. [67]_
+contributions made by each party to the welfare of the family.[^53]
 Therefore, if you transfer your flat as a gift to a family member, then
 it may affect the division of matrimonial assets.
 
@@ -2287,13 +2285,13 @@ matrimonial property?**
 The Court may make an order postponing the sale or vesting of any share
 in any matrimonial asset, or any part of such share, until such future
 date or until the occurrence of such future event or until the
-fulfilment of such condition as may be specified in the order. [68]_
+fulfilment of such condition as may be specified in the order.[^54]
 
 Regarding the ownership of matrimonial property, the Court will apply
 general principles of property law to your dispute – in other words, the
 Court will decide your dispute according to the same principles that
 apply in property disputes between people who are not married to each
-other. [69]_
+other.[^55]
 
 **What happens if the matrimonial property still has an outstanding
 mortgage?**
@@ -2301,7 +2299,7 @@ mortgage?**
 In deciding on the division of matrimonial assets, the Court will take
 into consideration various factors including any debt owing or
 obligation incurred or undertaken by either party for their joint
-benefit or for the benefit of any child of the marriage. [70]_
+benefit or for the benefit of any child of the marriage.[^56]
 
 Therefore, in case where the matrimonial property still has an
 outstanding mortgage, such amount will be taken into account when the
@@ -2321,14 +2319,14 @@ consulting the joint holder.
 
 However, even if it is legal to withdraw money, any asset acquired
 during the marriage by one party or both parties to the marriage will
-constitute matrimonial asset. [71]_ Therefore, the money withdrawn from
+constitute matrimonial asset.[^57] Therefore, the money withdrawn from
 the joint account should, in general, constitute matrimonial asset and
 be subject to the court’s decision on division of matrimonial assets.
 
 **How can I regain possessions taken by my ex-spouse?**
 
 The Court may make an Order vesting any matrimonial asset or any part
-thereof in either party. [72]_ Therefore, if the possessions constitute
+thereof in either party.[^58] Therefore, if the possessions constitute
 matrimonial assets, you may apply to obtain a Court Order vesting the
 possessions in you to regain such assets.
 
@@ -2337,10 +2335,10 @@ possessions in you to regain such assets.
 If you ignore a Court Order, the Judgment Creditor (opponent) may
 enforce the Order against you. An Order for the payment of money can be
 enforced by either Writ of Seizure and Sale or Garnishee
-proceedings. [73]_
+proceedings.[^59]
 
 Garnishee proceedings take place where a judgment debtor is owed money
-from a third party. [74]_
+from a third party.[^60]
 
 **What happens if my ex-spouse wants to sell the matrimonial property
 and I do not?**
@@ -2351,13 +2349,13 @@ to vest the matrimonial asset in you or in a third party to be held on
 trust. If it is better to divide the matrimonial asset, the court may
 make an order vesting any matrimonial asset owned by both parties
 jointly in both the parties in common in such shares as the court
-considers just and equitable. [75]_
+considers just and equitable.[^61]
 
 **Can I reclaim a personal loan I made to my ex-spouse after our
 divorce?**
 
 As long as the personal loan agreement meets the requirement of the law
-of contract, such agreement is valid. [76]_ If the loan is payable, then
+of contract, such agreement is valid.[^62] If the loan is payable, then
 you may reclaim the loan.
 
 **Am I eligible to purchase a HDB flat while I am separated?**
@@ -2365,32 +2363,34 @@ you may reclaim the loan.
 Depends on the conditions. According to the website of HDB, requirements
 regarding family nucleus of a HDB purchaser are as follows:
 
-+----------------------------+---------------------------------------------------------------------+
-| **Scheme**                 | **Family Nucleus**                                                  |
-+============================+=====================================================================+
-| Public                     | You, the applicant, and;                                            |
-|                            | • Your spouse, and children (if any)                                |
-|                            | • Your parents, and siblings (if any)                               |
-|                            | • Your children under your legal custody, care and control (for     |
-|                            | widowed/ divorced)                                                  |
-|                            |                                                                     |
-+----------------------------+---------------------------------------------------------------------+
-| Fiance/Fiancee             | You, the applicant, and your fiance/fiancee                         |
-+----------------------------+---------------------------------------------------------------------+
-| Orphan                     | You, the applicant, and your unmarried siblings                     |
-+----------------------------+---------------------------------------------------------------------+
-| Single Singapore Citizen   | You, the applicant, must be a First-timer and is:                   |
-|                            | • Unmarried , divorced or widowed                                   |
-+----------------------------+---------------------------------------------------------------------+
-| Non-Citizen Spouse         | You, the applicant must be a First-timer, and your spouse who is    |
-|                            |                                                                     |
-|                            | not a Singapore Citizen or Singapore Permanent Resident             |
-+----------------------------+---------------------------------------------------------------------+
-| Joint Single Scheme        | You, the applicant, and the co-applicants (up to a maximum of 4)    |
-|                            |                                                                     |
-|                            | | must be First-timers and are:                                     |
-|                            | | • Unmarried , divorced or widowed [77]_                           |
-+----------------------------+---------------------------------------------------------------------+
++--------------------+-------------------------------------------------+
+| **Scheme**         | **Family Nucleus**                              |
++====================+=================================================+
+| Public             | You, the applicant, and; • Your spouse, and     |
+|                    | children (if any) • Your parents, and siblings  |
+|                    | (if any) • Your children under your legal       |
+|                    | custody, care and control (for widowed/         |
+|                    | divorced)                                       |
++--------------------+-------------------------------------------------+
+| Fiance/Fiancee     | You, the applicant, and your fiance/fiancee     |
++--------------------+-------------------------------------------------+
+| Orphan             | You, the applicant, and your unmarried siblings |
++--------------------+-------------------------------------------------+
+| Single Singapore   | You, the applicant, must be a First-timer and   |
+| Citizen            | is: • Unmarried , divorced or widowed           |
++--------------------+-------------------------------------------------+
+| Non-Citizen Spouse | You, the applicant must be a First-timer, and   |
+|                    | your spouse who is                              |
+|                    |                                                 |
+|                    | not a Singapore Citizen or Singapore Permanent  |
+|                    | Resident                                        |
++--------------------+-------------------------------------------------+
+| Joint Single       | You, the applicant, and the co-applicants (up   |
+| Scheme             | to a maximum of 4)                              |
+|                    |                                                 |
+|                    | | must be First-timers and are:                 |
+|                    | | • Unmarried , divorced or widowed[^63]        |
++--------------------+-------------------------------------------------+
 
 Please note that during separation, although you will still be treated
 as married under the law, some HDB schemes will treat separated people
@@ -2408,11 +2408,11 @@ party until then should be regarded as matrimonial assets”, the judge
 may set the “cut-off date” before the final judgment.
 
 Further, if you wish to appeal against the District Judge’s order, you
-must do so by filing a `Notice of
-Appeal <http://app.subcourts.gov.sg/family/page.aspx?pageid=8577#M_N>`__
-in the Civil Registry of the `State
-Courts <http://app.subcourts.gov.sg/civil/index.aspx>`__ within 14 days
-of the District Judge’s order.
+must do so by filing a [Notice of
+Appeal](http://app.subcourts.gov.sg/family/page.aspx?pageid=8577#M_N) in
+the Civil Registry of the [State
+Courts](http://app.subcourts.gov.sg/civil/index.aspx) within 14 days of
+the District Judge’s order.
 
 **What happens if a joint-owner of the matrimonial property is a third
 party?**
@@ -2439,10 +2439,10 @@ occupiers are no longer staying in the flat.
 
 **(1) Eligibility Criteria:** You can delete the names of existing
 occupiers, provided that the deletion of occupiers does not make you
-ineligible to retain the flat under an eligibility scheme.
-For example, deletion of the name of an occupier may mean that there
-is no longer a family nucleus; therefore, the flat owner cannot retain
-the flat under the eligibility scheme.
+ineligible to retain the flat under an eligibility scheme. For example,
+deletion of the name of an occupier may mean that there is no longer a
+family nucleus; therefore, the flat owner cannot retain the flat under
+the eligibility scheme.
 
 **(2) Application Procedure:** If you wish to delete the names of
 existing flat occupiers, you can submit your application, (a) online,
@@ -2453,13 +2453,12 @@ application via the Internet Personal Computer at the public waiting
 area.
 
 If you are not familiar with the Internet Personal Computer and need
-assistance, Customer Service Officers will assist you. [78]_
+assistance, Customer Service Officers will assist you.[^64]
 
-HDB-related issues upon Divorce [79]_
--------------------------------------
+HDB-related issues upon Divorce[^65]
+------------------------------------
 
-Policies - Retention of Flat Ownership
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Policies - Retention of Flat Ownership
 
 After taking possession of an HDB flat, the family structure may change.
 As such, existing flat owner(s) can apply to retain the flat subject to
@@ -2467,16 +2466,13 @@ the HDB eligibility conditions. The common changes to the family
 structures are:
 
 (a) Annulment of Marriage / Break-up of Fiancé & Fiancée Relationship
-
 (b) Divorce
-
 (c) Separation
 
-(d) Others: Demise of Joint Owner; Demise of Sole Owner /
+\(d) Others: Demise of Joint Owner; Demise of Sole Owner /
 Tenant-in-Common; Loss of Citizenship; Married Child Moving Out
 
-Annulment of Marriage / Breakup of Fiancé & Fiancée Scheme
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Annulment of Marriage / Breakup of Fiancé & Fiancée Scheme
 
 If a divorce is due to the non-consummation of marriage, annulment of
 marriage, or there is a break-up of the Fiancé / Fiancée relationship,
@@ -2492,8 +2488,7 @@ either an "Agreed Matrimonial Property" Plan or "Standard Query" Form to
 the HDB Branch Office managing the matrimonial flat for an assessment of
 his / her eligibility to retain the flat.
 
-Divorce
-^^^^^^^
+#### Divorce
 
 Under the HDB's prevailing policy for divorce (not due to
 non-consummation of marriage or annulment or break-up of Fiancé /
@@ -2506,11 +2501,10 @@ retain the flat alone under the Single Singapore Citizen (SSC) Scheme
 if:
 
 (a) He / she is a Singapore citizen
-
 (b) He/she is least 35 years old and above
 
-    (c) The matrimonial flat must be a resale flat purchased from the
-    open market without the CPF Housing Grant for Family
+    \(c) The matrimonial flat must be a resale flat purchased from the open
+    market without the CPF Housing Grant for Family
 
 If the matrimonial flat is bought directly from HDB (including resale
 flats bought with the CPF Housing Grant for Family), the 5-year minimum
@@ -2521,8 +2515,7 @@ Alternatively, the divorced party may include another person to retain
 the flat, subject to the prevailing eligibility criteria and eligibility
 scheme regardless of the occupation period.
 
-Resale of Matrimonial Flat
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Resale of Matrimonial Flat
 
 If the divorced owners wish to resell their flat in the open market,
 they must have completed the MOP for the matrimonial flat as at the date
@@ -2531,18 +2524,16 @@ eligible to retain the flat, the owners may have to return the flat to
 HDB, subject to HDB's approval. The compensation for the return of flat
 will be determined by HDB.
 
-**Eligibility to sell a HDB Flat (if it is the Matrimonial Flat)**
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+##### **Eligibility to sell a HDB Flat (if it is the Matrimonial Flat)**
 
 HDB policies that all sellers should be aware of regarding their
 "eligibility to sell":
 
--  Ethnic Group Policy: the ethnic group of your buyer have not reached
-   the prescribed limits under the Ethnic Integration Policy (EIP)
-
--  If the resale flat is purchased by a Singapore Permanent Resident
-   (SPR) family, the family must meet the SPR quota (the SPR proportion
-   in the block or neighbourhood) *in addition to* the EIP
+-   Ethnic Group Policy: the ethnic group of your buyer have not reached
+    the prescribed limits under the Ethnic Integration Policy (EIP)
+-   If the resale flat is purchased by a Singapore Permanent Resident
+    (SPR) family, the family must meet the SPR quota (the SPR proportion
+    in the block or neighbourhood) *in addition to* the EIP
 
 HDB flat owners must have physically occupied their flats for a period
 of time, referred to as MOP, before they are eligible to sell it on the
@@ -2557,41 +2548,55 @@ infringement of the flat lease.
 The length of MOP depends on the purchase mode, the flat type and the
 date of the flat application:
 
-+-------------------------------------------------------------------------------+------------------------------------------------------+----------------------------------+
-| **Purchase Mode**                                                             | **MOP**                                              |                                  |
-+===============================================================================+======================================================+==================================+
-| Flat bought from the HDB                                                      | 5 years                                              |                                  |
-+-------------------------------------------------------------------------------+------------------------------------------------------+----------------------------------+
-| DBSS flat bought from a developer                                             | 5 years                                              |                                  |
-+-------------------------------------------------------------------------------+------------------------------------------------------+----------------------------------+
-| Flat bought under the Selective en bloc Redevelopment Scheme (SERS)           | The earlier of:                                      |                                  |
-|                                                                               |                                                      |                                  |
-|                                                                               | 5 years OR                                           |                                  |
-|                                                                               |                                                      |                                  |
-|                                                                               | 7 years from date of selection of replacement flat   |                                  |
-+-------------------------------------------------------------------------------+------------------------------------------------------+----------------------------------+
-| Flat bought under the SERS with portable SERS re-housing benefits             | 5 years                                              |                                  |
-+-------------------------------------------------------------------------------+------------------------------------------------------+----------------------------------+
-| Resale Flat bought from the open market *with* CPF Housing Grant              | 5 years                                              |                                  |
-+-------------------------------------------------------------------------------+------------------------------------------------------+----------------------------------+
-| **Resale Flat bought from the open market *without* the CPF Housing Grant**   |                                                      |                                  |
-+-------------------------------------------------------------------------------+------------------------------------------------------+----------------------------------+
-| 1-room flat                                                                   | No MOP                                               |                                  |
-+-------------------------------------------------------------------------------+------------------------------------------------------+----------------------------------+
-| 2-room or bigger flat with date of flat application:                          | On or after 30 August 2010                           | 5 years                          |
-+-------------------------------------------------------------------------------+------------------------------------------------------+----------------------------------+
-|                                                                               | Between 5 March – 29 August 2010                     | 3 years                          |
-+-------------------------------------------------------------------------------+------------------------------------------------------+----------------------------------+
-|                                                                               | Before 5 March 2010                                  | 2.5 years if HDB loan taken OR   |
-|                                                                               |                                                      |                                  |
-|                                                                               |                                                      | 1 year if HDB loan not taken     |
-+-------------------------------------------------------------------------------+------------------------------------------------------+----------------------------------+
++--------------------------------+----------------------+-------------+
+| **Purchase Mode**              | **MOP**              |             |
++================================+======================+=============+
+| Flat bought from the HDB       | 5 years              |             |
++--------------------------------+----------------------+-------------+
+| DBSS flat bought from a        | 5 years              |             |
+| developer                      |                      |             |
++--------------------------------+----------------------+-------------+
+| Flat bought under the          | The earlier of:      |             |
+| Selective en bloc              |                      |             |
+| Redevelopment Scheme (SERS)    | 5 years OR           |             |
+|                                |                      |             |
+|                                | 7 years from date of |             |
+|                                | selection of         |             |
+|                                | replacement flat     |             |
++--------------------------------+----------------------+-------------+
+| Flat bought under the SERS     | 5 years              |             |
+| with portable SERS re-housing  |                      |             |
+| benefits                       |                      |             |
++--------------------------------+----------------------+-------------+
+| Resale Flat bought from the    | 5 years              |             |
+| open market *with* CPF Housing |                      |             |
+| Grant                          |                      |             |
++--------------------------------+----------------------+-------------+
+| **Resale Flat bought from the  |                      |             |
+| open market *without* the CPF  |                      |             |
+| Housing Grant**                |                      |             |
++--------------------------------+----------------------+-------------+
+| 1-room flat                    | No MOP               |             |
++--------------------------------+----------------------+-------------+
+| 2-room or bigger flat with     | On or after 30       | 5 years     |
+| date of flat application:      | August 2010          |             |
++--------------------------------+----------------------+-------------+
+|                                | Between 5 March – 29 | 3 years     |
+|                                | August 2010          |             |
++--------------------------------+----------------------+-------------+
+|                                | Before 5 March 2010  | 2.5 years   |
+|                                |                      | if HDB loan |
+|                                |                      | taken OR    |
+|                                |                      |             |
+|                                |                      | 1 year if   |
+|                                |                      | HDB loan    |
+|                                |                      | not taken   |
++--------------------------------+----------------------+-------------+
 
 Flat owners may submit an e-Request on Confirmation on the Computation
 of Requisite Occupation Period for the purpose of resale.
 
-**Ethnic Integration Policy (EIP)**
-'''''''''''''''''''''''''''''''''''
+##### **Ethnic Integration Policy (EIP)**
 
 Flat owners must ensure your buyers meet the EIP.
 
@@ -2606,21 +2611,18 @@ flats in all HDB estates.
 
 *Under the Policy:*
 
--  Maximum proportions are set for all ethnic groups: Chinese, Malays
-   and Indian/Others, in each HDB block and neighbourhood. There is no
-   restriction on the sale and purchase of an HDB flat if the proportion
-   of the buyer's ethnic group is within the prescribed block and
-   neighbourhood limits.
+-   Maximum proportions are set for all ethnic groups: Chinese, Malays
+    and Indian/Others, in each HDB block and neighbourhood. There is no
+    restriction on the sale and purchase of an HDB flat if the
+    proportion of the buyer's ethnic group is within the prescribed
+    block and neighbourhood limits.
+-   Once the block/neighbourhood limit for a particular ethnic group has
+    been reached, no further sale of HDB flats to that ethnic group will
+    be allowed.
+-   There is no restriction if the buyer and seller are of the same
+    ethnic group.
 
--  Once the block/neighbourhood limit for a particular ethnic group has
-   been reached, no further sale of HDB flats to that ethnic group will
-   be allowed.
-
--  There is no restriction if the buyer and seller are of the same
-   ethnic group.
-
-**Singapore Permanent Resident (SPR) Quota**
-''''''''''''''''''''''''''''''''''''''''''''
+##### **Singapore Permanent Resident (SPR) Quota**
 
 The SPR quota ensures that SPR families can integrate into the local
 community for social cohesion and to prevent enclaves from forming in
@@ -2637,24 +2639,21 @@ Malaysian-SPR buyers, ie. where all flat buyers are non-Malaysian SPRs.
 A non-Malaysian SPR household buyer must satisfy both the ethnic
 proportion limit and SPR Quota to qualify to buy a resale HDB flat.
 
-**Checklist for Buyers/Sellers:**
-''''''''''''''''''''''''''''''''''
+##### **Checklist for Buyers/Sellers:**
 
 You may check the eligibility of buyer's ethnic group and SPR Quota
 eligibility in any particular block using the following channels:
 
-1. e-Service in HDB InfoWEB: Enquiry on Ethnic Group Eligibility
-
-2. HDB Home-Link (24 hours): 1800-8663060
-
-3. Sale/Resale Customer Service Line (office hours): 1800-8663066
+1.  e-Service in HDB InfoWEB: Enquiry on Ethnic Group Eligibility
+2.  HDB Home-Link (24 hours): 1800-8663060
+3.  Sale/Resale Customer Service Line (office hours): 1800-8663066
 
 The status of changes of ethnic proportions is updated on the first day
 of every month and is applicable for resale applications submitted to
 HDB in the current month.
 
-CPF-related issues upon Divorce [80]_
--------------------------------------
+CPF-related issues upon Divorce[^66]
+------------------------------------
 
 **What happens to my CPF when I divorce?**
 
@@ -2672,19 +2671,16 @@ Minimum Sum and your Medisave Account up to the current Medisave Minimum
 Sum. Any excess housing refunds will be paid to you within 5 working
 days from the date the refund is credited to your CPF account.
 
-Disposal of Matrimonial Property and CPF Refunds
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Disposal of Matrimonial Property and CPF Refunds
 
 **If the Matrimonial Home is an HDB Flat**
 
 Upon your divorce, you can choose to dispose of your flat in the
 following ways:
 
-1. Transfer your share to your ex-spouse
-
-2. Sell your share to your ex-spouse
-
-3. Sell your flat on the open market
+1.  Transfer your share to your ex-spouse
+2.  Sell your share to your ex-spouse
+3.  Sell your flat on the open market
 
 You will first need to check with HDB if you are eligible to transfer or
 sell your flat. This can be carried out on the HDB website.
@@ -2703,9 +2699,9 @@ refunded to the ex-spouse’s CPF Account.
 
 **Conditions for transfer with partial or no CPF refund**
 
-a) The ex-spouse must be a Singaporean or Singapore Permanent Resident.
+a)  The ex-spouse must be a Singaporean or Singapore Permanent Resident.
 
-b) Loans or grants taken by the member which are repayable or refundable
+b\) Loans or grants taken by the member which are repayable or refundable
 to the Government must be repaid or refunded first before the transfer
 can take place. Grants include housing grants from HDB and HOPE (Home
 Ownership Plus Education) grants from the Ministry of Social and Family
@@ -2728,13 +2724,10 @@ housing refunds will be paid to him/her thereafter.
 
 Upon your divorce, you can choose to:
 
-1. Transfer your share to your ex-spouse.
-
-2. Sell your share to your ex-spouse.
-
-3. Sell the property on the open market.
-
-4. Retain your respective shares in the property.
+1.  Transfer your share to your ex-spouse.
+2.  Sell your share to your ex-spouse.
+3.  Sell the property on the open market.
+4.  Retain your respective shares in the property.
 
 In the case of a sale (to your ex-spouse or on the open market), you do
 not need to make a full CPF refund if the selling price is not enough
@@ -2745,8 +2738,7 @@ More details on the amount to be refunded if you sell your share of your
 property to your ex-spouse, or if you and your ex-spouse are selling the
 property on the open market can be found on the CPF website.
 
-*Distribution of CPF Savings In Matrimonial Proceedings*  [81]_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### *Distribution of CPF Savings In Matrimonial Proceedings*[^67]
 
 **Can a member transfer his/her share in the property to his/her
 ex-spouse?**
@@ -2768,13 +2760,12 @@ own account when she subsequently sells the property.
 
 **Example:**
 
-    1. The Court has ordered the member transfers to his share of the
-    property to the ex-spouse without any CPF refund to member’s
-    account.
-
-    2. The member is below 55 and had used $100,000 from his CPF
-    savings, inclusive of accrued interest. The ex-spouse had used
-    $20,000 from her CPF savings, inclusive of accrued interest.
+> 1\. The Court has ordered the member transfers to his share of the
+> property to the ex-spouse without any CPF refund to member’s account.
+>
+> 2\. The member is below 55 and had used \$100,000 from his CPF savings,
+> inclusive of accrued interest. The ex-spouse had used \$20,000 from her
+> CPF savings, inclusive of accrued interest.
 
 **A) At the point of transfer of the member’s share of the property to
 the ex-spouse:** The member transfers his share of the property to the
@@ -2784,9 +2775,9 @@ account(s).
 **B) At the point of ex-spouse relinquishing her interest in the
 property:** The ex-spouse refunds her CPF principal amount used and the
 member's portion of CPF monies withdrawn including interest to her CPF
-Account. ($100,000 plus $20,000 plus accrued interest. Interest on
-$100,000 and $20,000 will be accruing from the time of transfer to time
-of sale.)
+Account. (\$100,000 plus \$20,000 plus accrued interest. Interest on
+\$100,000 and \$20,000 will be accruing from the time of transfer to
+time of sale.)
 
 **What are the member’s obligations after the Court Order is issued,
 before and following the transfer?**
@@ -2851,8 +2842,7 @@ member’s CPF Account. The court can then order the transfer of the
 refunded CPF monies from the member’s CPF Account to the ex-spouse’s CPF
 Account if it so wishes.
 
-Distribution of CPF Investment Scheme (Cpfis) Investments In Matrimonial Proceedings
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Distribution of CPF Investment Scheme (Cpfis) Investments In Matrimonial Proceedings
 
 **I am required to give some of my CPFIS investments to my ex-spouse as
 specified in the Court Order. What should I do after receiving the Court
@@ -2865,7 +2855,7 @@ Robinson Road CPF Building Singapore 068897
 
 You should also proceed to execute the transfer/liquidation of your
 investments in accordance with the Court Order. Please refer to the CPF
-website (http://mycpf.cpf.gov.sg/) for a step-by-step guide on how a
+website (<http://mycpf.cpf.gov.sg/>) for a step-by-step guide on how a
 transfer/sale of CPFIS investments is effected from you to your
 ex-spouse.
 
@@ -2880,10 +2870,10 @@ Transfer or Charging Order.
 
 A CPF transfer involves the Court ordering:
 
-i) An immediate transfer of your investments to your ex-spouse; or
+i)  An immediate transfer of your investments to your ex-spouse; or
 
-    ii) Your investments to be liquidated and the sale proceeds to be
-    transferred to your ex-spouse.
+    > ii\) Your investments to be liquidated and the sale proceeds to be
+    > transferred to your ex-spouse.
 
 **Charging Order**
 
@@ -2968,7 +2958,7 @@ liquidated for proceeds to be transferred? Which financial
 intermediaries to approach for transfer/liquidation of investments?**
 
 Please refer to the step-by-step guide on the CPF website for more
-details (http://mycpf.cpf.gov.sg/).
+details (<http://mycpf.cpf.gov.sg/>).
 
 **Can the cash balance in my Investment Account be transferred?**
 
@@ -2985,219 +2975,151 @@ consult his/her lawyer on how to complete the transfer. Such matrimonial
 assets belonging to your ex-spouse under the Court Order will not be
 subject to estate duty payable by your Estate.
 
+[^1]: The following section on Divorce Case Flow, taken from The State
+    Courts’ website, is based on information last updated on 12 May 2014
 
-.. [15]
-   The following section on Divorce Case Flow, taken from The State
-   Courts’ website, is based on information last updated on 12 May 2014
+[^2]: Ibid s 94(2)
 
-.. [16]
-   Ibid s 94(2)
+[^3]: Ibid s 94(3)
 
-.. [17]
-   Ibid s 94(3)
+[^4]: Ibid s 112(2)(e)(Cap 353)
 
-.. [18]
-   Ibid s 112(2)(e)(Cap 353)
+[^5]: Ibid s 121(f) (Cap 353)
 
-.. [19]
-   Ibid s 121(f) (Cap 353)
+[^6]: s 494 of the Penal Code
 
-.. [20]
-   s 494 of the Penal Code
+[^7]: Last updated on 25 August 2014 at
+    <http://app.minlaw.gov.sg/lab/default.asp>
 
-.. [21]
-   Last updated on 25 August 2014 at
-   http://app.minlaw.gov.sg/lab/default.asp
+[^8]: Section is based on information last updated on 8 March 2014 from
+    The State Courts’ website
 
-.. [22]
-   Section is based on information last updated on 8 March 2014 from The
-   State Courts’ website
+[^9]: Last updated on 2 June 2014 on The State Courts’ website
 
-.. [23]
-   Last updated on 2 June 2014 on The State Courts’ website
+[^10]: Reports in Custody and Access Disputes — When, Why and What Are
+    They? <http://www.lawgazette.com.sg/2004-4/April04-col.htm>, last
+    accessed on 3 September 2014
 
-.. [24]
-   Reports in Custody and Access Disputes — When, Why and What Are They?
-   http://www.lawgazette.com.sg/2004-4/April04-col.htm, last accessed on
-   3 September 2014
+[^11]: Following section is based on information last updated on 26
+    September 2012 from The State Courts’ website
 
-.. [25]
-   Following section is based on information last updated on 26
-   September 2012 from The State Courts’ website
+[^12]: The Women’s Charter s 69(1)(Cap 353)
 
-.. [26]
-   The Women’s Charter s 69(1)(Cap 353)
+[^13]: Ibid s 69(3)(Cap 353)
 
-.. [27]
-   Ibid s 69(3)(Cap 353)
+[^14]: The Women’s Charter s 68(Cap 353)
 
-.. [28]
-   The Women’s Charter s 68(Cap 353)
+[^15]: Ibid s 69(4)(a) to (h)(Cap 353)
 
-.. [29]
-   Ibid s 69(4)(a) to (h)(Cap 353)
+[^16]: Ibid s 71 (Cap 353)
 
-.. [30]
-   Ibid s 71 (Cap 353)
+[^17]: The Women’s Charter s 71(1)(a) to (f) (Cap 353)
 
-.. [31]
-   The Women’s Charter s 71(1)(a) to (f) (Cap 353)
+[^18]: Please refer to <https://www.elitigation.sg>
 
-.. [32]
-   Please refer to https://www.elitigation.sg
+[^19]: The Women’s Charter s 123 (Cap 353)
 
-.. [33]
-   The Women’s Charter s 123 (Cap 353)
+[^20]: Ibid s 72 (Cap 353)
 
-.. [34]
-   Ibid s 72 (Cap 353)
+[^21]: Ibid s 112 (Cap 353)
 
-.. [35]
-   Ibid s 112 (Cap 353)
+[^22]: Please see guide on application procedure on:
+    <https://www.familyjusticecourts.gov.sg/TBD/Pages/How-to-Apply-for-Maintenance.aspx>
 
-.. [36]
-   Please see guide on application procedure on:
-   https://www.familyjusticecourts.gov.sg/TBD/Pages/How-to-Apply-for-Maintenance.aspx
+[^23]: Ibid
 
-.. [37]
-   Ibid
+[^24]: The Woman’s Charter ss 72 and 118, respectively (Cap 353)
 
-.. [38]
-   The Woman’s Charter ss 72 and 118, respectively (Cap 353)
+[^25]: Ibid ss 69 and 114, respectively (Cap 353)
 
-.. [39]
-   Ibid ss 69 and 114, respectively (Cap 353)
+[^26]: Ibid ss 72 and 118, respectively (Cap 353)
 
-.. [40]
-   Ibid ss 72 and 118, respectively (Cap 353)
+[^27]: Ibid
 
-.. [41]
-   Ibid
+[^28]: Ibid s 68 (Cap 353)
 
-.. [42]
-   Ibid s 68 (Cap 353)
+[^29]: Ibid s 69 (Cap 353)
 
-.. [43]
-   Ibid s 69 (Cap 353)
+[^30]: The Women’s Charter s 81 (Cap 353)
 
-.. [44]
-   The Women’s Charter s 81 (Cap 353)
+[^31]: Ibid ss 69 and 114 (Cap 353)
 
-.. [45]
-   Ibid ss 69 and 114 (Cap 353)
+[^32]: Ibid ss 69 and 115 (Cap 353)
 
-.. [46]
-   Ibid ss 69 and 115 (Cap 353)
+[^33]: The Women’s Charter s 69 (Cap 353)
 
-.. [47]
-   The Women’s Charter s 69 (Cap 353)
+[^34]: Ibid
 
-.. [48]
-   Ibid
+[^35]: Ibid s 121 (Cap 353)
 
-.. [49]
-   Ibid s 121 (Cap 353)
+[^36]: Ibid s 71 and Part IX (Cap 353)
 
-.. [50]
-   Ibid s 71 and Part IX (Cap 353)
+[^37]: Ibid
 
-.. [51]
-   Ibid
+[^38]: Maintenance Orders (Reciprocal Enforcement) Act (Cap 169)
 
-.. [52]
-   Maintenance Orders (Reciprocal Enforcement) Act (Cap 169)
+[^39]: The Woman’s Charter s 69(5)(c) (Cap 353)
 
-.. [53]
-   The Woman’s Charter s 69(5)(c) (Cap 353)
+[^40]: Ibid s 69(3)(a) to (d)
 
-.. [54]
-   Ibid s 69(3)(a) to (d)
+[^41]: Following section is based on information last updated on 7 April
+    2014 from The State Courts’ website
 
-.. [55]
-   Following section is based on information last updated on 7 April
-   2014 from The State Courts’ website
+[^42]: The Women’s Charter s 112 (Cap 353)
 
-.. [56]
-   The Women’s Charter s 112 (Cap 353)
+[^43]: <http://www.hdb.gov.sg/fi10/fi10326p.nsf/w/ChgOwnerDivorce?OpenDocument>
 
-.. [57]
-   http://www.hdb.gov.sg/fi10/fi10326p.nsf/w/ChgOwnerDivorce?OpenDocument
+[^44]: <http://mycpf.cpf.gov.sg/CPF/my-cpf/buy-house/BH11.htm>
 
-.. [58]
-   http://mycpf.cpf.gov.sg/CPF/my-cpf/buy-house/BH11.htm
+[^45]: <http://mycpf.cpf.gov.sg/CPF/my-cpf/buy-house/BH11.htm>
 
-.. [59]
-   http://mycpf.cpf.gov.sg/CPF/my-cpf/buy-house/BH11.htm
+[^46]: <http://mycpf.cpf.gov.sg/Members/Gen-Info/mbr-Gen-info.htm>
 
-.. [60]
-   http://mycpf.cpf.gov.sg/Members/Gen-Info/mbr-Gen-info.htm
+[^47]: The Women’s Charter s 112(2)(a) to (h) (Cap 353)
 
-.. [61]
-   The Women’s Charter s 112(2)(a) to (h) (Cap 353)
+[^48]: Ibid s 112(10)(a) and (b) (Cap 353)
 
-.. [62]
-   Ibid s 112(10)(a) and (b) (Cap 353)
+[^49]: Housing and Development Act s 51(5) (Cap 129)
 
-.. [63]
-   Housing and Development Act s 51(5) (Cap 129)
+[^50]: Central Provident Fund Act s 24(2)(c)(1) (Cap 36)
 
-.. [64]
-   Central Provident Fund Act s 24(2)(c)(1) (Cap 36)
+[^51]: <http://www.ipto.gov.sg/content/ipto/en.html>
 
-.. [65]
-   http://www.ipto.gov.sg/content/ipto/en.html
+[^52]: The Women’s Charter s 112(2)(b) (Cap 353)
 
-.. [66]
-   The Women’s Charter s 112(2)(b) (Cap 353)
+[^53]: Ibid s 112(2)(a) (Cap 353)
 
-.. [67]
-   Ibid s 112(2)(a) (Cap 353)
+[^54]: Ibid s 112(5)(e) (Cap 353)
 
-.. [68]
-   Ibid s 112(5)(e) (Cap 353)
+[^55]: Ibid s 59 (Cap 353)
 
-.. [69]
-   Ibid s 59 (Cap 353)
+[^56]: The Women’s Charter s 112(2)(b) (Cap 353)
 
-.. [70]
-   The Women’s Charter s 112(2)(b) (Cap 353)
+[^57]: Ibid s 112(10) (Cap 353)
 
-.. [71]
-   Ibid s 112(10) (Cap 353)
+[^58]: Ibid s 112(5)(c) (Cap 353)
 
-.. [72]
-   Ibid s 112(5)(c) (Cap 353)
+[^59]: Rules of the Supreme Court, order 46
 
-.. [73]
-   Rules of the Supreme Court, order 46
+[^60]: \[Subordinate\] Courts Practice Pamphlets – Garnishee Proceedings
+    (1999)
 
-.. [74]
-   [Subordinate] Courts Practice Pamphlets – Garnishee Proceedings
-   (1999)
+[^61]: The Women’s Charter s 112(2) (Cap 353)
 
-.. [75]
-   The Women’s Charter s 112(2) (Cap 353)
+[^62]: Please refer to
+    <http://www.singaporelaw.sg/sglaw/laws-of-singapore/commercial-law/chapter-8>
 
-.. [76]
-   Please refer to
-   http://www.singaporelaw.sg/sglaw/laws-of-singapore/commercial-law/chapter-8
+[^63]: Please refer to
+    <http://www.hdb.gov.sg/fi10/fi10321p.nsf/w/BuyingNewFlatEligibilitytobuynewHDBflat?OpenDocument>
 
-.. [77]
-   Please refer to
-   http://www.hdb.gov.sg/fi10/fi10321p.nsf/w/BuyingNewFlatEligibilitytobuynewHDBflat?OpenDocument
+[^64]: Please also refer to:
+    <http://www.hdb.gov.sg/fi10/fi10326p.nsf/w/ChgOwnerRemoveOccupier?OpenDocument>
 
-.. [78]
-   Please also refer to:
-   http://www.hdb.gov.sg/fi10/fi10326p.nsf/w/ChgOwnerRemoveOccupier?OpenDocument
+[^65]: The following section is based on information from the Housing
+    and Development Board website and the information is accurate as of
+    27 August 2014
 
-.. [79]
-   The following section is based on information from the Housing and
-   Development Board website and the information is accurate as of 27
-   August 2014
+[^66]: Based on information from the Central Provident Fund Board
+    website last updated on 3 January 2014
 
-.. [80]
-   Based on information from the Central Provident Fund Board website
-   last updated on 3 January 2014
-
-.. [81]
-   Last updated on 3 January 2014
+[^67]: Last updated on 3 January 2014

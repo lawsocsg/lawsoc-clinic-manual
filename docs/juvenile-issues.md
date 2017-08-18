@@ -1,4 +1,3 @@
-
 JUVENILE ISSUES
 ===============
 
@@ -7,29 +6,29 @@ Definitions & Age Ranges
 
 Definitions
 
-**Child (< 14):** A “child” in Singapore is defined in the Children and
-Young Persons Act (Cap. 38) as “a person who is below the age of 14
-years”. [250]_
+**Child (&lt; 14):** A “child” in Singapore is defined in the Children
+and Young Persons Act (Cap. 38) as “a person who is below the age of 14
+years”.[^1]
 
-**Juvenile (7 to <16):** A “juvenile” in Singapore is defined in the Act
-as “a male or female person who is 7 years of age or above and below the
-age of 16 years”. [251]_
+**Juvenile (7 to &lt;16):** A “juvenile” in Singapore is defined in the
+Act as “a male or female person who is 7 years of age or above and below
+the age of 16 years”.[^2]
 
-**Young person (14 to <16):** A “young person” is defined in the Act as
-“a person who is 14 years of age or above and below the age of 16
-years”. [252]_
+**Young person (14 to &lt;16):** A “young person” is defined in the Act
+as “a person who is 14 years of age or above and below the age of 16
+years”.[^3]
 
 Relevant Penal Code Provisions
 
-**Absolute immunity from criminal liability (< 7):** The Penal Code
+**Absolute immunity from criminal liability (&lt; 7):** The Penal Code
 (Cap. 224) provides that “nothing is an offence which is done by a child
-under 7 years of age.” [253]_
+under 7 years of age.”[^4]
 
-**Qualified immunity from criminal liability (>7 to <12):** The Penal
-Code provides that “[n]othing is an offence which is done by a child
-above 7 years of age and under 12, who has not attained sufficient
+**Qualified immunity from criminal liability (&gt;7 to &lt;12):** The
+Penal Code provides that “\[n\]othing is an offence which is done by a
+child above 7 years of age and under 12, who has not attained sufficient
 maturity of understanding to judge of the nature and consequence of his
-conduct on that occasion.” [254]_
+conduct on that occasion.”[^5]
 
 Jurisdiction of the Youth Court (*formerly Juvenile Court*)
 
@@ -37,52 +36,48 @@ Jurisdiction of the Youth Court (*formerly Juvenile Court*)
 
 Only a child, juvenile or young person (age to be determined at the date
 of commencement of the hearing of the charge) may be brought before the
-Juvenile Court to be tried for an offence. [255]_
+Juvenile Court to be tried for an offence.[^6]
 
-The Act provides that “no child or young person [i.e. nobody under 16
-years of age] shall be charged with or tried for any offence by court of
-summary jurisdiction except a Juvenile Court”, [256]_ unless:
+The Act provides that “no child or young person \[i.e. nobody under 16
+years of age\] shall be charged with or tried for any offence by court
+of summary jurisdiction except a Juvenile Court”,[^7] unless:
 
--  He/she is jointly charged with another person who is 16 years of age
-   or above [257]_
-
--  He/she is charged with any offence triable only by the High Court,
-   and (a) the Public Prosecutor has not applied to the Juvenile Court
-   to try such offence or (b), if the Public Prosecutor has made such an
-   application, the legal representative of the child/young person has
-   not consented to the offence being tried by the Juvenile
-   Court. [258]_
+-   He/she is jointly charged with another person who is 16 years of age
+    or above[^8]
+-   He/she is charged with any offence triable only by the High Court,
+    and (a) the Public Prosecutor has not applied to the Juvenile Court
+    to try such offence or (b), if the Public Prosecutor has made such
+    an application, the legal representative of the child/young person
+    has not consented to the offence being tried by the Juvenile
+    Court.[^9]
 
 *Types of cases/issues*
 
 The Juvenile Court, or the Juvenile Justice Division of the State
-Courts, deals with: [259]_
+Courts, deals with:[^10]
 
--  Beyond Parental Control (“BPC”) cases
-
--  Juvenile Arrest Cases (“JAC”)
-
--  Care & Protection Order (“CPO”) cases
+-   Beyond Parental Control (“BPC”) cases
+-   Juvenile Arrest Cases (“JAC”)
+-   Care & Protection Order (“CPO”) cases
 
 Beyond Parental Control
 -----------------------
 
-Basic Information
-~~~~~~~~~~~~~~~~~
+### Basic Information
 
 Beyond Parental Control (“BPC”) refers to a child or young person below
-the age of 16 years who may be: [260]_
+the age of 16 years who may be:[^11]
 
-1. In persistent conflict with his/her parent(s) and school or other
+1\. In persistent conflict with his/her parent(s) and school or other
 authorities **and/or**
 
-2. Displaying at-risk behaviour.
+2.  Displaying at-risk behaviour.
 
 There has usually been a breakdown in the relationship and communication
 between the child/young person and his/her parent(s). It may result in
 the inability of the parent(s) to exercise care and control over the
 child/young person. In these circumstances, the parent(s) can apply to
-the Juvenile Court for a BPC order. [261]_
+the Juvenile Court for a BPC order.[^12]
 
 **Requirement of Proof:** The Court only makes a BPC order if the parent
 can prove to the satisfaction of the Court that the child is beyond
@@ -90,10 +85,9 @@ parental control. The parent will have to first go through Pre-Complaint
 Counselling with the child. This is conducted by the Singapore
 Children's Society at the Juvenile Court.
 
-Procedure For Parents
-~~~~~~~~~~~~~~~~~~~~~
+### Procedure For Parents
 
-**Step 1: Lodging a complaint**\  [262]_
+**Step 1: Lodging a complaint**[^13]
 
 The parent can lodge a complaint at the Juvenile Court from 2pm to 4pm
 on Fridays, except on public holidays.
@@ -105,31 +99,29 @@ the Juvenile Court.
 
 The parent must bring the following documents:
 
--  The child’s Birth Certificate (either the original or photocopy).
-
--  The child’s Identity Card, if possible.
-
--  The Custody and Access Order, if the parents are divorced.
+-   The child’s Birth Certificate (either the original or photocopy).
+-   The child’s Identity Card, if possible.
+-   The Custody and Access Order, if the parents are divorced.
 
 **Step 2: Pre-complaint counselling**
 
 Before the complaint is sworn, the parents and the child will be
 attended to by a Social Worker from the Singapore Children's Society who
 will try to resolve the matter without the intervention of the
-Court. [263]_ In the meantime, the case will be adjourned for 4 weeks
-pending the outcome of the counselling sessions. [264]_
+Court.[^14] In the meantime, the case will be adjourned for 4 weeks
+pending the outcome of the counselling sessions.[^15]
 
 In the event that Court intervention is still necessary, the Magistrate
 will confirm that the parent is proceeding with the complaint before
 calling for a Social Report on the child. Pending the preparation of the
 Social Report, the Court may remand the child either in a Place of
 Detention (either the Singapore Boys’ Home or the Toa Payoh Girls’
-Home). [265]_
+Home).[^16]
 
 The parent will be informed of the date to return to Court when the
-Court will make the appropriate orders. [266]_
+Court will make the appropriate orders.[^17]
 
-**Step 3: Return to Court**\  [267]_
+**Step 3: Return to Court**[^18]
 
 The parent must bring the child along on the return date. The Magistrate
 and 2 Panel Advisers to the Juvenile Court will discuss and consider the
@@ -137,11 +129,10 @@ Social Report on the child.
 
 Subject to the parent’s consent, the child may be ordered to:
 
--  Be sent to an Approved Home for not less than 2 and not more than 3
-   years; or
-
--  Be placed on statutory supervision under the supervision of a Social
-   Worker for a specified period not exceeding 3 years.
+-   Be sent to an Approved Home for not less than 2 and not more than 3
+    years; or
+-   Be placed on statutory supervision under the supervision of a Social
+    Worker for a specified period not exceeding 3 years.
 
 **Step 4: Consequences of breaching an order**
 
@@ -169,16 +160,12 @@ If the child is under statutory supervision, the Court may, on the
 hearing date, make the following orders after considering the Social
 Report and that it is in the best interest of the child to do so:
 
--  Discharge the child back to the parent.
+-   Discharge the child back to the parent.
+-   Make a fresh statutory supervision order.
+-   Order the child to be sent to an Approved Home for a minimum of 2
+    years and a maximum of 3 years.
 
--  Make a fresh statutory supervision order.
-
--  Order the child to be sent to an Approved Home for a minimum of 2
-   years and a maximum of 3 years.
-
-
-Commonly Asked Questions On Going Beyond Parental Control
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Commonly Asked Questions On Going Beyond Parental Control
 
 **Will the Juvenile Court be monitoring the child?**
 
@@ -205,14 +192,14 @@ committing an offence.
 Any child or young person or his parent or guardian who is dissatisfied
 with any judgment or order of a Juvenile Court may appeal to the High
 Court, in accordance with the provision of any law regulating appeals to
-the High Court from a Magistrate’s Court (such as deadlines). [268]_
+the High Court from a Magistrate’s Court (such as deadlines).[^19]
 
 Youth Arrest Cases
 ------------------
 
-Case Flow Outline [269]_
+Case Flow Outline[^20]
 
-|image7|
+![image7](../images/image8.jpeg){width="5.20833in" height="3.75000in"}
 
 The details on specific stages in the Case Flow Outline can be found in
 the following sections. Refer to the relevant sections in this chapter
@@ -222,8 +209,7 @@ the Family Conferencing stage.
 Commonly Asked Questions on Pre-Sentence Report
 -----------------------------------------------
 
-**GENERAL QUESTIONS**
-~~~~~~~~~~~~~~~~~~~~~
+### **GENERAL QUESTIONS**
 
 **What is a Pre-Sentence Report?**
 
@@ -250,8 +236,7 @@ MSF or volunteers who have been qualified as Gazetted Volunteer
 Probation Officers. These officers are gazetted under the Probation of
 Offenders Act.
 
-**FOR JUVENILE OFFENDERS**
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **FOR JUVENILE OFFENDERS**
 
 **What does the offender have to do if told that a Pre-Sentence Report
 will be prepared?**
@@ -286,35 +271,27 @@ process.
 Court Orders
 ------------
 
-The Juvenile Court has the power to make orders for juveniles: [270]_
+The Juvenile Court has the power to make orders for juveniles:[^21]
 
--  When an offence has been proven
+-   When an offence has been proven
+-   When the juvenile admits the facts constituting the offence under
+    Section 44(1) of the Children and Young Persons Act
 
--  When the juvenile admits the facts constituting the offence under
-   Section 44(1) of the Children and Young Persons Act
-
-Considerations Of The Court [271]_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Considerations Of The Court[^22]
 
 The Juvenile Court takes into consideration every individual offender’s
 strengths and limitations when making its orders. In broad terms, the
 factors that the Juvenile Court considers include:
 
--  Rehabilitation and reformation of the offender.
+-   Rehabilitation and reformation of the offender.
+-   Removal of him/her from undesirable surroundings.
+-   Promoting his/her education and welfare.
+-   Compensation of victim(s) involved.
+-   Protection of the public.
+-   Minimising the risk of further offending by the offender.
+-   Punishment of the offender.
 
--  Removal of him/her from undesirable surroundings.
-
--  Promoting his/her education and welfare.
-
--  Compensation of victim(s) involved.
-
--  Protection of the public.
-
--  Minimising the risk of further offending by the offender.
-
--  Punishment of the offender.
-
-**Step 1: Dealing with juvenile offenders**\  [272]_
+**Step 1: Dealing with juvenile offenders**[^23]
 
 The Juvenile Court is empowered with the following options (explained
 below) to deal with a juvenile offender upon a finding of guilt under
@@ -373,18 +350,13 @@ initial period of one month at the institution.
 
 The following institutions are gazetted as Approved Institutions:
 
--  Singapore Boys’ Hostel (for males only)
-
--  Bukit Batok Hostel (for older males who are aged above 16 but placed
-   on probation before turning 16)
-
--  Salvation Army Gracehaven (for non-Muslim females only)
-
--  Pertapis Adolescent Development Centre (for Muslim males only)
-
--  Pertapis Centre For Women and Girls (for Muslim females only)
-
--  Muhammiyah Welfare Home (for Muslim females only)
+-   Singapore Boys’ Hostel (for males only)
+-   Bukit Batok Hostel (for older males who are aged above 16 but placed
+    on probation before turning 16)
+-   Salvation Army Gracehaven (for non-Muslim females only)
+-   Pertapis Adolescent Development Centre (for Muslim males only)
+-   Pertapis Centre For Women and Girls (for Muslim females only)
+-   Muhammiyah Welfare Home (for Muslim females only)
 
 The Court may also make an order of residence in a non-gazetted home if
 the pre-sentence report shows that the institution is prepared to accept
@@ -399,40 +371,32 @@ Operationally, probation orders have been classified into 3 grades to
 cater for the varying intensity of risks and needs of the individual
 probationers. These are:
 
--  Administrative Probation
-
--  Supervised Probation
-
--  Intensive Probation
+-   Administrative Probation
+-   Supervised Probation
+-   Intensive Probation
 
 **Additional orders**
 
 These orders may be made in addition to the probation order:
 
--  Committing the offender to the care of a relative or other fit
-   person.
-
--  Offender's Parent or Guardian to execute a bond to exercise proper
-   care and Guardianship.
-
--  Community service order.
-
--  Detention at a Place of Detention (if detention order is made with
-   Probation order, detention will be up to 3 months).
-
--  Weekend Detention at a Place of Detention or Approved Institution (up
-   to 52 weekends).
-
--  Payment of a fine, damages or costs.
+-   Committing the offender to the care of a relative or other fit
+    person.
+-   Offender's Parent or Guardian to execute a bond to exercise proper
+    care and Guardianship.
+-   Community service order.
+-   Detention at a Place of Detention (if detention order is made with
+    Probation order, detention will be up to 3 months).
+-   Weekend Detention at a Place of Detention or Approved Institution
+    (up to 52 weekends).
+-   Payment of a fine, damages or costs.
 
 **(f) Detention at a “Place of Detention”**
 
 The offender may be detained for a period of up to 6 months. The
 following are gazetted as Places of Detention:
 
--  Singapore Boys’ Home (for males only)
-
--  Toa Payoh Girls’ Home (for females only)
+-   Singapore Boys’ Home (for males only)
+-   Toa Payoh Girls’ Home (for females only)
 
 Under this order, offenders will be required to be resident at the Place
 of Detention for a specified period of time as ordered by the Court.
@@ -440,10 +404,9 @@ of Detention for a specified period of time as ordered by the Court.
 The following orders may also be made in addition to the Detention at a
 Place of Detention order:
 
--  Offender's Parent or Guardian to execute a bond to exercise proper
-   care and Guardianship
-
--  Probation order
+-   Offender's Parent or Guardian to execute a bond to exercise proper
+    care and Guardianship
+-   Probation order
 
 **(g) Weekend detention at a “Place of Detention” or Approved
 Institution**
@@ -461,16 +424,13 @@ on Saturday to 5pm on Sunday for the specified number of weekends.
 The following orders may be made in addition to the Weekend Detention
 order:
 
--  Committing the offender to the care of a relative or other fit person
-
--  Offender's Parent or Guardian to execute a bond to exercise proper
-   care and Guardianship
-
--  Community service order
-
--  Probation order
-
--  Payment of a fine, damages or costs
+-   Committing the offender to the care of a relative or other fit
+    person
+-   Offender's Parent or Guardian to execute a bond to exercise proper
+    care and Guardianship
+-   Community service order
+-   Probation order
+-   Payment of a fine, damages or costs
 
 -
 
@@ -500,15 +460,13 @@ Schools.
 There are presently two Approved Schools run by VWOs that meet the
 specific rehabilitative needs of the offenders. These are:
 
--  Salvation Army, Gracehaven (for non-Muslims)
-
--  Muhammadiyah Welfare Home (for Muslims)
+-   Salvation Army, Gracehaven (for non-Muslims)
+-   Muhammadiyah Welfare Home (for Muslims)
 
 There are presently two Approved Schools run by MSF. These are:
 
--  Singapore Boys’ Home (“SBH”) (for males)
-
--  Toa Payoh Girls’ Home (“TPGH”) (for females)
+-   Singapore Boys’ Home (“SBH”) (for males)
+-   Toa Payoh Girls’ Home (“TPGH”) (for females)
 
 Juveniles who are sent to SBH or TPGH exhibit a greater degree of
 delinquency and possess more/greater risk factors compared to those sent
@@ -543,7 +501,7 @@ parents/guardians cannot be found or that they have not conduced the
 commission of the offence by neglecting to exercise due care over the
 child/young person.
 
-**Stage 2: Review of cases**\  [273]_
+**Stage 2: Review of cases**[^24]
 
 **(a) Court-ordered probation review**
 
@@ -565,7 +523,7 @@ Social Welfare, on the advice of the Advisory Board, may release the
 residents on licence after they have completed 12 months in the Approved
 Schools / Approved Homes regime.
 
-**Stage 3 (if applicable): Breach of Court Order**\  [274]_
+**Stage 3 (if applicable): Breach of Court Order**[^25]
 
 Residents in the Approved Schools and Approved Homes may be in breach
 for unruly behaviour. The test is whether the resident is so unruly a
@@ -586,23 +544,21 @@ to be unfit to reside at the present institution, it is empowered to
 mete out the following orders pursuant to Section 44(7) of the Children
 and Young Persons Act:
 
--  Order the resident to be transferred to another Approved School that
-   the Court considers more suitable, and detain the resident there for
-   the unexpired period of detention (for example, an unruly female
-   resident may be transferred from the Salvation Army Gracehaven to the
-   Toa Payoh Girls' Home).
-
--  If a resident is between 14 and 16 years of age, he/she may be
-   brought before a District Court and sent to the Reformative Training
-   Centre.
+-   Order the resident to be transferred to another Approved School that
+    the Court considers more suitable, and detain the resident there for
+    the unexpired period of detention (for example, an unruly female
+    resident may be transferred from the Salvation Army Gracehaven to
+    the Toa Payoh Girls' Home).
+-   If a resident is between 14 and 16 years of age, he/she may be
+    brought before a District Court and sent to the Reformative Training
+    Centre.
 
 However, it is also open to the Court in the appropriate case to give
 the young person a stern warning with respect to his behaviour and
 direct him to continue his present detention.
 
-
 Family Conferencing
------------------------
+-------------------
 
 Under Section 45(1) of the Children and Young Persons Act, the Juvenile
 Court Magistrate may order that a juvenile case conference be convened
@@ -611,58 +567,41 @@ if in respect of the offender's family background, general conduct, home
 surroundings, school record, medical history and state of development of
 the offender, the Court is satisfied that it would be in the best
 interests of the offender that he/she be dealt with by a juvenile case
-conference. [275]_
+conference.[^26]
 
-Participants
-~~~~~~~~~~~~~
+### Participants
 
 The parties convened by the Magistrate will vary according to the needs
 of each juvenile case conference. The participants of a conference may
 include the following:
 
--  Facilitator
+-   Facilitator
+-   Offender
+-   Parent(s) or guardian(s)
+-   Extended family
+-   Victim(s)
+-   Victim’s family
+-   Offender’s school teacher, principal and/or employer
+-   Prosecutor and/or Police Investigating Officer
+-   Probation (Welfare) Officer, Case Worker and/or Psychologist
+-   Other relevant persons.
 
--  Offender
-
--  Parent(s) or guardian(s)
-
--  Extended family
-
--  Victim(s)
-
--  Victim’s family
-
--  Offender’s school teacher, principal and/or employer
-
--  Prosecutor and/or Police Investigating Officer
-
--  Probation (Welfare) Officer, Case Worker and/or Psychologist
-
--  Other relevant persons.
-
-Objectives [276]_
-~~~~~~~~~~~~~~~~~
+### Objectives[^27]
 
 Objectives of these juvenile case conferences include:
 
--  Reprimanding the offender.
+-   Reprimanding the offender.
+-   Administering a formal caution to the offender.
+-   Requiring the offender to pay compensation to the victim(s) of the
+    offence.
+-   Requiring the offender to apologise to the victim(s) of the offence.
+-   Resolving any relationship problems between the child/young person
+    and the parent/guardian, which should aid the rehabilitation of the
+    juvenile.
+-   Requiring the offender to do such other acts as the juvenile case
+    conference thinks appropriate in the circumstances.
 
--  Administering a formal caution to the offender.
-
--  Requiring the offender to pay compensation to the victim(s) of the
-   offence.
-
--  Requiring the offender to apologise to the victim(s) of the offence.
-
--  Resolving any relationship problems between the child/young person
-   and the parent/guardian, which should aid the rehabilitation of the
-   juvenile.
-
--  Requiring the offender to do such other acts as the juvenile case
-   conference thinks appropriate in the circumstances.
-
-Court Orders
-~~~~~~~~~~~~
+### Court Orders
 
 The results and recommendations of the juvenile case conference are made
 to the Magistrate who then makes appropriate orders in open Court. If it
@@ -676,42 +615,34 @@ of the Juvenile Court before the case is mentioned in the Juvenile
 Court. The Magistrate will then make an order on your child's case. The
 options available to the Court are:
 
--  Discharge
-
--  Discharge with good behaviour bond
-
--  Commit to a relative or fit person for a specified period
-
--  Parent/guardian to enter bond to exercise proper care and supervision
-
--  Probation
-
--  Detention in a Place of Detention (up to 6 months)
-
--  Approved School order (between 2-3 years)
-
--  Fine, damages, or costs
-
--  Transfer to a District Court for a reformatory training order, if it
-   is expedient to your child's reformation that such an order is made
-   (certain conditions will have to be met before such an order is made
-   if your child is above 14 years old and below 16 years old)
-
+-   Discharge
+-   Discharge with good behaviour bond
+-   Commit to a relative or fit person for a specified period
+-   Parent/guardian to enter bond to exercise proper care and
+    supervision
+-   Probation
+-   Detention in a Place of Detention (up to 6 months)
+-   Approved School order (between 2-3 years)
+-   Fine, damages, or costs
+-   Transfer to a District Court for a reformatory training order, if it
+    is expedient to your child's reformation that such an order is made
+    (certain conditions will have to be met before such an order is made
+    if your child is above 14 years old and below 16 years old)
 
 Commonly Asked Questions on Court Orders & Family Conferencing
-------------------------------------------------------------------
+--------------------------------------------------------------
 
 **How does the offender appeal a court order?**
 
 Any child/ young person or his parent/guardian who is dissatisfied with
 any judgment or order of a Juvenile Court may appeal to the High
-Court. [277]_
+Court.[^28]
 
 Appeals must be in accordance with the provision of any law in force for
 the time being regulating appeals to the High Court from a Magistrate’s
-Court, [278]_ which means that the appeal must be filed with the Crime
+Court,[^29] which means that the appeal must be filed with the Crime
 Registry of the State Courts within 14 days from the time the judgment,
-sentence or order is made. [279]_
+sentence or order is made.[^30]
 
 **How can a parent help the child remain on the right track after the
 Court Order?**
@@ -772,26 +703,24 @@ with one another. Parents also indicated that Family Conferencing helped
 them realise the needs of the juveniles. With the aid of the
 facilitators they were able to identify areas to work on.
 
-
 Restorative Programmes
---------------------------
+----------------------
 
-Counselling And Psychological Services (CAPS)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Counselling And Psychological Services (CAPS)
 
 The CAPS of the State Courts coordinates and brings together the formal
 and informal juvenile justice constituents in the rehabilitation of the
 juvenile offender and youths at risk. It works out programmes for
 juveniles and their families with an emphasis to re-integrate the
 juvenile back to his/her family and community in line with the
-Restorative Justice Model adopted by the Juvenile Justice System. [280]_
+Restorative Justice Model adopted by the Juvenile Justice System.[^31]
 
 Personal and specialised attention is paid to each juvenile offender,
 his character, his family and environment for a holistic approach to
 rehabilitation. In additionCAPS, in its planning of restorative
 programmes, also looks at the larger issue of educating the general
 public and community on pertinent issues that underscore delinquency and
-crime recidivism. [281]_
+crime recidivism.[^32]
 
 Programmes established should not only teach juvenile delinquents and
 offenders basic life skills and afford them employability and
@@ -802,10 +731,9 @@ tap all available community resources as meaningful options that targets
 at underlying causes of delinquency, resulting in meaningful
 re-orientation of values and eroding causes of recidivism. The approach
 seeks to equip young offenders and delinquents with the resources and
-life skills to embark on more constructive lifestyles. [282]_
+life skills to embark on more constructive lifestyles.[^33]
 
-Streetwise Programme [283]_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Streetwise Programme[^34]
 
 The Streetwise Programme is a government-funded project initiated by the
 Inter-Ministry Committee on Youth Crime and is coordinated by the
@@ -820,8 +748,7 @@ counselling, family conferencing, peer support, recreation and academic
 activities. The programme aims to help these youths “turn their lives
 around” and gain a fresh start.
 
-Youth Family Care Programme [284]_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Youth Family Care Programme[^35]
 
 The Youth Family Care ("YFC") Programme is run by CAPS and the Singapore
 Children's' Society. A large number of delinquent youths who come under
@@ -834,8 +761,7 @@ It is targeted at helping juvenile offenders and children who are beyond
 parental control who have little family support, who are remorseful
 about their past misdeeds and do not have ingrained delinquent traits.
 
-Beyond Parental Control Family Conferencing [285]_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Beyond Parental Control Family Conferencing[^36]
 
 The Beyond Parental Control ("BPC") Family Conferencing philosophy is
 similar to that of the Family Conferencing for offenders except that it
@@ -846,8 +772,7 @@ behaviour, reduce the placement of such juveniles in institutions
 accommodating offenders and reduce the likelihood of the juvenile
 committing an offence.
 
-School-Probation-Courts Link-Up [286]_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### School-Probation-Courts Link-Up[^37]
 
 This programme, implemented on 1 July 2000, institutionalizes the role
 of Operations Managers ("OMs") in schools within the rehabilitative
@@ -860,8 +785,7 @@ supervision plan should probation be granted. This improves the
 communication and follow-up channels between the schools and the Courts
 in probation matters.
 
-Peer Mediation Programme [287]_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Peer Mediation Programme[^38]
 
 The philosophy behind introducing peer mediation in schools is to nip
 disciplinary problems in the bud before they escalate into behaviour
@@ -881,34 +805,30 @@ Centres and the Law Society.
 Care & Protection
 -----------------
 
-Duty Of Parents
-~~~~~~~~~~~~~~~
+### Duty Of Parents
 
 Parents have a duty to provide care and protection to their children.
 This includes providing a safe home environment, provision of food,
 clothes and shelter. They also have a duty under law to provide for the
 child’s education.
 
-Section 68 of the Women’s Charter (Cap. 353) provides that *“[e]xcept
+Section 68 of the Women’s Charter (Cap. 353) provides that *“\[e\]xcept
 where an agreement or order of court otherwise provides, it shall be the
 duty of a parent to maintain or contribute to the maintenance of his or
 her children:*
 
--  *Whether they are in his or her custody or the custody of any other
-   person, and*
-
--  *Whether they are legitimate or illegitimate,*
+-   *Whether they are in his or her custody or the custody of any other
+    person, and*
+-   *Whether they are legitimate or illegitimate,*
 
 *either by*
 
--  *Providing them with such accommodation, clothing, food and education
-   as may be reasonable having regard to his or her means and station in
-   life or*
+-   *Providing them with such accommodation, clothing, food and
+    education as may be reasonable having regard to his or her means and
+    station in life or*
+-   *By paying the cost thereof.”*
 
--  *By paying the cost thereof.”*
-
-Information For Juveniles Seeking Help Or Advice
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Information For Juveniles Seeking Help Or Advice
 
 If a child or young person requires help and advice because basic care
 and protection is not provided at home, he can approach his teachers or
@@ -921,58 +841,64 @@ person can ask for help may report the case to the Ministry of Social
 and Family Development (“MSF”). A social worker from the MSF will:
 
 • Remove the child or young person from his home to a place of safety if
-  the worker thinks it is not safe living at home.
+
+:   the worker thinks it is not safe living at home.
 
 • Check to see whether the child or young person is being properly taken
-  care of at home.
+
+:   care of at home.
 
 • Counsel the parents and teach them how to take better care of the
-  child or young person, and/or
 
-• Apply to the Juvenile Court for a Care and Protection Order if necessary.
+:   child or young person, and/or
 
-Role Of The Juvenile Court
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+• Apply to the Juvenile Court for a Care and Protection Order if
+necessary.
+
+### Role Of The Juvenile Court
 
 The Court will act in the youth’s best interest, and may order that:
 
 • A welfare officer supervise him/her, to ensure he/she is well taken
-  care of by his/her parents.
+
+:   care of by his/her parents.
 
 • The youth stay in a Home for boys and/or girls, or a relative or other
-  person who can take good care of him/her; and/or
+
+:   person who can take good care of him/her; and/or
 
 • The youth and his/her parents to go for counselling, psychotherapy or
-  other programmes so as to teach them how to deal with the problems each
-  party faces and to teach the parents how to take better care of their child.
+
+:   other programmes so as to teach them how to deal with the problems
+    each party faces and to teach the parents how to take better care of
+    their child.
 
 The MSF social worker will contact the parents to inform them of their
 legal duty to allow the youth to continue his/her studies. If necessary,
 the social worker will apply for a Care and Protection Order that can
 help keep the youth in school.
 
-Domestic Violence
-~~~~~~~~~~~~~~~~~
+### Domestic Violence
 
 **Family violence**
 
 Domestic or family violence can occur in different forms. Examples
 include punching, slapping, kicking, choking, hitting with objects,
-issue of threats, intimidation and verbal abuse. [288]_
+issue of threats, intimidation and verbal abuse.[^39]
 
 Under Section 64 of the Women’s Charter (Cap. 353), “family violence”
 means the commission of any of the following acts:
 
-(a) Wilfully / knowingly placing, or attempting to place, a family
+\(a) Wilfully / knowingly placing, or attempting to place, a family
 member in fear of hurt.
 
-(b) Causing hurt to a family member by such act which is known or ought
+\(b) Causing hurt to a family member by such act which is known or ought
 to have been known would result in hurt.
 
-(c) Wrongfully confining or restraining a family member against his
+\(c) Wrongfully confining or restraining a family member against his
 will.
 
-(d) Causing continual harassment with intent to cause or knowing that it
+\(d) Causing continual harassment with intent to cause or knowing that it
 is likely to cause anguish to a family member.
 
 Thisdoes not include any force lawfully used in self-defence, or by way
@@ -1019,11 +945,10 @@ shelter with relatives or friends whom he can trust.
 
 You can apply to the Court for:
 
--  A Protection Order to stop the family violence
-
--  An Expedited Order if there is imminent danger of family violence
-   being committed against the applicant or the applicant’s family
-   member.
+-   A Protection Order to stop the family violence
+-   An Expedited Order if there is imminent danger of family violence
+    being committed against the applicant or the applicant’s family
+    member.
 
 These are “restraining orders” that forbid the abusive member from using
 violence against the applicant. Not abiding by the order is a criminal
@@ -1034,152 +959,111 @@ Family Court on his own if he is 21 years old and above. If the affected
 person is below 21 years old, he must get a relative who is 21 years old
 or above to make the application for him.
 
-.. [250]
-   Children and Young Persons Act (Cap 38) s 2(1)
+[^1]: Children and Young Persons Act (Cap 38) s 2(1)
 
-.. [251]
-   Ibid
+[^2]: Ibid
 
-.. [252]
-   Children and Young Persons Act (Cap 38) s 2(1)
+[^3]: Children and Young Persons Act (Cap 38) s 2(1)
 
-.. [253]
-   Penal Code (Cap 224) s 82
+[^4]: Penal Code (Cap 224) s 82
 
-.. [254]
-   Penal Code (Cap 224) s 83
+[^5]: Penal Code (Cap 224) s 83
 
-.. [255]
-   Children and Young Persons Act (Cap 38) s 33(6)
+[^6]: Children and Young Persons Act (Cap 38) s 33(6)
 
-.. [256]
-   Children and Young Persons Act (Cap 38) s 33(1)
+[^7]: Children and Young Persons Act (Cap 38) s 33(1)
 
-.. [257]
-   Children and Young Persons Act (Cap 38) s 33(3)
+[^8]: Children and Young Persons Act (Cap 38) s 33(3)
 
-.. [258]
-   Children and Young Persons Act (Cap 38) s 33(2)
+[^9]: Children and Young Persons Act (Cap 38) s 33(2)
 
-.. [259]
-   State Courts of Singapore, *Juvenile Justice Process Flowchart*
-   available at https://app.statecourts.gov.sg/juvenile/index.aspx, last
-   accessed on 1 September 2014
+[^10]: State Courts of Singapore, *Juvenile Justice Process Flowchart*
+    available at <https://app.statecourts.gov.sg/juvenile/index.aspx>,
+    last accessed on 1 September 2014
 
-.. [260]
-   Ministry of Social and Family Development (“MSF”), *Beyond Parental
-   Control: New Cases* available at
-   http://app.msf.gov.sg/ResearchRoom/ResearchStatistics/BeyondParentalControlNewCases.aspx,
-   last accessed on 1 September 2014
+[^11]: Ministry of Social and Family Development (“MSF”), *Beyond
+    Parental Control: New Cases* available at
+    <http://app.msf.gov.sg/ResearchRoom/ResearchStatistics/BeyondParentalControlNewCases.aspx>,
+    last accessed on 1 September 2014
 
-.. [261]
-   Ibid
+[^12]: Ibid
 
-.. [262]
-   MSF, *Beyond Parental Control* available at
-   https://app.statecourts.gov.sg/juvenile/page.aspx?pageid=8945, last
-   accessed on 1 September 2014
+[^13]: MSF, *Beyond Parental Control* available at
+    <https://app.statecourts.gov.sg/juvenile/page.aspx?pageid=8945>,
+    last accessed on 1 September 2014
 
-.. [263]
-   Ibid
+[^14]: Ibid
 
-.. [264]
-   MSF, *FAQs: What is pre-complaint counselling?* available at
-   http://www.ifaq.gov.sg/Subcourts/apps/fcd\_faqmain.aspx#FAQ\_2151,
-   last accessed on 1 September 2014
+[^15]: MSF, *FAQs: What is pre-complaint counselling?* available at
+    [http://www.ifaq.gov.sg/Subcourts/apps/fcd\\\_faqmain.aspx\#FAQ\\\_2151](http://www.ifaq.gov.sg/Subcourts/apps/fcd\_faqmain.aspx#FAQ\_2151),
+    last accessed on 1 September 2014
 
-.. [265]
-   MSF, *FAQs: What happens after you have lodged a complaint?*
-   available at
-   http://www.ifaq.gov.sg/Subcourts/apps/fcd\_faqmain.aspx#FAQ\_2221,
-   last accessed on 1 September 2014
+[^16]: MSF, *FAQs: What happens after you have lodged a complaint?*
+    available at
+    [http://www.ifaq.gov.sg/Subcourts/apps/fcd\\\_faqmain.aspx\#FAQ\\\_2221](http://www.ifaq.gov.sg/Subcourts/apps/fcd\_faqmain.aspx#FAQ\_2221),
+    last accessed on 1 September 2014
 
-.. [266]
-   Ibid
+[^17]: Ibid
 
-.. [267]
-   MSF, *FAQs: What to expect on the return date?* available at
-   http://www.ifaq.gov.sg/Subcourts/apps/fcd\_faqmain.aspx#FAQ\_1947,
-   last accessed on1 September 2014
+[^18]: MSF, *FAQs: What to expect on the return date?* available at
+    [http://www.ifaq.gov.sg/Subcourts/apps/fcd\\\_faqmain.aspx\#FAQ\\\_1947](http://www.ifaq.gov.sg/Subcourts/apps/fcd\_faqmain.aspx#FAQ\_1947),
+    last accessed on1 September 2014
 
-.. [268]
-   Children and Young Persons Act (Cap 38) s 48
+[^19]: Children and Young Persons Act (Cap 38) s 48
 
-.. [269]
-   *See* See Family Justice Courts of Singapore, *Youth Court Matters*
-   available at:
-   https://www.familyjusticecourts.gov.sg/Common/Pages/YouthMatters.aspx#processes,
-   last updated 6 April 2015.
+[^20]: *See* See Family Justice Courts of Singapore, *Youth Court
+    Matters* available at:
+    <https://www.familyjusticecourts.gov.sg/Common/Pages/YouthMatters.aspx#processes>,
+    last updated 6 April 2015.
 
-.. [270]
-   Ibid
+[^21]: Ibid
 
-.. [271]
-   Ibid
+[^22]: Ibid
 
-.. [272]
-   Ibid
+[^23]: Ibid
 
-.. [273]
-   State Courts of Singapore, *What Will Happen When A Juvenile Breaches
-   A Court Order* available at
-   https://app.statecourts.gov.sg/juvenile/page.aspx?pageid=8984, last
-   accessed on 1 September 2014
+[^24]: State Courts of Singapore, *What Will Happen When A Juvenile
+    Breaches A Court Order* available at
+    <https://app.statecourts.gov.sg/juvenile/page.aspx?pageid=8984>,
+    last accessed on 1 September 2014
 
-.. [274]
-   Ibid
+[^25]: Ibid
 
-.. [275]
-   Ibid
+[^26]: Ibid
 
-.. [276]
-   Ibid
+[^27]: Ibid
 
-.. [277]
-   Children and Young Persons Act (Cap 38) s 48
+[^28]: Children and Young Persons Act (Cap 38) s 48
 
-.. [278]
-   Ibid
+[^29]: Ibid
 
-.. [279]
-   Criminal Procedure Code 2010, section 377(2)
+[^30]: Criminal Procedure Code 2010, section 377(2)
 
-.. [280]
-   State Courts of Singapore, *Introduction to Restorative Programmes*
-   available at
-   https://app.statecourts.gov.sg/juvenile/page.aspx?pageid=3860, last
-   accessed on 1 September 2014
+[^31]: State Courts of Singapore, *Introduction to Restorative
+    Programmes* available at
+    <https://app.statecourts.gov.sg/juvenile/page.aspx?pageid=3860>,
+    last accessed on 1 September 2014
 
-.. [281]
-   Ibid
+[^32]: Ibid
 
-.. [282]
-   Ibid
+[^33]: Ibid
 
-.. [283]
-   State Courts of Singapore, *Reaching Out To The Juvenile* available
-   at https://app.statecourts.gov.sg/juvenile/page.aspx?pageid=7520,
-   last accessed on 17 June 2014
+[^34]: State Courts of Singapore, *Reaching Out To The Juvenile*
+    available at
+    <https://app.statecourts.gov.sg/juvenile/page.aspx?pageid=7520>,
+    last accessed on 17 June 2014
 
-.. [284]
-   Ibid
+[^35]: Ibid
 
-.. [285]
-   Ibid
+[^36]: Ibid
 
-.. [286]
-   Ibid
+[^37]: Ibid
 
-.. [287]
-   State Courts of Singapore, *Reaching Out To The Community* available
-   at https://app.statecourts.gov.sg/juvenile/page.aspx?pageid=7523,
-   last accessed on 1 September 2014
+[^38]: State Courts of Singapore, *Reaching Out To The Community*
+    available at
+    <https://app.statecourts.gov.sg/juvenile/page.aspx?pageid=7523>,
+    last accessed on 1 September 2014
 
-.. [288]
-   MSF, *FAQs: Family Violence* available at
-   http://app.customerfeedback.msf.gov.sg/mcys\_faqmain.asp?strItemChoice=2004104123228&action=SHOWTOPICS&strSubItemChoice=2004129225829&m\_strTopicSysID=2004129225927,
-   last accessed on 1 September 2014
-
-.. |image7| image:: ../_static/image8.jpeg
-   :width: 5.20833in
-   :height: 3.75000in
+[^39]: MSF, *FAQs: Family Violence* available at
+    [http://app.customerfeedback.msf.gov.sg/mcys\\\_faqmain.asp?strItemChoice=2004104123228&action=SHOWTOPICS&strSubItemChoice=2004129225829&m\\\_strTopicSysID=2004129225927](http://app.customerfeedback.msf.gov.sg/mcys\_faqmain.asp?strItemChoice=2004104123228&action=SHOWTOPICS&strSubItemChoice=2004129225829&m\_strTopicSysID=2004129225927),
+    last accessed on 1 September 2014

@@ -1,4 +1,3 @@
-
 CIVIL CLAIMS (General)
 ======================
 
@@ -12,19 +11,20 @@ court you should commence your claim in.
 Jurisdiction of the courts
 --------------------------
 
-Civil cases involving claims *not exceeding $60,000* are generally dealt
-with by the Magistrate Courts. Civil claims of *more than $60,000 but
-not exceeding $250,000* are dealt with by the District Courts. Claims of
-*above $250,000* are generally dealt with by the High Court unless the
-parties consent to have the claim dealt with in the District Court.
+Civil cases involving claims *not exceeding \$60,000* are generally
+dealt with by the Magistrate Courts. Civil claims of *more than \$60,000
+but not exceeding \$250,000* are dealt with by the District Courts.
+Claims of *above \$250,000* are generally dealt with by the High Court
+unless the parties consent to have the claim dealt with in the District
+Court.
 
 In addition, civil cases (except for motor vehicle accidents or leases
 over 2 years) involving certain categories, such as claims not exceeding
-$10,000 (or up to $20,000 where both parties consent in writing) may be
-brought to a Small Claims Tribunal.
+\$10,000 (or up to \$20,000 where both parties consent in writing) may
+be brought to a Small Claims Tribunal.
 
 Conducting a Civil Case in Person
-----------------------------------
+---------------------------------
 
 **Basic Information**
 
@@ -54,7 +54,7 @@ District Courts).
 For the detailed legal framework, rules, regulations and powers of the
 Court in the civil litigation process, litigants may wish to refer to
 the following resources which can be found on the website of the State
-Courts (https://www.statecourts.gov.sg/Pages/default.aspx).
+Courts (<https://www.statecourts.gov.sg/Pages/default.aspx>).
 
 **Service Bureaux**
 
@@ -69,35 +69,35 @@ venues:.
 | 1 Supreme Court Lane
 | Level 1, Supreme Court Building
 | Singapore 178879
-|
+| 
 
-Tel: `6337 9164 <tel:+6563379164>`__
+Tel: [6337 9164](tel:+6563379164)
 
 *Chinatown Point*
 
 | 133 New Bridge Road
-| #19-01/02, Chinatown Point
+| \#19-01/02, Chinatown Point
 | Singapore 059413
-|
+| 
 
-Tel: `6538 9507 <tel:+6565389507>`__
+Tel: [6538 9507](tel:+6565389507)
 
 The operating hours for the electronic filing of court documents are:
 
-+-------------------------------+-------------------------+
-| *Operating hours*             | *For filing*            |
-+-------------------------------+-------------------------+
-| Mondays to Fridays            | 8.30 a.m to 5 p.m       |
-| (excluding Public Holidays)   |                         |
-+-------------------------------+-------------------------+
-| Saturdays                     | 8.30 a.m to 12.30 p.m   |
-| (excluding Public Holidays)   |                         |
-+-------------------------------+-------------------------+
-| Sundays and Public Holidays   | Closed                  |
-+-------------------------------+-------------------------+
+  -------------------------------- --------------------------
+  *Operating hours*                *For filing*
+
+  Mondays to Fridays (excluding    8.30 a.m to 5 p.m
+  Public Holidays)                 
+
+  Saturdays (excluding Public      8.30 a.m to 12.30 p.m
+  Holidays)                        
+
+  Sundays and Public Holidays      Closed
+  -------------------------------- --------------------------
 
 For further information please visit the following website:
-https://www.elitigation.sg/getready/filingdocuments.html
+<https://www.elitigation.sg/getready/filingdocuments.html>
 
 **Commencing a Civil Action**
 
@@ -105,7 +105,6 @@ A civil action is begun by filing an originating process or document in
 court. There are 2 types of originating process:
 
 (1) Writ of Summons; or
-
 (2) Originating Summons.
 
 Where there is likely to be substantial factual disputes, a Writ of
@@ -180,31 +179,26 @@ order to assist their preparation of their case.
 
 Examples of common interlocutory applications are:
 
--  Application for default judgment: where a Plaintiff applies for
-   judgment without a trial on the ground that the defendant did not
-   appear or file and serve his defence;
-
--  Application for the amendment of documents filed (eg the statement of
-   claim, defence, reply) in relation to the matter in dispute;
-
--  Application for discovery of documents: through this process, the
-   court may order a party to disclose certain relevant documents in his
-   possession, custody or power to the other party;
-
--  Application for further and better particulars: through this process,
-   the court may order a party to provide further details in his
-   pleadings so that the other party can better understand what he needs
-   to establish at trial;
-
--  Application for summary judgment: where the Plaintiff applies for
-   judgment without trial on the ground that the defendant has no real
-   defence to contest his claim.
-
--  Application for striking out: where the defendant applies for some
-   parts or the whole of the Plaintiff’s Statement of Claim to be struck
-   out on the basis that there is no reasonable cause of action against
-   him, the action is frivolous or vexatious, or an abuse of the process
-   of court.
+-   Application for default judgment: where a Plaintiff applies for
+    judgment without a trial on the ground that the defendant did not
+    appear or file and serve his defence;
+-   Application for the amendment of documents filed (eg the statement
+    of claim, defence, reply) in relation to the matter in dispute;
+-   Application for discovery of documents: through this process, the
+    court may order a party to disclose certain relevant documents in
+    his possession, custody or power to the other party;
+-   Application for further and better particulars: through this
+    process, the court may order a party to provide further details in
+    his pleadings so that the other party can better understand what he
+    needs to establish at trial;
+-   Application for summary judgment: where the Plaintiff applies for
+    judgment without trial on the ground that the defendant has no real
+    defence to contest his claim.
+-   Application for striking out: where the defendant applies for some
+    parts or the whole of the Plaintiff’s Statement of Claim to be
+    struck out on the basis that there is no reasonable cause of action
+    against him, the action is frivolous or vexatious, or an abuse of
+    the process of court.
 
 Interlocutory applications may be commenced by filing a Summons,
 together with an affidavit to support the application.
@@ -268,19 +262,19 @@ subpoena to compel his/her attendance.
 Prior Trial Documents should be submitted no less than 5 days prior
 commencement of an action.
 
-(a) *Affidavits of evidence-in-chief and Bundle of documents* - Each
+\(a) *Affidavits of evidence-in-chief and Bundle of documents* - Each
 party must submit to court the originals of the affidavit of
 evidence-in-chief of all the witnesses and a bundle of the main
 documents that will be relied on or referred to at the trial by any
 party. As far as possible, a common bundle of core documents should be
 agreed on between the parties and filed by the plaintiff.
 
-(b) *Opening statement* - Opening statements are required in all cases
+\(b) *Opening statement* - Opening statements are required in all cases
 except where the trial judge has dispensed with the requirement and in
 motor vehicle running down actions. The opening statement should set out
 the party's case in a nutshell, both on the facts and law.
 
-(b) *Bundle of authorities* - To improve the conduct of civil
+\(b) *Bundle of authorities* - To improve the conduct of civil
 proceedings and reduce the time taken in the presentation of cases in
 court, parties are also required to prepare a bundle of legal
 authorities which should accompany the opening statement. Legal
@@ -329,13 +323,13 @@ further points.
 
 **Order of Proceedings during the Trial**
 
-(a) *Opening Statements* - As the parties' opening statements would have
+\(a) *Opening Statements* - As the parties' opening statements would have
 been submitted to the Court prior to the trial, the Court would usually
 order that the opening statements be deemed seen and read. In such
 circumstances, parties need not make oral opening submissions, but will
 go straight into the examination of witnesses.
 
-(b) *Examination of Witnesses* - In a civil trial, the plaintiff will
+\(b) *Examination of Witnesses* - In a civil trial, the plaintiff will
 present his evidence first by calling his first witness. When the
 witness is on the stand, the rest of the witnesses both for the
 Plaintiff and Defendant must wait outside the courtroom.
@@ -372,7 +366,7 @@ witnesses will then give evidence before the court. The procedure for
 the examination of the Defendant's witnesses is the same as that for the
 Plaintiff's witnesses.
 
-(c) *Closing Submissions* - After the examination of all the witnesses
+\(c) *Closing Submissions* - After the examination of all the witnesses
 of the parties, oral closing submissions by each party will be made,
 making reference to the parties final arguments.
 
@@ -417,50 +411,36 @@ Other FORUMS
 The Small Claims Tribunals provides a quick and inexpensive forum for
 the resolution of small claims between consumers and suppliers that
 arose less than a year ago. The Tribunal has jurisdiction to hear
-certain categories of claims and claims not exceeding $10,000 (or not
-exceeding $20,000 if parties consent in writing). 
+certain categories of claims and claims not exceeding \$10,000 (or not
+exceeding \$20,000 if parties consent in writing). 
 
 Generally, claims arising from any of the following matters may *not* be
 heard in the Small Claims Tribunals:
 
--  Hire purchase agreement
-
--  Employment matters
-
--  Loans
-
--  Purchase of stocks and shares
-
--  Rental (except the lease of a residential property for a period not
-   exceeding 2 years) or charters
-
--  Legal fees
-
--  Co-broking
-
--  Insurance claim
-
--  Damage caused by use of a motor vehicle
+-   Hire purchase agreement
+-   Employment matters
+-   Loans
+-   Purchase of stocks and shares
+-   Rental (except the lease of a residential property for a period not
+    exceeding 2 years) or charters
+-   Legal fees
+-   Co-broking
+-   Insurance claim
+-   Damage caused by use of a motor vehicle
 
 Falling within the jurisdiction of the Tribunal are:
 
--  A contract for sale of goods
-
--  A contract for a provision of services (note: services should involve
-   skill and labor)
-
--  Damage caused to property
-
--  A contract for a lease of residential property which does not exceed
-   2 years
-
--  Cancellation of contracts under the Consumer Fair Trading
-   (Cancellation of contracts) Regulations 2009
-
--  Refund of motor vehicle deposits with the Consumer Fair Trading
-   (Motor Vehicle Dealer Deposits) Regulations 2007
-
--  Opt-out under Consumer Fair Trading (Out-Out) Regulations 2007
+-   A contract for sale of goods
+-   A contract for a provision of services (note: services should
+    involve skill and labor)
+-   Damage caused to property
+-   A contract for a lease of residential property which does not exceed
+    2 years
+-   Cancellation of contracts under the Consumer Fair Trading
+    (Cancellation of contracts) Regulations 2009
+-   Refund of motor vehicle deposits with the Consumer Fair Trading
+    (Motor Vehicle Dealer Deposits) Regulations 2007
+-   Opt-out under Consumer Fair Trading (Out-Out) Regulations 2007
 
 A monetary claim that is split or divided into several claims so as to
 bring it within the Tribunals' jurisdiction is not allowed.
@@ -485,13 +465,12 @@ An appeal against a Referee’s decision will be heard by the High Court
 and can only be made on a question of law or jurisdiction.
 
 For more information on the Small Claims Tribunals’ process, please see:
-https://www.statecourts.gov.sg/SmallClaims/Pages/GeneralInformation.aspx
+<https://www.statecourts.gov.sg/SmallClaims/Pages/GeneralInformation.aspx>
 
 Situations where claims can arise
 ---------------------------------
 
-Consumer protection – Consumer Protection (Fair Trading) Act (“CPFTA”)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+### Consumer protection – Consumer Protection (Fair Trading) Act (“CPFTA”)
 
 The CPFTA provides the legislative framework to allow consumers
 aggrieved by unfair retail practices to have recourse to a civil claim
@@ -506,7 +485,6 @@ Consumers are protected in two broad scenarios, namely:
 (1) Where the supplier of goods uses unfair practices to induce the
     consumer. This could include misrepresentation, or an omission to
     state important information.
-
 (2) Where the supplier of goods provides goods that do not conform to
     the applicable contract (faulty goods).
 
@@ -514,7 +492,7 @@ In each of these scenarios the CPFTA entitles a consumer to seek
 remedies from a court.
 
 For unfair practices a consumer can make a claim for damages so long as
-the amount does not exceed $30,000. The consumer may also choose to
+the amount does not exceed \$30,000. The consumer may also choose to
 pursue a claim concurrently to the CPFTA and abandon the claim for any
 amount that is in excess of the prescribed limit.
 
@@ -534,7 +512,7 @@ for the goods or rescind the contract for the sale of the goods.
 
 Regulated contracts are the subject of further requirements under the
 Consumer Protection (Fair Trading) (Cancellation of Contracts)
-Regulations 2009 (“**Cancellation of Contract Regulations**\ ”). A
+Regulations 2009 (“**Cancellation of Contract Regulations**”). A
 “regulated contract” refers to a direct sales contract, a long-term
 holiday product contract, a time share contract or a time share related
 contract.
@@ -543,8 +521,7 @@ The consumer must bring his/her claim within two years of either the
 last material date of the transaction. or from the time that the
 consumer had knowledge of the unfair practice committed by the supplier.
 
-Mediation by Consumers Assocation of Singapore (CASE)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+### Mediation by Consumers Assocation of Singapore (CASE)
 
 If you have a dispute with a retailer over consumer goods and services
 which you have not been able to resolve, you can approach CASE for
@@ -566,7 +543,6 @@ This principle aims to:
 
 (1) Protect unsuspecting defendants against being served claims years
     after the wrong occurred, and:
-
 (2) Ensure that legal actions are tried by the Courts in a timely
     manner.
 
@@ -578,7 +554,6 @@ cases involving negligence, nuisance or breach of duty, the time limits
 are:
 
 (1) Within three years of the date the cause of action arising, or;
-
 (2) Within three years from the date the plaintiff had knowledge of the
     right to take the legal action.
 
@@ -601,10 +576,8 @@ following:
 
 (1) Do you want to make a complaint to the person or organisation you
     believe was responsible for the injuries:
-
 (2) Do you want to make a claim for compensation to cover losses you
     have suffered as a result of the injury;
-
 (3) Are there any immediate financial problems arising because of the
     injury, for example, you are unable to work.
 
@@ -615,22 +588,18 @@ could include:
 
 (1) If the injury resulted from a road accident, lodging a police report
     and reporting it to your insurance company.
-
 (2) If the injury resulted from an accident at work, you should notify
     your employer and the accident must be recorded in the accident
     book.
-
 (3) Reporting the injury to your doctor because it could become more
     serious. You should do this even if the injury seems minor. If you
     subsequently go to Court to get compensation for the injury, the
     doctor will be asked to provide a medical report.
-
 (4) Gathering evidence about the accident and injuries. For example, it
     may be useful to take photographs of the scene of an accident and
     the cause of injury. You should also, if possible, write an account
     of the incident while details are still fresh in your mind. If there
     are witnesses, you should make a note of their names and addresses.
-
 (5) Keeping copies of all relevant documents (eg. Receipts and medical
     reports).
 
@@ -723,14 +692,12 @@ these procedures in case of an accident. The MCF will also assist
 vehicle owners to obtain ‘speedy and professional repairs’. Vehicle
 owners will not incur any fees or charges in the reporting process.
 
-What to do at the accident site
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+### What to do at the accident site
 
 You should take down the following particulars:
 
 (1) registration numbers and name of insurance companies of all vehicles
     involved in the accident;
-
 (2) names, NRIC Numbers, addresses and telephone numbers of the drivers,
     passengers, injured pedestrians and witnesses.
 
@@ -743,7 +710,6 @@ You should take down the following particulars:
 
 (1) make a sketch plan or mental note of the accident site, position of
     vehicles, any landmarks; and
-
 (2) take photographs of all damage caused by the accident. You must keep
     the negatives of those photographs.
 
@@ -757,31 +723,29 @@ insurers, then you may find yourself prejudiced meaning that your
 insurers will have the right to reject your claim. This may also result
 in a loss of your No Claim Discount when you review your policy next.
 
-What to do immediately after the accident
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+### What to do immediately after the accident
 
 **Police report**
 
 You should make a written police report as soon as possible at any
-police station or Neighbourhood Police Post. If you are hospitalised
-as a result of the accident, make your report as soon as you are
-discharged from hospital. Give all the information mentioned above in
-“what to do at the accident site”.
+police station or Neighbourhood Police Post. If you are hospitalised as
+a result of the accident, make your report as soon as you are discharged
+from hospital. Give all the information mentioned above in “what to do
+at the accident site”.
 
-The report must be made in English. If you have difficulty, ask
-someone to help you write a report beforehand or you can explain the
-accident to the police officer who will translate it into English and
-write it for you. The police report is important because it is the
-official written record of the accident. Your insurance company, the
-police and lawyers will refer to it if you make any claim for
-compensation.
+The report must be made in English. If you have difficulty, ask someone
+to help you write a report beforehand or you can explain the accident to
+the police officer who will translate it into English and write it for
+you. The police report is important because it is the official written
+record of the accident. Your insurance company, the police and lawyers
+will refer to it if you make any claim for compensation.
 
 **Report to insurance company**
 
-You should report the accident to your insurance company
-(“insurers”) within the time limit stated in your policy, usually 7
-days, otherwise your insurers may not accept responsibility for any
-claims made by you or any third party claims against you.
+You should report the accident to your insurance company (“insurers”)
+within the time limit stated in your policy, usually 7 days, otherwise
+your insurers may not accept responsibility for any claims made by you
+or any third party claims against you.
 
 **Damage to your vehicle**
 
@@ -803,30 +767,24 @@ should occur first.
 You should keep a proper record of the following:
 
 (1) particulars of the accident;
-
 (2) copies of police reports/GIA reports;
-
 (3) medical and specialist reports;
-
 (4) a list of expenses incurred, e.g. transport, medical fees and rental
     of car; and
-
 (5) documents supporting your claim such as photographs (and negatives),
     medical certificates, repair bills and receipts.
-
 (6) names and particulars of witnesses.
 
-Making a claim
-^^^^^^^^^^^^^^^
+### Making a claim
 
 **Claim against your own insurance company**
 
 In this case, you should note that there is an excess clause in your
 insurance policy. Your claim must exceed the excess amount, and your
 insurance company will only pay the difference between your claim and
-the excess amount. For example, if the excess amount is $700 and your
-claim is $500 the insurers will not pay out at all. However, if your
-claim is $1,000, your insurers will only pay $300. You will also lose
+the excess amount. For example, if the excess amount is \$700 and your
+claim is \$500 the insurers will not pay out at all. However, if your
+claim is \$1,000, your insurers will only pay \$300. You will also lose
 your no claim bonus.
 
 **Claim against another person**
@@ -847,7 +805,7 @@ may make a claim to the Motor Insurance Bureau.
 From March 2008, the FIDReC Non-Injury Motor Accident Scheme
 ("FIDReC-NIMA Scheme") helps consumers resolve non-injury motor accident
 disputes with insurance companies in which the amount claimed is below
-$1,000. The Scheme covers claims by consumers against an insurance
+\$1,000. The Scheme covers claims by consumers against an insurance
 company which is **not** their own insurer.
 
 **Police summons**
@@ -861,8 +819,7 @@ engage a lawyer as soon as possible to advise you on the appropriate
 steps to take as well as the legal implications that may arise in your
 case.
 
-What to Do If a Claim is Made Against Me
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+### What to Do If a Claim is Made Against Me
 
 **Report to your insurers**
 
@@ -941,19 +898,14 @@ paragraph on ‘Keeping Records’.
 Your lawyer will:
 
 (1) go through the documents and consider the evidence;
-
 (2) take a statement from you and advise you on the strength of your
     case;
-
 (3) write letters on your behalf to claim compensation;
-
 (4) discuss with you offers made and negotiate a settlement; and
-
 (5) if a settlement is not made, start proceedings in Court, prepare
     court documents, interview your witnesses and prepare for trial.
 
-What Can a Person Claim
-^^^^^^^^^^^^^^^^^^^^^^^
+### What Can a Person Claim
 
 **General damages**
 
@@ -974,23 +926,22 @@ percentage the court finds you liable.
 
 **Bereavement**
 
-When it is a fatal accident, the Civil Law Act [Cap 43] entitles those
+When it is a fatal accident, the Civil Law Act \[Cap 43\] entitles those
 listed under section 21(2) to claim for bereavement. This includes
 children, parents of the deceased and so forth. It is fixed at
-$10,000.00. It is not a claim of $10,000.00 per claimant, as this amount
-is to be divided among the number of claimants notwithstanding how many
-there are.
+\$10,000.00. It is not a claim of \$10,000.00 per claimant, as this
+amount is to be divided among the number of claimants notwithstanding
+how many there are.
 
 **At the Trial**
 
-| If your claim is under $250,000.00 your action should commence in the
+| If your claim is under \$250,000.00 your action should commence in the
   State Courts. Any amount above that is within the jurisdiction of the
   High Court.
 | If proceedings are commenced in Court, there are two questions to be
   decided:
 
 (1) Liability, ie who is responsible; and
-
 (2) Quantum, ie how much the damage caused is worth (see ‘What Can a
     Person Claim’)
 
@@ -1001,8 +952,8 @@ partly responsible for the accident (contributory negligent).
 
 The Court will assess the degree of responsibility in percentage terms
 and divide the damage accordingly, eg if the plaintiff is found to be
-20% contributorily negligent for a $10,000 claim, then he will only be
-awarded the sum of $8,000 as damages.
+20% contributorily negligent for a \$10,000 claim, then he will only be
+awarded the sum of \$8,000 as damages.
 
 **Costs**
 
@@ -1016,8 +967,8 @@ If you win your case, the Party and Party costs received by you can be
 used towards paying your own Solicitor and Client costs which may be
 more than your Party and Party costs.
 
-If you are awarded a sum of $5,000 or more for personal injuries, a
-Public Trustee fee of $500 is incurred. This is usually paid by the
+If you are awarded a sum of \$5,000 or more for personal injuries, a
+Public Trustee fee of \$500 is incurred. This is usually paid by the
 Defendant as part of the entire settlement of the Plaintiff’s claim.
 
 **Note:** Under the MCF, all accidents, regardless of how minor, and
@@ -1027,11 +978,10 @@ from the insurers or Third Parties you must still lodge a report with
 your insurers. With this new policy, all insurers will operate a 24-hour
 hotline.
 
-The Motor Insurers’ Bureau of Singapore
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+### The Motor Insurers’ Bureau of Singapore
 
-[The information in this section is taken from the General Insurance
-Assocation’s website at http://www.gia.org.sg]
+\[The information in this section is taken from the General Insurance
+Assocation’s website at <http://www.gia.org.sg>\]
 
 **1. What is the scope of the MIB’s work?**
 
@@ -1070,7 +1020,7 @@ judgment against the uninsured motorist.
 **4. How do I contact the MIB?**
 
 You can call the MIB on 6220 8607 or visit the office at 112 Robinson
-Road #05-03 HB Robinson, Singapore 068902. MIB staff will provide you
+Road \#05-03 HB Robinson, Singapore 068902. MIB staff will provide you
 with the necessary forms and assistance to lodge your application.
 
 **5. What happens after I have completed and returned the application
@@ -1113,10 +1063,10 @@ motor business for the previous year.
 **10. How much compensation does MIB pay?**
 
 The MIB, in its first year of operation in 1975, paid compensation
-totalling $14,100 for five claims. In 2004, the MIB paid 21 claims
-amounting to $163,040. From 1975 to 2004 the MIB had paid a total of 851
-claims amounting to $25.3 million. Currently, there are 137 outstanding
-claims with an estimated value of $4.3 million.
+totalling \$14,100 for five claims. In 2004, the MIB paid 21 claims
+amounting to \$163,040. From 1975 to 2004 the MIB had paid a total of
+851 claims amounting to \$25.3 million. Currently, there are 137
+outstanding claims with an estimated value of \$4.3 million.
 
 **11. How is the MIB Administered?**
 
@@ -1168,7 +1118,7 @@ by the Motor Industry Dispute Resolution Centre (MIDReC), CASE Mediation
 Centre, and recourse to the Small Claims Tribunals and the Courts, if
 necessary.
 
-An insurance bond capped at $50,000 protects the customer’s fees and
+An insurance bond capped at \$50,000 protects the customer’s fees and
 deposits paid in the event of an unresolved dispute.
 
 **Well-Trained Personnel**
@@ -1180,7 +1130,7 @@ service.
 **What is the insurance bond for?**
 
 All accredited motoring businesses will be required to purchase an
-insurance bond in the amount of $50,000. The insurance bond is one of
+insurance bond in the amount of \$50,000. The insurance bond is one of
 the many ways that an accredited motoring business shows its commitment
 to their customers.
 
@@ -1190,8 +1140,7 @@ an adjudicator or panel of adjudicators will decide on the facts and
 merits of each case. If the decision is made in favour of the consumer,
 a payout will be made from this insurance bond.
 
-Motor Industry Dispute Resolution Centre
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+### Motor Industry Dispute Resolution Centre
 
 MIDReC is an independent and impartial institution specializing in the
 resolution of disputes between motoring businesses and consumers.
@@ -1226,7 +1175,7 @@ been able to resolve or has not been resolved to their satisfaction.
 **How do I file a complaint with MIDReC?**
 
 Consumers can file a complaint by submitting a complaint resolution form
-together with a registration fee of $30 at MIDReC either in person or
+together with a registration fee of \$30 at MIDReC either in person or
 via fax, post, or email.
 
 **What happens after I file a complaint with MIDReC?**
@@ -1247,11 +1196,10 @@ Adjudicator or Panel of Adjudicators for adjudication.
 The length of time needed varies with the complexity of each case.
 MIDReC will seek to resolve all disputes as expeditiously as possible.
 
-Insurance Bond against Mischief
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+### Insurance Bond against Mischief
 
 All accredited motoring businesses will be required to purchase an
-insurance bond in the amount of $50,000. The insurance bond is one of
+insurance bond in the amount of \$50,000. The insurance bond is one of
 the many ways that an accredited motoring business takes to show its
 commitment to their customers.
 
@@ -1268,7 +1216,7 @@ a payout will be made from this insurance bond.
 **Is there a minimum or maximum amount that I can claim?**
 
 There is no minimum amount that can be claimed. The maximum amount of
-the claim is S$50,000.
+the claim is S\$50,000.
 
 **Under what circumstances will this payout be made?**
 
@@ -1285,10 +1233,10 @@ that there is no disadvantage for consumers if they choose to lodge
 their complaint/claim with MIDReC.
 
 **What happens when there are other claims against the company that
-exceeds S$50,000?**
+exceeds S\$50,000?**
 
 Once the number of registered claims against a particular motor vehicle
-dealer equals to or exceeds S$50,000, the amount will be shared on an
+dealer equals to or exceeds S\$50,000, the amount will be shared on an
 equal basis in accordance with the ratio of the amount of each claim.
 
 Employment Act
@@ -1319,7 +1267,7 @@ knowledge/skills and whose employment terms are comparable to those of
 managers and executives. Professionals such as lawyers, accountants,
 dentists and doctors whose nature and terms of employment are comparable
 to executives are deemed as such, , are therefore not covered by the
-ActJunior managers and executives earning $4,500 basic monthly salary
+ActJunior managers and executives earning \$4,500 basic monthly salary
 and below are considered employees under the Employment Act to the
 extent of all provisions apart from the provisions of part IV –
 concerning rest days, hours of work and other conditions of service.
@@ -1327,13 +1275,12 @@ concerning rest days, hours of work and other conditions of service.
 Part IV of the Act, which provides for rest days, hours of work,
 holidays and other conditions of service, applies only to:
 
-a) Workmen earning not more than $4,500 basic monthly salaries, and
+a)  Workmen earning not more than \$4,500 basic monthly salaries, and
 
-b) Employees who earn basic monthly salaries not exceeding $2,500 a
+b\) Employees who earn basic monthly salaries not exceeding \$2,500 a
 month.
 
-**Rights as an Employee**
-^^^^^^^^^^^^^^^^^^^^^^^^^
+### **Rights as an Employee**
 
 **Salary**
 
@@ -1351,18 +1298,12 @@ Your employer can make deductions from your salary for a number of
 reasons, for example:
 
 (1) Absence from work without good reason;
-
 (2) Repayment of a loan;
-
 (3) Income tax;
-
 (4) CPF contributions;
-
 (5) The costs of goods entrusted to you which are lost or damaged
     because of your negligence;
-
 (6) If you agree, for meals supplied by the employer, and;
-
 (7) If you agree, for housing accommodation supplied by the employer.
 
 There are limits to the deductions which can be made and the total
@@ -1382,16 +1323,15 @@ joint account or by cheque to you.
 
 If your employer does not comply with payment of salary on time, payment
 of salary in dismissal or payment of salary on termination by employee,
-he is guilty of an offence and can be fined between $3,000 - $15,000
+he is guilty of an offence and can be fined between \$3,000 - \$15,000
 and/or jailed up to 6 months, and for a subsequent offence fined up to
-$6000 - $30,000 and/or jailed up to 12 months.
+\$6000 - \$30,000 and/or jailed up to 12 months.
 
-**Conditions of Work**
-^^^^^^^^^^^^^^^^^^^^^^^
+### **Conditions of Work**
 
 The following matters are only applicable to employees if your monthly
-income does not exceed $2,500 a month, and for workmen whose monthly
-salary does not exceed $4,500 a month.
+income does not exceed \$2,500 a month, and for workmen whose monthly
+salary does not exceed \$4,500 a month.
 
 **Working Hours**
 
@@ -1401,10 +1341,8 @@ a day. There are, however, exceptions to this general rule. You can:
 (1) Work for 9 hours in one day (but still not exceeding 44 hours a
     week), if you agree to work less than 8 hours a day on one or more
     days, or work 5 (or less) days a week.
-
 (2) Work for 48 hours a week (or 88 hours over 2 weeks), if you agree to
     work less than 44 hours every alternative week.
-
 (3) Work unlimited hours and on rest days if there is an accident,if the
     work is essential to the life of the community, defence or security,
     or if there is urgent work to be done to machinery or plants.
@@ -1430,20 +1368,49 @@ Sunday.
 
 **Working on a Rest Day: Salary Entitlement**
 
-+-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+
-| *Hours of Work*       | *At your request*                                                                                                                                                                      | *At your employer’s request*   |
-+-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+
-| ½ day or less         | ½ your basic rate of pay                                                                                                                                                               | your basic rate of pay         |
-|                       | for one day’s work                                                                                                                                                                     | for one day’s work             |
-+-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+
-| more than ½ day,      | your basic rate of pay                                                                                                                                                                 | twice your basic rate of pay   |
-| less than normal      | for one day’s work                                                                                                                                                                     | for one day’s work             |
-| daily working hours   |                                                                                                                                                                                        |                                |
-+-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+
-| more than normal      | At employee’s request: a sum at the basic rate of pay for one days work and for additional hours beyond normal working day, a pay of one and a half times his/her hourly basic rate.   |                                |
-| daily working hours   |                                                                                                                                                                                        |                                |
-|                       | At employer’s request: a sum at the basic rate of pay for two days work and for additional hours beyond normal working day, a pay of one and a half times his/her hourly basic rate.   |                                |
-+-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+
++------+------------------------------------------------------+--------+
+| *Hou | *At your request*                                    | *At    |
+| rs   |                                                      | your   |
+| of   |                                                      | employ |
+| Work |                                                      | er’s   |
+| *    |                                                      | reques |
+|      |                                                      | t*     |
++------+------------------------------------------------------+--------+
+| ½    | ½ your basic rate of pay for one day’s work          | your   |
+| day  |                                                      | basic  |
+| or   |                                                      | rate   |
+| less |                                                      | of pay |
+|      |                                                      | for    |
+|      |                                                      | one    |
+|      |                                                      | day’s  |
+|      |                                                      | work   |
++------+------------------------------------------------------+--------+
+| more | your basic rate of pay for one day’s work            | twice  |
+| than |                                                      | your   |
+| ½    |                                                      | basic  |
+| day, |                                                      | rate   |
+| less |                                                      | of pay |
+| than |                                                      | for    |
+|  nor |                                                      | one    |
+| mal  |                                                      | day’s  |
+| dail |                                                      | work   |
+| y    |                                                      |        |
+| work |                                                      |        |
+| ing  |                                                      |        |
+| hour |                                                      |        |
+| s    |                                                      |        |
++------+------------------------------------------------------+--------+
+| more | At employee’s request: a sum at the basic rate of    |        |
+| than | pay for one days work and for additional hours       |        |
+| norm | beyond normal working day, a pay of one and a half   |        |
+| al   | times his/her hourly basic rate.                     |        |
+| dail |                                                      |        |
+| y    | At employer’s request: a sum at the basic rate of    |        |
+| work | pay for two days work and for additional hours       |        |
+| ing  | beyond normal working day, a pay of one and a half   |        |
+| hour | times his/her hourly basic rate.                     |        |
+| s    |                                                      |        |
++------+------------------------------------------------------+--------+
 
 **Shift Workers**
 
@@ -1458,7 +1425,6 @@ Under the section:
     break, or more than 8 hours (but not more than 12 hours) a day, or
     more than 44 hours a week (but not more than an average of 44 hours
     per week over a period of 3 weeks.
-
 (2) You can claim overtime if you work more than an average of 44 hours
     per week over a period of 3 weeks.
 
@@ -1470,9 +1436,6 @@ invalid.
 
 You are entitled to have an day off on all official public holidays (but
 you may agree with your employer to change to another day).
-
-
-
 
 **Annual Leave Entitlement**
 
@@ -1493,35 +1456,26 @@ shall be counted as 1 day.
 Your employer can forfeit your annual leave if you are from work for
 more than 20% of the number of working days in the month or year.
 
--  | Your annual leave entitlement depends on how long you have worked
-     for your employer.
-   | An employee is entitled to Annual Leave if they meet the following
-     conditions:He/she is covered under Part IV of the Employment Act
+-   | Your annual leave entitlement depends on how long you have worked
+      for your employer.
+    | An employee is entitled to Annual Leave if they meet the following
+      conditions:He/she is covered under Part IV of the Employment Act
 
--  He/she has worked for at least three months
+-   He/she has worked for at least three months
 
 An employee's annual leave entitlement under Part IV of the Employment
 Act is as follows:
 
-+-------------------------------+---------------------+
-| **Year of service \***        | **Days of leave**   |
-+===============================+=====================+
-| 1\ :sup:`st`                  | 7                   |
-+-------------------------------+---------------------+
-| 2\ :sup:`nd`                  | 8                   |
-+-------------------------------+---------------------+
-| 3\ :sup:`rd`                  | 9                   |
-+-------------------------------+---------------------+
-| 4\ :sup:`th`                  | 10                  |
-+-------------------------------+---------------------+
-| 5\ :sup:`th`                  | 11                  |
-+-------------------------------+---------------------+
-| 6\ :sup:`th`                  | 12                  |
-+-------------------------------+---------------------+
-| 7\ :sup:`th`                  | 13                  |
-+-------------------------------+---------------------+
-| 8\ :sup:`th` and thereafter   | 14                  |
-+-------------------------------+---------------------+
+  **Year of service \***           **Days of leave**
+  -------------------------------- ----------------------
+  1^st^                            7
+  2^nd^                            8
+  3^rd^                            9
+  4^th^                            10
+  5^th^                            11
+  6^th^                            12
+  7^th^                            13
+  8^th^ and thereafter             14
 
 \* where an employee's year of service begins from the day he/she
 started work with the employer.
@@ -1611,17 +1565,13 @@ The period of notice for either you or your employer to terminate your
 contract of service should be stated in your contract. It should not be
 less than the following guidelines in the Act:
 
-+----------------------------------+-------------------------+
-| *Period of Employment*           | *Period of Notice*      |
-+----------------------------------+-------------------------+
-| less than 26 weeks               | not less than 1 day     |
-+----------------------------------+-------------------------+
-| 26 weeks but less than 2 years   | not less than 1 week    |
-+----------------------------------+-------------------------+
-| 2 years but less than 5 years    | not less than 2 weeks   |
-+----------------------------------+-------------------------+
-| 5 years or more                  | not less than 4 weeks   |
-+----------------------------------+-------------------------+
+  ----------------------------------- --------------------------
+  *Period of Employment*              *Period of Notice*
+  less than 26 weeks                  not less than 1 day
+  26 weeks but less than 2 years      not less than 1 week
+  2 years but less than 5 years       not less than 2 weeks
+  5 years or more                     not less than 4 weeks
+  ----------------------------------- --------------------------
 
 Notice can be given at any time, but it must be dated and given in
 writing.
@@ -1650,9 +1600,9 @@ excuse or attempting to inform your employer.
 If you think that your employer has acted wrongfully, you can complain
 to the Ministry of Manpower within 1 month of the dismissal.
 
-` <http://www.lawsociety.org.sg/awareness/employment.htm#top#top>`__
+[http://www.lawsociety.org.sg/awareness/employment.htm\#top\#top](http://www.lawsociety.org.sg/awareness/employment.htm#top#top)
 
-\ **Maternity Leave**
+**Maternity Leave**
 
 Maternity leave is your entitlement and it is illegal for your employer
 to ask you to give up your maternity leave. During maternity leave you
@@ -1714,18 +1664,18 @@ subject to negotiation and the mutual agreement between an employer and
 employee, or the trade union representing the employee. An employer is
 not allowed to pay an AWS of more than three months' salary if:
 
--  He/she agreed (either by way of an employment contract or collective
-   agreement) to pay an AWS of up to three months' wages before the
-   commencement of the Employment (Amendment) Act 1988 on 16 August
-   1988.
+-   He/she agreed (either by way of an employment contract or collective
+    agreement) to pay an AWS of up to three months' wages before the
+    commencement of the Employment (Amendment) Act 1988 on 16
+    August 1988.
 
-    However, the employer can negotiate with the employee, or the trade
-    union representing the employee, to vary the quantum.
+    > However, the employer can negotiate with the employee, or the
+    > trade union representing the employee, to vary the quantum.
 
 An employer is not allowed to pay an AWS of more than one month's wage
 if he/she:
 
--  Has not paid any AWS prior to 16 August 1988.
+-   Has not paid any AWS prior to 16 August 1988.
 
 If business results are exceptionally poor for any year, an employer may
 negotiate with the employees, or the trade union representing the
@@ -1745,14 +1695,13 @@ employment contract or collective agreement.
 A Variable payment is an incentive payment to employees:
 
 (1) To increase their productivity; or
-
 (2) As a reward for their contributions.
 
 The amount of variable payment can be based on trading results,
 productivity or any criteria as agreed upon between employers, employees
 or trade unions. Variable payments are not compulsory unless such
 payment is provided for in the employment contract or collective
-agreement\ **.**
+agreement**.**
 
 **Making a complaint**
 
@@ -1790,20 +1739,17 @@ must be filed by 24 December 2009.
 | Any party not satisfied with the Commissioner's order can appeal to
   the High Court within 14 days of the decision.
 
-**Employment of Children and young Persons**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+### **Employment of Children and young Persons**
 
 The employment of children and young persons is governed by Part VIII of
 the Employment Act and The Employment of Children and Young Persons
 Regulations.
 
--  A child is a person under 15 years of age.
-
--  A young person is someone 15 years of age or above but under 16 years
-   of age.
-
--  A child must be at least 13 years of age before he/she can be
-   employed.
+-   A child is a person under 15 years of age.
+-   A young person is someone 15 years of age or above but under 16
+    years of age.
+-   A child must be at least 13 years of age before he/she can be
+    employed.
 
 **Suitable forms of work**
 
@@ -1831,37 +1777,33 @@ subsidiary or associated company, or to a totally unrelated company.
 
 The employer is required to:
 
-a) Notify the affected employees or their union within a reasonable time
-   of the impending transfer;
-
-b) Inform the affected employees about the terms of transfer so as to
-   enable the employees or their unions to enter into consultations with
-   the company; and
-
-c) Ensure that there is continuity of the period of employment of the
-   affected employees when they are transferred to a new employer, and
-   that their terms of employment are not less favourable than what they
-   have been enjoying before the transfer.
+a)  Notify the affected employees or their union within a reasonable
+    time of the impending transfer;
+b)  Inform the affected employees about the terms of transfer so as to
+    enable the employees or their unions to enter into consultations
+    with the company; and
+c)  Ensure that there is continuity of the period of employment of the
+    affected employees when they are transferred to a new employer, and
+    that their terms of employment are not less favourable than what
+    they have been enjoying before the transfer.
 
 **Rights and Obligations of Employees in a Transfer**
 
 The rights of the employees are:
 
-a) To be notified by the employer of the transfer and matters relating
-   to the transfer;
-
-b) To be given the opportunity to have a consultation with the employer;
-   and
-
-c) To hold the period of employment and terms and conditions of
-   employment with the original employer as continuing and preserved
-   under his employment with the new employer.
+a)  To be notified by the employer of the transfer and matters relating
+    to the transfer;
+b)  To be given the opportunity to have a consultation with the
+    employer; and
+c)  To hold the period of employment and terms and conditions of
+    employment with the original employer as continuing and preserved
+    under his employment with the new employer.
 
 The obligation of the employee is:
 
--  On his transfer to serve the new employer as if the latter is the
-   original employer who had entered into the employment contract with
-   him.
+-   On his transfer to serve the new employer as if the latter is the
+    original employer who had entered into the employment contract with
+    him.
 
 **Obligations of Transferee (Employer who takes over the Transferred
 Employees)**
@@ -1887,10 +1829,9 @@ Commissioner for Labour for adjudication.
 
 The Commissioner is empowered to:
 
-a) Delay or prohibit the transfer of the employee concerned, or
-
-b) Order the transfer of the employee and set such terms as the
-   Commissioner considers just.
+a)  Delay or prohibit the transfer of the employee concerned, or
+b)  Order the transfer of the employee and set such terms as the
+    Commissioner considers just.
 
 **Dispute with a Supervisor**
 
@@ -1902,7 +1843,7 @@ the supervisor. Nor does the Ministry intervene in cases of a criminal
 nature, as such cases should be referred to the police or other relevant
 agencies.
 
-` <http://www.lawsociety.org.sg/awareness/employment.htm#top#top>`__
+[http://www.lawsociety.org.sg/awareness/employment.htm\#top\#top](http://www.lawsociety.org.sg/awareness/employment.htm#top#top)
 
 Workmen’s Compensation Act
 --------------------------
@@ -1922,7 +1863,6 @@ choose to:
 (1) Submit a claim for workmen’s compensation through the Ministry of
     Manpower (which you can inform your employer who will notify
     Ministry of Manpower); or
-
 (2) Claim damages under common law against your employer for breach of
     duty or negligence.
 
@@ -1954,7 +1894,7 @@ by him/her.
 Under the Work Injury Compensation Act, as an employee you can claim
 work injury compensation if you:
 
-a) Sustain injuries or die in a work-related accident; or
+a)  Sustain injuries or die in a work-related accident; or
 
 Contract occupational diseases arising out of your work. Unlike the
 Workmen’s Compensation Act, the new Act covers all employees engaged
@@ -1998,40 +1938,32 @@ out.
 
 The 3 guiding principles that underpin the new OSH framework are:
 
-a) Reducing risks at source by requiring all stakeholders to eliminate
-   or minimize the risks they create;
-
-b) Instilling greater ownership of safety and health outcomes by
-   industry; and
-
-c) Preventing accidents through higher penalties for poor safety
-   management
+a)  Reducing risks at source by requiring all stakeholders to eliminate
+    or minimize the risks they create;
+b)  Instilling greater ownership of safety and health outcomes by
+    industry; and
+c)  Preventing accidents through higher penalties for poor safety
+    management
 
 It goes beyond the prescriptive nature of Factories Act (which it has
 replaced) to:
 
-a) Specify liabilities for a range of persons at the workplace;
-
-b) Focus more on workplace safety and health goals and systems; and
-
-c) Stipulate greater penalties for compromising safety and health.
+a)  Specify liabilities for a range of persons at the workplace;
+b)  Focus more on workplace safety and health goals and systems; and
+c)  Stipulate greater penalties for compromising safety and health.
 
 **Key reforms under WSHA**
 
 The key reforms with the new WSHA;
 
-a) Allows a gradual increase in scope to cover all workplaces;
-
-b) Assigns responsibilities to a range of stakeholders at the workplace
-   along lines of control;
-
-c) Focuses on workplace safety and health systems and outcomes;
-
-d) Provides for more effective enforcement through the issuance of
-   “remedial orders”; and
-
-e) Provides for higher penalties for non-compliant and risk-taking
-   behaviour to prevent accidents upfront.
+a)  Allows a gradual increase in scope to cover all workplaces;
+b)  Assigns responsibilities to a range of stakeholders at the workplace
+    along lines of control;
+c)  Focuses on workplace safety and health systems and outcomes;
+d)  Provides for more effective enforcement through the issuance of
+    “remedial orders”; and
+e)  Provides for higher penalties for non-compliant and risk-taking
+    behaviour to prevent accidents upfront.
 
 Credit Card and Bank Debts; Insurance Disputes
 ----------------------------------------------
@@ -2053,16 +1985,15 @@ There is this 3-step process to seek assistance from CCS:
 
 **Step 1 –** Free information on debt management:
 
--  The consumer is invited to attend a free info talk that is conducted
-   on a weekly basis. This compulsory talk explains the various options
-   in handling a debt problem and the common collection actions taken by
-   the creditors. It also explains the services offered by the CCS so
-   that the consumer can self-assess and decide what he wants to do
-   next.
-
--  Consumers are requested to call 1800 CALL CCS (MUST dial 1800 before
-   2255 227 to get through to CCS) between Mondays – Fridays, 9 am – 6
-   pm, to register for the talk.
+-   The consumer is invited to attend a free info talk that is conducted
+    on a weekly basis. This compulsory talk explains the various options
+    in handling a debt problem and the common collection actions taken
+    by the creditors. It also explains the services offered by the CCS
+    so that the consumer can self-assess and decide what he wants to do
+    next.
+-   Consumers are requested to call 1800 CALL CCS (MUST dial 1800 before
+    2255 227 to get through to CCS) between Mondays – Fridays, 9 am – 6
+    pm, to register for the talk.
 
 **Step 2** – Credit Counselling:
 
@@ -2154,8 +2085,7 @@ resources to go to court or who do not want to pay hefty legal fees. It
 is staffed by full-time employees familiar with the relevant laws and
 practices.
 
-The Consumer Credit Bureau
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+### The Consumer Credit Bureau
 
 Credit Bureau (Singapore) Pte Ltd (CBS) is Singapore's consumer credit
 bureau. It is a joint venture between The Association of Banks in
@@ -2252,7 +2182,7 @@ public?**
 
 Yes. Click here to view the Bureau's Code of Conduct.
 
-http://www.creditbureau.com.sg/general
+<http://www.creditbureau.com.sg/general>
 
 **Who can access my credit report?**
 
@@ -2280,9 +2210,6 @@ credit providers** **in other countries?**
 
 No. Credit Bureau (Singapore) can only provide credit report information
 to its members in Singapore.
-
-
-
 
 **Are all my personal profile data held by my bank reported and
 disclosed to Credit** **Bureau (Singapore) and its members?**
@@ -2397,14 +2324,13 @@ As a new borrower, a new file will be created for you. This is not
 considered a disadvantage. It will then be in your interest to build up
 a favourable repayment track record for future credit applications.
 
-***
-Rectifying Inaccurate Information***
+**\* Rectifying Inaccurate Information**\*
 
 **Can I obtain my credit report from Credit Bureau (Singapore)?**
 
 Yes. To find out how to obtain a copy of your credit report, click here.
 
-http://www.creditbureau.com.sg/get-my-credit-report
+<http://www.creditbureau.com.sg/get-my-credit-report>
 
 **What if I disagree with the information in my credit report?**
 
@@ -2414,16 +2340,14 @@ an error in your personal profile, Credit Bureau (Singapore) will
 immediately amend your information. If the disagreement is in the credit
 data, Credit Bureau (Singapore) will:
 
--  Consult with the data source;
-
--  Post a notice in your credit file with Credit Bureau (Singapore) that
-   the credit data is being disputed .and is under investigation;
-
--  Inform you of the progress and outcome of the investigation. After
-   the error in the credit report has been rectified, the revised report
-   will be sent to all Bureau members who have made enquiries onyou in
-   the last 3 months to inform them of the amendment in your credit
-   report.
+-   Consult with the data source;
+-   Post a notice in your credit file with Credit Bureau (Singapore)
+    that the credit data is being disputed .and is under investigation;
+-   Inform you of the progress and outcome of the investigation. After
+    the error in the credit report has been rectified, the revised
+    report will be sent to all Bureau members who have made enquiries
+    onyou in the last 3 months to inform them of the amendment in your
+    credit report.
 
 **What if I disagree with the outcome of the investigation above?**
 
@@ -2460,9 +2384,6 @@ Credit Bureau (Singapore) Pte Ltd is using SingPass ID for
 authentication purpose only. No personal details are obtained from the
 authorities. These personal details are necessary for matching and
 recording purpose.
-
-
-
 
 **Will Credit Bureau (Singapore) Pte Ltd have access to my SingPass ID
 and password?**
@@ -2513,26 +2434,21 @@ form, for example, on film, CD, DVD, internet blogging, etc.
 *Slander* refers to offending statement(s) in transient or temporal
 form, e.g. spoken words or sounds, sign language, gestures or the like.
 
-Tort of Defamation
-^^^^^^^^^^^^^^^^^^
+### Tort of Defamation
 
 **Elements of a prima facie case for defamation**
 
 There are 3 main legal requirements to establish a prima facie case:
 
 (1) The statement must be defamatory in nature;
-
 (2) The statement must refer to the plaintiff; and
-
 (3) The statement must be published.
 
 In general, a statement is defamatory in nature if it tends to:
 
 (1) lower the plaintiff in the estimation of right-thinking members of
     society generally;
-
 (2) cause the plaintiff to be shunned or avoided;
-
 (3) expose the plaintiff to hatred, ridicule or contempt.
 
 The test of whether subject material is defamatory or not is “what would
@@ -2552,57 +2468,56 @@ statement as “opinion” does not make it so. The Court will look at
 whether a reasonable reader would have understood the statement to be an
 opinion or as a statement of verifiable fact.
 
-Libel is actionable *per se* , eg the statement needn’t have caused
-any actual damage Slander however requires such proof unless specific
-common law and statutory exceptions apply.
+Libel is actionable *per se* , eg the statement needn’t have caused any
+actual damage Slander however requires such proof unless specific common
+law and statutory exceptions apply.
 
-**Defences for Defamation**
-The following are defences to a claim for defamation:
+**Defences for Defamation** The following are defences to a claim for
+defamation:
 
--  | **Justication**: the information was true. If a statement infers
-     something greater than the literal meaning of the words used,
-     proving that the statement is literally true is insufficient.
-   | **Fair Comment**: includes content or opinion that cannot by its
-     nature be true or false. The statements must be shown to be based
-     on fact, made in good faith, published without malice and as a
-     matter of public interest.
-   | **Absolute Privilege**: the law allows for individuals to speak
-     freely without fear of being sued (even if they have their facts
-     wrong) in court proceedings and Parliament debates, and for fair
-     and accurate reporting of such proceedings.
-   | **Qualified Privilege**: Qualified privilege may be defeated by
-     proof that the defendant’s statements were motivated by malice.
-     Qualified privilege may arise in one or more of the following
-     circumstances: (a) the defendant has an interest or duty to
-     communicate information and the recipient has the corresponding
-     interest or duty to receive the information; (b) the defendant
-     makes a statement with a view to protecting his or her
-     self-interests; or (c) fair and accurate reporting of parliamentary
-     and judicial proceedings.
+-   | **Justication**: the information was true. If a statement infers
+      something greater than the literal meaning of the words used,
+      proving that the statement is literally true is insufficient.
+    | **Fair Comment**: includes content or opinion that cannot by its
+      nature be true or false. The statements must be shown to be based
+      on fact, made in good faith, published without malice and as a
+      matter of public interest.
+    | **Absolute Privilege**: the law allows for individuals to speak
+      freely without fear of being sued (even if they have their facts
+      wrong) in court proceedings and Parliament debates, and for fair
+      and accurate reporting of such proceedings.
+    | **Qualified Privilege**: Qualified privilege may be defeated by
+      proof that the defendant’s statements were motivated by malice.
+      Qualified privilege may arise in one or more of the following
+      circumstances: (a) the defendant has an interest or duty to
+      communicate information and the recipient has the corresponding
+      interest or duty to receive the information; (b) the defendant
+      makes a statement with a view to protecting his or her
+      self-interests; or (c) fair and accurate reporting of
+      parliamentary and judicial proceedings.
 
--  **Innocent dissemination:** this defence is available to
-   intermediaries such as retail vendors and distributors, libraries and
-   delivery agents. The intermediary must prove that: (a) he did not
-   know that the publication was libellous; (b) the circumstances or the
-   work could not have alerted the defendant to the libellous content;
-   (c) such ignorance was not due to his or her negligence.
+-   **Innocent dissemination:** this defence is available to
+    intermediaries such as retail vendors and distributors, libraries
+    and delivery agents. The intermediary must prove that: (a) he did
+    not know that the publication was libellous; (b) the circumstances
+    or the work could not have alerted the defendant to the libellous
+    content;
+    (c) such ignorance was not due to his or her negligence.
+-   **Offer of amends**: Section 7 of the Defamation Act provides a
+    defence to a defendant to ward off a potential defamation action or
+    to procure the discontinuance of such an action if he is able to
+    prove that he had innocently defamed another person and if he offers
+    to publish a suitable correction and apology and take steps to
+    inform the parties who have received the defamatory material that
+    the contents were defamatory to the aggrieved party.
+-   **Assent by the plaintiff**: the plaintiff had clearly and
+    unequivocally assented to the publication of the defamatory
+    statement by the defendant.
 
--  **Offer of amends**: Section 7 of the Defamation Act provides a
-   defence to a defendant to ward off a potential defamation action or
-   to procure the discontinuance of such an action if he is able to
-   prove that he had innocently defamed another person and if he offers
-   to publish a suitable correction and apology and take steps to inform
-   the parties who have received the defamatory material that the
-   contents were defamatory to the aggrieved party.
-
--  **Assent by the plaintiff**: the plaintiff had clearly and
-   unequivocally assented to the publication of the defamatory statement
-   by the defendant.
-
-**Actions to Take to Defend a Defamation Claim**
-The Respondent should obtain legal advice as soon as possible before
-responding to the Claimant. Check the original statement and carry out
-all associated investigative work prior to publication.
+**Actions to Take to Defend a Defamation Claim** The Respondent should
+obtain legal advice as soon as possible before responding to the
+Claimant. Check the original statement and carry out all associated
+investigative work prior to publication.
 
 The Respondent should consider withdrawing his statement if, on
 checking, he thinks his statement was wrong. All drafts and evidence
@@ -2617,55 +2532,47 @@ comply with their requests for information.
 **Criminal Defamation**
 
 Section 499 of the Penal Code provides for the offence of criminal
-defamation. The elements of the crime have to be proved beyond reasonable doubt.
+defamation. The elements of the crime have to be proved beyond
+reasonable doubt.
 
 There are a number of statutory exceptions under section 499 of the
 Penal Code. It is not criminal defamation to:
 
--  Impute anything which is true concerning another person for public
-   good. The interest of the public is a question of fact.
-
--  Express in good faith, any opinion of the conduct of any person
-   touching on his discharge of his public functions or any public
-   question, respecting his character, so far as his character appears
-   in that conduct but no further.
-
--  Express in good faith, any opinion whatsoever regardingthe conduct of
-   any person touching on any public question, and respecting his
-   character, so far as his character appears in that conduct, and no
-   further.
-
--  Publish a substantially true report of proceedings in a court of
-   justice or of parliament, or the result of such proceedings.
-
--  Express in good faith any opinion on the merits of a case or the
-   conduct of any person as a party of the proceedings in a court of
-   justice.
-
--  Express in good faith any opinion respecting the merits of any
-   performance which its author has submitted to the judgment of the
-   public, or respecting the character of the author so far as his
-   character appears in such performance, and no further.
-
--  Pass censure in good faith, on the conduct of another person in
-   matters where one has legal authority over or are relevant to their
-   legal authority.
-
--  Proffer in good faith an accusation against any person to those who
-   have lawful authority over that person with respect to the
-   subject-matter of the accusation.
-
--  Impute on the character of another in the protection of his own
-   interest, of any other persons or for the public good.
-
--  Convey a caution for the good of the person to whom it is conveyed or
-   a third party whom that person is interested or for the public good.
+-   Impute anything which is true concerning another person for public
+    good. The interest of the public is a question of fact.
+-   Express in good faith, any opinion of the conduct of any person
+    touching on his discharge of his public functions or any public
+    question, respecting his character, so far as his character appears
+    in that conduct but no further.
+-   Express in good faith, any opinion whatsoever regardingthe conduct
+    of any person touching on any public question, and respecting his
+    character, so far as his character appears in that conduct, and no
+    further.
+-   Publish a substantially true report of proceedings in a court of
+    justice or of parliament, or the result of such proceedings.
+-   Express in good faith any opinion on the merits of a case or the
+    conduct of any person as a party of the proceedings in a court of
+    justice.
+-   Express in good faith any opinion respecting the merits of any
+    performance which its author has submitted to the judgment of the
+    public, or respecting the character of the author so far as his
+    character appears in such performance, and no further.
+-   Pass censure in good faith, on the conduct of another person in
+    matters where one has legal authority over or are relevant to their
+    legal authority.
+-   Proffer in good faith an accusation against any person to those who
+    have lawful authority over that person with respect to the
+    subject-matter of the accusation.
+-   Impute on the character of another in the protection of his own
+    interest, of any other persons or for the public good.
+-   Convey a caution for the good of the person to whom it is conveyed
+    or a third party whom that person is interested or for the public
+    good.
 
 The maximum penalty for criminal defamation is imprisonment for a term
 which may extend to 2 years, a fine, or both.
 
-Defamation FAQs
-^^^^^^^^^^^^^^^
+### Defamation FAQs
 
 **What action can I take against online defamation?**
 
@@ -2684,10 +2591,9 @@ website and to issue a correction statement.
 
 More details would be required to find out what cause of action would
 arise out of the action of “leaking a story”. Potential causes of action
-could include breach of confidentiality [12]_.
+could include breach of confidentiality[^1].
 
-Harassment
-^^^^^^^^^^^
+### Harassment
 
 The common law tort of harassment has now been abolished and substituted
 by the Protection from Harassment Act (POHA). POHA broadens the current
@@ -2707,23 +2613,18 @@ would still be valid until the commencement of the Act.
 
 The Act provides for the following offences, namely:
 
--  (a) Where an individual intentionally harasses or causes alarm or
-   distress to the victim;
-
--  (b) Where an individual uses threatening, abusive or insulting words
-   or behaviour to cause harassment, alarm and distress to a victim;
-
--  (c) Where an individual uses threatening, abusive or insulting words
-   or behaviour to cause fear to the victim, or provoke actual violence
-   by the victim;
-
--  (d) Where an individual uses threatening, insulting, abusive or
-   indecent words or behaviour at a public servant or public service
-   worker; and
-
--  (e) Where an individual commits unlawful stalking, by demonstrating
-   behaviour associated with stalking which causes harassment, alarm or
-   distress to the victim.
+-   \(a) Where an individual intentionally harasses or causes alarm or
+    distress to the victim;
+-   \(b) Where an individual uses threatening, abusive or insulting words or
+    behaviour to cause harassment, alarm and distress to a victim;
+-   \(c) Where an individual uses threatening, abusive or insulting words or
+    behaviour to cause fear to the victim, or provoke actual violence by the
+    victim;
+-   \(d) Where an individual uses threatening, insulting, abusive or indecent
+    words or behaviour at a public servant or public service worker; and
+-   \(e) Where an individual commits unlawful stalking, by demonstrating
+    behaviour associated with stalking which causes harassment, alarm or
+    distress to the victim.
 
 The Act also criminalizes actions carried out in Singapore towards a
 victim who is overseas, as well as actions caried out from overseas
@@ -2732,47 +2633,43 @@ cross-border offences such as cyber-stalking.
 
 **What are the punishments for committing any of the above crimes?**
 
--  For offence (a) above, the punishment is a fine up to $5,000 and/or
-   imprisonment up to six months; this fine can be increased to $10,000
-   and/or imprisonment of up to twelve months for repeat offences
-
--  For offence (b) above, the punishment is a fine up to $5,000; this
-   fine can be increased to $10,000 and/or imprisonment of up to six
-   months for repeat offences
-
--  For offence (c) above, the punishment is a fine up to $5,000 and/or
-   imprisonment up to twelve months; this fine can be increased to
-   $10,000 and/or imprisonment of up to two years for repeat offences
-
--  For offence (d) above, the punishment is a fine up to $5,000 and/or
-   imprisonment up to twelve months, and; this fine can be increased up
-   to $10,000 and/or imprisonment of up to two years for repeat offences
-
--  For offence (e) above, the punishment is a fine up to $5,000 and/or
-   imprisonment up to twelve months; this fine can be increased to
-   $10,000 and/or imprisonment of up to two years for repeat offences
+-   For offence (a) above, the punishment is a fine up to \$5,000 and/or
+    imprisonment up to six months; this fine can be increased to
+    \$10,000 and/or imprisonment of up to twelve months for repeat
+    offences
+-   For offence (b) above, the punishment is a fine up to \$5,000; this
+    fine can be increased to \$10,000 and/or imprisonment of up to six
+    months for repeat offences
+-   For offence (c) above, the punishment is a fine up to \$5,000 and/or
+    imprisonment up to twelve months; this fine can be increased to
+    \$10,000 and/or imprisonment of up to two years for repeat offences
+-   For offence (d) above, the punishment is a fine up to \$5,000 and/or
+    imprisonment up to twelve months, and; this fine can be increased up
+    to \$10,000 and/or imprisonment of up to two years for repeat
+    offences
+-   For offence (e) above, the punishment is a fine up to \$5,000 and/or
+    imprisonment up to twelve months; this fine can be increased to
+    \$10,000 and/or imprisonment of up to two years for repeat offences
 
 **What remedies can a victim obtain?**
 
 The Act will allow a victim to seek the following remedies from a court,
 namely:
 
--  A protection order to be granted by the District Court which will
-   order the alleged perpetrator to stop doing the thing which he/she is
-   accused of, stop publishing any harassing material or refer both the
-   accused and victim to attend a mediation centre for counselling;
-
--  An expedited protection order, which is similar to the above remedy
-   except that this order can be granted without the alleged perpetrator
-   being notified beforehand;
-
--  An award of monetary damages for breach of statutory tort. The
-   claimant will have to prove on the balance of probabilities that the
-   defendant breached one of the offences in the Act;
-
--  An order from the District Court that a false statement of fact shall
-   not be published by an individual, unless notification is given of
-   the falsehood of the statement accompanied by the true facts.
+-   A protection order to be granted by the District Court which will
+    order the alleged perpetrator to stop doing the thing which he/she
+    is accused of, stop publishing any harassing material or refer both
+    the accused and victim to attend a mediation centre for counselling;
+-   An expedited protection order, which is similar to the above remedy
+    except that this order can be granted without the alleged
+    perpetrator being notified beforehand;
+-   An award of monetary damages for breach of statutory tort. The
+    claimant will have to prove on the balance of probabilities that the
+    defendant breached one of the offences in the Act;
+-   An order from the District Court that a false statement of fact
+    shall not be published by an individual, unless notification is
+    given of the falsehood of the statement accompanied by the true
+    facts.
 
 Wheel clamping
 --------------
@@ -2802,7 +2699,7 @@ car was trespassing, is an act of trespass to that other person's
 property unless it could be shown that the owner of the car had
 consented to, or willingly assumed the risk of, his car being clamped
 i.e. car owner was aware of the consequences of parking his car so that
-it trespassed on the land of another [13]_.
+it trespassed on the land of another[^2].
 
 **When will the car owner be found to have consented to orwillingly
 assumed risk of the car being clamped?**
@@ -2819,14 +2716,10 @@ concerning the basis on which he is to come onto another's land, but
 does not read it and thus does not fully understand the precise terms,
 he will not be able to say, in the absence of unusual circumstances,
 that he did not consent to and willingly assume the risk of being
-clamped [14]_.
+clamped[^3].
 
+[^1]: Mosley v News Group Newspapers \[2008\] EWHC 1777 (QB)
 
-.. [12]
-   Mosley v News Group Newspapers [2008] EWHC 1777 (QB)
+[^2]: Vine v Waltham Forest London Borough Council \[2000\] 4 All ER 169
 
-.. [13]
-   Vine v Waltham Forest London Borough Council [2000] 4 All ER 169
-
-.. [14]
-   Vine v Waltham Forest London Borough Council [2000] 4 All ER 169
+[^3]: Vine v Waltham Forest London Borough Council \[2000\] 4 All ER 169

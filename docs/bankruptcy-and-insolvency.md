@@ -1,4 +1,3 @@
-
 BANKRUPTCY AND INSOLVENCY
 =========================
 
@@ -10,11 +9,9 @@ claims and paying out dividends to his creditors.
 
 This chapter is divided into three sections:
 
-1. Bankruptcy Procedure
-
-2. Effects of Bankruptcy
-
-3. Commonly Asked Questions Related to Bankruptcy
+1.  Bankruptcy Procedure
+2.  Effects of Bankruptcy
+3.  Commonly Asked Questions Related to Bankruptcy
 
 This chapter deals with the bankruptcy of individual persons, as
 different legal provisions apply to the insolvency of corporations (the
@@ -32,7 +29,7 @@ Procedure
 **How is a Person Declared Bankrupt?**
 
 A person is declared bankrupt on the order of the **High Court** if he
-is unable to pay his **debts of at least S$10,000**. This is usually
+is unable to pay his **debts of at least S\$10,000**. This is usually
 done upon the application or petition of a creditor, although the debtor
 may file a bankruptcy application on his or her own behalf. The creditor
 taking out the application for bankruptcy would have served the debtor a
@@ -43,7 +40,7 @@ Court and the hearing date given. If payment is not made by the hearing
 date, the Court may proceed to make a **Bankruptcy Order**.
 
 For bankruptcy applications filed after 18 May 2009 and in which the
-debt owed does not exceed S$100,000, the debtor will be referred to the
+debt owed does not exceed S\$100,000, the debtor will be referred to the
 Official Assignee for an assessment of eligibility and suitability to
 enter into a **Debt Repayment Scheme (‘DRS’)**. In such cases, the
 bankruptcy application shall be adjourned for a period of 6 months or as
@@ -61,9 +58,9 @@ appoint a private trustee in lieu of the OA if the creditors so request.
 
 The OA's role is two-fold:
 
--  To realise as anym assets as possible for distribution to creditors; and
-
--  To assist the insolvent in obtaining a discharge from bankruptcy.
+-   To realise as anym assets as possible for distribution to creditors;
+    and
+-   To assist the insolvent in obtaining a discharge from bankruptcy.
 
 As an administrator of the bankruptcy estate, the OA also has the duty
 to **investigate an insolvent's conduct** while he remains a bankrupt.
@@ -76,12 +73,11 @@ mediator** to assist in reaching a mutually acceptable proposal.
 
 **When a Statement of Affairs is Required and How to File It**
 
-A written Statement of Affairs (the ‘\ **Statement’**) is required when:
+A written Statement of Affairs (the ‘**Statement’**) is required when:
 
 (a) A bankruptcy application is adjourned and referred to an OA for
     determining eligibility and suitability for a DRS. In such a case,
     the OA shall give notice in writing requiring the Statement; or
-
 (b) A bankruptcy order is issued.
 
 **Contents of a Statement:** Under Section 81 of the Bankruptcy Act (Cap
@@ -104,7 +100,7 @@ his first interview, and will save him considerable time at the OA's
 office.
 
 Please note that it is an offence punishable with imprisonment for a
-term not exceeding 2 years or to a fine not exceeding S$10,000 or both
+term not exceeding 2 years or to a fine not exceeding S\$10,000 or both
 if the insolvent, without reasonable excuse, fails to submit a Statement
 of Affairs to the OA or submits a Statement which is false, misleading
 or contains any material omission.
@@ -120,49 +116,86 @@ discharge from bankruptcy expeditiously.
 
 The following are some of the factors that the OA will consider:
 
-+-------------------------------------------------------------------+---------------------------------------------------------------------------+
-| **Green Zone**                                                    | **Red Zone**                                                              |
-+===================================================================+===========================================================================+
-| Statement of Affairs filed on time                                | Statement of Affairs **not** filed on time                                |
-+-------------------------------------------------------------------+---------------------------------------------------------------------------+
-| Gainfully employed                                                | Unemployed (with no good reasons for unemployment)                        |
-+-------------------------------------------------------------------+---------------------------------------------------------------------------+
-| Regular in making instalment payments                             | Irregular in making instalment payments or no payments made at all        |
-+-------------------------------------------------------------------+---------------------------------------------------------------------------+
-| Instalment amount is commensurate to income and needs of family   | Instalment amount is **not** commensurate to income and needs of family   |
-+-------------------------------------------------------------------+---------------------------------------------------------------------------+
-| Timely submission of Income and Expenditure statements            | Irregular submission of Income and Expenditure statements                 |
-+-------------------------------------------------------------------+---------------------------------------------------------------------------+
-| Is co-operative with the OA                                       | Is uncooperative with the OA                                              |
-+-------------------------------------------------------------------+---------------------------------------------------------------------------+
-| No pending warrant of arrest                                      | Outstanding warrant of arrest                                             |
-+-------------------------------------------------------------------+---------------------------------------------------------------------------+
-| No pending prosecution action                                     | Pending prosecution action                                                |
-+-------------------------------------------------------------------+---------------------------------------------------------------------------+
-| No complaint under investigation                                  | Complaint under investigation                                             |
-+-------------------------------------------------------------------+---------------------------------------------------------------------------+
-| No offences committed under the Bankruptcy Act (Chapter 20)       | Has committed offences under the Bankruptcy Act (Chapter 20)              |
-+-------------------------------------------------------------------+---------------------------------------------------------------------------+
-| Full disclosure of assets (both local and overseas)               | Non-disclosure of assets (local and overseas)                             |
-+-------------------------------------------------------------------+---------------------------------------------------------------------------+
+  -------------------------------------------------------------------------
+  **Green Zone**                     **Red Zone**
+  ---------------------------------- --------------------------------------
+  Statement of Affairs filed on time Statement of Affairs **not** filed on
+                                     time
 
-+-------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Benefits Of Being In The Green Zone**                                                                                                   | **Disincentives To Those In The Red Zone**                                                                                                                                                                                                                |
-+===========================================================================================================================================+===========================================================================================================================================================================================================================================================+
-| Expeditious processing of online applications for permission to travel. May be given permit up to 1 year to travel to any country         | Will generally **not** be granted permission to travel                                                                                                                                                                                                    |
-+-------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Green Zone classification can help an insolvent obtain a discharge after 3 years in bankruptcy if liabilities are *less than* S$500,000   | A Red Zone insolvent will generally **not** be recommended for discharge by the Certificate of the OA or by Court. He or she can only obtain a discharge through full settlement of debts or through a voluntary arrangement accepted by his creditors.   |
-+-------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Recommended for discharge by **Court** after 3 years in bankruptcy if liabilities is *more than* S$500,000                                |                                                                                                                                                                                                                                                           |
-+-------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Expeditious processing of insolvent’s application to buy and sell a HDB flat within 7 working days                                        | Applications to purchase or sell a HDB flat will be processed within 14 days or longer                                                                                                                                                                    |
-+-------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Buying a HDB flat: The OA’s consent is required only for the purchase of a HDB flat larger than a 5-room flat.                            |                                                                                                                                                                                                                                                           |
-+-------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Expeditious processing of insolvent’s application to run/manage a business or act as a director within 14 working days                    | Insolvent will **not** be given permission to manage a business or act as a director                                                                                                                                                                      |
-+-------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Submission of Income and Expenditure statement on a yearly basis                                                                          | Submission of Income and Expenditure statement on a six-monthly basis or more frequent basis                                                                                                                                                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+  Gainfully employed                 Unemployed (with no good reasons for
+                                     unemployment)
+
+  Regular in making instalment       Irregular in making instalment
+  payments                           payments or no payments made at all
+
+  Instalment amount is commensurate  Instalment amount is **not**
+  to income and needs of family      commensurate to income and needs of
+                                     family
+
+  Timely submission of Income and    Irregular submission of Income and
+  Expenditure statements             Expenditure statements
+
+  Is co-operative with the OA        Is uncooperative with the OA
+
+  No pending warrant of arrest       Outstanding warrant of arrest
+
+  No pending prosecution action      Pending prosecution action
+
+  No complaint under investigation   Complaint under investigation
+
+  No offences committed under the    Has committed offences under the
+  Bankruptcy Act (Chapter 20)        Bankruptcy Act (Chapter 20)
+
+  Full disclosure of assets (both    Non-disclosure of assets (local and
+  local and overseas)                overseas)
+  -------------------------------------------------------------------------
+
+  ------------------------------------------------------------------------
+  **Benefits Of Being In    **Disincentives To Those In The Red Zone**
+  The Green Zone**          
+  ------------------------- ----------------------------------------------
+  Expeditious processing of Will generally **not** be granted permission
+  online applications for   to travel
+  permission to travel. May 
+  be given permit up to 1   
+  year to travel to any     
+  country                   
+
+  Green Zone classification A Red Zone insolvent will generally **not** be
+  can help an insolvent     recommended for discharge by the Certificate
+  obtain a discharge after  of the OA or by Court. He or she can only
+  3 years in bankruptcy if  obtain a discharge through full settlement of
+  liabilities are *less     debts or through a voluntary arrangement
+  than* S\$500,000          accepted by his creditors.
+
+  Recommended for discharge 
+  by **Court** after 3      
+  years in bankruptcy if    
+  liabilities is *more      
+  than* S\$500,000          
+
+  Expeditious processing of Applications to purchase or sell a HDB flat
+  insolvent’s application   will be processed within 14 days or longer
+  to buy and sell a HDB     
+  flat within 7 working     
+  days                      
+
+  Buying a HDB flat: The    
+  OA’s consent is required  
+  only for the purchase of  
+  a HDB flat larger than a  
+  5-room flat.              
+
+  Expeditious processing of Insolvent will **not** be given permission to
+  insolvent’s application   manage a business or act as a director
+  to run/manage a business  
+  or act as a director      
+  within 14 working days    
+
+  Submission of Income and  Submission of Income and Expenditure statement
+  Expenditure statement on  on a six-monthly basis or more frequent basis
+  a yearly basis            
+  ------------------------------------------------------------------------
 
 **Re-categorisation:** An insolvent who has been categorised in the Red
 Zone can, if he or she makes an effort to demonstrate good conduct
@@ -175,14 +208,14 @@ Administration Costs & Fees
 
 **Deposit:** Under the Bankruptcy (Fees) Rules, any creditor or debtor
 who wishes to file a bankruptcy petition in the High Court must pay a
-deposit of **S$1,600** to the OA. The petitioning creditor may recover
+deposit of **S\$1,600** to the OA. The petitioning creditor may recover
 his deposit from the insolvent if there are sufficient funds in the
 insolvent's estate.
 
 **In case of withdrawal:** In the event that a bankruptcy petition is
-withdrawn or dismissed by the High Court, the OA will retain S$250 as
+withdrawn or dismissed by the High Court, the OA will retain S\$250 as
 preliminary administration costs under the Bankruptcy (Fees) Rules and
-refund S$1,350 to the petitioning creditor.
+refund S\$1,350 to the petitioning creditor.
 
 **2. Cost incurred by the insolvent**
 
@@ -193,8 +226,8 @@ incurred in obtaining the Bankruptcy Order.
 The OA also deducts a realisation fee from proceeds of assets realised,
 or deposits placed into the insolvent's estate. Distribution fees are
 also levied on dividends distributed to creditors. Please check with the
-Insolvency & Public Trustee’s Office (IPTO) (https://www.ipto.gov.sg/) for an
-indication of the current fees. [82]_
+Insolvency & Public Trustee’s Office (IPTO) (<https://www.ipto.gov.sg/>)
+for an indication of the current fees.[^1]
 
 Concerns of Creditors
 ---------------------
@@ -275,7 +308,6 @@ The unit provides mediation services to:
 
 (a) Resolve the amount of debt owed by the insolvents to their
     creditors; and
-
 (b) Negotiate on debt settlement proposals between the insolvents and
     their creditors.
 
@@ -291,18 +323,13 @@ bankruptcy is not an instant remedy for the recovery of debts.
 *Reasons to advise creditors why they should not rush to commence
 bankruptcy proceedings:*
 
--  High cost of bankruptcy proceedings
-
--  Full recovery of debts is unlikely
-
--  Loss of interest, as interest on unsecured debts ceases to run upon
-   the making of the Bankruptcy Order
-
--  Effect on insolvent’s earning capacity
-
--  No priority for unsecured creditors
-
--  Discharge may be ordered by the Court or the OA
+-   High cost of bankruptcy proceedings
+-   Full recovery of debts is unlikely
+-   Loss of interest, as interest on unsecured debts ceases to run upon
+    the making of the Bankruptcy Order
+-   Effect on insolvent’s earning capacity
+-   No priority for unsecured creditors
+-   Discharge may be ordered by the Court or the OA
 
 **1. Private arrangements**
 
@@ -328,48 +355,39 @@ If a debtor applies to court to make a proposal for a voluntary
 arrangement under Part V of the Bankruptcy Act (Cap 20), the creditor
 should participate in the creditors' meeting to consider the proposal.
 
-    **Disclosure requirements:** The debtor is required to disclose his
-    or her assets and liabilities, and propose ways of settling his or
-    her debts. If the voluntary arrangement is accepted by creditors and
-    implemented successfully, it will benefit both creditors and debtor.
-    If not, the debtor runs the risk of bankruptcy. Under Section 56 of
-    the Bankruptcy Act (Cap 20), if the debtor fails to comply with any
-    of the obligations undertaken in the voluntary arrangement, any of
-    the creditor’s party to the same may make a bankruptcy application
-    against the debtor.
+> **Disclosure requirements:** The debtor is required to disclose his or
+> her assets and liabilities, and propose ways of settling his or her
+> debts. If the voluntary arrangement is accepted by creditors and
+> implemented successfully, it will benefit both creditors and debtor.
+> If not, the debtor runs the risk of bankruptcy. Under Section 56 of
+> the Bankruptcy Act (Cap 20), if the debtor fails to comply with any of
+> the obligations undertaken in the voluntary arrangement, any of the
+> creditor’s party to the same may make a bankruptcy application against
+> the debtor.
 
 **B. Alternative Arrangements for Debtors**
 
 *Compelling reasons why bankruptcy should be avoided by debtors as far
 as possible*
 
--  Social stigma
-
--  Your assets will become vested in the OA and divisible among
-   creditors
-
--  You must file Statements of Affairs and income and expenditure
-   statements, and your financial affairs will be subject to thorough
-   investigations by the OA
-
--  You must make monthly payments to the bankruptcy estate
-
--  You must disclose your bankruptcy when obtaining credit of >$500
-
--  Your correspondence may be redirected to the OA (Bankruptcy Act (Cap
-   20), Section 115(1))
-
--  Restrictions on overseas travel; possible impounding of your travel
-   document (Section 116(2))
-
--  You may not manage a business or act as a director of companies
-   without approval of the court or the OA
-
--  Certain behaviour such as gambling, seeking credit or engaging in
-   business may constitute a criminal offense under the Act (Part X)
-
--  Even after discharge from bankruptcy, potential creditors may be
-   dissuaded from granting you credit
+-   Social stigma
+-   Your assets will become vested in the OA and divisible among
+    creditors
+-   You must file Statements of Affairs and income and expenditure
+    statements, and your financial affairs will be subject to thorough
+    investigations by the OA
+-   You must make monthly payments to the bankruptcy estate
+-   You must disclose your bankruptcy when obtaining credit of &gt;\$500
+-   Your correspondence may be redirected to the OA (Bankruptcy Act (Cap
+    20), Section 115(1))
+-   Restrictions on overseas travel; possible impounding of your travel
+    document (Section 116(2))
+-   You may not manage a business or act as a director of companies
+    without approval of the court or the OA
+-   Certain behaviour such as gambling, seeking credit or engaging in
+    business may constitute a criminal offense under the Act (Part X)
+-   Even after discharge from bankruptcy, potential creditors may be
+    dissuaded from granting you credit
 
 **1. Private arrangements**
 
@@ -396,7 +414,7 @@ obtaining the creditors’ approval of the proposed voluntary arrangement.
 **3. Debt Repayment Scheme**
 
 Debtors who have aggregate debts in an amount **no greater than
-S$100,000** may be eligible for a Debt Repayment Scheme (DRS) under the
+S\$100,000** may be eligible for a Debt Repayment Scheme (DRS) under the
 provisions of Part VA of the Bankruptcy Act (Cap 20), subject to the
 approval of the OA. Bankruptcy applications filed before 18 May 2009 are
 not eligible for a DRS.
@@ -424,9 +442,7 @@ insolvent can be discharged from bankruptcy:
 
 (a) Annulment of the bankruptcy order by Certificate of Annulment of the
     OA
-
 (b) Discharge by the Court
-
 (c) Discharge by Certificate of the OA
 
 **NOTE:** There is no automatic discharge in Singapore.
@@ -436,7 +452,7 @@ insolvent can be discharged from bankruptcy:
 **a. Advertisement of intention to declare a dividend:** In order to
 ascertain the full extent of your liabilities, the OA is required to
 advertise your intention to pay dividends to your creditors. The
-estimated cost of the advertisement is $350 and it will be published in
+estimated cost of the advertisement is \$350 and it will be published in
 the Straits Times. Creditors have 14 days to file their claims (or
 proofs of debt).
 
@@ -452,11 +468,17 @@ Arrangement.
 funds to make a full payment, your creditors will be informed of the
 amount you have admitted as owing them.
 
--  A 100% dividend will be declared to the creditors. The OA will issue
-       a Certificate of Annulment to annul the Bankruptcy Order.
+-   
 
--  Any surplus monies in the bankruptcy estate account will be refunded
-       after all fees and bills have been paid.
+    A 100% dividend will be declared to the creditors. The OA will issue
+
+    :   a Certificate of Annulment to annul the Bankruptcy Order.
+
+-   
+
+    Any surplus monies in the bankruptcy estate account will be refunded
+
+    :   after all fees and bills have been paid.
 
 **1. Annulment of the bankruptcy order by Certificate of Annulment of
 the OA**
@@ -465,13 +487,13 @@ The OA will issue a Certificate of Annulment if the insolvent’s **offer
 of composition**, or **scheme of arrangement**, has been accepted by his
 creditors, or if his debts have been paid in full.
 
--  An **Offer of Composition** is an offer to settle debts by payment of
-   a fixed percentage of the debts to the creditors.
-
--  A **Scheme of Arrangement** means to settle debts by paying different
-   percentages of the debts owed to different creditors. For example,
-   one may have to settle the full sum owing to the Comptroller of
-   Income Tax and may make a partial offer to the other creditors.
+-   An **Offer of Composition** is an offer to settle debts by payment
+    of a fixed percentage of the debts to the creditors.
+-   A **Scheme of Arrangement** means to settle debts by paying
+    different percentages of the debts owed to different creditors. For
+    example, one may have to settle the full sum owing to the
+    Comptroller of Income Tax and may make a partial offer to the other
+    creditors.
 
 Acceptance of the composition or scheme must be made by a **special
 resolution** approved in writing or passed at a general meeting of
@@ -520,7 +542,7 @@ bankruptcy estate.
 Under Section 125 of the Bankruptcy Act (Chapter 20), the OA may, at his
 or her own discretion, discharge an insolvent provided that a period of
 3 years has passed since bankruptcy began and the proven debts are no
-more than S$500,000. In deciding whether to grant the Certificate of
+more than S\$500,000. In deciding whether to grant the Certificate of
 Discharge to an insolvent, the OA will take into consideration, among
 others, the following factors: the cause and period of bankruptcy, the
 insolvent's assets and payments made to the bankruptcy estate, and the
@@ -534,8 +556,7 @@ from bankruptcy.
 Effects of Bankruptcy
 ---------------------
 
-Rights and Responsibilities of an Insolvent
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Rights and Responsibilities of an Insolvent
 
 **1. Filing of Statement of Affairs**
 
@@ -558,7 +579,7 @@ estate and it is in the insolvent’s best interest to do so.
 the Statement of Affairs, or the submission of a Statement of Affairs
 that does not comply with legal requirements or that contains false or
 misleading information is an offence punishable on conviction with
-imprisonment up to 2 years or a fine up to $10,000 or to both.
+imprisonment up to 2 years or a fine up to \$10,000 or to both.
 
 **2. Income and contributions**
 
@@ -587,11 +608,10 @@ contribution will be deducted periodically through GIRO.
 failure to pay to the OA the amounts that have not been expressly
 expended for maintenance of the insolvent and his family, is an offence
 punishable on conviction with imprisonment up to 2 years or a fine up to
-$10,000 or to both, and in the case of a continuing offense to a further
-fine of up to $200 per day.
+\$10,000 or to both, and in the case of a continuing offense to a
+further fine of up to \$200 per day.
 
-Creditors
-~~~~~~~~~
+### Creditors
 
 Creditors can take no further legal proceedings against the insolvent to
 recover any debts incurred before insolvency.
@@ -625,8 +645,7 @@ the date of the bankruptcy order or such extended time as the OA may
 allow, otherwise they will not be entitled to claim any interest in
 respect of their debts subsequent to the date of the bankruptcy order.
 
-Insolvent’s Assets
-~~~~~~~~~~~~~~~~~~
+### Insolvent’s Assets
 
 **Vesting of the insolvent’s property in the OA**
 
@@ -651,15 +670,13 @@ furniture, clothing and provisions necessary for satisfying the domestic
 needs of the bankrupt and his family remain with the bankrupt. Other
 protected properties include:
 
--  Properties held in trust by the bankrupt, HDB flats (provided at
-   least one of the owners is a Singapore citizen) orCentral Provident
-   Fund (CPF) contributions
-
--  Life insurance policies which are expressed to be for the benefit of
-   the insolvent’s spouse or children
-
--  Compensation awarded for legal actions due to personal injuries or
-   wrongful acts against the bankrupt
+-   Properties held in trust by the bankrupt, HDB flats (provided at
+    least one of the owners is a Singapore citizen) orCentral Provident
+    Fund (CPF) contributions
+-   Life insurance policies which are expressed to be for the benefit of
+    the insolvent’s spouse or children
+-   Compensation awarded for legal actions due to personal injuries or
+    wrongful acts against the bankrupt
 
 **HDB Flats**
 
@@ -667,41 +684,38 @@ Special considerations may apply with regard to HDB flats. For more
 information please see the section titled Obtaining OA's Approval To
 Sell Or Buy A HDB Flat below.
 
-Restrictions on an Undischarged Insolvent
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Restrictions on an Undischarged Insolvent
 
 As an undischarged insolvent there are some things the bankrupt cannot
 do. These include the following:
 
 (a) Travelling overseas without the OA’s permission.
 
-    (b) Bringing any Court action, other than an action for damages or
-    compensation in respect of personal injuries or wrongful acts
-    against him, without the OA’s permission.
+    \(b) Bringing any Court action, other than an action for damages or
+    compensation in respect of personal injuries or wrongful acts against
+    him, without the OA’s permission.
 
-(c) Obtaining credit.
+(b) Obtaining credit.
 
-(d) Acting as trustee or personal representative without the Court’s
+\(d) Acting as trustee or personal representative without the Court’s
 permission.
 
-(e) Managing a business or corporation without the Court’s or OA’s
+\(e) Managing a business or corporation without the Court’s or OA’s
 permission.
 
 In addition to the above, other offences which relate to fraudulent acts
 by insolvents and are punishable with imprisonment of up to 3 years or a
-fine up to S$10,000 or both are prescribed in the Bankruptcy Act (Cap
+fine up to S\$10,000 or both are prescribed in the Bankruptcy Act (Cap
 20), mainly in Part X of the same. These include, among others:
 
--  Non-disclosure of information relating to his affairs and making
-   misrepresentations to the OA, e.g. making material omissions in any
-   statement to the OA, concealment of assets or concealment of books
-   and papers, destruction of books affecting your property or affairs.
+-   Non-disclosure of information relating to his affairs and making
+    misrepresentations to the OA, e.g. making material omissions in any
+    statement to the OA, concealment of assets or concealment of books
+    and papers, destruction of books affecting your property or affairs.
+-   Leaving or attempting to leave Singapore with his property in order
+    to defraud his creditors (absconding with property).
 
--  Leaving or attempting to leave Singapore with his property in order
-   to defraud his creditors (absconding with property).
-
-Opening An OA-Assisted Bank Account
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Opening An OA-Assisted Bank Account
 
 Upon his bankruptcy, all the insolvent’s bank accounts will be
 terminated. The OA will assist him in opening a new savings account.
@@ -709,58 +723,53 @@ This account will allow cash withdrawals, ATM facilities and GIRO
 deductions. The following conditions will be imposed when opening the
 new savings account:
 
--  The insolvent is required to pay his monthly instalments towards his
-   bankruptcy estate via GIRO; and
-
--  He must furnish all information required by the OA in respect of the
-   savings account.
+-   The insolvent is required to pay his monthly instalments towards his
+    bankruptcy estate via GIRO; and
+-   He must furnish all information required by the OA in respect of the
+    savings account.
 
 If the above conditions are not complied with, the OA will close the
 savings account.
 
 **Procedure for opening a bank account and activating GIRO deductions:**
 
--  The insolvent will receive a letter from the OA addressed to the bank
-   and a Direct Debit Authorisation ("DDA") form – the DDA form is to
-   activate the GIRO deductions from the bank account to his bankruptcy
-   estate for the benefit of his creditors
+-   The insolvent will receive a letter from the OA addressed to the
+    bank and a Direct Debit Authorisation ("DDA") form – the DDA form is
+    to activate the GIRO deductions from the bank account to his
+    bankruptcy estate for the benefit of his creditors
+-   Within 14 days, the insolvent will have to present the OA's letter
+    to the bank to open the savings account. He must:
 
--  Within 14 days, the insolvent will have to present the OA's letter to
-   the bank to open the savings account. He must:
+    > a\. Make a photocopy of the first page of the bank passbook (the page
+    > that contains your account information) and attach it to the DDA form.
+    >
+    > b\. Complete the DDA form by filing in item nos. (1) - (5), and ensure
+    > that the signature at item (5) matches the signature in the bank
+    > passbook.
+    >
+    > c\. Return the DDA form and the photocopy of the first page of the bank
+    > passbook to the OA
 
-    a. Make a photocopy of the first page of the bank passbook (the page
-    that contains your account information) and attach it to the DDA
-    form.
-
-    b. Complete the DDA form by filing in item nos. (1) - (5), and
-    ensure that the signature at item (5) matches the signature in the
-    bank passbook.
-
-    c. Return the DDA form and the photocopy of the first page of the
-    bank passbook to the OA
-
--  The OA will notify the insolvent once the GIRO facilities is
-   activated. Generally, it will take 8 weeks for the activation to take
-   place.
-
--  **Note:** Until reception of notification, the insolvent will have to
-   make his instalment payments via cash or Nets or cash card at the
-   OA’s office.
+-   The OA will notify the insolvent once the GIRO facilities is
+    activated. Generally, it will take 8 weeks for the activation to
+    take place.
+-   **Note:** Until reception of notification, the insolvent will have
+    to make his instalment payments via cash or Nets or cash card at the
+    OA’s office.
 
 **Making Monthly Instalment Payments Via GIRO**
 
-    On receipt of the OA's notification, the insolvent must ensure that
-    he maintains sufficient funds in the bank account before the 3rd or
-    before the 16th day of each month.
+> On receipt of the OA's notification, the insolvent must ensure that he
+> maintains sufficient funds in the bank account before the 3rd or
+> before the 16th day of each month.
+>
+> The GIRO deductions from the bank account into the bankruptcy estate
+> account will take place between the **3rd - 7th day (1st attempt)** or
+> the **16th - 20th day (2^nd^ attempt)** of each month. The second
+> attempt will be made only when the first attempt to deduct the funds
+> has failed.
 
-    The GIRO deductions from the bank account into the bankruptcy estate
-    account will take place between the **3rd - 7th day (1st attempt)**
-    or the **16th - 20th day (2:sup:`nd` attempt)** of each month. The
-    second attempt will be made only when the first attempt to deduct
-    the funds has failed.
-
-Obtaining OA’s Approval To Sell Or Buy A HDB Flat
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Obtaining OA’s Approval To Sell Or Buy A HDB Flat
 
 Property of an HDB flat will not vest with the OA in the event that the
 bankrupt flat owner is a Singapore citizen, or when a co-owner of the
@@ -794,22 +803,17 @@ specified when submitting an application to the OA.
 In order to process the application, the insolvent must submit the
 following:
 
--  All information relating to the proposed sale.
+-   All information relating to the proposed sale.
+-   Option to Purchase document.
+-   Valuation Report (not older than 3 months).
+-   Copy of the title searches at the Singapore Land Authority.
+-   Latest CPF statements of the property owners.
+-   Latest statement of accounts from mortgagee bank (if any) and the
+    mortgagee bank’s written statement of consent to the sale.
 
--  Option to Purchase document.
-
--  Valuation Report (not older than 3 months).
-
--  Copy of the title searches at the Singapore Land Authority.
-
--  Latest CPF statements of the property owners.
-
--  Latest statement of accounts from mortgagee bank (if any) and the
-   mortgagee bank’s written statement of consent to the sale.
-
-    Additional documents (such as the Transmission Application on
-    Bankruptcy of Proprietor and the Transfer document) must be
-    submitted within 10 working days of completion of the sale.
+    > Additional documents (such as the Transmission Application on
+    > Bankruptcy of Proprietor and the Transfer document) must be
+    > submitted within 10 working days of completion of the sale.
 
 **Buying an HDB flat**
 
@@ -826,14 +830,13 @@ considered when assessing such applications.
 In order to process an application to purchase an HDB flat, the
 insolvent is required to submit the following documents to the OA:
 
-a. Application To The OA To Buy A HDB Executive/Maisonette Flat
+a\. Application To The OA To Buy A HDB Executive/Maisonette Flat
 (application forms for the purchase of an executive flat or maisonette
-are available online) [83]_, **and**
+are available online)[^2], **and**
 
-b. Latest CPF statement of the applicant and co-applicant.
+b.  Latest CPF statement of the applicant and co-applicant.
 
-Applications By Insolvents To Manage A Business Or Act As Director
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Applications By Insolvents To Manage A Business Or Act As Director
 
 **Principle:** It is important that an insolvent remains economically
 productive even during insolvency as this will allow him to settle his
@@ -848,7 +851,7 @@ An undischarged insolvent may apply to the High Court or to the OA for
 permission to take part in or to be concerned in the management of any
 business or company or to act as a Director of a company. Please note
 that it is an offence punishable with imprisonment of up to 2 years, a
-fine not exceeding S$10,000, or both, for an undischarged bankrupt to
+fine not exceeding S\$10,000, or both, for an undischarged bankrupt to
 directly or indirectly take part in or to be concerned in the management
 of any business or company or to act as Director of a company without
 the leave of the High Court or the written permission of the OA, under
@@ -859,11 +862,11 @@ Section 26(1) of the Business Registration Act (Cap 32) and Section
 
 The OA’s permission must be sought in order to:
 
-1. Directly or indirectly take part in or be concerned with the
+1\. Directly or indirectly take part in or be concerned with the
 management of any business carried on by a person required to be
 registered under the Business Registration Act (Cap 32); **or**
 
-2. To act as director or directly or indirectly take part in or be
+2\. To act as director or directly or indirectly take part in or be
 concerned with the management of any corporation (Singapore or foreign
 company) under the Companies Act (Cap 50).
 
@@ -873,23 +876,20 @@ An application for the OA's written permission should be made using
 either **Form B-ARC-B** (for managing a business under the Business
 Registration Act (Cap 32)) or **Form B-ARC-C** (for acting as director
 or managing a company pursuant to the Companies Act (Cap 50)). Both
-forms may be accessed via the IPTO website [84]_.
+forms may be accessed via the IPTO website[^3].
 
 The relevant form must be submitted with the documents indicated,
 including, amongst others:
 
--  People’s Profile Printout of the insolvent from the Accounting &
-   Corporate Regulatory Authority (“ACRA”).
-
--  Company or business Profile Printout from ACRA.
-
--  Latest audited accounts or financial statements of the company or
-   business; **and**
-
--  Letter from the other director(s) or partner(s) and the sponsor
-   indicating they are aware of the bankruptcy order and have **no
-   objections** to the bankrupt being a director and/or managing the
-   company or business.
+-   People’s Profile Printout of the insolvent from the Accounting &
+    Corporate Regulatory Authority (“ACRA”).
+-   Company or business Profile Printout from ACRA.
+-   Latest audited accounts or financial statements of the company or
+    business; **and**
+-   Letter from the other director(s) or partner(s) and the sponsor
+    indicating they are aware of the bankruptcy order and have **no
+    objections** to the bankrupt being a director and/or managing the
+    company or business.
 
 **3. Processing of the application**
 
@@ -904,21 +904,15 @@ Each application will be considered on its own merits. In deciding
 whether or not to grant the application, the OA will take into
 consideration a number of factors including:
 
--  Cause of the individual’s insolvency.
-
--  The insolvent’s conduct before and during insolvency.
-
--  The insolvent’s previous involvement in business or company.
-
--  The nature and the viability of the proposed business or company.
-
--  The nature of insolvent’s involvement in the business or company.
-
--  Benefits to creditors from the insolvent’s involvement in the
-   business or company.
-
--  The risk of the insolvent incurring more debts as a result of
-   management activities.
+-   Cause of the individual’s insolvency.
+-   The insolvent’s conduct before and during insolvency.
+-   The insolvent’s previous involvement in business or company.
+-   The nature and the viability of the proposed business or company.
+-   The nature of insolvent’s involvement in the business or company.
+-   Benefits to creditors from the insolvent’s involvement in the
+    business or company.
+-   The risk of the insolvent incurring more debts as a result of
+    management activities.
 
 As provided by law, the OA may refuse or approve the application subject
 to conditions such as he may impose. Such conditions may include
@@ -932,8 +926,7 @@ information.
 Commonly Asked Questions on Bankruptcy
 --------------------------------------
 
-GENERAL ENQUIRIES
-~~~~~~~~~~~~~~~~~
+### GENERAL ENQUIRIES
 
 **What is ‘declaring’ Bankruptcy?**
 
@@ -962,16 +955,14 @@ discontinue the bankruptcy proceedings.
 
 Alternatively, the debtor may seek to set aside the demand if he or she:
 
--  Has a valid counterclaim equivalent to or exceeding the amount of the
-   debt stated demand.
-
--  Disputes the debt.
-
--  Has assets which the creditor holds or has a security over in respect
-   of the debt, which has not been taken into account in the demand.
-
--  Has received a statutory demand which is defective in its form and
-   contents.
+-   Has a valid counterclaim equivalent to or exceeding the amount of
+    the debt stated demand.
+-   Disputes the debt.
+-   Has assets which the creditor holds or has a security over in
+    respect of the debt, which has not been taken into account in the
+    demand.
+-   Has received a statutory demand which is defective in its form and
+    contents.
 
 **How can I avoid Bankruptcy?**
 
@@ -985,20 +976,20 @@ following:
 
 *Credit Counselling Singapore*
 
-210 Middle Road, #05-04 Singapore Pools Building, Singapore 188994
+210 Middle Road, \#05-04 Singapore Pools Building, Singapore 188994
 
-General line: 6225 5227 \| Fax: 6338 6586
+General line: 6225 5227 | Fax: 6338 6586
 
-Email: enquiry@ccs.org.sg
+Email: <enquiry@ccs.org.sg>
 
-Website: http://www.ccs.org.sg
+Website: <http://www.ccs.org.sg>
 
 Debtors on a Debt Repayment Scheme may also take advantage of a
 subsidized Financial Education Workshop held by the IPTO aimed at
 providing bankrupts or debtors on a Debt Repayment Scheme with necessary
 money management tools.
 
-Those interested should contact IPTO via e-mail [85]_.
+Those interested should contact IPTO via e-mail[^4].
 
 **What will I lose if I am declared Bankrupt?**
 
@@ -1030,8 +1021,7 @@ Since they have been made a bankrupt, all their affairs would be
 administered by the OA What you can do is file a proof of debt against
 them.
 
-PROCEDURAL ENQUIRIES
-~~~~~~~~~~~~~~~~~~~~
+### PROCEDURAL ENQUIRIES
 
 **I have been served with a Statutory Demand, what should I do next?**
 
@@ -1043,15 +1033,12 @@ with bankruptcy proceedings.
 Alternatively, you may wish to take out an application to court to set
 aside the statutory demand if:
 
-a. You have a valid counterclaim equivalent to or exceeding the amount
-   of the debt stated in the statutory demand.
-
-b. You dispute the debt.
-
-c. The creditor holds your assets or security in respect of the debt,
-   which has not been taken into account in the statutory demand.
-
-d. The statutory demand is defective in its form and contents.
+a.  You have a valid counterclaim equivalent to or exceeding the amount
+    of the debt stated in the statutory demand.
+b.  You dispute the debt.
+c.  The creditor holds your assets or security in respect of the debt,
+    which has not been taken into account in the statutory demand.
+d.  The statutory demand is defective in its form and contents.
 
 **How do I set aside a Statutory Demand served on me?**
 
@@ -1082,7 +1069,7 @@ creditor's bankruptcy application?**
 
 A debtor's application is filed when the debtor applies to make
 himself/herself a bankrupt. Alternatively, a creditor who is owed
-**S$10,000** or more by a debtor can apply to court to bankrupt the
+**S\$10,000** or more by a debtor can apply to court to bankrupt the
 debtor. In both situations, a bankruptcy order will be made by the court
 against the debtor if the application succeeds.
 
@@ -1092,23 +1079,19 @@ The OA does not provide advice on the procedures for filing a
 self-petition. The procedure for a debtor’s bankruptcy application is
 covered in Sections 134 – 146 of the Bankruptcy Rules.
 
-A step-by-step explanation can also be viewed online [86]_.
+A step-by-step explanation can also be viewed online[^5].
 
 In order to file a bankruptcy application, debtor must complete the
 following documents:
 
-a. Originating Summons (Debtor’s Bankruptcy Application)
-
-b. Supporting Affidavit (Bankruptcy)
-
-c. Affidavit Verifying the Statement of Affairs
-
-d. Statement of Affairs
-
-e. Supporting Affidavit [Bankruptcy – Debt Repayment Scheme (DRS)
-   applies or DRS does not apply (see Section E of the Supreme Court
-   Guide on Bankruptcy Proceedings in the High Court, see link above),
-   whichever Affidavit is applicable]
+a.  Originating Summons (Debtor’s Bankruptcy Application)
+b.  Supporting Affidavit (Bankruptcy)
+c.  Affidavit Verifying the Statement of Affairs
+d.  Statement of Affairs
+e.  Supporting Affidavit \[Bankruptcy – Debt Repayment Scheme (DRS)
+    applies or DRS does not apply (see Section E of the Supreme Court
+    Guide on Bankruptcy Proceedings in the High Court, see link above),
+    whichever Affidavit is applicable\]
 
 If you require assistance in completing the Statement of Affairs, you
 may bring your bank statements and other relevant documents to the IPTO
@@ -1148,11 +1131,11 @@ Pre-Bankruptcy Advisory & Mediation Services, please contact:
 | Ms Lai Yuen Ling
 | Individual Insolvency Division
 | Insolvency & Public Trustee’s Office
-|
+| 
 
-Email: lai\_yuen\_ling@ipto.gov.sg
+Email: lai\_yuen\_<ling@ipto.gov.sg>
 
-Tel: `6325-1465 <tel:+6563251465>`__
+Tel: [6325-1465](tel:+6563251465)
 
 **Can I submit a hand written application?**
 
@@ -1163,7 +1146,7 @@ except for the Statement of Affairs, which may be hand written.
 Statement?**
 
 It is an offence punishable with imprisonment for a term not exceeding
-two years or to fine not exceeding S$10,000 or both if you fail to
+two years or to fine not exceeding S\$10,000 or both if you fail to
 submit the I&E Statement.
 
 **What actions can a bank take against me?**
@@ -1209,9 +1192,8 @@ aside?**
 To set aside the Bankruptcy Order, two documents are required for filing
 in court:
 
-a. Summons (Bankruptcy); and
-
-b. Affidavit (Bankruptcy)
+a.  Summons (Bankruptcy); and
+b.  Affidavit (Bankruptcy)
 
 The Affidavit (Bankruptcy) is required to be sworn or affirmed before a
 Commissioner for Oaths before it can be filed. You can obtain sample
@@ -1229,14 +1211,20 @@ bankruptcy order.
 
 Three documents are required for filing:
 
-a. Registrar's Appeal - to be filed within 14 days from the date of the
-       bankruptcy order at the Trials Counter of the Supreme Court's
-       Legal Registry;
+a.  
 
-b. Summons (Bankruptcy) for Stay of Proceeding - to be filed at the
-       Insolvency Counter; **and**
+    Registrar's Appeal - to be filed within 14 days from the date of the
 
-c. Affidavit (Bankruptcy)
+    :   bankruptcy order at the Trials Counter of the Supreme Court's
+        Legal Registry;
+
+b.  
+
+    Summons (Bankruptcy) for Stay of Proceeding - to be filed at the
+
+    :   Insolvency Counter; **and**
+
+c.  Affidavit (Bankruptcy)
 
 A sample document of the Registrar's Appeal form can be obtained at the
 Trials Counter and a copy of the Summons (Bankruptcy) and the Affidavit
@@ -1250,8 +1238,7 @@ documents are filed, you have to serve the documents on your creditor
 and the Official Assignee. At the hearing, the court will determine the
 merits of your application.
 
-**ALTERNATIVE ARRANGEMENTS TO BANKRUPTCY**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **ALTERNATIVE ARRANGEMENTS TO BANKRUPTCY**
 
 **I have been served with a creditor's bankruptcy application, how can I
 resist my creditor's attempt to make me a bankrupt?**
@@ -1291,8 +1278,7 @@ agreeable to your creditor. The court may adjourn the hearing to give
 you more time to make a better proposal, or the court may make the
 bankruptcy order against you.
 
-**SPOUSAL AND FAMILY CONCERNS**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **SPOUSAL AND FAMILY CONCERNS**
 
 **If my spouse is the guarantor of my debt, should he/she apply for
 bankruptcy as well?**
@@ -1387,17 +1373,14 @@ bankrupt’s debts.
 
 Yes. Some examples include:
 
--  Co-applicants for future loans may be adversely affected by your
-   bankruptcy.
+-   Co-applicants for future loans may be adversely affected by your
+    bankruptcy.
+-   Co-owners of property with the bankrupt as the property could be
+    sold off.
+-   Parties who have entered into a contract jointly with the person
+    declared bankrupt.
 
--  Co-owners of property with the bankrupt as the property could be sold
-   off.
-
--  Parties who have entered into a contract jointly with the person
-   declared bankrupt.
-
-STATUS / HANDLING OF ASSETS UPON BANKRUPTCY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### STATUS / HANDLING OF ASSETS UPON BANKRUPTCY
 
 **Can a co-owned flat and/or furniture be seized?**
 
@@ -1478,19 +1461,19 @@ investigation.
 Insolvency & Public Trustee's Office
 
 | The URA Centre, East Wing
-| 45 Maxwell Road, #07-11, Singapore 069118
-|
+| 45 Maxwell Road, \#07-11, Singapore 069118
+| 
 
-Tel: `1800 2255 529 <tel:18002255529>`__ / Fax: 65-63251417
+Tel: [1800 2255 529](tel:18002255529) / Fax: 65-63251417
 
-E-mail to OneMinLaw@mlaw.gov.sg for any enquiries.
+E-mail to <OneMinLaw@mlaw.gov.sg> for any enquiries.
 
 *(Contact details above verified as of 29 April 2015)*
 
-**ENQUIRIES RELATING TO TRAVEL**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **ENQUIRIES RELATING TO TRAVEL**
 
-**Is an undischarged bankrupt allowed to leave Singapore to start afresh overseas?**
+**Is an undischarged bankrupt allowed to leave Singapore to start afresh
+overseas?**
 
 No.
 
@@ -1498,7 +1481,7 @@ Under Section 131(1)(b) of the Bankruptcy Act (Chapter 20) an
 undischarged bankrupt cannot leave the country or remain or reside
 outside the country without first obtaining the permission of the OA.
 Contravention of this Section attracts either a maximum fine of
-S$10,000.00, or a maximum imprisonment of 2 years, or both.
+S\$10,000.00, or a maximum imprisonment of 2 years, or both.
 
 Powers are also given to the OA under Section 116(4) to impound the
 bankrupt's passport if he thinks fit and to direct the Controller of
@@ -1515,15 +1498,14 @@ times as you wish. For all travel applications, you have to submit via
 the Insolvency and Public Trustee’s Office website (www.ipto.gov.sg) for
 their consideration.
 
-**DEBT REPAYMENT SCHEME**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **DEBT REPAYMENT SCHEME**
 
 **What is Debt Repayment Scheme (DRS)?**
 
 The Bankruptcy Act was amended to provide for the Debt Repayment Scheme.
 The new provisions are applicable to all bankruptcy applications filed
 on or after 18 May 2009. The objective of the DRS is to assist debtors
-who have debts less than $100,000 to pay their debts by way of a debt
+who have debts less than \$100,000 to pay their debts by way of a debt
 repayment plan over a fixed period of time. This seeks to give creditors
 their rights and debtors an opportunity for a fresh start in their
 financial matters.
@@ -1533,19 +1515,15 @@ considers that on the face of the application, the following criteria
 has been satisfied, the Court will adjourn the application for the
 Official Assignee to assess if the debtor is suitable for the DRS:
 
-a. The debts do not exceed $100,000.
-
-b. The debtor is not an undischarged bankrupt and has not been a
-   bankrupt within the past 5 years.
-
-c. A voluntary arrangement in respect of the debtor is not in effect,
-   and was not in effect within the past 5 years.
-
-d. The debtor is not subject to any debt repayment scheme, and has not
-   been subject to any such scheme within the past 5 years.
-
-e. The debtor is not a sole proprietor, a partner of a firm or a partner
-   in a limited liability partnership.
+a.  The debts do not exceed \$100,000.
+b.  The debtor is not an undischarged bankrupt and has not been a
+    bankrupt within the past 5 years.
+c.  A voluntary arrangement in respect of the debtor is not in effect,
+    and was not in effect within the past 5 years.
+d.  The debtor is not subject to any debt repayment scheme, and has not
+    been subject to any such scheme within the past 5 years.
+e.  The debtor is not a sole proprietor, a partner of a firm or a
+    partner in a limited liability partnership.
 
 If the debtor is assessed to be suitable for the DRS, a debt repayment
 plan may commence. Upon commencement of this plan, the adjourned
@@ -1567,17 +1545,15 @@ Debtor’s** **Bankruptcy Application?**
 You have to state which of the relevant limbs below is applicable to
 you:
 
-a. That you are domiciled in Singapore;
+a.  That you are domiciled in Singapore;
+b.  That you have property in Singapore; **or**
+c.  That you have, at any time any time within the period of one year
+    immediately before the date of your application
 
-b. That you have property in Singapore; **or**
-
-c. That you have, at any time any time within the period of one year
-   immediately before the date of your application
-
-    (i) been ordinarily resident or have had a place of residence in
-    Singapore; **or**
-
-    (ii) carried on business in Singapore.
+    > \(i) been ordinarily resident or have had a place of residence in
+    > Singapore; **or**
+    >
+    > (ii) carried on business in Singapore.
 
 **I wish to apply for the DRS. How do I complete paragraph 4 of the
 Affidavit in Support of Debtor’s Bankruptcy Application?**
@@ -1611,20 +1587,16 @@ against myself and to apply for the DRS?**
 
 The following forms can be downloaded from the Supreme Court website:
 
-1. `Debtor's Bankruptcy
-   Application.doc  <http://www.ifaq.gov.sg/supremecourt/apps/fcd_faqmain.aspx?qst=2fN7e274RAp%2bbUzLdEL%2fmCxs7iwcgv8gv2atNDOvsLAEt2OJnXgKNSdu24nRFL%2fqyaGPdwJELJKVBNQBAZwcSDkbChvwlMOLnzSV9JwnqYfp6eeC8%2bBEM3e6tgAkxqpxeygWVmsj9jJT%2f0JJ8TRS4hgmKnSG%2fjKFJmfQOKXbDOohigIcKRlVT%2b8bu7Pl%2bkdxM56iedDRQcLNi%2f%2bwwBYG4jce499vAvHsEmjTIcOi8buejlVm9WYHiw%3d%3d##>`__
-
-2. `Affidavit verifying
-   Statement.doc  <http://www.ifaq.gov.sg/supremecourt/apps/fcd_faqmain.aspx?qst=2fN7e274RAp%2bbUzLdEL%2fmCxs7iwcgv8gv2atNDOvsLAEt2OJnXgKNSdu24nRFL%2fqyaGPdwJELJKVBNQBAZwcSDkbChvwlMOLnzSV9JwnqYfp6eeC8%2bBEM3e6tgAkxqpxeygWVmsj9jJT%2f0JJ8TRS4hgmKnSG%2fjKFJmfQOKXbDOohigIcKRlVT%2b8bu7Pl%2bkdxM56iedDRQcLNi%2f%2bwwBYG4jce499vAvHsEmjTIcOi8buejlVm9WYHiw%3d%3d##>`__
-
-3. `Statement of
-   Affairs.pdf  <http://www.ifaq.gov.sg/supremecourt/apps/fcd_faqmain.aspx?qst=2fN7e274RAp%2bbUzLdEL%2fmCxs7iwcgv8gv2atNDOvsLAEt2OJnXgKNSdu24nRFL%2fqyaGPdwJELJKVBNQBAZwcSDkbChvwlMOLnzSV9JwnqYfp6eeC8%2bBEM3e6tgAkxqpxeygWVmsj9jJT%2f0JJ8TRS4hgmKnSG%2fjKFJmfQOKXbDOohigIcKRlVT%2b8bu7Pl%2bkdxM56iedDRQcLNi%2f%2bwwBYG4jce499vAvHsEmjTIcOi8buejlVm9WYHiw%3d%3d##>`__
-
-4. `Supporting Affidavit (DRS
-   applies).doc  <http://www.ifaq.gov.sg/supremecourt/apps/fcd_faqmain.aspx?qst=2fN7e274RAp%2bbUzLdEL%2fmCxs7iwcgv8gv2atNDOvsLAEt2OJnXgKNSdu24nRFL%2fqyaGPdwJELJKVBNQBAZwcSDkbChvwlMOLnzSV9JwnqYfp6eeC8%2bBEM3e6tgAkxqpxeygWVmsj9jJT%2f0JJ8TRS4hgmKnSG%2fjKFJmfQOKXbDOohigIcKRlVT%2b8bu7Pl%2bkdxM56iedDRQcLNi%2f%2bwwBYG4jce499vAvHsEmjTIcOi8buejlVm9WYHiw%3d%3d##>`__
-
-5. `Supporting Affidavit (DRS does not
-   apply).doc  <http://www.ifaq.gov.sg/supremecourt/apps/fcd_faqmain.aspx?qst=2fN7e274RAp%2bbUzLdEL%2fmCxs7iwcgv8gv2atNDOvsLAEt2OJnXgKNSdu24nRFL%2fqyaGPdwJELJKVBNQBAZwcSDkbChvwlMOLnzSV9JwnqYfp6eeC8%2bBEM3e6tgAkxqpxeygWVmsj9jJT%2f0JJ8TRS4hgmKnSG%2fjKFJmfQOKXbDOohigIcKRlVT%2b8bu7Pl%2bkdxM56iedDRQcLNi%2f%2bwwBYG4jce499vAvHsEmjTIcOi8buejlVm9WYHiw%3d%3d##>`__
+1.  [Debtor's Bankruptcy
+    Application.doc ](http://www.ifaq.gov.sg/supremecourt/apps/fcd_faqmain.aspx?qst=2fN7e274RAp%2bbUzLdEL%2fmCxs7iwcgv8gv2atNDOvsLAEt2OJnXgKNSdu24nRFL%2fqyaGPdwJELJKVBNQBAZwcSDkbChvwlMOLnzSV9JwnqYfp6eeC8%2bBEM3e6tgAkxqpxeygWVmsj9jJT%2f0JJ8TRS4hgmKnSG%2fjKFJmfQOKXbDOohigIcKRlVT%2b8bu7Pl%2bkdxM56iedDRQcLNi%2f%2bwwBYG4jce499vAvHsEmjTIcOi8buejlVm9WYHiw%3d%3d##)
+2.  [Affidavit verifying
+    Statement.doc ](http://www.ifaq.gov.sg/supremecourt/apps/fcd_faqmain.aspx?qst=2fN7e274RAp%2bbUzLdEL%2fmCxs7iwcgv8gv2atNDOvsLAEt2OJnXgKNSdu24nRFL%2fqyaGPdwJELJKVBNQBAZwcSDkbChvwlMOLnzSV9JwnqYfp6eeC8%2bBEM3e6tgAkxqpxeygWVmsj9jJT%2f0JJ8TRS4hgmKnSG%2fjKFJmfQOKXbDOohigIcKRlVT%2b8bu7Pl%2bkdxM56iedDRQcLNi%2f%2bwwBYG4jce499vAvHsEmjTIcOi8buejlVm9WYHiw%3d%3d##)
+3.  [Statement of
+    Affairs.pdf ](http://www.ifaq.gov.sg/supremecourt/apps/fcd_faqmain.aspx?qst=2fN7e274RAp%2bbUzLdEL%2fmCxs7iwcgv8gv2atNDOvsLAEt2OJnXgKNSdu24nRFL%2fqyaGPdwJELJKVBNQBAZwcSDkbChvwlMOLnzSV9JwnqYfp6eeC8%2bBEM3e6tgAkxqpxeygWVmsj9jJT%2f0JJ8TRS4hgmKnSG%2fjKFJmfQOKXbDOohigIcKRlVT%2b8bu7Pl%2bkdxM56iedDRQcLNi%2f%2bwwBYG4jce499vAvHsEmjTIcOi8buejlVm9WYHiw%3d%3d##)
+4.  [Supporting Affidavit (DRS
+    applies).doc ](http://www.ifaq.gov.sg/supremecourt/apps/fcd_faqmain.aspx?qst=2fN7e274RAp%2bbUzLdEL%2fmCxs7iwcgv8gv2atNDOvsLAEt2OJnXgKNSdu24nRFL%2fqyaGPdwJELJKVBNQBAZwcSDkbChvwlMOLnzSV9JwnqYfp6eeC8%2bBEM3e6tgAkxqpxeygWVmsj9jJT%2f0JJ8TRS4hgmKnSG%2fjKFJmfQOKXbDOohigIcKRlVT%2b8bu7Pl%2bkdxM56iedDRQcLNi%2f%2bwwBYG4jce499vAvHsEmjTIcOi8buejlVm9WYHiw%3d%3d##)
+5.  [Supporting Affidavit (DRS does not
+    apply).doc ](http://www.ifaq.gov.sg/supremecourt/apps/fcd_faqmain.aspx?qst=2fN7e274RAp%2bbUzLdEL%2fmCxs7iwcgv8gv2atNDOvsLAEt2OJnXgKNSdu24nRFL%2fqyaGPdwJELJKVBNQBAZwcSDkbChvwlMOLnzSV9JwnqYfp6eeC8%2bBEM3e6tgAkxqpxeygWVmsj9jJT%2f0JJ8TRS4hgmKnSG%2fjKFJmfQOKXbDOohigIcKRlVT%2b8bu7Pl%2bkdxM56iedDRQcLNi%2f%2bwwBYG4jce499vAvHsEmjTIcOi8buejlVm9WYHiw%3d%3d##)
 
 **What if a debtor entered into a hire-purchase agreement before the
 bankruptcy application was made against him or has an existing mortgage
@@ -1673,20 +1645,15 @@ the date stated in the notice to submit the completed documents.
 
 Yes, a debtor can be found to be unsuitable for DRS if:
 
--  He does not cooperate with the OA (e.g. if debtor fails to submit or
-   complete the documents required of him.
-
--  He is unemployed at the time the assessment is being made by the OA.
-
--  He is presently an undischarged bankrupt/ has been in bankruptcy
-   sometime in the past 5 years.
-
--  He is presently or has been under a Voluntary Arrangement for the
-   past 5 years.
-
--  He is a sole-proprietor/ business owner/ partner of a firm .
-
--  His unsecured debts exceed S$100,000.
+-   He does not cooperate with the OA (e.g. if debtor fails to submit or
+    complete the documents required of him.
+-   He is unemployed at the time the assessment is being made by the OA.
+-   He is presently an undischarged bankrupt/ has been in bankruptcy
+    sometime in the past 5 years.
+-   He is presently or has been under a Voluntary Arrangement for the
+    past 5 years.
+-   He is a sole-proprietor/ business owner/ partner of a firm .
+-   His unsecured debts exceed S\$100,000.
 
 The Court, the debtor and the applicant-creditor will be informed of his
 unsuitability and the adjourned bankruptcy proceedings will then resume.
@@ -1705,7 +1672,7 @@ meeting of creditors.
 
 The debtor can make his repayments at any SingPost branch, SAM machine
 or pay directly at the URA Centre’s cashier (located at 45 Maxwell Road
-URA Centre East Wing, #06-11, Singapore 069118).
+URA Centre East Wing, \#06-11, Singapore 069118).
 
 **Who will monitor repayments made by the debtor?**
 
@@ -1725,11 +1692,12 @@ circumstances, particularly where the change may affect his ability to
 comply with the terms of the Plan. The OA may then consider modifying
 the Plan.
 
-**What if the debtor is unhappy with the Plan or any modifications made?**
+**What if the debtor is unhappy with the Plan or any modifications
+made?**
 
 A debtor who is unhappy with the Plan or any modification made to it may
 file an appeal with the Appeal Panel using the appropriate Form found
-online [87]_.
+online[^6].
 
 The notice of appeal must be filed no later than 14 days as of the OA’s
 notice of the approved Scheme.
@@ -1748,16 +1716,17 @@ a bankrupt by the Court.
 
 A creditor who has been disclosed as a creditor by the debtor will
 receive a notice from the OA to file a proof of debt against the debtor.
-A creditor may also conduct a search at a fee of S$6 via www.isis.gov.sg
-on an individual to check if an individual is on the Scheme.
+A creditor may also conduct a search at a fee of S\$6 via
+www.isis.gov.sg on an individual to check if an individual is on the
+Scheme.
 
 **How does a creditor file a claim against a debtor?**
 
-Creditors can file their proof of debt electronically online [88]_ for a
-prescribed fee of S$5. Alternatively, creditors may download the Proof
-of Debt form online [89]_ and submit it manually to The Insolvency and
-Public Trustee’s Office, 45 Maxwell Road, #07-11, The URA Centre (East
-Wing), Singapore 069118 for a prescribed fee of S$8.
+Creditors can file their proof of debt electronically online[^7] for a
+prescribed fee of S\$5. Alternatively, creditors may download the Proof
+of Debt form online[^8] and submit it manually to The Insolvency and
+Public Trustee’s Office, 45 Maxwell Road, \#07-11, The URA Centre (East
+Wing), Singapore 069118 for a prescribed fee of S\$8.
 
 **Does a creditor need to attend the first meeting with the debtor?**
 
@@ -1787,8 +1756,8 @@ that may affect the debtor’s ability to fulfill the terms of the Plan.
 **What happens if a creditor disagrees with the Plan?**
 
 The creditor may file an appeal with the Appeal Panel using the
-appropriate Form found online [90]_. The notice of appeal must be filed
-no later than 14 days as of the OA’s notice of the approved Scheme.
+appropriate Form found online[^9]. The notice of appeal must be filed no
+later than 14 days as of the OA’s notice of the approved Scheme.
 
 **Will the execution of a writ of seizure and sale be stopped if I file
 for bankruptcy** **application?**
@@ -1822,13 +1791,10 @@ commenced against you.
 Yes. You may enter into a private arrangement with your creditor bank
 to:
 
--  Pay debts by instalments
-
--  Reschedule repayments
-
--  Get an extension of time to liquidate assets, **or**
-
--  Seek other financial sources to repay the debts
+-   Pay debts by instalments
+-   Reschedule repayments
+-   Get an extension of time to liquidate assets, **or**
+-   Seek other financial sources to repay the debts
 
 **Disclosure requirements:** You should inform the bank truthfully and
 completely of your latest financial position. You should provide
@@ -1838,16 +1804,14 @@ into alternative repayment arrangements, and you must make serious
 efforts to keep to the new repayment arrangements.
 
 Debtors may also apply to court for an interim order for a voluntary
-arrangement, which is a negotiated `debt <javascript:;>`__ settlement
-under Part V of the `Bankruptcy <javascript:;>`__ Act. The
-`debtor <javascript:;>`__ must disclose his assets and liabilities, and
-make a proposal on how he intends to settle his debts with various
-creditors. If the proposal is accepted by creditors and implemented
-successfully, it would benefit the `debtor <javascript:;>`__ and his
-creditors. [91]_
+arrangement, which is a negotiated [debt](javascript:;) settlement under
+Part V of the [Bankruptcy](javascript:;) Act. The [debtor](javascript:;)
+must disclose his assets and liabilities, and make a proposal on how he
+intends to settle his debts with various creditors. If the proposal is
+accepted by creditors and implemented successfully, it would benefit the
+[debtor](javascript:;) and his creditors.[^10]
 
-**LOAN RECOVERY**
-~~~~~~~~~~~~~~~~~
+### **LOAN RECOVERY**
 
 **How do I recover a personal loan in the event of bankruptcy?**
 
@@ -1872,7 +1836,7 @@ be very difficult for you to recover from the estate. The estate legal
 representative is under no legal obligation to recognise such loans, let
 alone settle it. However, if there is admissible evidence, like a
 bounced cheque issued by the debtor shortly before he dies, you can file
-a caveat onto the estate. [92]_
+a caveat onto the estate.[^11]
 
 **Are there expiry dates for debts?**
 
@@ -1889,16 +1853,14 @@ alternative repayment arrangements. Debtors must make serious efforts to
 keep to the new repayment arrangements.
 
 Debtors may also apply to court for an interim order for a voluntary
-arrangement, which is a negotiated `debt <javascript:;>`__ settlement
-under Part V of the `Bankruptcy <javascript:;>`__ Act. The
-`debtor <javascript:;>`__ must disclose his assets and liabilities, and
-make a proposal on how he intends to settle his debts with various
-creditors. If the proposal is accepted by creditors and implemented
-successfully, it would benefit the `debtor <javascript:;>`__ and his
-creditors. [93]_
+arrangement, which is a negotiated [debt](javascript:;) settlement under
+Part V of the [Bankruptcy](javascript:;) Act. The [debtor](javascript:;)
+must disclose his assets and liabilities, and make a proposal on how he
+intends to settle his debts with various creditors. If the proposal is
+accepted by creditors and implemented successfully, it would benefit the
+[debtor](javascript:;) and his creditors.[^12]
 
-**GUARANTOR RESPONSIBILITIES**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **GUARANTOR RESPONSIBILITIES**
 
 **What are my rights and responsibilities as a guarantor/surety in the
 event of default by the principal debtor?**
@@ -1910,13 +1872,10 @@ by the principal debtor. The liability arises immediately upon the
 default and, **unless the guarantee provides otherwise**, is not
 conditional upon the creditor doing any of the following:
 
--  Notifying the surety of the principal debtor´s default
-
--  Making a demand upon the surety
-
--  Suing the principal debtor **or**
-
--  Realising any security held by the creditor
+-   Notifying the surety of the principal debtor´s default
+-   Making a demand upon the surety
+-   Suing the principal debtor **or**
+-   Realising any security held by the creditor
 
 Thus, a surety who wishes to make his liability so conditional must make
 specific provision in the document of guarantee.
@@ -1931,254 +1890,232 @@ principal debtor to terminate the principal contract.
 There are many scenarios in which the *conduct of the creditor may
 result in the discharge of the surety*:
 
--  **Variation of Principal Contract: “**\ Any variation to the
-   principal contract, other than variations which are beneficial or
-   which cannot be prejudicial to the surety will discharge the surety”.
-   The reason for this strict rule is that since the surety is
-   understandably concerned about transactions involving the principal
-   debtor, the creditor must inform and consult him. The surety is not
-   discharged if the principal contract allowed for variations or if the
-   surety had consented, such as through a clause in the guarantee, to
-   the variation. Note, however, that a clause in the guarantee may not
-   justify a radical change.
+-   **Variation of Principal Contract: “**Any variation to the principal
+    contract, other than variations which are beneficial or which cannot
+    be prejudicial to the surety will discharge the surety”. The reason
+    for this strict rule is that since the surety is understandably
+    concerned about transactions involving the principal debtor, the
+    creditor must inform and consult him. The surety is not discharged
+    if the principal contract allowed for variations or if the surety
+    had consented, such as through a clause in the guarantee, to the
+    variation. Note, however, that a clause in the guarantee may not
+    justify a radical change.
+-   **Alteration of Terms of Guarantee:-** If the creditor deliberately
+    alters the instrument of guarantee in any material particular
+    without the consent of the surety, the instrument will become void
+    and the surety will be discharged.
+-   **Departure from Terms of Guarantee:** If the creditor departs from
+    or breaches a term in the guarantee, whether the surety is
+    discharged depends on the seriousness of the breach. If it is a
+    serious breach, the surety is fully discharged whereas if it is not
+    serious, then the surety is discharged only to the extent that he
+    suffered prejudice.
+-   **Agreement to Give Time to Principal Debtor:** It is a strict
+    principle of suretyship law that an agreement to give time to the
+    principal debtor discharges the surety if it was made without the
+    surety´s consent, whether or not the surety is prejudiced by it. The
+    technical reason is that this agreement interferes with the surety´s
+    right to pay the creditor and sue the principal debtor.
+-   **Agreement with Principal Debtor to Give Time to Surety:** Where
+    the creditor agrees with the principal debtor to give time to the
+    surety, the surety is discharged. The reason is that such an
+    agreement ties the hands of the creditor from receiving payment from
+    the surety and therefore interferes with the surety´s right to pay
+    the debt and sue the principal debtor.
+-   **Release of Principal Debtor:** A release of the principal debtor
+    discharges the surety, for the same technical reason that his right
+    to pay the debt and sue the principal debtor is interfered with. The
+    surety is not discharged if the contract of guarantee provides
+    otherwise.
+-   **Release of Surety:** Obviously, if the creditor chooses to release
+    the surety, the latter is discharged from liability.
+-   **Release of Co-Surety:** A release of a co-surety discharges the
+    surety, the reason being that such release may prejudice his right
+    of contribution from the co-surety.
+-   **Release or Loss of Securities:** Where the existence of the
+    security is a condition of the guarantee, the release or loss of the
+    security by the creditor fully discharges the surety. Where there is
+    no such condition, the release or loss discharges the surety only to
+    the extent that he has been prejudiced. The creditor, however, is
+    probably not under a duty to the surety to realize a security before
+    it became worthless; the creditor is free to decide whether or not
+    to realize security, and if so, when.
+-   **Negligent Realization:** While a creditor is not under a duty to
+    enforce securities held by him, if he does enforce any such
+    securities, he owes a duty to the surety to take reasonable care in
+    enforcing them. He is under a duty to realize the securities at the
+    \`best possible price´ or the \`true market value´, at the time he
+    realizes them.
+-   **General Duty not to Prejudice the Surety:** There is some
+    authority for a general proposition that if the creditor does any
+    act which is injurious to the surety or inconsistent with the
+    surety´s rights, the surety is discharged.
+-   **Clauses Taking Away Surety´s Defences:** Most standard form
+    guarantees contain clauses that seek to preserve the surety´s
+    liability in every scenario where the surety would have been
+    discharged on account of the creditor´s conduct. While such clauses
+    are generally effective, it is possible that in some situations they
+    may amount to unreasonable exclusion clauses under the Unfair
+    Contract Terms Act (Cap 396).
+-   **Avoidance of Guarantee:** Like any contract, a guarantee can be
+    avoided because of vitiating factors such as misrepresentation,
+    undue influence, and illegality.
+-   **Non-Disclosure:** It is well established that unlike contracts of
+    insurance, a contract of guarantee is not a contract uberrimae fidei
+    - there is no obligation on the part of the creditor to disclose to
+    an intending surety all material facts of which the creditor is
+    aware. Instead, the creditor has a duty to disclose unusual facts
+    or, put in another way, anything that might not naturally be
+    expected to take place between the parties. It has recently been
+    said that \`a creditor is obliged to disclose to a guarantor any
+    unusual feature of the contract between the creditor and the debtor
+    which makes it materially different in a potentially disadvantageous
+    respect from what the guarantor might naturally expect´.
 
--  **Alteration of Terms of Guarantee:-** If the creditor deliberately
-   alters the instrument of guarantee in any material particular without
-   the consent of the surety, the instrument will become void and the
-   surety will be discharged.
+-   **Misrepresentation, Undue Influence and Unsconcionability:** A
+    guarantee may be avoided on account of the creditor´s vitiating
+    conduct in inducing the other party to give the guarantee, such as
+    through misrepresentation, undue influence and unconscionability.
+    Misrepresentation involves the false statement of a material fact to
+    induce the other party. Undue influence refers to the improper use
+    of pressure or influence. Unconscionability involves the
+    exploitation of a person´s disadvantage or disability to achieve an
+    oppressive result. If the creditor uses any of these forms of
+    improper conduct to induce the guarantee to be given, the guarantee
+    may be avoided.
+-   **Principal Debtor´s Vitiating Conduct:** In the context of
+    guarantees, the vitiating conduct that is likely to occur is not so
+    much that of the creditor but rather that of the principal debtor
+    towards the surety. The typical scenario is where a debtor-husband
+    through some vitiating conduct induces his wife to stand as surety
+    (or mortgagor) for him. The difficulty here is in deciding which of
+    the two apparently innocent parties is deserving of the law´s
+    protection - the surety or the creditor. The recent two decades have
+    seen significant developments in this area of law. The current
+    position, after two landmark House of Lords decisions, appears to be
+    as that the creditor is affected by the principal debtor´s
+    misconduct towards the surety if: (a) the principal debtor was the
+    creditor´s agent in securing the surety´s consent to giving the
+    guarantee; or
+    \(b) the creditor had actual or constructive notice of the principal
+    debtor´s impropriety.
 
--  **Departure from Terms of Guarantee:** If the creditor departs from
-   or breaches a term in the guarantee, whether the surety is discharged
-   depends on the seriousness of the breach. If it is a serious breach,
-   the surety is fully discharged whereas if it is not serious, then the
-   surety is discharged only to the extent that he suffered prejudice.
+-   **Constructive Notice:** The constructive notice concept used here
+    needs elaboration. A creditor who is \`put on inquiry´ as to the
+    impropriety is required to take reasonable steps to ensure that the
+    surety understands the nature and effect of the transaction;
+    otherwise he is affixed with constructive notice. A creditor is said
+    to be put on inquiry by a combination of two factors - the
+    transaction not being to the financial advantage of the surety, and
+    substantial risk of the debtor committing wrong in procuring the
+    guarantee.
+-   **Reasonable Steps:** The creditor has to take reasonable steps
+    either through a private meeting with the surety or through
+    obtaining confirmation from a solicitor acting for the surety. There
+    are elaborate requirements and qualifications with regard to the
+    steps that should be taken.
+-   **Wider Propositions:** In addition to these principles, there is
+    weighty dicta for two wider propositions of law: that the creditor
+    is put on inquiry whenever a wife soley stands as surety for her
+    husband´s debts, and that a creditor is put on inquiry in respect of
+    all non-commercial sureties.
+-   **Avoidance of Corporate Guarantees:** A corporate guarantee may be
+    avoided on account of it being ultra vires the company i.e., beyond
+    the company's capacity. In addition, the Companies Act (cap 50)
+    prohibits a company from giving a guarantee: for the purpose of the
+    purchase by any person of shares in the company or in its holding
+    company; for the benefit of a director of the company or a related
+    company; or for the benefit of a company that is connected to the
+    directors of the company giving the guarantee. However, the
+    respective contraventions have differing effects on the
+    enforceability of the guarantee.
 
--  **Agreement to Give Time to Principal Debtor:** It is a strict
-   principle of suretyship law that an agreement to give time to the
-   principal debtor discharges the surety if it was made without the
-   surety´s consent, whether or not the surety is prejudiced by it. The
-   technical reason is that this agreement interferes with the surety´s
-   right to pay the creditor and sue the principal debtor.
-
--  **Agreement with Principal Debtor to Give Time to Surety:** Where
-   the creditor agrees with the principal debtor to give time to the
-   surety, the surety is discharged. The reason is that such an
-   agreement ties the hands of the creditor from receiving payment from
-   the surety and therefore interferes with the surety´s right to pay
-   the debt and sue the principal debtor.
-
--  **Release of Principal Debtor:** A release of the principal debtor
-   discharges the surety, for the same technical reason that his right
-   to pay the debt and sue the principal debtor is interfered with. The
-   surety is not discharged if the contract of guarantee provides
-   otherwise.
-
--  **Release of Surety:** Obviously, if the creditor chooses to
-   release the surety, the latter is discharged from liability.
-
--  **Release of Co-Surety:** A release of a co-surety discharges the
-   surety, the reason being that such release may prejudice his right of
-   contribution from the co-surety.
-
--  **Release or Loss of Securities:** Where the existence of the
-   security is a condition of the guarantee, the release or loss of the
-   security by the creditor fully discharges the surety. Where there is
-   no such condition, the release or loss discharges the surety only to
-   the extent that he has been prejudiced. The creditor, however, is
-   probably not under a duty to the surety to realize a security before
-   it became worthless; the creditor is free to decide whether or not to
-   realize security, and if so, when.
-
--  **Negligent Realization:** While a creditor is not under a duty to
-   enforce securities held by him, if he does enforce any such
-   securities, he owes a duty to the surety to take reasonable care in
-   enforcing them. He is under a duty to realize the securities at the
-   \`best possible price´ or the \`true market value´, at the time he
-   realizes them.
-
--  **General Duty not to Prejudice the Surety:** There is some
-   authority for a general proposition that if the creditor does any act
-   which is injurious to the surety or inconsistent with the surety´s
-   rights, the surety is discharged.
-
--  **Clauses Taking Away Surety´s Defences:** Most standard form
-   guarantees contain clauses that seek to preserve the surety´s
-   liability in every scenario where the surety would have been
-   discharged on account of the creditor´s conduct. While such clauses
-   are generally effective, it is possible that in some situations they
-   may amount to unreasonable exclusion clauses under the Unfair
-   Contract Terms Act (Cap 396).
-
--  **Avoidance of Guarantee:** Like any contract, a guarantee can be
-   avoided because of vitiating factors such as misrepresentation, undue
-   influence, and illegality.
-
--  **Non-Disclosure:** It is well established that unlike contracts of
-   insurance, a contract of guarantee is not a contract uberrimae fidei
-   - there is no obligation on the part of the creditor to disclose to
-   an intending surety all material facts of which the creditor is
-   aware. Instead, the creditor has a duty to disclose unusual facts or,
-   put in another way, anything that might not naturally be expected to
-   take place between the parties. It has recently been said that \`a
-   creditor is obliged to disclose to a guarantor any unusual feature of
-   the contract between the creditor and the debtor which makes it
-   materially different in a potentially disadvantageous respect from
-   what the guarantor might naturally expect´.
-
--  **Misrepresentation, Undue Influence and Unsconcionability:** A
-   guarantee may be avoided on account of the creditor´s vitiating
-   conduct in inducing the other party to give the guarantee, such as
-   through misrepresentation, undue influence and unconscionability.
-   Misrepresentation involves the false statement of a material fact to
-   induce the other party. Undue influence refers to the improper use of
-   pressure or influence. Unconscionability involves the exploitation of
-   a person´s disadvantage or disability to achieve an oppressive
-   result. If the creditor uses any of these forms of improper conduct
-   to induce the guarantee to be given, the guarantee may be avoided.
-
--  **Principal Debtor´s Vitiating Conduct:** In the context of
-   guarantees, the vitiating conduct that is likely to occur is not so
-   much that of the creditor but rather that of the principal debtor
-   towards the surety. The typical scenario is where a debtor-husband
-   through some vitiating conduct induces his wife to stand as surety
-   (or mortgagor) for him. The difficulty here is in deciding which of
-   the two apparently innocent parties is deserving of the law´s
-   protection - the surety or the creditor. The recent two decades have
-   seen significant developments in this area of law. The current
-   position, after two landmark House of Lords decisions, appears to be
-   as that the creditor is affected by the principal debtor´s misconduct
-   towards the surety if: (a) the principal debtor was the creditor´s
-   agent in securing the surety´s consent to giving the guarantee; or
-   (b) the creditor had actual or constructive notice of the principal
-   debtor´s impropriety.
-
--  **Constructive Notice:** The constructive notice concept used here
-   needs elaboration. A creditor who is \`put on inquiry´ as to the
-   impropriety is required to take reasonable steps to ensure that the
-   surety understands the nature and effect of the transaction;
-   otherwise he is affixed with constructive notice. A creditor is said
-   to be put on inquiry by a combination of two factors - the
-   transaction not being to the financial advantage of the surety, and
-   substantial risk of the debtor committing wrong in procuring the
-   guarantee.
-
--  **Reasonable Steps:** The creditor has to take reasonable steps
-   either through a private meeting with the surety or through obtaining
-   confirmation from a solicitor acting for the surety. There are
-   elaborate requirements and qualifications with regard to the steps
-   that should be taken.
-
--  **Wider Propositions:** In addition to these principles, there is
-   weighty dicta for two wider propositions of law: that the creditor is
-   put on inquiry whenever a wife soley stands as surety for her
-   husband´s debts, and that a creditor is put on inquiry in respect of
-   all non-commercial sureties.
-
--  **Avoidance of Corporate Guarantees:** A corporate guarantee may be
-   avoided on account of it being ultra vires the company i.e., beyond
-   the company's capacity. In addition, the Companies Act (cap 50)
-   prohibits a company from giving a guarantee: for the purpose of the
-   purchase by any person of shares in the company or in its holding
-   company; for the benefit of a director of the company or a related
-   company; or for the benefit of a company that is connected to the
-   directors of the company giving the guarantee. However, the
-   respective contraventions have differing effects on the
-   enforceability of the guarantee.
-
-Rights of Surety [94]_
-~~~~~~~~~~~~~~~~~~~~~~~~~
+### Rights of Surety[^13]
 
 The main rights of a surety are: the right of indemnity as against the
 principal debtor, the right of subrogation as against the creditor and
 the right of contribution as against co-sureties.
 
--  **Right against Principal Debtor:** There are two main bases upon
-   which a surety may claim against the principal debtor - indemnity and
-   restitution. The indemnity basis applies whenever there is as between
-   the principal debtor and the surety an express or implied agreement
-   that the former will indemnify the latter from all losses incurred as
-   a result of giving the guarantee. Upon paying the principal debt, the
-   surety is entitled at law to exercise his right of indemnity. When
-   the creditor makes a demand on the surety, it would be prudent for
-   the surety to inform or consult the principal debtor as:
+-   **Right against Principal Debtor:** There are two main bases upon
+    which a surety may claim against the principal debtor - indemnity
+    and restitution. The indemnity basis applies whenever there is as
+    between the principal debtor and the surety an express or implied
+    agreement that the former will indemnify the latter from all losses
+    incurred as a result of giving the guarantee. Upon paying the
+    principal debt, the surety is entitled at law to exercise his right
+    of indemnity. When the creditor makes a demand on the surety, it
+    would be prudent for the surety to inform or consult the principal
+    debtor as:
 
-a. It helps the surety to confirm that there has been default;
+a.  It helps the surety to confirm that there has been default;
+b.  It helps the surety to ascertain whether the principal debtor has
+    any defences, **and**
 
-b. It helps the surety to ascertain whether the principal debtor has any
-   defences, **and**
+    > c\. The principal debtor may in response give specific instructions to
+    > the surety or even assume responsibility of defending the action.
 
-    c. The principal debtor may in response give specific instructions
-    to the surety or even assume responsibility of defending the action.
-
--  **Indemnity Rights:** In equity, even before payment, the surety
-   has indemnity rights. As soon as the surety´s liability to pay under
-   the guarantee has become absolute in that the creditor has acquired a
-   right to immediate payment by the surety, the surety is entitled to
-   call upon the principal debtor to pay the debt in order to relieve
-   the surety of such liability. The surety proceeds by way of a \`quia
-   timet´ action (literally, \`because he fears´).
-
--  **Restitutionary Rights:** The second basis is restitution. The
-   restitutionary claim does not depend on any express or implied
-   indemnity on the part of the principal debtor. Rather, the principle
-   is that where the plaintiff has paid money which the defendant is
-   liable to pay, so that the defendant has obtained a benefit by the
-   discharge of his liability, the defendant is indebted to the
-   plaintiff in that amount. Note, however, that the surety should not
-   have \`officiously´ assumed responsibility. A surety is officious if
-   it was not reasonably necessary in his interests to assume
-   responsibility.
-
--  **Rights against Creditor:** A surety who has paid the creditor has
-   the right of subrogation, meaning that he is entitled to all the
-   rights of the creditor in respect of the debt. This means, most
-   importantly, that he is entitled to all the securities which the
-   creditor received from the principal debtor or from a co-surety,
-   whether the securities were given before or after the suretyship was
-   entered into and whether or not the surety was at the time aware of
-   their existence. An unrequested surety probably has subrogation
-   rights. Apart from subrogation rights, a surety also has certain
-   rights which may be exercised even before payment of the debt.
-
--  **Rights against Co-sureties:** A surety who has paid more than his
-   share of the debt has a right of contribution against the
-   co-sureties. Possibly, before payment, he has quia timet rights
-   against his co-sureties. Co-sureties share their liability in
-   accordance with what was set out in the guarantee. Failing such
-   stipulation, the principle is that if each is a surety for an equal
-   amount, they contribute equally whereas if they are liable for
-   different amounts, they contribute proportionately. It would be
-   prudent for a surety to consult his co-sureties before making any
-   payment to the creditor.
-
--  **Rights of Set-off:** In addition to the abovementioned rights,
-   there are also rights of set-off. Three forms of set-offs are of
-   interest here: legal set-off, equitable set-off and insolvency
-   set-off. Legal set-off is available whereas between the plaintiff and
-   the defendant there are mutual claims (that is, between the same
-   parties and in the same capacities) which are liquidated and due and
-   payable. Equitable set-off is available where the defendant´s
-   cross-claim is closely connected with the plaintiff´s claim and
-   applies whether or not the two claims are liquidated. Insolvency
-   set-off is an automatic set-off of mutual debts as between a bankrupt
-   and his creditors. The result of a set-off is that the original claim
-   is cancelled out or reduced by the cross-claim. Set-off may apply to
-   guarantees, for example where:
-
-   a. The creditor has a claim on the guarantee against a surety who has
-      a cross-claim against him;
-
-   b. The surety has an indemnity claim against the principal debtor who
-      has a cross-claim against him; or
-
-   c. The surety has a contribution claim against a co-surety who has a
-      cross-claim against him.
+-   **Indemnity Rights:** In equity, even before payment, the surety has
+    indemnity rights. As soon as the surety´s liability to pay under the
+    guarantee has become absolute in that the creditor has acquired a
+    right to immediate payment by the surety, the surety is entitled to
+    call upon the principal debtor to pay the debt in order to relieve
+    the surety of such liability. The surety proceeds by way of a \`quia
+    timet´ action (literally, \`because he fears´).
+-   **Restitutionary Rights:** The second basis is restitution. The
+    restitutionary claim does not depend on any express or implied
+    indemnity on the part of the principal debtor. Rather, the principle
+    is that where the plaintiff has paid money which the defendant is
+    liable to pay, so that the defendant has obtained a benefit by the
+    discharge of his liability, the defendant is indebted to the
+    plaintiff in that amount. Note, however, that the surety should not
+    have \`officiously´ assumed responsibility. A surety is officious if
+    it was not reasonably necessary in his interests to assume
+    responsibility.
+-   **Rights against Creditor:** A surety who has paid the creditor has
+    the right of subrogation, meaning that he is entitled to all the
+    rights of the creditor in respect of the debt. This means, most
+    importantly, that he is entitled to all the securities which the
+    creditor received from the principal debtor or from a co-surety,
+    whether the securities were given before or after the suretyship was
+    entered into and whether or not the surety was at the time aware of
+    their existence. An unrequested surety probably has subrogation
+    rights. Apart from subrogation rights, a surety also has certain
+    rights which may be exercised even before payment of the debt.
+-   **Rights against Co-sureties:** A surety who has paid more than his
+    share of the debt has a right of contribution against the
+    co-sureties. Possibly, before payment, he has quia timet rights
+    against his co-sureties. Co-sureties share their liability in
+    accordance with what was set out in the guarantee. Failing such
+    stipulation, the principle is that if each is a surety for an equal
+    amount, they contribute equally whereas if they are liable for
+    different amounts, they contribute proportionately. It would be
+    prudent for a surety to consult his co-sureties before making any
+    payment to the creditor.
+-   **Rights of Set-off:** In addition to the abovementioned rights,
+    there are also rights of set-off. Three forms of set-offs are of
+    interest here: legal set-off, equitable set-off and insolvency
+    set-off. Legal set-off is available whereas between the plaintiff
+    and the defendant there are mutual claims (that is, between the same
+    parties and in the same capacities) which are liquidated and due and
+    payable. Equitable set-off is available where the defendant´s
+    cross-claim is closely connected with the plaintiff´s claim and
+    applies whether or not the two claims are liquidated. Insolvency
+    set-off is an automatic set-off of mutual debts as between a
+    bankrupt and his creditors. The result of a set-off is that the
+    original claim is cancelled out or reduced by the cross-claim.
+    Set-off may apply to guarantees, for example where:
+    a.  The creditor has a claim on the guarantee against a surety who
+        has a cross-claim against him;
+    b.  The surety has an indemnity claim against the principal debtor
+        who has a cross-claim against him; or
+    c.  The surety has a contribution claim against a co-surety who has
+        a cross-claim against him.
 
 A surety may also be able to invoke the right of set-off which the
 principal debtor (or a co-surety) has against the creditor, although
 this is a matter of some debate.
 
-**Can I act as a guarantor if I am declared bankrupt?**\  [95]_
+**Can I act as a guarantor if I am declared bankrupt?**[^14]
 
 Not likely.
 
@@ -2187,8 +2124,9 @@ divisible among your creditors; hence, your assets, already insufficient
 to cover your existing debts, are protected for their benefit and cannot
 further be depleted by your act of incurring additional liability by
 acting as a guarantor. Further, you will be required to disclose your
-bankruptcy status if you are obtaining credit of more than S$500 from others;
-hence, it is highly unlikely that the creditor would consider your guarantee.
+bankruptcy status if you are obtaining credit of more than S\$500 from
+others; hence, it is highly unlikely that the creditor would consider
+your guarantee.
 
 You must take note that in any case, as a bankrupt, you must seek the
 necessary permissions and disclose the relevant information relating to
@@ -2202,8 +2140,7 @@ whether or not to grant credit lies with the credit grantor.** A credit
 grantor would, before granting any credit, consider the creditworthiness
 of the applicant by reviewing their past records.
 
-**ENQUIRIES RELATING TO DISCHARGE OF BANKRUPTCY**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **ENQUIRIES RELATING TO DISCHARGE OF BANKRUPTCY**
 
 **How long will it take to discharge bankruptcy? What is the fastest way
 to discharge from bankruptcy?**
@@ -2211,8 +2148,7 @@ to discharge from bankruptcy?**
 According to the IPTO, the process to obtain a discharge generally takes
 at least six months and varies depending on the complexity of the case.
 
-**ENQUIRIES RELATING TO POST-DISCHARGE OF BANKRUPTCY**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### **ENQUIRIES RELATING TO POST-DISCHARGE OF BANKRUPTCY**
 
 **Can my bankruptcy records be expunged?**
 
@@ -2231,8 +2167,7 @@ or not lies with the credit grantor. A credit grantor would, before
 granting any credit, determine the creditworthiness of credit applicants
 by reviewing their past records.
 
-**OTHER ENQUIRIES**
-~~~~~~~~~~~~~~~~~~~
+### **OTHER ENQUIRIES**
 
 **I'm a professional and have been bankrupted. Am I immediately
 disqualified from practising?**
@@ -2257,8 +2192,8 @@ It may be possible for you to apply for free legal assistance from the
 Legal Aid Bureau. However, if your income exceeds the limit prescribed
 by the Legal Aid Bureau, you may be precluded from applying for legal
 aid. For more information on legal aid, you can visit the Legal Aid
-Bureau's website at http://app.minlaw.gov.sg/lab/ or call them at the
-toll-free hotline: `1800 325 1424 <tel:18003251424>`__.
+Bureau's website at <http://app.minlaw.gov.sg/lab/> or call them at the
+toll-free hotline: [1800 325 1424](tel:18003251424).
 
 **Are there laws which govern high interest rates? How do I appeal if I
 feel I’m being charged overly high interest rates?**
@@ -2289,49 +2224,35 @@ the finance company sells the car and the money they get goes towards
 your debt but you will still have to make repayments until the entire
 debt is paid off.
 
-.. [82]
-   https://www.mlaw.gov.sg/content/ipto/en.html
+[^1]: <https://www.mlaw.gov.sg/content/ipto/en.html>
 
-.. [83]
-   http://www.ipto.gov.sg/bankruptcy-and-debt-repayment-scheme/bankruptcy/forms.html,
-   last verified on 29 August 2014
+[^2]: <http://www.ipto.gov.sg/bankruptcy-and-debt-repayment-scheme/bankruptcy/forms.html>,
+    last verified on 29 August 2014
 
-.. [84]
-   http://www.ipto.gov.sg/content/ipto/en/bankruptcy-and-debt-repayment-scheme/bankruptcy/forms.html,
-   link last verified on 29 August 2014
+[^3]: <http://www.ipto.gov.sg/content/ipto/en/bankruptcy-and-debt-repayment-scheme/bankruptcy/forms.html>,
+    link last verified on 29 August 2014
 
-.. [85]
-   ipto_iid_financial@ipto.gov.sg.
+[^4]: <ipto_iid_financial@ipto.gov.sg>.
 
-.. [86]
-   http://app.supremecourt.gov.sg/data/doc/ManagePage/32/Supreme%20Court%20Bankruptcy%20Brochure.pdf,
-   last verified on 29 August 2014
+[^5]: <http://app.supremecourt.gov.sg/data/doc/ManagePage/32/Supreme%20Court%20Bankruptcy%20Brochure.pdf>,
+    last verified on 29 August 2014
 
-.. [87]
-   http://www.ipto.gov.sg/content/dam/minlaw/ipto/assets/documents/linkclick849e.pdf,
-   last verified on 29 August 2014
+[^6]: <http://www.ipto.gov.sg/content/dam/minlaw/ipto/assets/documents/linkclick849e.pdf>,
+    last verified on 29 August 2014
 
-.. [88]
-   http://www.iptoonline.gov.sg
+[^7]: <http://www.iptoonline.gov.sg>
 
-.. [89]
-   http://www.drs.gov.sg
+[^8]: <http://www.drs.gov.sg>
 
-.. [90]
-   http://www.ipto.gov.sg/content/dam/minlaw/ipto/assets/documents/linkclick849e.pdf,
-   last verified on 29 August 2014
+[^9]: <http://www.ipto.gov.sg/content/dam/minlaw/ipto/assets/documents/linkclick849e.pdf>,
+    last verified on 29 August 2014
 
-.. [91]
-   http://www.ipto.gov.sg/content/ipto/en/bankruptcy-and-debt-repayment-scheme/information-for-bankrupts1.html
+[^10]: <http://www.ipto.gov.sg/content/ipto/en/bankruptcy-and-debt-repayment-scheme/information-for-bankrupts1.html>
 
-.. [92]
-   http://www.estateplanning.com.sg/estate-settlement-of-personal-debts/
+[^11]: <http://www.estateplanning.com.sg/estate-settlement-of-personal-debts/>
 
-.. [93]
-   http://www.ipto.gov.sg/content/ipto/en/bankruptcy-and-debt-repayment-scheme/information-for-bankrupts1.html
+[^12]: <http://www.ipto.gov.sg/content/ipto/en/bankruptcy-and-debt-repayment-scheme/information-for-bankrupts1.html>
 
-.. [94]
-   http://www.singaporelaw.sg/sglaw/laws-of-singapore/commercial-law/chapter-23
+[^13]: <http://www.singaporelaw.sg/sglaw/laws-of-singapore/commercial-law/chapter-23>
 
-.. [95]
-   http://www.ifaq.gov.sg/minlaw/apps/fcd_faqmain.aspx?qst=2fN7e274RAp%2bbUzLdEL%2fmCxs7iwcgv8gv2atNDOvsLCfNwz5vjf7m09QG7Rns6jFoZZygnCtgLHmSra9hx%2fJR8j5bDTiWEQaAefSko2BHqFgmKR19gadnF8IpWjfunjpJcOFb%2bKltvc%2bIBTtoBskopghIz0EmVpYt%2fsSSc3nEvVQYi4UGsp1%2frSpct3pmLP0CuZmBN34HUnhdJ4ZEoU8JBzEy%2bXQUY2P20ICg%2fw4n3O0H836tmxz5A%3d%3d#FAQ_11349
+[^14]: <http://www.ifaq.gov.sg/minlaw/apps/fcd_faqmain.aspx?qst=2fN7e274RAp%2bbUzLdEL%2fmCxs7iwcgv8gv2atNDOvsLCfNwz5vjf7m09QG7Rns6jFoZZygnCtgLHmSra9hx%2fJR8j5bDTiWEQaAefSko2BHqFgmKR19gadnF8IpWjfunjpJcOFb%2bKltvc%2bIBTtoBskopghIz0EmVpYt%2fsSSc3nEvVQYi4UGsp1%2frSpct3pmLP0CuZmBN34HUnhdJ4ZEoU8JBzEy%2bXQUY2P20ICg%2fw4n3O0H836tmxz5A%3d%3d#FAQ_11349>
